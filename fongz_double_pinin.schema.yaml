@@ -1,0 +1,146 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: fongz_double_pinin
+  name: 楓梓雙拼
+  version: "0.1"
+  author:
+    - 楓梓 <uukoo@163.com>
+  description: |
+    基於 楓梓拼音 的一個雙拼方案。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  delimiter: " '"
+  algebra:
+    - erase/^xx$/
+    - derive/^([jqxy])u$/$1v/
+    - derive/^([aoe])([ioun])$/$1$1$2/
+    - derive/^([yw])a$/$1w/
+    - derive/^([yw])ang$/$1d/
+    - derive/^yao$/Yc/
+    - derive/^yan$/Ym/
+    - derive/^ye$/Yx/
+    - derive/^wan$/Wr/
+    - derive/^wai$/Wy/
+    - xform/^([aoe])(ng)?$/$1$1$2/
+    - xform/iou$/Q/
+    - xform/[iu]a$/W/
+    - xform/[uv]wn$/R/
+    - xform/vw$/T/
+    - xform/ing$|uai$/Y/
+    - xform/^sh/U/
+    - xform/^ch/I/
+    - xform/^zh/V/
+    - xform/uo$/O/
+    - xform/uen|vin$/P/
+    - xform/i?ong$/S/
+    - xform/[iu]ang$/D/
+    - xform/(.)en$/$1F/
+    - xform/(.)eng$/$1G/
+    - xform/(.)ang$/$1H/
+    - xform/iwn$/M/
+    - xform/(.)wn$/$1J/
+    - xform/iao$/C/
+    - xform/(.)ao$/$1K/
+    - xform/(.)ai$/$1L/
+    - xform/(.)wi$/$1Z/
+    - xform/iw$/X/
+    - xform/uwi$/V/
+    - xform/(.)ou$/$1B/
+    - xform/in$/N/
+    # - xlit/QWRTYUIOPSDFGHMJCKLZXVBN/qwrtyuiopsdfghmjcklzxvbn/
+    #- abbrev/^(.).+$/$1/
+
+translator:
+  dictionary: fongz_pinin
+  prism: fongz_double_pinin
+  preedit_format:
+    # - xform/([bpmnljqxy])n/$1in/
+    # - xform/(\w)g/$1eng/
+    # - xform/(\w)q/$1iu/
+    # - xform/([gkhvuirzcs])w/$1ua/
+    # - xform/(\w)w/$1ia/
+    # - xform/([dtnlgkhjqxywvuirzcs])r/$1uan/
+    # - xform/(\w)t/$1ve/
+    # - xform/([gkhvuirzcs])y/$1uai/
+    # - xform/(\w)y/$1ing/
+    # - xform/([dtnlgkhwvuirzcs])o/$1uo/
+    # - xform/(\w)p/$1un/
+    # - xform/([jqx])s/$1iong/
+    # - xform/(\w)s/$1ong/
+    # - xform/([jqxnl])d/$1iang/
+    # - xform/(\w)d/$1uang/
+    # - xform/(\w)f/$1en/
+    # - xform/(\w)h/$1ang/
+    # - xform/(\w)j/$1an/
+    # - xform/(\w)k/$1ao/
+    # - xform/(\w)l/$1ai/
+    # - xform/(\w)z/$1ei/
+    # - xform/(\w)x/$1ie/
+    # - xform/(\w)c/$1iao/
+    # - xform/([dtgkhvuirzcs])v/$1ui/
+    # - xform/(\w)b/$1ou/
+    # - xform/(\w)m/$1ian/
+    # - xform/([aoe])\1(\w)/$1$2/
+    # - "xform/(^|[ '])v/$1zh/"
+    # - "xform/(^|[ '])i/$1ch/"
+    # - "xform/(^|[ '])u/$1sh/"
+    # - xform/([jqxy])v/$1u/
+    # - xform/([nl])v/$1ü/
+
+reverse_lookup:
+  dictionary: cangjie5
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔倉頡〕
+  preedit_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"

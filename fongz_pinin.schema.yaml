@@ -1,0 +1,138 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: fongz_pinin
+  name: 楓梓拼音
+  version: "0.1"
+  author:
+    - 楓梓 <uukoo@163.com>
+  description: |
+    基於 Rime 的拼音方案
+    在現代漢語拼音的基礎上，進行更加符合發音的優化
+    聲母共6組，每組4個：
+      b,p,m,f,
+      d,t,n,l,
+      g,k,ŋ,h,
+      j,q,ñ,x,
+      z,c,r,s,
+      ž,č,ř,š,
+    韻母細分爲韻首，韻腹，韻尾三部分
+    韻首3個
+      i,u,ü,
+    韻腹4個
+      a,e,ə,o,
+    韻尾4個
+      i,u,n,ŋ,
+    組合得複韻母36個
+      ia,ua,
+      iə,üə,
+      uo,üo,
+      ai,uai,
+      əi,uəi,
+      au,iau,
+      ou,iou,
+      en,uen,
+      ən,iən,üən,uən,
+      in,üin,
+      aŋ,iaŋ,uaŋ，
+      oŋ,ioŋ,uoŋ,
+      eŋ,
+      iŋ,
+    現代漢語拼音中 'n' 在與i,ü結合時，發音舌型與其它時候不同，而像 j,q,x.所以獨立爲 ñ 歸 j組
+    現代漢語拼音中 'zh','ch','sh','ng'.寫作 ž,č,š,ŋ.以便遵循一個音素一個字母的規範
+    現代漢語拼音中 'r' 寫作 ř 統一翹舌音寫法，r 則用於表示 ř 對應的平舌音
+    ŋ(許多漢語分支中“我”的聲母),r.兩個聲母在普通話裏不出現，而只在其它漢語分支裏出現，予以保留
+    現代漢語拼音中 ie,ei,an.的韻腹實際都是注音符號中的“ㄝ”，所以統一作 iə,əi,ən
+    現代漢語拼音中 ao 的韻尾爲 u，統一作 au
+    由於鍵盤字母只有32個，全拼方案中，ñ,ü,ə.分別用 y,v,w.鍵擊出，而 ŋ,ž,č,ř,š.分别用組合鍵 ng,zh,ch,rh,sh,擊出，在不便使用特殊字符時，也可用鍵盤字母(組合)代替以上特殊字符
+  dependencies:
+    - cangjie5
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - r10n_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - erase/^xx$/
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcrs]h).+$/$1/
+    # - derive/^([nl])ve$/$1ue/
+    # - derive/^([jqxy])u/$1v/
+    # - derive/un$/uen/
+    # - derive/ui$/uei/
+    # - derive/iu$/iou/
+    - derive/([aeio])ng$/$1gn/
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/
+    - derive/ong$/on/
+    - derive/([iu])a(o|ng?)$/a$1$2/
+
+translator:
+  dictionary: fongz_pinin
+  preedit_format:
+    - xform/v/ü/
+    - xform/w/ə/
+    - xform/y/ñ/
+    - xform/ng/ŋ/
+    - xform/gn/ŋ/
+    - xform/zh/ž/
+    - xform/ch/č/
+    - xform/rh/ř/
+    - xform/sh/š/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_sentence: false
+
+  suffix: "'"
+  tips: 〔倉頡〕
+  preedit_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
