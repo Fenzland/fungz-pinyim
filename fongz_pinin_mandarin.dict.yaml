@@ -10965,8 +10965,7 @@ use_preset_vocabulary: true
 淴	hu
 淵	vwn
 淶	lai
-混	guen	0%
-混	huen	100%
+混	huen
 混	kuen	0%
 淸	qing
 淹	iwn
@@ -11049,8 +11048,7 @@ use_preset_vocabulary: true
 渻	xing
 渼	mwi
 渽	zai
-渾	guen	0%
-渾	huen	100%
+渾	huen
 渿	nai
 湀	guwi
 湀	kuwi
@@ -15089,8 +15087,8 @@ use_preset_vocabulary: true
 筸	gwn
 筸	hwn
 筹	chou
-签	qiwn
-简	jiwn
+签	ciwn
+简	giwn
 箁	fu
 箁	pou
 箁	pu
@@ -15306,7 +15304,7 @@ use_preset_vocabulary: true
 簻	ke
 簻	zhua
 簼	gou
-簽	qiwn
+簽	ciwn
 簾	liwn
 簿	buo
 簿	bu
@@ -15345,7 +15343,7 @@ use_preset_vocabulary: true
 籠	long
 籢	liwn
 籣	lwn
-籤	qiwn
+籤	ciwn
 籥	vw
 籦	zhong
 籧	jv
@@ -22364,7 +22362,7 @@ use_preset_vocabulary: true
 錆	qing
 錇	pwi
 錇	pou
-錈	jvwn
+錈	gvwn
 錉	min
 錊	zu
 錊	zuwi
@@ -22406,7 +22404,7 @@ use_preset_vocabulary: true
 錤	ji
 錤	qi
 錥	v
-錦	jin
+錦	gin
 錧	guwn
 錨	mau	100%
 錨	miau	0%
@@ -22967,9 +22965,9 @@ use_preset_vocabulary: true
 锣	luo
 锤	chuwi
 锥	zhuwi
-锦	jin
+锦	gin
 锨	xiwn
-锩	jvwn
+锩	gvwn
 锫	pwi
 锬	twn
 锭	ding
@@ -26734,7 +26732,7 @@ use_preset_vocabulary: true
 中的	zhong di
 中祕書	zhong mi shu
 中秋快樂	zhong qiou kuai le
-中籤率	zhong qiwn lv
+中籤率	zhong ciwn lv
 中美地峽	zhong mwi di xia
 中胚層	zhong pwi ceng
 中藏	zhong zang
@@ -27204,7 +27202,7 @@ use_preset_vocabulary: true
 什葉派	sh iw pai
 什襲	sh xi
 什襲珍藏	sh xi zhen cang
-什錦	sh jin
+什錦	sh gin
 什面	sh miwn
 什麼	she me
 什麼	shen me
@@ -28501,13 +28499,13 @@ use_preset_vocabulary: true
 前晌	qiwn shang
 前朝	qiwn chau
 前番	qiwn fwn
-前程似錦	qiwn cheng s jin
+前程似錦	qiwn cheng s gin
 前行	qiwn xing
 前車之鑑	qiwn che zh jiwn
 前車之鑒	qiwn che zh jiwn
 前車可鑒	qiwn che ke jiwn
 前車覆	qiwn che fu
-前途似錦	qiwn tu s jin
+前途似錦	qiwn tu s gin
 前途未卜	qiwn tu uwi bu
 前長後短	qiwn chang hou duwn
 剎帝利	cha di li
@@ -30407,7 +30405,7 @@ use_preset_vocabulary: true
 地理資訊系統	di li z xvin xi tong
 地理鬼	di li guwi
 地瓜	di gua
-地瓜簽	di gua qiwn
+地瓜簽	di gua ciwn
 地產	di chwn
 地產商	di chwn shang
 地產股	di chwn gu
@@ -31303,7 +31301,7 @@ use_preset_vocabulary: true
 如膠似漆	rhu jiau s qi
 如花似月	rhu hua s vw
 如花似玉	rhu hua s v
-如花似錦	rhu hua s jin
+如花似錦	rhu hua s gin
 如衣繡夜行	rhu i xiou iw xing
 如釋重負	rhu sh zhong fu
 如願以償	rhu vwn i chang
@@ -33994,7 +33992,7 @@ use_preset_vocabulary: true
 拔都魯	ba du lu
 拖地	tuo di
 拖地膽	tuo di dwn
-拖地錦	tuo di jin
+拖地錦	tuo di gin
 拖天掃地	tuo tiwn sau di
 拖拖棲棲	tuo tuo qi qi
 拖拽	tuo iw
@@ -34285,7 +34283,7 @@ use_preset_vocabulary: true
 掣後腿	che hou tuwi
 掣曳	che iw
 掣曳	che i
-掣籤	che qiwn
+掣籤	che ciwn
 掣肘	che zhou
 掣脫	che tuo
 掣襟肘見	che jin zhou xiwn
@@ -37073,7 +37071,6 @@ use_preset_vocabulary: true
 沒了落	mwi liau luo
 沒事哏	mwi sh hen
 沒人	mwi rhen
-沒人	muo rhen
 沒什麼	mwi shen me
 沒什麼要緊	mwi shen me iau jin
 沒入	muo rhu
@@ -37639,7 +37636,6 @@ use_preset_vocabulary: true
 混淆是非	huen xiau sh fwi
 混淆視聽	huen xiau sh ting
 混淆黑白	huen xiau hwi bai
-混混	guen guen
 混混	huen huen
 混血	huen xiw
 混血	huen xvw
@@ -37694,7 +37690,6 @@ use_preset_vocabulary: true
 游說	iou shuwi
 渾不似	huen bu s
 渾似	huen s
-渾渾	guen guen
 渾渾	huen huen
 渾然不覺	huen rhwn bu jvw
 湃湃	pai pai
@@ -38297,7 +38292,7 @@ use_preset_vocabulary: true
 爇櫬	rhuo chen
 爚爚	vw vw
 爛熟	lwn shu
-爛若披錦	lwn rhuo pi jin
+爛若披錦	lwn rhuo pi gin
 爣閬	tang lang
 爨婢	cuwn bi
 爪印	zhau in
@@ -38388,10 +38383,10 @@ use_preset_vocabulary: true
 牌榜	pai bang
 牙磣	ia chen
 牙笏	ia hu
-牙簽犀軸	ia qiwn xi zhou
-牙籤玉軸	ia qiwn v zhou
-牙籤萬軸	ia qiwn uwn zhou
-牙籤錦軸	ia qiwn jin zhou
+牙簽犀軸	ia ciwn xi zhou
+牙籤玉軸	ia ciwn v zhou
+牙籤萬軸	ia ciwn uwn zhou
+牙籤錦軸	ia ciwn gin zhou
 牙行	ia hang
 牙齦	ia in
 牛仔布	yiou z bu
@@ -41689,11 +41684,11 @@ use_preset_vocabulary: true
 花卉冷藏處理	hua huwi leng cang chu li
 花呢	hua yi
 花天酒地	hua tiwn jiou di
-花天錦地	hua tiwn jin di
+花天錦地	hua tiwn gin di
 花奴羯鼓	hua nu jiw gu
 花巾着目	hua jin zhuo mu
 花式撞球	hua sh zhuang qiou
-花攢錦簇	hua cuwn jin cu
+花攢錦簇	hua cuwn gin cu
 花斑癬	hua bwn xiwn
 花旗銀行	hua qi in hang
 花朝	hua zhau
@@ -41703,7 +41698,7 @@ use_preset_vocabulary: true
 花朝節	hua zhau jiw
 花柵子	hua zha z
 花畦	hua qi
-花簇錦攢	hua cu jin cuwn
+花簇錦攢	hua cu gin cuwn
 花葯	hua iau
 花葯瓣	hua iau bwn
 花蛤	hua ge
@@ -41923,7 +41918,7 @@ use_preset_vocabulary: true
 萆薢	bi xiw
 萆麻	bi ma
 萊菔	lai fu
-萋斐貝錦	qi fwi bwi jin
+萋斐貝錦	qi fwi bwi gin
 萋萋	qi qi
 萋萋綽綽	qi qi chuo chuo
 萋迷	qi mi
@@ -41963,7 +41958,7 @@ use_preset_vocabulary: true
 落地扇	luo di shwn
 落地生根	luo di sheng gen
 落地窗	luo di chuang
-落地簽證	luo di qiwn zheng
+落地簽證	luo di ciwn zheng
 落地罩	lau di zhau
 落場	la chang
 落子	lau z
@@ -43248,8 +43243,8 @@ use_preset_vocabulary: true
 衣裳楚楚	i chang chu chu
 衣角	i jiau
 衣車	i che
-衣錦夜行	i jin iw xing
-衣錦還鄉	i jin huwn xiang
+衣錦夜行	i gin iw xing
+衣錦還鄉	i gin huwn xiang
 衣食住行	i sh zhu xing
 表揭	biau jiw
 表率	biau shuai
@@ -44219,7 +44214,7 @@ use_preset_vocabulary: true
 貝他蛻變	bwi ta shuwi biwn
 貝伽特症候羣	bwi qiw te zheng hou qvin
 貝婁	bwi lou
-貝錦萋菲	bwi jin qi fwi
+貝錦萋菲	bwi gin qi fwi
 貝類養殖	bwi lwi iang zh
 貞卜文字	zhen bu uen z
 貞白	zhen bai
@@ -46025,10 +46020,10 @@ use_preset_vocabulary: true
 錆色	qiang se
 錞于	chuen v
 錢不露白	qiwn bu lou bai
-錦絃	jin xiwn
-錦綸	jin luen
-錦衣夜行	jin i iw xing
-錦還	jin huwn
+錦絃	gin xiwn
+錦綸	gin luen
+錦衣夜行	gin i iw xing
+錦還	gin huwn
 錨地	mau di
 錫伯族	xi buo zu
 錫箔	xi buo
@@ -48201,6 +48196,7 @@ use_preset_vocabulary: true
 黑魆魆	hwi xv xv
 默省	muo xing
 默識	muo zh
+默認	muo rhen
 黜免	chu miwn
 黜官	chu guwn
 黜治	chu zh
