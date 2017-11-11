@@ -30,7 +30,7 @@
 ---
 name: fongz_pinin
 version: "0.0.1"
-sort: by_wueight
+sort: by_weight
 use_preset_vocabulary: true
 ...
 
