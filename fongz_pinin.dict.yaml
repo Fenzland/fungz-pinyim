@@ -2012,7 +2012,7 @@ use_preset_vocabulary: true
 冽	liw
 冾	qia
 冾	xia
-冿	jiwn
+冿	ziwn
 净	zing
 凁	sou
 凂	fu
@@ -2298,7 +2298,7 @@ use_preset_vocabulary: true
 劲	ging	21.20%
 劳	lau
 労	lau
-劵	jvwn
+劵	gvwn
 劵	qvwn
 劶	kou
 劷	iang
@@ -3679,7 +3679,7 @@ use_preset_vocabulary: true
 囚	ciou
 四	s
 囜	yin
-囝	jiwn
+囝	giwn
 囝	vw
 回	huwi
 囟	sin
@@ -4037,7 +4037,7 @@ use_preset_vocabulary: true
 埽	sau
 埾	jv
 埿	yi
-堀	jvw
+堀	gvw
 堀	ku
 堁	guo
 堁	ke
@@ -4046,7 +4046,7 @@ use_preset_vocabulary: true
 堄	yi
 堅	giwn
 堆	duwi
-堇	jin
+堇	gin
 堈	gang
 堉	v
 堊	e
@@ -7054,7 +7054,7 @@ use_preset_vocabulary: true
 憩	xi
 憪	xiwn
 憫	min
-憬	jing
+憬	ging
 憭	liau
 憮	u
 憯	cwn
@@ -7732,7 +7732,7 @@ use_preset_vocabulary: true
 掩	iwn
 措	cuo
 掫	zou
-掬	jv
+掬	gv
 掭	tiwn
 掮	kiwn
 掯	ken
@@ -9037,7 +9037,7 @@ use_preset_vocabulary: true
 枰	ping
 枱	tai
 枲	xi
-枳	ji
+枳	gi
 枳	zh
 枴	guai
 枵	hiau
@@ -10670,7 +10670,7 @@ use_preset_vocabulary: true
 洌	liw
 洍	s
 洎	buo
-洎	ji
+洎	gi
 洏	er
 洐	xing
 洑	fu
@@ -11217,7 +11217,7 @@ use_preset_vocabulary: true
 滕	teng
 滖	suwi
 滗	bi
-滘	jiau
+滘	giau
 滙	huwi
 滚	guen
 滛	in
@@ -11920,7 +11920,7 @@ use_preset_vocabulary: true
 焓	hwn
 焕	huwn
 焖	men
-焗	jv
+焗	gv
 焘	dau	6.25%
 焙	bwi	100%
 焙	pwi	0%
@@ -14623,9 +14623,9 @@ use_preset_vocabulary: true
 秵	in
 秶	z
 秷	zh
-秸	ji
-秸	jia
-秸	jiw
+秸	gi
+秸	gia
+秸	giw
 秹	rhen
 秺	du
 移	i
@@ -17296,7 +17296,7 @@ use_preset_vocabulary: true
 苠	min
 苡	i
 苢	i
-苣	jv
+苣	gv
 苤	pi
 苤	piw
 若	rhe	0.10%
@@ -17761,7 +17761,7 @@ use_preset_vocabulary: true
 葪	ji
 葫	hu
 葬	zang
-葭	jia
+葭	gia
 葮	duwn
 葯	iau
 葯	vw
@@ -20752,7 +20752,7 @@ use_preset_vocabulary: true
 跢	dai
 跢	duo
 跣	siwn
-跤	jiau
+跤	giau
 跦	chu
 跦	zhu
 跧	qvwn
@@ -21414,7 +21414,7 @@ use_preset_vocabulary: true
 递	di
 逓	di
 途	tu
-逕	jing
+逕	ging
 逖	di
 逖	ti
 逗	dou
@@ -22535,7 +22535,7 @@ use_preset_vocabulary: true
 鎲	tang
 鎳	yiw
 鎴	xi
-鎵	jia
+鎵	gia
 鎶	ge
 鎷	ma
 鎸	jvwn
@@ -22573,7 +22573,7 @@ use_preset_vocabulary: true
 鏔	in
 鏕	lu
 鏖	au
-鏗	jiwn
+鏗	giwn
 鏗	keng
 鏘	ciang
 鏘	ziang
@@ -24179,7 +24179,7 @@ use_preset_vocabulary: true
 饎	xi
 饏	gwn
 饐	i
-饑	ji
+饑	gi
 饒	rhau
 饓	cheng
 饔	vong
@@ -31545,7 +31545,7 @@ use_preset_vocabulary: true
 如願以償	rhu vwn i chang
 如飢似渴	rhu gi s ke
 如飲醍醐	rhu in ti hu
-如饑似渴	rhu ji s ke
+如饑似渴	rhu gi s ke
 如魚似水	rhu v s shuwi
 妃匹	pwi pi
 妃耦	pwi ou
@@ -32522,7 +32522,7 @@ use_preset_vocabulary: true
 差使	chai sh
 差勁	cha gin
 差動滑輪	cha dong gu luen
-差半車麥秸	cha bwn che mai jiw
+差半車麥秸	cha bwn che mai giw
 差品	c pin
 差委	chai uwi
 差官	chai guwn
@@ -33491,7 +33491,7 @@ use_preset_vocabulary: true
 悶悶渴渴	men men he he
 悶瞀	men mau
 悽愴	ci chuang
-惄如調饑	yi rhu tiau ji
+惄如調饑	yi rhu tiau gi
 情仇	cing chou
 情怯	cing kvw
 情感天地	cing gwn tiwn di
@@ -34838,7 +34838,7 @@ use_preset_vocabulary: true
 搓熟的湯團	cuo shou de tang tuwn
 搓粉摶朱	cuo fen tuwn zhu
 搔着癢處	sau zhau iang chu
-搖囝仔歌	iau jiwn z ge
+搖囝仔歌	iau giwn z ge
 搖擺樂	iau bai vw
 搖旗吶喊	iau ki na hwn
 搖曳	iau i
@@ -34954,7 +34954,7 @@ use_preset_vocabulary: true
 撂挑子	liau tiau z
 撂皮	liau pi
 撂荒	liau huang
-撂跤	liau jiau
+撂跤	liau giau
 撂過手	liau guo shou
 撂開	liau kai
 撂開手	liau kai shou
@@ -36361,9 +36361,9 @@ use_preset_vocabulary: true
 枯魚涸轍	ku v he zhe
 枳實	zh sh
 枳棘	zh gi
-枳椇	ji jv
+枳椇	gi jv
 枳殼	zh ke
-枳首	ji shou
+枳首	gi shou
 枳首蛇	zh shou she
 枵然	hiau rhwn
 枵腸轆轆	hiau chang lu lu
@@ -38347,7 +38347,7 @@ use_preset_vocabulary: true
 漏泄天機	lou siw tiwn gi
 漏泄春光	lou siw chuen guang
 漏眼不藏絲	lou iwn bu cang s
-漏脯充饑	lou fu chong ji
+漏脯充饑	lou fu chong gi
 漏電保護接地極插座	lou diwn bau hu ziw di gi cha zuo
 漏露	lou lu
 演繁露	iwn fwn lu
@@ -39516,7 +39516,7 @@ use_preset_vocabulary: true
 畦溝灌溉	hi gou guwn gai
 畦田	hi tiwn
 畦畛	hi zhen
-畦逕	hi jing
+畦逕	hi ging
 番代	fwn dai
 番佛	fwn fuo
 番使	fwn sh
@@ -40647,7 +40647,7 @@ use_preset_vocabulary: true
 秦艽	cin giau
 秧秧蹌蹌	iang iang ciang ciang
 秩序	zh sv
-秫秸	shu jiw
+秫秸	shu giw
 移晷	i guwi
 移檄	i hi
 移液管	i iw guwn
@@ -42361,7 +42361,7 @@ use_preset_vocabulary: true
 芒稷	mang zi
 芒角	mang giau
 芒角撐腸	mang giau cheng chang
-芝麻秸	zh ma jiw
+芝麻秸	zh ma giw
 芥子	giw z
 芥子園畫傳	giw z vwn hua zhuwn
 芥子毒氣	giw z du ki
@@ -42445,7 +42445,7 @@ use_preset_vocabulary: true
 英雄無用武之地	ing hvong u vong u zh di
 苴布	zv bu
 苴杖	zv zhang
-苴秸	zv jiw
+苴秸	zv giw
 苴絰	zv diw
 苴麻	zv ma
 茁壯成長	zhuo zhuang cheng zhang
@@ -42729,9 +42729,9 @@ use_preset_vocabulary: true
 葧薺	buo ci
 葫蘆裏賣的甚麼藥	hu lu li mai de shen men iau
 葬身之地	zang shen zh di
-葭莩	jia fu
-葭莩之末	jia fu zh muo
-葭莩之親	jia fu zh cin
+葭莩	gia fu
+葭莩之末	gia fu zh muo
+葭莩之親	gia fu zh cin
 葷允	hvin vin
 葷粥	hvin v
 葺屋	ci u
@@ -44871,7 +44871,7 @@ use_preset_vocabulary: true
 豆乾	dou gwn
 豆剖	dou pou
 豆剖瓜分	dou pou gua fen
-豆秸灰	dou jiw huwi
+豆秸灰	dou giw huwi
 豆脯	dou fu
 豆腐乾	dou fu gwn
 豆角	dou giau
@@ -45752,7 +45752,7 @@ use_preset_vocabulary: true
 透天厝	tou tiwn cuo
 透露	tou lu
 逐朝每日	zhu zhau mwi rh
-逕行	jing hing
+逕行	ging hing
 逖聽	ti ting
 逗哏	dou gen
 逗樂	dou le
@@ -48969,7 +48969,7 @@ use_preset_vocabulary: true
 麻痺不了	ma bi bu liau
 麻痺不仁	ma bi bu rhen
 麻痺大意	ma bi da i
-麻秸	ma jiw
+麻秸	ma giw
 麻蚍叮腿	ma pi ding tuwi
 麼些族	muo suo zu
 麼娘	muo yiang
