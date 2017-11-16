@@ -947,7 +947,7 @@ use_preset_vocabulary: true
 乢	gai
 乢	ge
 乢	he
-乣	jiou
+乣	giou
 乤	hia
 乥	hou
 书	shu
@@ -968,7 +968,7 @@ use_preset_vocabulary: true
 乷	sha
 乸	na
 乹	gwn
-乹	qiwn
+乹	kiwn
 乺	suo
 乼	zhu
 乾	gwn	21.58%
@@ -977,15 +977,15 @@ use_preset_vocabulary: true
 乿	luwn
 乿	zh
 亀	guwi
-亀	jvin
-亀	qiou
+亀	gvin
+亀	kiou
 亁	gwn	90%
 亁	qiwn	10%
 亂	luwn	100%
 亂	lwn	0%
 亃	lin
 亄	i
-亅	jvw
+亅	gvw
 了	le	98.90%
 了	liau	1.10%
 亇	ge
@@ -996,7 +996,7 @@ use_preset_vocabulary: true
 亍	chu	100%
 亍	v	0%
 于	v	100%
-于	xv	0%
+于	hv	0%
 亏	kuwi
 亏	v
 亏	xv
@@ -1403,7 +1403,7 @@ use_preset_vocabulary: true
 俄	e
 俅	qiou
 俆	shu
-俆	xv
+俆	sv
 俇	kuang
 俇	uang
 俈	ku
@@ -1419,15 +1419,15 @@ use_preset_vocabulary: true
 俐	li
 俑	vong
 俒	huen
-俓	jing
-俔	jiwn
-俔	qiwn
-俔	xiwn
+俓	ging
+俔	giwn
+俔	kiwn
+俔	hiwn
 俕	swn
 俖	pai
 俗	su
 俘	fu
-俙	xi
+俙	hi
 俚	li
 俛	fu
 俛	miwn
@@ -1440,10 +1440,10 @@ use_preset_vocabulary: true
 俠	hia
 信	shen	0%
 信	sin	100%
-俢	xiou
+俢	siou
 俣	v
 俥	che
-俥	jv
+俥	gv
 俦	chou
 俨	iwn
 俩	lia	90.53%
@@ -2299,7 +2299,7 @@ use_preset_vocabulary: true
 劳	lau
 労	lau
 劵	gvwn
-劵	qvwn
+劵	kvwn
 劶	kou
 劷	iang
 劸	ua
@@ -12105,21 +12105,21 @@ use_preset_vocabulary: true
 熵	shang	100%
 熶	cuwn
 熷	zeng
-熸	jiwn
-熸	qiwn
-熹	xi
-熺	xi
-熻	xi
+熸	ziwn
+熸	ciwn
+熹	hi
+熺	hi
+熻	hi
 熼	i
 熽	su
-熽	xiau
+熽	siau
 熾	ch	100%
 熾	zh	0%
 熿	huang
 燀	chwn
 燁	hua
 燁	iw
-燂	qiwn
+燂	ciwn
 燂	twn
 燃	rhwn
 燄	iwn
@@ -12144,7 +12144,7 @@ use_preset_vocabulary: true
 燓	fen
 燔	fwn
 燕	iwn
-燖	xvin
+燖	svin
 燗	lwn
 燘	mwi
 燙	tang
@@ -26846,7 +26846,7 @@ use_preset_vocabulary: true
 也曾	iw ceng
 也行	iw hing
 也麼哥	iw muo ge
-乣軍	diou gvin
+乣軍	giou gvin
 乳哺	rhu bu
 乳濁液	rhu zhuo iw
 乳臭	rhu hiou
@@ -27093,7 +27093,7 @@ use_preset_vocabulary: true
 二階	er giw
 二面角	er miwn giau
 二韃子吃螺螄	er da z ch luo s
-于嗟	xv ziw
+于嗟	hv ziw
 于思	v sai
 于闐	v tiwn
 于飛之樂	v fwi zh le
@@ -37243,7 +37243,7 @@ use_preset_vocabulary: true
 殼牌	kiau pai
 殽舛	iau chuwn
 殿屎	diwn xi
-毀熸	huwi jiwn
+毀熸	huwi ziwn
 毀舟爲杕	huwi zhou uwi duo
 毀譽參半	huwi v cwn bwn
 毋忘在莒	u uang zai gv
