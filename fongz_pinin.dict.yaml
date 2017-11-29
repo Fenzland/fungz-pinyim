@@ -8720,7 +8720,6 @@ use_preset_vocabulary: true
 暩	gi
 暩	guwi
 暪	men
-暫	zhwm
 暫	zwm
 暬	siw
 暬	yiw
@@ -35659,7 +35658,7 @@ use_preset_vocabulary: true
 是長是短	sh chang sh duwn
 是非之地	sh fwi zh di
 昳麗	i li
-時來暫去	sh lai zhwm kv
+時來暫去	sh lai zwm kv
 時光似箭	sh guang s ziwn
 時光機	sh guang gi
 時和歲稔	sh he suwi rhen
@@ -35746,19 +35745,19 @@ use_preset_vocabulary: true
 暢洽	chang kia
 暢行	chang hing
 暢行無阻	chang hing u zu
-暫且	zhwm ciw
-暫且擱下	zhwm ciw ge hia
-暫停	zhwm ting
-暫別	zhwm biw
-暫勞永逸	zhwm lau vong i
-暫星	zhwm sing
-暫時	zhwm sh
-暫染髮慕絲	zhwm rhwn fa mu s
-暫止	zhwm zh
-暫緩	zhwm huwn
+暫且	zwm ciw
+暫且擱下	zwm ciw ge hia
+暫停	zwm ting
+暫別	zwm biw
+暫勞永逸	zwm lau vong i
+暫星	zwm sing
+暫時	zwm sh
+暫染髮慕絲	zwm rhwn fa mu s
+暫止	zwm zh
+暫緩	zwm huwn
 暫行規定	zwm hing guwi ding
 暫行辦法	zwm hing bwn fa
-暫音	zhwm in
+暫音	zwm in
 暮去朝來	mu kv zhau lai
 暮四朝三	mu s zhau swm
 暮想朝思	mu siang zhau s
@@ -36006,7 +36005,7 @@ use_preset_vocabulary: true
 有的放矢	iou di fang sh
 有着落	iou zhuo luo
 有給職	iou gi zh
-有線電視暫行條例	iou siwn diwn sh zhwm hing tiau li
+有線電視暫行條例	iou siwn diwn sh zwm hing tiau li
 有行無市	iou hang u sh
 有誰知道	iou shuwi zh dau
 有賺頭	iou zhuwn tou
@@ -37957,7 +37956,7 @@ use_preset_vocabulary: true
 浪漫樂派	lang mwn vw pai
 浪濤澎湃	lang tau pong pai
 浪蕩乾坤	lang dang kiwn kuen
-浮來暫去	fu lai zhwm kv
+浮來暫去	fu lai zwm kv
 浮光掠影	fu guang lvw ing
 浮動匯率	fu dong huwi lv
 浮厝	fu cuo
@@ -40362,7 +40361,7 @@ use_preset_vocabulary: true
 短不了	duwn bu liau
 短信	duwn sin
 短嘆長吁	duwn twn chang hv
-短暫	duwn zhwm
+短暫	duwn zwm
 短絀	duwn chu
 短行	duwn hing
 短見薄識	duwn giwn buo sh
