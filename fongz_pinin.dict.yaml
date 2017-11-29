@@ -27060,9 +27060,11 @@ use_preset_vocabulary: true
 了願	liau vwn
 了鳥	liau diau
 事件	sh giwn
+事務	sh u
 事在必行	sh zai bi hing
 事急馬行田	sh gi ma hing tiwn
 事情	sh cing
+事物	sh u
 事生肘腋	sh sheng zhou iw
 事畜	sh hv
 事關重大	sh guwn zhong da
@@ -27924,6 +27926,8 @@ use_preset_vocabulary: true
 僂行	lou hing
 僅供參考	gin gong cwm kau
 僅僅	gin gin
+僅存	gin cuen
+僅對	gin duwi
 僉事	ciwn sh
 僉同	ciwn tong
 僉押	ciwn ia
@@ -29110,6 +29114,7 @@ use_preset_vocabulary: true
 厚彼薄此	hou bi buo c
 厚朴	hou puo
 厚此薄彼	hou c buo bi
+厚積薄發	hou zi buo fa
 厚薄	hou buo
 厚重	hou zhong
 厜㕒	chuwi uwi
@@ -31730,12 +31735,16 @@ use_preset_vocabulary: true
 字挾風霜	z hiw fong shuang
 字裏行間	z li hang giwn
 存亡未卜	cuen uang uwi bu
+存在	cuen zai
+存在於	cuen zai v
 存宿	cuen su
+存心	cuen sin
 存款利率	cuen kuwn li lv
 存款準備率	cuen kuwn zhuen bwi lv
 存沒	cuen muo
 存活率	cuen huo lv
 存省	cuen sing
+存錢	cuen ciwn
 孛婁	buo lou
 孛孛	buo buo
 孛相	buo siang
@@ -33193,6 +33202,7 @@ use_preset_vocabulary: true
 微信	uwi sin
 微型	uwi hing
 微小	uwi siau
+微服务	uwi fu u
 微服私行	uwi fu s hing
 微纖	uwi siwn
 微薄	uwi buo
@@ -33978,16 +33988,19 @@ use_preset_vocabulary: true
 打挾	da gia
 打揭	da giw
 打揲	da she
+打擊	da gi
 打擊樂	da gi vw
 打擊樂器	da gi vw ki
 打擊率	da gi lv
 打攢盤	da cuwn pwn
 打攪	da giau
+打款	da kuwn
 打死人不償命	da s rhen bu chang ming
 打毷氉	da mau zau
 打沒頭壇	da muo tou twn
 打淨撈乾	da zing lau gwn
 打爻	da iau
+打發	da fa
 打的	da di
 打着	da zhau
 打着	da zhe
@@ -34009,6 +34022,7 @@ use_preset_vocabulary: true
 打躉	da duen
 打都磨子	da du muo z
 打野呵	da iw he
+打錢	da ciwn
 打頦歌	da hai ge
 打顫	da zhwn
 打飽咯	da bau ge
@@ -34084,6 +34098,7 @@ use_preset_vocabulary: true
 抑塞	i se
 抑塞磊落	i se lwi luo
 抓哏	zhua gen
+抓撓	zhua nau
 抔土未乾	pou tu uwi gwn
 投劾	tou he
 投地	tou di
@@ -34973,6 +34988,9 @@ use_preset_vocabulary: true
 撒溺	sa yiau
 撒科打諢	sa ke da huen
 撓北	nau buo
+撓率	nau lv
+撓癢	nau iang
+撓癢癢	nau iang iang
 撕擄	s lu
 撙詘	zuen kv
 撝戈反日	huwi ge fwn rh
@@ -45286,6 +45304,7 @@ use_preset_vocabulary: true
 跡地	zi di
 跦跦	zhu zhu
 跨地區	kua di kv
+跨域	kua v
 跨媒體合作	ka mwi ti he zuo
 跨行	kua hang
 跪地	guwi di
