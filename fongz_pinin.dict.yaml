@@ -180,8 +180,8 @@ use_preset_vocabulary: true
 㙉	tiwn
 㙎	uwi
 㙡	zong
-㙳	hwn
-㙳	kwn
+㙳	hwm
+㙳	kwm
 㙺	guwi
 㚁	qiau
 㚇	zong
@@ -1625,7 +1625,7 @@ use_preset_vocabulary: true
 偸	tou
 偹	bwi
 偺	za
-偺	zwn
+偺	zwm
 偻	lou	63.64%
 偻	lv	36.36%
 偼	jiw
@@ -2979,7 +2979,7 @@ use_preset_vocabulary: true
 咰	shuai
 咰	xvin
 咱	za	1%
-咱	zwn	99%
+咱	zwm	99%
 咲	xiau
 咳	hai	78.98%
 咳	ka	0%
@@ -3266,7 +3266,7 @@ use_preset_vocabulary: true
 喐	v
 喑	im
 喒	za
-喒	zwn
+喒	zwm
 喓	iau
 喔	o	35.47%
 喔	u	0%
@@ -4023,7 +4023,7 @@ use_preset_vocabulary: true
 埱	shu
 埲	bong
 埳	kwm
-埳	xiwm
+埳	hiwm
 埴	zh
 埵	duo
 埶	i
@@ -4114,8 +4114,8 @@ use_preset_vocabulary: true
 堽	gang
 堾	chuen
 堾	chuwn
-堿	jiwn
-堿	kwn
+堿	giwm
+堿	kwm
 塁	lwi
 塃	huang
 塄	leng
@@ -4165,8 +4165,8 @@ use_preset_vocabulary: true
 塧	ai
 塨	gong
 塩	iwm
-塪	kwn
-塪	xiwn
+塪	kwm
+塪	hiwm
 填	tiwn
 塬	vwn
 塭	uen
@@ -4197,7 +4197,7 @@ use_preset_vocabulary: true
 墆	di
 墆	diw
 墇	zhang
-墈	kwn
+墈	kwm
 墉	vong
 墊	diwm
 墋	chen
@@ -5594,7 +5594,7 @@ use_preset_vocabulary: true
 峾	in
 峿	u
 崀	lang
-崁	kwn
+崁	kwm
 崂	lau
 崃	lai
 崆	kong
@@ -10128,7 +10128,6 @@ use_preset_vocabulary: true
 歝	du
 歝	i
 歞	e
-歞	kwn
 歟	v
 歠	chuo
 歡	huwn
@@ -14044,7 +14043,7 @@ use_preset_vocabulary: true
 砋	zh
 砌	ci	100%
 砌	ciw	0%
-砍	kwn
+砍	kwm
 砎	jiw
 砏	bin
 砏	fen
@@ -14230,8 +14229,8 @@ use_preset_vocabulary: true
 碨	uwi
 碩	sh	0%
 碩	shuo	100%
-碪	kwn
-碪	zhen
+碪	kwm
+碪	zhem
 碫	duwn
 碬	jia
 碬	xia
@@ -15255,7 +15254,7 @@ use_preset_vocabulary: true
 簬	du
 簬	lu
 簭	sh
-簮	zwn
+簮	zwm
 簰	pai
 簳	gwn
 簴	jv
@@ -17537,7 +17536,7 @@ use_preset_vocabulary: true
 莭	ziw
 莮	nwn
 莯	mu
-莰	kwn
+莰	kwm
 莱	lai
 莲	liwn
 莳	sh
@@ -24708,8 +24707,8 @@ use_preset_vocabulary: true
 鬩	xi
 鬩	yi
 鬪	dou
-鬫	hwn
-鬫	kwn
+鬫	hwm
+鬫	kwm
 鬬	dou
 鬭	dou
 鬮	giou
@@ -29768,7 +29767,7 @@ use_preset_vocabulary: true
 咯血	ka hvw
 咯血	luo hvw
 咱們	za men
-咱們	zwn men
+咱們	zwm men
 咱家	za gia
 咳咳	ke ke
 咳唾	ke tuo
@@ -31084,7 +31083,7 @@ use_preset_vocabulary: true
 大出血	da chu hiw
 大出血	da chu hvw
 大剛來	dai gang lai
-大剛喒	dai gang zwn
+大剛喒	dai gang zwm
 大功率	da gong lv
 大勇若怯	da vong rhuo kvw
 大古	dai gu
@@ -34173,7 +34172,7 @@ use_preset_vocabulary: true
 披玩	pi uwn
 披甲	pi gia
 披着羊皮的狼	pi zhe iang pi de lang
-披砍	pi kwn
+披砍	pi kwm
 披秉	pi bing
 披秒	pi miau
 披紅	pi hong
@@ -40385,8 +40384,8 @@ use_preset_vocabulary: true
 矼牙	qiang ia
 砉然	huo rhwn
 砌末	ciw muo
-砍着	kwn zhau
-砍着	kwn zhe
+砍着	kwm zhau
+砍着	kwm zhe
 砐硪	e e
 研京練都	iwn ging liwn du
 研深覃精	iwn shen twm zing
@@ -40452,7 +40451,7 @@ use_preset_vocabulary: true
 碧血丹心	bi hvw dwn sim
 碧血黃花	bi hiw huang hua
 碧血黃花	bi hvw huang hua
-碪斧	zhen fu
+碪斧	zhem fu
 碰勁	pong gin
 碰和	pong hu
 碰撞	pong zhuang
@@ -41072,7 +41071,7 @@ use_preset_vocabulary: true
 糅雜	rhou za
 糊仔栽培	hu z zai pwi
 糕乾	gau gwn
-糕仔崁古道	gau z kwn gu dau
+糕仔崁古道	gau z kwm gu dau
 糖衣炮彈	tang i pau dwn
 糗事	kiou sh
 糗糒	kiou bwi
