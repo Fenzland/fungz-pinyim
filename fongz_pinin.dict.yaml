@@ -11714,10 +11714,7 @@ use_preset_vocabulary: true
 灸	giou	100%
 灸	zh	0%
 灹	zha
-灺	duo
-灺	ta
-灺	tuo
-灺	xiw
+灺	siw
 灻	ch
 灼	zhuo
 災	zai
@@ -12303,8 +12300,8 @@ use_preset_vocabulary: true
 牞	li
 牟	mou	74.56%
 牟	mu	25.44%
-牠	ta
-牠	tuo
+牠	ta	100%
+牠	tuo	0%
 牡	mou	0%
 牡	mu	100%
 牢	lau
@@ -26790,8 +26787,8 @@ use_preset_vocabulary: true
 之前	zh ciwn
 之地	zh di
 之樂	zh le
-之死靡他	zh s mi tuo
-之死靡它	zh s mi tuo
+之死靡他	zh s mi ta
+之死靡它	zh s mi ta
 之行	zh hing
 之都	zh du
 之重	zh zhong
@@ -27176,6 +27173,7 @@ use_preset_vocabulary: true
 亹亹不倦	uwi uwi bu gvwn
 人事不省	rhen sh bu sing
 人事行政	rhen sh hing zheng
+人們	rhen men
 人傑地靈	rhen giw di ling
 人力銀行	rhen li in hang
 人勤地不懶	rhen kin di bu lwn
@@ -27299,6 +27297,7 @@ use_preset_vocabulary: true
 仔細閱讀	z si vw du
 仔肩	z giwn
 仔麼	zai me
+他們	ta men
 他們倆	ta men lia
 他懣	ta men
 仙樂	siwn vw
@@ -27571,6 +27570,7 @@ use_preset_vocabulary: true
 作麼生	zuo muo sheng
 佝僂	kou lou
 佝僂病	kou lou bing
+你們	yi men
 你哦	yi o
 你快樂	yi kuai le
 你長我短	yi chang uo duwn
@@ -31489,6 +31489,7 @@ use_preset_vocabulary: true
 奶酪	nai luo
 奸宄	giwn guwi
 奸慝	giwn te
+她們	ta men
 好不了	hau bu liau
 好久	hau giou
 好了歌	hau liau ge
@@ -31567,6 +31568,7 @@ use_preset_vocabulary: true
 妥洽	tuo kia
 妯娌	zhou li
 妲己	da gi
+妳們	yi men
 妹東西	mwi dong si
 姊妹校	z mwi hiau
 姊妹行	z mwi hang
@@ -31804,9 +31806,9 @@ use_preset_vocabulary: true
 孿生兄弟	luwn sheng hvong di
 孿生子	luwn sheng z
 宁立	zhu li
-它們	tuo men
-它囂	tuo hiau
-它山之石	tuo shwn zh sh
+它們	ta men
+它囂	ta hiau
+它山之石	ta shwn zh sh
 宅兆	zhai zhau
 宅兆	zhe zhau
 宅券	zhai kvwn
@@ -33789,6 +33791,7 @@ use_preset_vocabulary: true
 成長過程	cheng zhang guo cheng
 我不入地獄	uo bu rhu di v
 我倆	uo lia
+我們	uo men
 我們倆	uo men lia
 我想	uo siang
 我是誰	uo sh shuwi
@@ -38618,7 +38621,7 @@ use_preset_vocabulary: true
 無人之地	u rhen zh di
 無人銀行	u rhen in hang
 無他	u ta
-無他	u tuo
+無他	u ta
 無以塞責	u i se ze
 無价事	u giw sh
 無倽	u sha
@@ -40488,7 +40491,7 @@ use_preset_vocabulary: true
 磨佗子	muo tuo z
 磨削	muo svw
 磨喝樂	muo he le
-磨它子	muo tuo z
+磨它子	muo ta z
 磨礱砥礪	muo long di li
 磨蝎	muo hie
 磨趄子	muo ciw z
@@ -40513,6 +40516,7 @@ use_preset_vocabulary: true
 社稷爲墟	she zi uwi hv
 社長	she zhang
 祁奚薦仇	ki hi ziwn chou
+祂們	ta men
 祇好	zh hau
 祇是	zh sh
 祇有	zh iou
