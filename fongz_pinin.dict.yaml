@@ -195,7 +195,7 @@ use_preset_vocabulary: true
 㚹	miau
 㚻	gi
 㚼	hau
-㛁	pong
+㛁	peng
 㛃	jiw
 㛄	i
 㛅	er
@@ -286,7 +286,7 @@ use_preset_vocabulary: true
 㦤	i
 㦸	gi
 㧍	bang
-㧍	bong
+㧍	beng
 㧑	huwi
 㧒	i
 㧒	v
@@ -300,7 +300,7 @@ use_preset_vocabulary: true
 㧯	lau
 㧳	pai
 㧳	zhuo
-㧸	pong
+㧸	peng
 㧻	zhuo
 㧾	zong
 㨁	zh
@@ -504,7 +504,7 @@ use_preset_vocabulary: true
 䀐	shwm
 䀟	fwi
 䀹	shwn
-䁅	mong
+䁅	meng
 䁓	zong
 䁗	kai
 䁢	svwn
@@ -608,7 +608,7 @@ use_preset_vocabulary: true
 䓃	i
 䓅	qin
 䓎	chuo
-䓝	mong
+䓝	meng
 䓞	li
 䓟	zhou
 䓤	hu
@@ -1042,7 +1042,7 @@ use_preset_vocabulary: true
 亦	i
 产	chwn
 亨	heng	100%
-亨	pong	0%
+亨	peng	0%
 亩	mu
 亪	iw
 享	hiang
@@ -1232,7 +1232,7 @@ use_preset_vocabulary: true
 伹	qv
 伺	c	15.38%
 伺	s	84.62%
-伻	bong
+伻	beng
 似	s	85%
 似	sh	15%
 伽	ga	80%
@@ -1504,7 +1504,7 @@ use_preset_vocabulary: true
 倔	gvw
 倕	chuwi
 倖	xing
-倗	pong
+倗	peng
 倘	tang
 候	hou
 倚	i
@@ -1686,7 +1686,7 @@ use_preset_vocabulary: true
 傭	vong
 傮	zau
 傯	zong
-傰	pong
+傰	peng
 傱	song
 傲	au
 傳	chuwn	97.93%
@@ -2334,7 +2334,7 @@ use_preset_vocabulary: true
 勍	king
 勎	lu
 勏	pou
-勐	mong
+勐	meng
 勑	ch
 勒	le	96.20%
 勒	lwi	3.80%
@@ -2397,7 +2397,7 @@ use_preset_vocabulary: true
 匆	cong
 匇	cong
 匈	xvong
-匉	pong
+匉	peng
 匊	jv
 匋	tau
 匌	ge
@@ -3450,7 +3450,7 @@ use_preset_vocabulary: true
 嘞	lwi	30%
 嘟	du
 嘢	iw
-嘣	bong
+嘣	beng
 嘤	ing
 嘥	sai
 嘦	jiau
@@ -3462,7 +3462,7 @@ use_preset_vocabulary: true
 嘬	chuai	1.47%
 嘬	zuo	98.53%
 嘬	zuwi	0%
-嘭	pong
+嘭	peng
 嘮	lau
 嘯	siau
 嘰	gi
@@ -4052,8 +4052,8 @@ use_preset_vocabulary: true
 堈	gang
 堉	v
 堊	e
-堋	bong
-堋	pong
+堋	beng
+堋	peng
 堌	gu
 堍	tu
 堎	ling
@@ -4174,7 +4174,7 @@ use_preset_vocabulary: true
 塱	lang
 塲	chang
 塳	pong
-塴	bong
+塴	beng
 塵	chen
 塶	lu
 塷	lu
@@ -4455,7 +4455,7 @@ use_preset_vocabulary: true
 奞	suwi
 奞	xiau
 奞	xvin
-奟	bong
+奟	beng
 奠	diwn
 奡	au
 奢	she
@@ -4915,7 +4915,7 @@ use_preset_vocabulary: true
 嫅	jiw
 嫆	vong
 嫇	ming
-嫇	mong
+嫇	meng
 嫈	ing
 嫉	zi
 嫊	su
@@ -5103,7 +5103,7 @@ use_preset_vocabulary: true
 孛	bwi	75.68%
 孜	z
 孝	hiau
-孟	mong
+孟	meng
 孠	s
 孡	tai
 孢	bau
@@ -5340,7 +5340,7 @@ use_preset_vocabulary: true
 尥	liau
 尧	iau
 尨	mang
-尨	mong
+尨	meng
 尨	pang
 尩	uang
 尪	uang
@@ -5641,7 +5641,7 @@ use_preset_vocabulary: true
 崦	iwm
 崧	song
 崨	jiw
-崩	bong
+崩	beng
 崪	zu
 崫	jvw
 崫	ku
@@ -5721,7 +5721,7 @@ use_preset_vocabulary: true
 嵪	qiau
 嵫	z
 嵬	uwi
-嵭	bong
+嵭	beng
 嵮	diwn
 嵯	cuo
 嵰	qiwm
@@ -6276,7 +6276,7 @@ use_preset_vocabulary: true
 弶	lvw
 強	giang	0.01%
 強	kiang	99.99%
-弸	bong
+弸	beng
 弹	dwn	22.28%
 弹	twn	77.72%
 强	giang	0.01%
@@ -6340,7 +6340,7 @@ use_preset_vocabulary: true
 彪	biau
 彫	diau
 彬	bin
-彭	pong
+彭	peng
 彮	vong
 彯	piau
 彰	zhang
@@ -6575,7 +6575,7 @@ use_preset_vocabulary: true
 怣	iou
 怤	fu
 急	gi
-怦	pong
+怦	peng
 性	sing
 怨	vwn
 怩	yi
@@ -6665,7 +6665,7 @@ use_preset_vocabulary: true
 息	si
 恰	kia
 恱	vw
-恲	pong
+恲	peng
 恳	ken
 恴	de
 恵	huwi
@@ -7008,7 +7008,7 @@ use_preset_vocabulary: true
 憇	qi
 憇	xi
 憈	qv
-憉	pong
+憉	peng
 憊	bwi
 憋	biw
 憌	chuen
@@ -7384,7 +7384,7 @@ use_preset_vocabulary: true
 抦	bing
 抧	zh
 抨	ping
-抨	pong
+抨	peng
 抩	nwm
 抩	twm
 抪	bu
@@ -7583,7 +7583,7 @@ use_preset_vocabulary: true
 挵	nou
 挶	jv
 挷	bang
-挷	bong
+挷	beng
 挸	jiwn
 挹	i
 挺	ting
@@ -7748,7 +7748,7 @@ use_preset_vocabulary: true
 掺	cwm
 掺	shwm
 掼	guwn
-掽	pong
+掽	peng
 掾	vwn
 掿	nuo
 掿	rhuo
@@ -7858,7 +7858,7 @@ use_preset_vocabulary: true
 搑	nang
 搑	rhong
 搒	bang	50%
-搒	pong	50%
+搒	peng	50%
 搓	cuo
 搔	sau
 搕	ke
@@ -8842,7 +8842,7 @@ use_preset_vocabulary: true
 有	iou
 朊	guwn
 朊	rhuwn
-朋	pong
+朋	peng
 朌	bwn
 服	fu
 朎	ling
@@ -9285,7 +9285,7 @@ use_preset_vocabulary: true
 梅	mwi
 梆	bang
 梇	long
-梈	pong
+梈	peng
 梉	zhuang
 梊	di
 梊	xi
@@ -9381,7 +9381,7 @@ use_preset_vocabulary: true
 棘	gi	100%
 棘	la	0%
 棙	li
-棚	pong
+棚	peng
 棛	v
 棜	v
 棝	gu
@@ -9463,7 +9463,7 @@ use_preset_vocabulary: true
 椠	qiwm
 椤	luo
 椥	zh
-椪	pong
+椪	peng
 椭	tuo
 椮	sem
 椮	swm
@@ -9601,7 +9601,7 @@ use_preset_vocabulary: true
 榚	iau
 榛	zhen
 榜	bang	50%
-榜	pong	50%
+榜	peng	50%
 榝	sha
 榞	vwn
 榟	z
@@ -9824,7 +9824,7 @@ use_preset_vocabulary: true
 橔	tuwi
 橕	cheng
 橖	tang
-橗	mong
+橗	meng
 橘	gv
 橙	chen	0%
 橙	cheng	100%
@@ -10347,7 +10347,7 @@ use_preset_vocabulary: true
 民	min
 氒	jvw
 氓	mang	93.15%
-氓	mong	6.85%
+氓	meng	6.85%
 气	ki
 氕	piw
 氖	nai
@@ -10544,8 +10544,7 @@ use_preset_vocabulary: true
 沭	shu
 沮	zu
 沮	zv
-沯	bang
-沯	bong
+沯	za
 沰	tuo
 沱	tuo
 沲	tuo
@@ -10601,7 +10600,7 @@ use_preset_vocabulary: true
 泗	s
 泘	hu
 泙	ping
-泙	pong
+泙	peng
 泚	c
 泛	fong	0%
 泛	fwm	100%
@@ -10637,7 +10636,7 @@ use_preset_vocabulary: true
 泳	vong
 泴	guwn
 泵	bang
-泵	bong
+泵	beng
 泶	hvw
 泷	long	87.27%
 泷	shuang	12.73%
@@ -10717,7 +10716,7 @@ use_preset_vocabulary: true
 洱	er
 洲	zhou
 洳	rhu
-洴	bong
+洴	beng
 洴	ping
 洵	xvin
 洶	xvong
@@ -10915,7 +10914,7 @@ use_preset_vocabulary: true
 淙	zong
 淚	lwi
 淛	zh
-淜	pong
+淜	peng
 淝	fwi
 淞	song
 淟	tiwn
@@ -11314,7 +11313,7 @@ use_preset_vocabulary: true
 漯	luo
 漯	lwi
 漯	ta
-漰	pong
+漰	peng
 漱	shu
 漱	sou
 漲	zhang
@@ -11429,7 +11428,7 @@ use_preset_vocabulary: true
 澋	jing
 澌	s
 澍	shu
-澎	pong
+澎	peng
 澏	hwn
 澐	vin
 澑	liou
@@ -11874,7 +11873,7 @@ use_preset_vocabulary: true
 烷	uwn
 烸	hai
 烸	huwi
-烹	pong
+烹	peng
 烺	lang
 烻	iwn
 烻	shwn
@@ -12525,7 +12524,7 @@ use_preset_vocabulary: true
 猘	zh
 猙	zheng
 猚	ia
-猛	mong
+猛	meng
 猜	cai
 猝	cu
 猞	she
@@ -12693,7 +12692,6 @@ use_preset_vocabulary: true
 玢	fen
 玣	biwn
 玤	bang
-玤	bong
 玥	vw
 玦	gvw
 玧	men
@@ -13089,7 +13087,7 @@ use_preset_vocabulary: true
 瓻	xi
 瓼	li
 瓽	dang
-瓾	mong
+瓾	meng
 瓿	pou
 甀	chuwi
 甀	zhuwi
@@ -13105,10 +13103,10 @@ use_preset_vocabulary: true
 甊	lou
 甋	di
 甌	ou
-甍	mong
+甍	meng
 甎	zhuwn
 甏	bang
-甏	pong
+甏	peng
 甐	lin
 甑	zeng
 甒	u
@@ -13162,7 +13160,7 @@ use_preset_vocabulary: true
 甽	zuen
 甾	z
 甾	zai
-甿	mong
+甿	meng
 畀	bi
 畁	bi
 畂	mou
@@ -13380,8 +13378,8 @@ use_preset_vocabulary: true
 痪	huwn
 痫	hiwn
 痬	i
-痭	bong
-痭	pong
+痭	beng
+痭	peng
 痮	zhang
 痯	guwn
 痰	twm
@@ -13571,7 +13569,7 @@ use_preset_vocabulary: true
 皌	muo
 皍	ji
 皎	giau
-皏	pong
+皏	peng
 皐	gau
 皑	ai
 皒	e
@@ -13670,7 +13668,7 @@ use_preset_vocabulary: true
 盝	lu
 盞	zhwn
 盟	ming	0%
-盟	mong	100%
+盟	meng	100%
 盠	li
 盡	zin
 盢	xv
@@ -14084,7 +14082,7 @@ use_preset_vocabulary: true
 砮	nu
 砯	ping
 砰	ping	0%
-砰	pong	100%
+砰	peng	100%
 砱	ling
 砲	pau
 砳	le
@@ -14123,7 +14121,7 @@ use_preset_vocabulary: true
 硐	dong
 硐	tong
 硑	ping
-硑	pong
+硑	peng
 硒	si
 硕	shuo
 硖	xia
@@ -14165,7 +14163,7 @@ use_preset_vocabulary: true
 硺	zhuo
 硻	jiwn
 硻	keng
-硼	pong
+硼	peng
 硽	iwn
 硾	chuwi
 硾	zhuwi
@@ -14234,7 +14232,7 @@ use_preset_vocabulary: true
 碭	dang
 碮	ti
 碯	nau
-碰	pong
+碰	peng
 碱	jiwm
 碲	di
 碳	twn
@@ -14254,7 +14252,7 @@ use_preset_vocabulary: true
 磃	s
 磄	tang
 磅	bang	97.96%
-磅	bong	1%
+磅	beng	1%
 磅	pang	1%
 磆	gu
 磆	hua
@@ -14289,7 +14287,7 @@ use_preset_vocabulary: true
 磜	qi
 磜	qiw
 磝	au
-磞	pong
+磞	peng
 磟	lu
 磠	lu
 磡	kwm
@@ -14416,7 +14414,7 @@ use_preset_vocabulary: true
 祇	zh	0%
 祈	ki
 祉	zh
-祊	bong
+祊	beng
 祋	duwi
 祋	shu
 祌	chong
@@ -14661,7 +14659,7 @@ use_preset_vocabulary: true
 稛	kuen
 稜	leng	91.97%
 稜	ling	8.03%
-稝	pong
+稝	peng
 稞	ke
 稟	bin
 稟	bing
@@ -14907,7 +14905,7 @@ use_preset_vocabulary: true
 竺	du	0%
 竺	zhu	100%
 竻	le
-竼	pong
+竼	peng
 竽	v
 竾	ch
 竾	di
@@ -15604,7 +15602,7 @@ use_preset_vocabulary: true
 絡	luo	99.03%
 絢	hvwn
 絣	bing
-絣	bong
+絣	beng
 絣	ping
 絤	siwn
 絥	fu
@@ -15700,7 +15698,7 @@ use_preset_vocabulary: true
 綰	uwn	100%
 綱	gang
 網	uang
-綳	bong
+綳	beng
 綴	chuo	0%
 綴	zhuwi	100%
 綵	cai
@@ -15880,7 +15878,7 @@ use_preset_vocabulary: true
 繁	puo	0.14%
 繂	lv
 繂	shuai
-繃	bong
+繃	beng
 繄	i
 繅	sau
 繆	miau	32.77%
@@ -16081,7 +16079,7 @@ use_preset_vocabulary: true
 维	uwi
 绵	miwn
 绶	shou
-绷	bong
+绷	beng
 绸	chou
 绺	liou
 绻	qvwn
@@ -16649,7 +16647,7 @@ use_preset_vocabulary: true
 胑	zh
 胒	yi
 胓	ping
-胓	pong
+胓	peng
 胔	z
 胕	fu
 胖	pang	99.35%
@@ -16906,7 +16904,7 @@ use_preset_vocabulary: true
 膦	lin
 膦	liwn
 膧	tong
-膨	pong
+膨	peng
 膩	yi
 膪	zhai
 膫	liau
@@ -17112,7 +17110,7 @@ use_preset_vocabulary: true
 艇	ting
 艉	uwi
 艊	buo
-艋	mong
+艋	meng
 艌	qiwn
 艎	huang
 艏	shou
@@ -17498,7 +17496,7 @@ use_preset_vocabulary: true
 莒	gv
 莒	lv
 莓	mwi
-莔	mong
+莔	meng
 莕	hing
 莖	ging
 莗	che
@@ -17641,7 +17639,7 @@ use_preset_vocabulary: true
 萊	lai
 萋	ci
 萌	ming	0%
-萌	mong	100%
+萌	meng	100%
 萍	ping
 萎	uwi
 萏	dwm
@@ -18017,7 +18015,7 @@ use_preset_vocabulary: true
 蕂	sheng
 蕃	buo
 蕃	fwn
-蕄	mong
+蕄	meng
 蕅	ou
 蕆	chwn
 蕇	diwn
@@ -18393,7 +18391,7 @@ use_preset_vocabulary: true
 虹	hong	99.81%
 虹	ziang	0.19%
 虺	huwi
-虻	mong
+虻	meng
 虼	ge
 虽	suwi
 虾	hia	95.70%
@@ -18606,7 +18604,7 @@ use_preset_vocabulary: true
 蜡	cha
 蜡	la	99.56%
 蜡	zha
-蜢	mong
+蜢	meng
 蜣	kiang
 蜤	s
 蜥	xi
@@ -18702,7 +18700,7 @@ use_preset_vocabulary: true
 蝮	fu
 蝯	vwn
 蝰	kuwi
-蝱	mong
+蝱	meng
 蝲	la
 蝳	du
 蝴	hu
@@ -18829,8 +18827,8 @@ use_preset_vocabulary: true
 蟗	qiou
 蟘	te
 蟙	zh
-蟚	pong
-蟛	pong
+蟚	peng
+蟛	peng
 蟜	jiau
 蟜	qiau
 蟝	qv
@@ -19689,7 +19687,7 @@ use_preset_vocabulary: true
 詿	gua
 誀	ch
 誀	er
-誁	bong
+誁	beng
 誂	diau
 誂	tiau
 誃	ch
@@ -20242,7 +20240,6 @@ use_preset_vocabulary: true
 豈	ki	100%
 豉	ch
 豉	sh
-豊	fong
 豊	li
 豋	deng
 豌	uwn
@@ -20759,7 +20756,7 @@ use_preset_vocabulary: true
 跭	xiang
 跮	ch
 路	lu
-跰	bong
+跰	beng
 跰	piwn
 跱	zh
 跲	jia
@@ -20841,7 +20838,7 @@ use_preset_vocabulary: true
 踨	zong
 踩	cai
 踪	zong
-踫	pong
+踫	peng
 踫	pwn
 踬	zh
 踮	diwn
@@ -20918,7 +20915,7 @@ use_preset_vocabulary: true
 蹣	pwn
 蹤	zong
 蹥	liwn
-蹦	bong
+蹦	beng
 蹧	zau
 蹨	rhwn
 蹨	yiwn
@@ -21067,7 +21064,7 @@ use_preset_vocabulary: true
 軬	fwn
 軭	kuang
 軮	ang
-軯	pong
+軯	peng
 軰	bwi
 軱	gu
 軲	gu
@@ -21132,7 +21129,7 @@ use_preset_vocabulary: true
 輠	guo
 輡	kwm
 輢	i
-輣	pong
+輣	peng
 輤	qing
 輤	qiwn
 輥	guen
@@ -21372,7 +21369,7 @@ use_preset_vocabulary: true
 迶	iou
 迷	mi
 迸	bing	0%
-迸	bong	100%
+迸	beng	100%
 迹	zi
 迺	nai
 迻	i
@@ -21438,7 +21435,7 @@ use_preset_vocabulary: true
 逪	cuo
 逫	jvw
 逬	bing
-逬	bong
+逬	beng
 逭	guwn
 逭	huwn
 逮	dai	100%
@@ -21757,7 +21754,7 @@ use_preset_vocabulary: true
 鄱	buo
 鄱	puo
 鄲	dwn
-鄳	mong
+鄳	meng
 鄴	iw
 鄵	cau
 鄵	zau
@@ -22321,7 +22318,7 @@ use_preset_vocabulary: true
 錉	min
 錊	zu
 錊	zuwi
-錋	pong
+錋	peng
 錌	wn
 錍	bwi
 錍	pi
@@ -22376,7 +22373,7 @@ use_preset_vocabulary: true
 錰	shu
 錱	zhen
 録	lu
-錳	mong
+錳	meng
 錴	lu
 錵	hua
 錶	biau
@@ -22597,7 +22594,7 @@ use_preset_vocabulary: true
 鏬	xia
 鏭	xi
 鏮	kang
-鏰	bong
+鏰	beng
 鏳	cheng
 鏳	zheng
 鏴	lu
@@ -22928,7 +22925,7 @@ use_preset_vocabulary: true
 锭	ding
 键	giwn
 锯	gv
-锰	mong
+锰	meng
 锱	z
 锲	kiw
 锴	kai
@@ -22968,7 +22965,7 @@ use_preset_vocabulary: true
 镖	biau
 镗	tang
 镘	mwn
-镚	bong
+镚	beng
 镛	vong
 镜	ging
 镝	di
@@ -23019,7 +23016,7 @@ use_preset_vocabulary: true
 閉	bi
 開	kai
 閌	kang
-閍	bong
+閍	beng
 閍	fang
 閎	hong
 閏	rhuen
@@ -23033,7 +23030,7 @@ use_preset_vocabulary: true
 閘	zha
 閙	nau
 閚	zhwn
-閛	pong
+閛	peng
 閜	e
 閜	ke
 閜	xia
@@ -24309,7 +24306,7 @@ use_preset_vocabulary: true
 駊	puo
 駋	zhau
 駌	vwn
-駍	pong
+駍	peng
 駎	zhou
 駏	gv
 駐	zhu
@@ -24423,7 +24420,7 @@ use_preset_vocabulary: true
 騭	zh
 騮	liou
 騯	bang
-騯	pong
+騯	peng
 騰	teng
 騱	xi
 騲	cau
@@ -24656,7 +24653,7 @@ use_preset_vocabulary: true
 鬂	bin
 鬃	zong
 鬄	ti
-鬅	pong
+鬅	peng
 鬆	song
 鬇	zheng
 鬈	gvwn
@@ -24934,7 +24931,7 @@ use_preset_vocabulary: true
 鯪	ling
 鯫	zou
 鯬	li
-鯭	mong
+鯭	meng
 鯮	zong
 鯯	ji
 鯰	yiwn
@@ -25305,7 +25302,7 @@ use_preset_vocabulary: true
 鵩	fu
 鵪	wn
 鵫	zhau
-鵬	pong
+鵬	peng
 鵭	jin
 鵭	qiwn
 鵮	qiwm
@@ -25569,7 +25566,7 @@ use_preset_vocabulary: true
 鹌	wn
 鹍	kuen
 鹎	bwi
-鹏	pong
+鹏	peng
 鹑	chuen
 鹕	hu
 鹗	e
@@ -25770,7 +25767,7 @@ use_preset_vocabulary: true
 鼃	ua
 鼄	zhu
 鼅	zh
-鼆	mong
+鼆	meng
 鼇	au
 鼈	biw
 鼉	tuo
@@ -26017,7 +26014,7 @@ use_preset_vocabulary: true
 𢔶	dwi
 𢕎	zhang
 𢕔	zhang
-𢕙	mong
+𢕙	meng
 𢕚	di
 𢕞	zh
 𢕮	zha
@@ -27448,7 +27445,7 @@ use_preset_vocabulary: true
 伯納	buo na
 伯羅	buo luo
 伯羅奔尼撒半島	buo luo ben yi sa bwn dau
-伯羅奔尼撒同盟	buo luo ben yi sa tong mong
+伯羅奔尼撒同盟	buo luo ben yi sa tong meng
 伯羅奔尼撒戰爭	buo luo ben yi sa zhwn zheng
 伯舅	buo giou
 伯舒拉嶺	buo shu la ling
@@ -28145,7 +28142,7 @@ use_preset_vocabulary: true
 全國各地	cvwn guo ge di
 全彩乾式印表機	cvwn cai gwn sh in biau gi
 全影	cvwn ing
-全影聯盟	cvwn ing liwn mong
+全影聯盟	cvwn ing liwn meng
 全新	cvwn sin
 全武行	cvwn u hang
 全盛	cvwn sheng
@@ -28769,7 +28766,7 @@ use_preset_vocabulary: true
 加氯量	gia lv liang
 加法	gia fa
 加班	gia bwn
-加盟	gia mong
+加盟	gia meng
 加給	gia gi
 加載	gia zai
 加速	gia su
@@ -28958,7 +28955,7 @@ use_preset_vocabulary: true
 千里之堤	ciwn li zh di
 千里之堤	ciwn li zh ti
 千里之行	ciwn li zh hing
-千里搭長棚	ciwn li da chang pong
+千里搭長棚	ciwn li da chang peng
 千里移檄	ciwn li i hi
 千里迢迢	ciwn li tiau tiau
 千里迢遙	ciwn li tiau iau
@@ -29456,8 +29453,8 @@ use_preset_vocabulary: true
 吉祥	gi siang
 吉羊	gi xiang
 吉藏	gi zang
-吊拷絣把	diau kau bong ba
-吊拷繃扒	diau kau bong ba
+吊拷絣把	diau kau beng ba
+吊拷繃扒	diau kau beng ba
 同仇	tong chou
 同仇敵愾	tong chou di kai
 同位角	tong uwi giau
@@ -30183,7 +30180,7 @@ use_preset_vocabulary: true
 噱頭	hvw tou
 噲伍	kuai u
 噲噲	kuai kuai
-噴射泵	pen she bong
+噴射泵	pen she beng
 噴薄	pen buo
 噴薄欲出	pen buo v chu
 噶倫	ge luen
@@ -30499,7 +30496,7 @@ use_preset_vocabulary: true
 地址	di zh
 地址欄	di zh lwn
 地坪	di ping
-地坼天崩	di che tiwn bong
+地坼天崩	di che tiwn beng
 地域	di v
 地域性	di v sing
 地域觀念	di v guwn yiwm
@@ -30514,7 +30511,7 @@ use_preset_vocabulary: true
 地層	di ceng
 地層下陷	di ceng hia hiwm
 地峽	di hia
-地崩山摧	di bong shwn cuwi
+地崩山摧	di beng shwn cuwi
 地市	di sh
 地師	di sh
 地帶	di dai
@@ -30665,7 +30662,7 @@ use_preset_vocabulary: true
 地衣	di i
 地表	di biau
 地被	di bwi
-地裂山崩	di liw shwn bong
+地裂山崩	di liw shwn beng
 地裏	di li
 地裏鬼	di li guwi
 地覆天翻	di fu tiwn fwn
@@ -30825,7 +30822,7 @@ use_preset_vocabulary: true
 堅持	giwn ch
 堆山塞海	duwi shwn se hai
 堆貯	duwi zhu
-堋的	pong di
+堋的	peng di
 堡砦	bau zhai
 堤壩	di ba
 堤壩	ti ba
@@ -31169,7 +31166,7 @@ use_preset_vocabulary: true
 大羹玄酒	tai geng hvwn ziou
 大老闆	da lau bwn
 大耋	da diw
-大肆抨擊	da s pong gi
+大肆抨擊	da s peng gi
 大腦出血性中風	da nau chu hiw sing zhong fong
 大腦出血性中風	da nau chu hvw sing zhong fong
 大腹便便	da fu piwn piwn
@@ -31235,7 +31232,7 @@ use_preset_vocabulary: true
 大陸板塊	da lu bwn kuai
 大陸架	da lu gia
 大陸棉	da lu miwn
-大陸棚	da lu pong
+大陸棚	da lu peng
 大陸氣團	da lu ki tuwn
 大陸法系	da lu fa hi
 大陸海	da lu hai
@@ -31289,8 +31286,8 @@ use_preset_vocabulary: true
 天官賜福	tiwn guwn c fu
 天官賜福	tiwn guwn s fu
 天寒地凍	tiwn hwn di dong
-天崩地塌	tiwn bong di ta
-天崩地裂	tiwn bong di liw
+天崩地塌	tiwn beng di ta
+天崩地裂	tiwn beng di liw
 天差地別	tiwn cha di biw
 天差地遠	tiwn cha di vwn
 天干地支	tiwn gwn di zh
@@ -31448,7 +31445,7 @@ use_preset_vocabulary: true
 奓着膽子	zha zhe dwm z
 奓靡	she mi
 奔潰	ben kuwi
-奔騰澎湃	ben teng pong pai
+奔騰澎湃	ben teng peng pai
 奕訢	i xin
 套調	tau diau
 奠地	diwn di
@@ -31760,8 +31757,8 @@ use_preset_vocabulary: true
 孝行	hiau hing
 孝行可嘉	hiau hing ke gia
 孝重千斤	hiau zhong ciwn gin
-孟什維克	mong sh uwi ke
-孟賁	mong ben
+孟什維克	meng sh uwi ke
+孟賁	meng ben
 季度	gi du
 孤棲	gu ci
 孤眠獨宿	gu miwn du su
@@ -32246,7 +32243,7 @@ use_preset_vocabulary: true
 尤袤	iou mau
 尨然	pang rhwn
 尨眉皓髮	pang mwi hau fa
-尨茸	mong rhong
+尨茸	meng rhong
 尪仔標	uang z biau
 就像	ziou siang
 就在	ziou zai
@@ -32381,9 +32378,9 @@ use_preset_vocabulary: true
 山坡地	shwn puo di
 山坡地保育	shwn puo di bau v
 山崖	shwn iai
-山崩地坼	shwn bong di che
-山崩地裂	shwn bong di liw
-山崩地陷	shwn bong di hiwm
+山崩地坼	shwn beng di che
+山崩地裂	shwn beng di liw
+山崩地陷	shwn beng di hiwm
 山搖地動	shwn iau di dong
 山旮旯子	shwn ga la z
 山有樞	shwn iou shu
@@ -32447,10 +32444,10 @@ use_preset_vocabulary: true
 崞縣	guo hiwn
 崢嶸	zheng rhong
 崢嶸歲月	zheng rhong suwi vw
-崩潰	bong kuwi
-崩角	bong giau
-崩阤	bong zh
-崩陷	bong hiwm
+崩潰	beng kuwi
+崩角	beng giau
+崩阤	beng zh
+崩陷	beng hiwm
 崴嵬	uwi uwi
 崴拉骨	uwi la gu
 嵂崒	lv zu
@@ -32855,7 +32852,7 @@ use_preset_vocabulary: true
 弁髦	biwn mau
 弄乾坤	nong kiwn kuen
 弄月摶風	nong vw tuwn fong
-弄甏	nong pong
+弄甏	nong peng
 弄粉調朱	nong fen tiau zhu
 弄腔調	nong kiang diau
 弊衣簞食	bi i dwn s
@@ -32863,7 +32860,7 @@ use_preset_vocabulary: true
 弓上弦	gong shang hiwn
 弓弦	gong hiwn
 弓調馬服	gong tiau ma fu
-弔拷繃扒	diau kau bong ba
+弔拷繃扒	diau kau beng ba
 弔膀子	diau bang z
 引吭	in hang
 引吭高歌	in hang gau ge
@@ -32940,8 +32937,8 @@ use_preset_vocabulary: true
 強顏	giang iwn
 強顏	kiang iwn
 強龍不壓地頭蛇	kiang long bu ia di tou she
-弸中彪外	pong zhong biau uai
-弸弓	pong gong
+弸中彪外	peng zhong biau uai
+弸弓	peng gong
 彀率	gou lv
 彆強	biw giang
 彆拗	biw yiou
@@ -33053,8 +33050,8 @@ use_preset_vocabulary: true
 彩塑	cai su
 彩調	cai diau
 彫章鏤句	diau zhang lou gv
-彭湃	pong pai
-彭聃	pong dwm
+彭湃	peng pai
+彭聃	peng dwm
 彰明較著	zhang ming giau zhu
 彰著	zhang zhu
 彰露	zhang lu
@@ -33251,7 +33248,7 @@ use_preset_vocabulary: true
 心懸兩地	sim hvwn liang di
 心旌搖曳	sim zing iau i
 心旌搖曳	sim zing iau iw
-心潮澎湃	sim chau pong pai
+心潮澎湃	sim chau peng pai
 心焦如火	sim ziau rhu fen
 心率	sim lv
 心病還得心藥醫	sim bing hai dwi sim iau i
@@ -33601,7 +33598,7 @@ use_preset_vocabulary: true
 愕眙	e ch
 愚懦	v nuo
 愚戇	v zhuang
-愚氓	v mong
+愚氓	v meng
 愛國者飛彈	ai guo zhe fwi dwn
 愛心刮刮樂	ai sim gua gua le
 愛新覺羅	ai sin gvw luo
@@ -33928,7 +33925,7 @@ use_preset_vocabulary: true
 扎根	zha gen
 扎槍	zha ciang
 扎煞	zha sha
-扎猛子	zha mong z
+扎猛子	zha meng z
 扎眉扎眼	zha mwi zha iwn
 扎眼	zha iwn
 扎空槍	zha kong ciang
@@ -34135,8 +34132,8 @@ use_preset_vocabulary: true
 折耗	zhe hau
 折肱	zhe gong
 折長補短	zhe chang bu duwn
-抨彈	pong twn
-抨擊	pong gi
+抨彈	peng twn
+抨擊	peng gi
 披亞諾	pi ia nuo
 披剃	pi ti
 披卷	pi gvwn
@@ -34489,7 +34486,7 @@ use_preset_vocabulary: true
 持續增長	ch sv zeng zhang
 持行	ch hing
 持重	ch zhong
-指地爲盟	zh di uwi mong
+指地爲盟	zh di uwi meng
 指天畫地	zh tiwn hua di
 指天說地	zh tiwn shuo di
 指沓	zh ta
@@ -34533,7 +34530,7 @@ use_preset_vocabulary: true
 挾持	hiw ch
 挾擊	hiw gi
 挾書律	hiw shu lv
-挾朋樹黨	hiw pong shu dang
+挾朋樹黨	hiw peng shu dang
 挾權倚勢	hiw kvwn i sh
 挾泰山超北海	hiw tai shwn chau bwi hai
 挾細拿粗	hiw si na cu
@@ -35239,7 +35236,7 @@ use_preset_vocabulary: true
 攪蛆扒	giau cv pa
 攪計	giau gi
 攪鬼	giau guwi
-攫戾執猛	gvw li zh mong
+攫戾執猛	gvw li zh meng
 攬轡澄清	lwm pwi cheng cing
 攮包	nang bau
 攮嗓	nang sang
@@ -36018,8 +36015,8 @@ use_preset_vocabulary: true
 有隙	iou hi
 有隙可乘	iou hi ke cheng
 有鬼似的	iou guwi sh de
-朋儕	pong chai
-朋比作仇	pong bi zuo chou
+朋儕	peng chai
+朋比作仇	peng bi zuo chou
 服低捋	fu di le
 服務器	fu u ki
 服務行業	fu u hang iw
@@ -36311,7 +36308,7 @@ use_preset_vocabulary: true
 東朝	dong chau
 東柏林	dong buo lin
 東瓜茄子	dong gua kiw z
-東碰西撞	dong pong si zhuang
+東碰西撞	dong peng si zhuang
 東穿西撞	dong chuwn si zhuang
 東莞	dong guwn
 東莞市	dong guwn sh
@@ -36640,8 +36637,8 @@ use_preset_vocabulary: true
 棉都	miwn du
 棋高一着	ki gau i zhuo
 棒打薄情郎	bang da buo cing lang
-棚圈	pong gvwn
-棟折榱崩	dong zhe cuwi bong
+棚圈	peng gvwn
+棟折榱崩	dong zhe cuwi beng
 棠棣	tang di
 棠棣競秀	tang di ging siou
 棠谿	tang xi
@@ -36680,7 +36677,7 @@ use_preset_vocabulary: true
 椎拍輐斷	zhuwi pai uwn duwn
 椎輪大輅	zhuwi luen da lu
 椑柿	bwi sh
-椪柑	pong gwm
+椪柑	peng gwm
 椹質	zhen zh
 椽子	chuwn z
 椽木	chuwn mu
@@ -36733,23 +36730,23 @@ use_preset_vocabulary: true
 榆塞	v sai
 榆瞑豆重	v miwn dou zhong
 榜上無名	bang shang u ming
-榜人	bong rhen
+榜人	beng rhen
 榜單	bang dwn
-榜女	bong yv
+榜女	beng yv
 榜尾	bang uwi
 榜帖	bang tiw
 榜張	bang zhang
-榜掠	bong lvw
+榜掠	beng lvw
 榜文	bang uen
 榜書	bang shu
-榜楚	bong chu
+榜楚	beng chu
 榜樣	bang iang
-榜歌	bong ge
+榜歌	beng ge
 榜牌	bang pai
 榜眼	bang iwn
 榜示	bang sh
-榜笞	bong ch
-榜箠	bong chuwi
+榜笞	beng ch
+榜箠	beng chuwi
 榜花	bang hua
 榜額	bang e
 榜首	bang shou
@@ -36830,7 +36827,7 @@ use_preset_vocabulary: true
 樂易	le i
 樂普	le pu
 樂曲	vw kv
-樂棚	vw pong
+樂棚	vw peng
 樂業	le iw
 樂業安居	le iw wn gv
 樂極則悲	le gi ze bwi
@@ -37401,7 +37398,7 @@ use_preset_vocabulary: true
 水汀	shuwi ting
 水泄不通	shuwi siw bu tong
 水泥熟料	shuwi yi shou liau
-水泵	shuwi bong
+水泵	shuwi beng
 水源地	shuwi vwn di
 水滸	shuwi hu
 水滸傳	shuwi hu zhuwn
@@ -37417,7 +37414,7 @@ use_preset_vocabulary: true
 水過地皮溼	shuwi guo di pi sh
 水遠山長	shuwi vwn shwn chang
 水都	shuwi du
-水錘泵	shuwi chuwi bong
+水錘泵	shuwi chuwi beng
 水長船高	shuwi zhang chuwn gau
 水門汀	shuwi men ting
 水陸	shuwi lu
@@ -37716,7 +37713,7 @@ use_preset_vocabulary: true
 油柑	iou gwm
 油棹	iou zhuo
 油氣彈	iou ki dwn
-油泵	iou bong
+油泵	iou beng
 油煠	iou zha
 油煠糊猻	iou zha hu suen
 油碧幢	iou bi chuang
@@ -37776,8 +37773,8 @@ use_preset_vocabulary: true
 法律不溯既往原則	fa lv bu su gi uang vwn ze
 法律行爲	fa lv hing uwi
 法藏	fa zang
-泙泙	pong pong
-泙湃	pong pai
+泙泙	peng peng
+泙湃	peng pai
 泛珠三角	fwm zhu swm giau
 泛駕	fong gia
 泜泜	ch ch
@@ -37824,7 +37821,7 @@ use_preset_vocabulary: true
 泰阿	tai e
 泰阿倒持	tai e dau ch
 泱軋	iang ia
-泵浦	bong pu
+泵浦	beng pu
 洋乾漆	iang gwn ci
 洋勁	iang ging
 洋商陸	iang shang lu
@@ -37865,7 +37862,7 @@ use_preset_vocabulary: true
 洲際飛彈	zhou zi fwi dwn
 洴澼絖	ping pi kuang
 洴澼藥	ping pi iau
-洶涌澎湃	xvong vong pong pai
+洶涌澎湃	xvong vong peng pai
 洸洋	guang iang
 洸洸	guang guang
 洸洸	huang huang
@@ -37956,7 +37953,7 @@ use_preset_vocabulary: true
 浩浩湯湯	hau hau shang shang
 浪泊	lang buo
 浪漫樂派	lang mwn vw pai
-浪濤澎湃	lang tau pong pai
+浪濤澎湃	lang tau peng pai
 浪蕩乾坤	lang dang kiwn kuen
 浮來暫去	fu lai zwm kv
 浮光掠影	fu guang lvw ing
@@ -38443,7 +38440,7 @@ use_preset_vocabulary: true
 潰爛	kuwi lwn
 潰瘍	kuwi iang
 潰癰	kuwi vong
-潰盟	kuwi mong
+潰盟	kuwi meng
 潰逃	kuwi tau
 潸泫	shwn hvwn
 澀訥	se ne
@@ -38467,8 +38464,8 @@ use_preset_vocabulary: true
 澆弛	giau sh
 澆薄	giau buo
 澆風薄俗	giau fong buo su
-澎湃	pong pai
-澎濞	pong pi
+澎湃	peng pai
+澎濞	peng pi
 澒洞	hong tong
 澒溶	hong rhong
 澒濛	hong mong
@@ -38484,7 +38481,7 @@ use_preset_vocabulary: true
 澤被	ze pi
 澤陂	ze pi
 澶淵	chwn vwn
-澶淵之盟	chwn vwn zh mong
+澶淵之盟	chwn vwn zh meng
 澶湉	chwn tiwm
 澶漫	chwn mwn
 澹彩	dwm cai
@@ -38609,8 +38606,8 @@ use_preset_vocabulary: true
 烜赫一時	xvwn he i sh
 烝禋	zheng in
 烴基	ting gi
-烹犬藏弓	pong kvwn cang gong
-烹調	pong tiau
+烹犬藏弓	peng kvwn cang gong
+烹調	peng tiau
 焄蒿	xvin hau
 焌油	zvin iou
 焙乾	bwi gwn
@@ -38797,7 +38794,7 @@ use_preset_vocabulary: true
 熱地	rhe di
 熱地上蚰蜒	rhe di shang iou iwn
 熱導率	rhe dau lv
-熱泵	rhe bong
+熱泵	rhe beng
 熱火朝天	rhe huo chau tiwn
 熱爪哇	rhe zhau ua
 熱爪哇	rhe zhua ua
@@ -39080,14 +39077,14 @@ use_preset_vocabulary: true
 猗萎	i uwi
 猗靡	i mi
 猗頓	i duen
-猛個勁	mong ge gin
-猛勁	mong gin
-猛地	mong de
-猛地裏	mong di li
-猛戾	mong li
-猛省	mong sing
-猛着先鞭	mong zhuo siwn biwn
-猛着祖鞭	mong zhuo zu biwn
+猛個勁	meng ge gin
+猛勁	meng gin
+猛地	meng de
+猛地裏	meng di li
+猛戾	meng li
+猛省	meng sing
+猛着先鞭	meng zhuo siwn biwn
+猛着祖鞭	meng zhuo zu biwn
 猜不着	cai bu zhau
 猜度	cai duo
 猜調	cai diau
@@ -39337,7 +39334,7 @@ use_preset_vocabulary: true
 瑣屑	suo siw
 瑤池玉液	iau ch v iw
 瑤池閬苑	iau ch lang vwn
-瑩嫇	ing mong
+瑩嫇	ing meng
 瑪莉都鐸	ma li du duo
 瑪麗蓮夢露	ma li liwn mong lu
 瑯函	lang hwm
@@ -39575,7 +39572,7 @@ use_preset_vocabulary: true
 番菜	fwn cai
 番菜館	fwn cai guwn
 番薯	fwn shu
-番薯椪餅	fwn shu pong bing
+番薯椪餅	fwn shu peng bing
 番藷	fwn shu
 番號	fwn hau
 番話	fwn hua
@@ -39998,7 +39995,7 @@ use_preset_vocabulary: true
 盛鬋	sheng jiwn
 盜跖	dau zh
 盜跖顏淵	dau zh iwn vwn
-盟長	mong zhang
+盟長	meng zhang
 盡其所長	zin ki suo chang
 盡展所長	zin zhwn suo chang
 盡情吐露	zin cing tu lu
@@ -40138,7 +40135,7 @@ use_preset_vocabulary: true
 真情流露	zhen cing liou lu
 真溶液	zhen rhong iw
 真率	zhen shuai
-真空泵	zhen kong bong
+真空泵	zhen kong beng
 真贗	zhen iwn
 真鯛	zhen diau
 眠琴綠陰	miwn kin lu in
@@ -40446,7 +40443,7 @@ use_preset_vocabulary: true
 碓梃	duwi ting
 碓聲	duwi sheng
 碗粿	uwn guo
-碟大碗小磕着碰着	diw da uwn siau ke zhau pong zhau
+碟大碗小磕着碰着	diw da uwn siau ke zhau peng zhau
 碧澄澄	bi cheng cheng
 碧血	bi hiw
 碧血	bi hvw
@@ -40455,12 +40452,12 @@ use_preset_vocabulary: true
 碧血黃花	bi hiw huang hua
 碧血黃花	bi hvw huang hua
 碪斧	zhem fu
-碰勁	pong gin
-碰和	pong hu
-碰撞	pong zhuang
-碰着	pong zhau
-碰碰和	pong pong hu
-碰運氣	pong vin ki
+碰勁	peng gin
+碰和	peng hu
+碰撞	peng zhuang
+碰着	peng zhau
+碰碰和	peng peng hu
+碰運氣	peng vin ki
 碳纖維	twn siwm uwi
 確保	kvw bau
 確定	kvw ding
@@ -40612,12 +40609,12 @@ use_preset_vocabulary: true
 禪位	shwn uwi
 禪讓	shwn rhang
 禬禳	guwi rhang
-禮壞樂崩	li huai vw bong
+禮壞樂崩	li huai vw beng
 禮壞樂缺	li huai vw kvw
-禮崩樂壞	li bong vw huai
-禮廢樂崩	li fwi vw bong
+禮崩樂壞	li beng vw huai
+禮廢樂崩	li fwi vw beng
 禮樂	li vw
-禮樂崩壞	li vw bong huai
+禮樂崩壞	li vw beng huai
 禮樂爲鉤	li vw uwi gou
 禮聘	li pin
 禮行貨	li hing huo
@@ -41249,8 +41246,8 @@ use_preset_vocabulary: true
 絡頭	lau tou
 絡頭	luo tou
 絢麗	hvwn li
-絣扒	bong ba
-絣扒吊拷	bong ba diau kau
+絣扒	beng ba
+絣扒吊拷	beng ba diau kau
 給予	gi v
 給予	gwi v
 給事中	gi sh zhong
@@ -41390,7 +41387,7 @@ use_preset_vocabulary: true
 緣覺	vwn gvw
 編削	biwn svw
 編寫	biwn siw
-編氓	biwn mong
+編氓	biwn meng
 編緝	biwn ci
 編緝	biwn zi
 編著	biwn zhu
@@ -41495,9 +41492,9 @@ use_preset_vocabulary: true
 繁臺	puo tai
 繁重	fwn zhong
 繁露	fwn lu
-繃扒	bong ba
-繃扒吊拷	bong ba diau kau
-繃扒弔拷	bong ba diau kau
+繃扒	beng ba
+繃扒吊拷	beng ba diau kau
+繃扒弔拷	beng ba diau kau
 繄袼	i luo
 繆以千里	miou i ciwn li
 繆學	miou hvw
@@ -42352,7 +42349,7 @@ use_preset_vocabulary: true
 船孃	chuwn yiang
 船舷	chuwn hiwn
 船長	chuwn zhang
-艋舺	mong hia
+艋舺	meng hia
 艦長	giwm zhang
 艨艟	mong tong
 良价	liang giw
@@ -43281,7 +43278,7 @@ use_preset_vocabulary: true
 蟋蟀	si shuai
 蟋蟀草	si shuai cau
 蟑螂	zhang lang
-蟛螖	pong hua
+蟛螖	peng hua
 蟠虯紋	pwn kiou uen
 蟠螭紋	pwn ch uen
 蟬蛻	chwn tuwi
@@ -43373,8 +43370,8 @@ use_preset_vocabulary: true
 血小板	hvw siau bwn
 血尿	hiw yiau
 血尿	hvw yiau
-血崩	hiw bong
-血崩	hvw bong
+血崩	hiw beng
+血崩	hvw beng
 血庫	hiw ku
 血庫	hvw ku
 血循環	hiw svin huwn
@@ -44439,7 +44436,7 @@ use_preset_vocabulary: true
 詩伯	sh buo
 詩書禮樂	sh shu li vw
 詩讖	sh chen
-詩酒朋儕	sh ziou pong chai
+詩酒朋儕	sh ziou peng chai
 詭怪奇譎	guwi guai ki gvw
 詭戾	guwi li
 詭祕	guwi mi
@@ -45244,7 +45241,7 @@ use_preset_vocabulary: true
 趕緊	gwn gin
 趙令畤	zhau ling zh
 趙伯駒	zhau buo gv
-趙孟頫	zhau mong fu
+趙孟頫	zhau meng fu
 趙曄	zhau iw
 趙衰	zhau cuwi
 趨之若鶩	cv zh rhuo u
@@ -45395,7 +45392,7 @@ use_preset_vocabulary: true
 蹢躅	zh zhu
 蹣跚	pwn shwn
 蹣跼	pwn jv
-蹦躂	bong ta
+蹦躂	beng ta
 蹩躠	biw sa
 蹶角	gvw gvw
 蹺敧	kiau qi
@@ -45471,7 +45468,7 @@ use_preset_vocabulary: true
 車如雞棲馬如狗	che rhu gi ci ma rhu gou
 車桑仔	che sang z
 車殆馬煩	che dai ma fwn
-車笠之盟	che li zh mong
+車笠之盟	che li zh meng
 車舝	che xia
 車行	che hang
 車裂	che liw
@@ -45588,7 +45585,7 @@ use_preset_vocabulary: true
 輜重	z zhong
 輝長岩	huwi chang iwm
 輟食吐哺	chuo sh tu bu
-輣軋	pong ia
+輣軋	peng ia
 輥軋	guen ia
 輩行	bwi hang
 輪掣	luen che
@@ -47477,7 +47474,7 @@ use_preset_vocabulary: true
 阿拉伯數字	a la buo shu z
 阿拉伯沙漠	a la buo sha muo
 阿拉伯聯合大公國	a la buo liwn he da gong guo
-阿拉伯聯盟	a la buo liwn mong
+阿拉伯聯盟	a la buo liwn meng
 阿拉伯膠	a la buo giau
 阿拉伯膠樹	a la buo giau shu
 阿拉伯語	a la buo v
@@ -47625,7 +47622,7 @@ use_preset_vocabulary: true
 陸抗	lu kang
 陸架	lu gia
 陸梁	lu liang
-陸棚	lu pong
+陸棚	lu peng
 陸橋	lu kiau
 陸機	lu gi
 陸毅	lu i
@@ -47821,7 +47818,7 @@ use_preset_vocabulary: true
 離婁之明	li lou zh ming
 離婚率	li huen lv
 離心	li sim
-離心泵	li sim bong
+離心泵	li sim beng
 離心率	li sim lv
 離披	li pi
 離校	li hiau
@@ -48707,7 +48704,7 @@ use_preset_vocabulary: true
 髮癬	fa siwn
 髮短心長	fa duwn sim chang
 髿髿	suo suo
-鬅鬙	pong seng
+鬅鬙	peng seng
 鬆勁	song gin
 鬆弛	song ch
 鬈曲	kvwn kv
@@ -48852,7 +48849,7 @@ use_preset_vocabulary: true
 鴟張	ch zhang
 鴟得腐鼠	ch de fu shu
 鴟梟	ch hiau
-鴟甍	ch mong
+鴟甍	ch meng
 鴟目虎吻	ch mu hu uen
 鴟視	ch sh
 鴟蹲	ch cuen
@@ -48886,7 +48883,7 @@ use_preset_vocabulary: true
 鵠面鳩形	hu miwn giou hing
 鵠髮	hu fa
 鵧鷑	ping li
-鵬摶	pong tuwn
+鵬摶	peng tuwn
 鵰心雁爪	diau sim iwn zhau
 鵰心雁爪	diau sim iwn zhua
 鵷行	vwn hang
