@@ -1,0 +1,9 @@
+#!/bin/bash
+
+rm ~/.config/fcitx/rime/*.bin >/dev/null 2>&1;
+rm ~/.config/fcitx/rime/*userdb* >/dev/null 2>&1;
+rime_deployer --build ~/.config/fcitx/rime/ /usr/share/rime-data/;
+fcitx -rd & >/dev/null 2>&1;
+
+exit 0;
+
