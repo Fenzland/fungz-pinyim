@@ -103,7 +103,7 @@ speller:
 translator:
   dictionary: fongz_pinin
   preedit_format:
-    - xform/v/ü/
+    - xform/U/ü/
     - xform/w/ə/
     - xform/y/ñ/
     - xform/ng/ŋ/
