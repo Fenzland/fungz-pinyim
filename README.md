@@ -61,7 +61,9 @@ bo    ->  buo
 po    ->  puo
 mo    ->  muo
 fo    ->  fuo
+fu    ->  f
 feng  ->  fong
+ueng  ->  uong
 ni    ->  ñi
 nü    ->  ñü
 iong  ->  üong
@@ -74,7 +76,7 @@ iong  ->  üong
 
 已完成
 
-* [bpmf]eng和[bpmfong]的區分
+* [bpmfu]eng和[bpmfu]ong的區分
 
 進行中
 
