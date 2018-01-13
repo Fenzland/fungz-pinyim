@@ -36,6 +36,23 @@ use_preset_vocabulary: true
 
 ⿔	guwi
 〇	ling
+ㄅ	b
+ㄆ	p
+ㄇ	m
+ㄈ	f
+ㄪ	v
+ㄉ	d
+ㄊ	t
+ㄋ	n
+ㄌ	l
+ㄍ	g
+ㄎ	k
+ㄫ	ng
+ㄏ	h
+ㄐ	j
+ㄑ	q
+ㄬ	y
+ㄒ	x
 ㄓ	zh
 ㄔ	ch
 ㄕ	sh
@@ -43,6 +60,9 @@ use_preset_vocabulary: true
 ㄗ	z
 ㄘ	c
 ㄙ	s
+ㄧ	i
+ㄨ	u
+ㄩ	U
 ㄚ	a
 ㄛ	o
 ㄜ	e
@@ -56,9 +76,6 @@ use_preset_vocabulary: true
 ㄤ	ang
 ㄥ	eng
 ㄦ	er
-ㄧ	i
-ㄨ	u
-ㄩ	v
 㐀	qiou
 㐁	tiwn
 㐄	kua
