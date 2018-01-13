@@ -182,11 +182,11 @@ ai,uai,
 əi,uəi,
 au,iau,
 ou,iou,
-en,uen,
+en,uen,ueŋ
 ən,iən,üən,uən,
 in,üin,
 aŋ,iaŋ,uaŋ，
-oŋ,ioŋ,uoŋ,
+oŋ,üoŋ,uoŋ,
 eŋ,
 iŋ,
 er,
