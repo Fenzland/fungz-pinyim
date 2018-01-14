@@ -11198,17 +11198,17 @@ use_preset_vocabulary: true
 滽	Uong
 滾	guen
 滿	mwn
-漀	qing
+漀	king
 漁	U
 漂	piau
-漃	ji
+漃	zi
 漄	ia
 漅	chau
 漅	ziau
 漆	ci	99%
 漆	cU	1%
-漇	xi
-漈	ji
+漇	si
+漈	zi
 漉	lu
 漊	lou
 漊	lU
@@ -11219,19 +11219,19 @@ use_preset_vocabulary: true
 漏	lou
 漐	zh
 漑	gai
-漒	qiang
+漒	kiang
 漓	li
 演	iwn
 漕	cau	100%
 漕	zau	0%
-漖	jiau
+漖	giau
 漗	cong
 漘	chuen
 漙	tuwn
 漚	ou
 漛	teng
 漜	iw
-漝	xi
+漝	si
 漞	mi
 漟	tang
 漠	muo
@@ -11280,13 +11280,13 @@ use_preset_vocabulary: true
 潀	zhong
 潁	ing
 潂	hong
-潃	xiou
+潃	siou
 潄	shu
 潄	sou
 潅	guwn
 潆	ing
 潇	siau
-潊	xU
+潊	sU
 潋	liwm
 潍	uwi
 潎	pi
@@ -11356,7 +11356,7 @@ use_preset_vocabulary: true
 澁	se
 澂	cheng
 澂	zheng
-澃	jUong
+澃	gUong
 澄	cheng	94.06%
 澄	deng	5.94%
 澅	hua
@@ -11384,7 +11384,7 @@ use_preset_vocabulary: true
 澖	hiwn
 澗	giwn
 澘	shwn
-澙	xi
+澙	si
 澜	lwn
 澞	U
 澟	lim
@@ -11414,7 +11414,7 @@ use_preset_vocabulary: true
 澳	au	100%
 澳	U	0%
 澴	huwn
-澵	qin
+澵	cin
 澵	zhen
 澶	chwn
 澶	cwn
@@ -11466,8 +11466,7 @@ use_preset_vocabulary: true
 濚	rhong
 濛	mong
 濜	zin
-濝	ji
-濝	qi
+濝	ki
 濞	bi
 濞	pi
 濟	zi
@@ -11482,7 +11481,7 @@ use_preset_vocabulary: true
 濧	duwi
 濨	c
 濩	huo
-濪	qing
+濪	cing
 濫	lwm
 濬	rhuwi
 濬	zUin
@@ -11497,10 +11496,8 @@ use_preset_vocabulary: true
 濱	bin	100%
 濱	pin	0%
 濲	gu
-濳	qiwn
+濳	ciwm
 濴	ing
-濴	rhong
-濴	xing
 濵	bin
 濵	pin
 濶	kuo
@@ -11531,8 +11528,7 @@ use_preset_vocabulary: true
 瀍	chwn
 瀎	miw
 瀏	liou
-瀐	jiwn
-瀐	qiwn
+瀐	ziwn
 瀑	bau	2.02%
 瀑	pu	97.98%
 瀒	se
@@ -11550,7 +11546,7 @@ use_preset_vocabulary: true
 瀛	ing
 瀜	rhong
 瀝	li
-瀞	jing
+瀞	zing
 瀟	siau
 瀠	ing
 瀡	suwi
@@ -11584,7 +11580,7 @@ use_preset_vocabulary: true
 瀺	chwm
 瀻	dai
 瀼	rhang
-瀽	jiwn
+瀽	giwn
 瀾	lwn
 瀿	fwn
 灀	shuang
@@ -11602,7 +11598,7 @@ use_preset_vocabulary: true
 灊	ciwm
 灋	fa
 灌	guwn
-灍	qUw
+灍	gUw
 灏	hau
 灑	sa
 灒	zwn
@@ -11614,8 +11610,7 @@ use_preset_vocabulary: true
 灗	shwn
 灘	twn
 灙	dang
-灚	jiau
-灚	jUw
+灚	giau
 灛	chwn
 灝	hau
 灞	ba
@@ -11629,7 +11624,7 @@ use_preset_vocabulary: true
 灥	chuwn
 灥	cUwn
 灥	sUin
-灦	xiwn
+灦	hiwn
 灧	iwm
 灨	gwm
 灩	iwm
@@ -11643,9 +11638,7 @@ use_preset_vocabulary: true
 灱	dau
 灱	kiw
 灱	hiau
-灲	dau
-灲	qiw
-灲	xiau
+灲	hiau
 灳	huwi
 灴	gang
 灴	hong
@@ -11695,14 +11688,8 @@ use_preset_vocabulary: true
 炘	hin
 炙	ziou	0%
 炙	zh	100%
-炚	geng
 炚	guang
-炚	huo
-炚	jUong
-炛	geng
 炛	guang
-炛	huo
-炛	jUong
 炜	uwi
 炝	ciang
 炟	da
@@ -11714,13 +11701,9 @@ use_preset_vocabulary: true
 炥	f
 炦	ba
 炧	duo
-炧	ta
-炧	tuo
-炧	xiw
+炧	siw
 炨	duo
-炨	ta
-炨	tuo
-炨	xiw
+炨	siw
 炩	ling
 炪	chu
 炪	zhuo
@@ -11754,15 +11737,15 @@ use_preset_vocabulary: true
 烂	lwn
 烃	ting
 烄	giau
-烅	xU
-烆	xing
-烇	qUwn
+烅	hU
+烆	hing
+烇	cUwn
 烈	liw
 烉	huwn
 烊	iang
 烋	hiau
-烌	xiou
-烍	xiwn
+烌	hiou
+烍	siwn
 烎	in
 烏	u
 烐	zhou
@@ -11805,8 +11788,8 @@ use_preset_vocabulary: true
 烮	liw
 烯	hi
 烰	f
-烱	jUong
-烲	xiw
+烱	gUong
+烲	hiw
 烲	zhe
 烳	pu
 烴	ting
@@ -11839,7 +11822,7 @@ use_preset_vocabulary: true
 焆	gUwn
 焇	siau
 焈	i
-焈	xi
+焈	hi
 焉	iwn
 焊	hwn
 焋	zhuang
@@ -11850,8 +11833,8 @@ use_preset_vocabulary: true
 焍	ti
 焎	hiw
 焎	zhe
-焏	ji
-焏	qi
+焏	gi
+焏	ki
 焐	u
 焓	hwm
 焕	huwn
@@ -11872,7 +11855,8 @@ use_preset_vocabulary: true
 無	v	100%
 焢	hong
 焢	kong
-焣	jU
+焣	chau
+焣	zU
 焤	f
 焥	uo
 焥	Uw
@@ -11882,7 +11866,7 @@ use_preset_vocabulary: true
 焪	kUong
 焫	rhe
 焫	rhuo
-焬	xi
+焬	si
 焭	kUong
 焮	hin
 焯	chuo
@@ -11891,7 +11875,7 @@ use_preset_vocabulary: true
 焱	iwm
 焲	i
 焲	iw
-焳	jUw
+焳	zUw
 焴	U
 焵	gang
 然	rhwn
@@ -11930,7 +11914,6 @@ use_preset_vocabulary: true
 煖	nuwn
 煖	hUwn	0.1%
 煗	nuwn
-煗	xUwn
 煘	chwn
 煙	iwn
 煚	gUong
@@ -11942,8 +11925,8 @@ use_preset_vocabulary: true
 煟	uwi
 煠	iw
 煠	zha
-煡	jiwn
-煡	xin
+煡	ziwn
+煡	hin
 煢	kUong
 煣	rhou
 煤	mwi
@@ -11958,7 +11941,7 @@ use_preset_vocabulary: true
 煬	iang
 煭	liw
 煮	zhu
-煯	jiw
+煯	giw
 煰	gau
 煰	pin
 煲	bau
@@ -11986,19 +11969,18 @@ use_preset_vocabulary: true
 熇	hu
 熇	kau
 熈	i
-熈	xi
+熈	hi
 熉	Uin
 熊	hUong
 熊	Uong
 熋	nai
-熋	xUong
+熋	hUong
 熌	shwn
-熍	qUong
+熍	kUong
 熎	iau
 熏	hUin
 熐	ming
 熑	liwm
-熑	qiwm
 熒	ing
 熔	rhong
 熗	ciang
@@ -12009,7 +11991,7 @@ use_preset_vocabulary: true
 熜	cong
 熜	zong
 熝	lu
-熞	jiwn
+熞	giwn
 熟	shou	12.20%
 熟	shu	87.80%
 熠	i
@@ -12019,13 +12001,12 @@ use_preset_vocabulary: true
 熣	suwi
 熤	i
 熥	tong
-熦	jUw
+熦	zUw
 熧	zong
 熨	U	50%
 熨	Uin	50%
 熩	hu
 熪	i
-熫	jiou
 熫	zh
 熬	au
 熭	uwi
@@ -12087,31 +12068,30 @@ use_preset_vocabulary: true
 燚	i
 燚	iwn
 燛	chen
-燛	jing
+燛	ging
 燜	men
 營	ing
 燠	au
 燠	U
 燡	i
-燢	xUw
+燢	hUw
 燣	lwm
 燤	tai
 燥	zau
 燦	cwn
 燧	suwi
 燨	i
-燨	xi
+燨	hi
 燩	kUw
 燪	zong
 燫	liwm
-燫	qiwm
 燬	huwi
 燭	zhu
 燮	siw
 燯	ling
 燰	uwi
 燱	i
-燲	xiw
+燲	hiw
 燳	zhau
 燴	huwi
 燸	rhu
@@ -12148,11 +12128,11 @@ use_preset_vocabulary: true
 爍	shuo
 爏	li
 爐	lu
-爑	jUw
+爑	zUw
 爒	liau
 爓	iwm
-爔	xi
-爕	xiw
+爔	hi
+爕	siw
 爖	long
 爗	hua
 爗	iw
@@ -12236,7 +12216,7 @@ use_preset_vocabulary: true
 牚	cheng
 牛	yiou
 牝	pin
-牞	jiou
+牞	giou
 牞	le
 牞	li
 牟	mou	74.56%
@@ -12335,12 +12315,10 @@ use_preset_vocabulary: true
 犯	fwm
 犰	chou
 犰	kiou
-犱	ji
+犱	gi
 犲	chai
 犳	zhuo
-犴	gwn
 犴	hwn
-犴	jiwn
 犴	wn
 犵	giw
 犵	ki
@@ -12361,7 +12339,7 @@ use_preset_vocabulary: true
 狃	yiou
 狄	di
 狅	kuang
-狅	qing
+狅	king
 狆	zhong
 狇	mu
 狈	bwi
@@ -12394,7 +12372,7 @@ use_preset_vocabulary: true
 狛	puo
 狜	gu
 狝	mi
-狝	xiwn
+狝	siwn
 狞	ying
 狟	huwn
 狟	Uwn
@@ -12408,7 +12386,7 @@ use_preset_vocabulary: true
 狣	zhau
 狤	gi
 狤	giw
-狥	xUin
+狥	sUin
 狦	shwn
 狧	ta
 狨	rhong
@@ -12439,15 +12417,15 @@ use_preset_vocabulary: true
 猀	sha
 猁	li
 猂	hwn
-猃	xiwm
-猄	jing
+猃	hiwm
+猄	ging
 猅	pai
 猆	fwi
 猇	iau
 猇	hiau
 猈	ba
 猈	pi
-猉	qi
+猉	ki
 猊	yi
 猋	biau
 猌	in
@@ -12497,7 +12475,6 @@ use_preset_vocabulary: true
 猵	biwn
 猶	iou
 猷	iou
-猷	qiou
 猸	mwi
 猹	cha
 猺	iau
@@ -12545,7 +12522,7 @@ use_preset_vocabulary: true
 獞	tong
 獞	zhuang
 獟	iau
-獟	qiau
+獟	kiau
 獠	liau
 獡	shuo
 獡	si
@@ -12592,7 +12569,6 @@ use_preset_vocabulary: true
 玃	gUw
 玄	hUwn
 玅	miau
-玅	xUwn
 玆	z
 率	lU	94.01%
 率	shuai	5.99%
@@ -12608,9 +12584,8 @@ use_preset_vocabulary: true
 玎	ding
 玎	zheng
 玏	le
-玐	jiou
-玐	qiou
-玑	ji
+玐	ba
+玑	gi
 玒	gang
 玒	gong
 玒	hong
@@ -12701,7 +12676,7 @@ use_preset_vocabulary: true
 珞	luo
 珟	su
 珠	zhu
-珡	qin
+珡	kim
 珢	gen
 珢	in
 珣	sUin
@@ -12796,7 +12771,7 @@ use_preset_vocabulary: true
 琶	ba
 琶	pa
 琸	zhuo
-琹	qin
+琹	kim
 琺	fa
 琼	kUong
 琽	du
@@ -12901,9 +12876,9 @@ use_preset_vocabulary: true
 璐	lu
 璑	v
 璒	deng
-璓	xiou
+璓	siou
 璔	zeng
-璕	xUin
+璕	sUin
 璖	gU
 璖	kU
 璗	dang
@@ -12940,7 +12915,7 @@ use_preset_vocabulary: true
 璲	suwi
 璳	tiwn
 璵	U
-璶	jin
+璶	zin
 璷	f
 璷	lu
 璸	bin
@@ -12951,8 +12926,8 @@ use_preset_vocabulary: true
 璻	zuwi
 璼	lwn
 璽	si
-璾	ji
-璾	qi
+璾	zi
+璾	z
 璿	zUin
 璿	sUin
 璿	sUwn
@@ -12982,7 +12957,7 @@ use_preset_vocabulary: true
 瓕	mi
 瓖	siang
 瓗	uwi
-瓗	hi
+瓗	kiong
 瓘	guwn
 瓙	dau
 瓚	zwn
@@ -13002,12 +12977,10 @@ use_preset_vocabulary: true
 瓥	li
 瓦	ua
 瓧	sh
-瓨	gang
 瓨	hong
-瓨	jiang
-瓨	ua
-瓨	zhu
-瓩	qiwn
+瓨	hiang
+瓨	giang
+瓩	ciwn
 瓪	bwn
 瓫	pen
 瓬	fang
@@ -13025,8 +12998,6 @@ use_preset_vocabulary: true
 瓹	gUwn
 瓺	chang
 瓻	ch
-瓻	ua
-瓻	xi
 瓼	li
 瓽	dang
 瓾	meng
@@ -13057,7 +13028,6 @@ use_preset_vocabulary: true
 甕	uong
 甖	ing
 甗	iwn
-甗	xiwn
 甘	gwm
 甙	dai
 甚	shem
@@ -13067,7 +13037,7 @@ use_preset_vocabulary: true
 甝	hwm
 甞	chang
 生	sheng
-甠	qing
+甠	cing
 甡	shen
 產	chwn
 産	chwn
@@ -13097,9 +13067,9 @@ use_preset_vocabulary: true
 町	ding	89.87%
 町	ting	10.13%
 画	hua
-甽	jUin
-甽	qUwn
-甽	zuen
+甽	sUin
+甽	kUwn
+甽	zhuen
 甾	z
 甾	zai
 甿	meng
@@ -13107,7 +13077,7 @@ use_preset_vocabulary: true
 畁	bi
 畂	mou
 畂	mu
-畃	xUin
+畃	sUin
 畄	liou
 畅	chang
 畆	mou
@@ -13116,7 +13086,6 @@ use_preset_vocabulary: true
 畈	fwn
 畉	f
 畊	geng
-畊	jing
 畋	tiwn
 畋	uen
 界	giw
@@ -13195,7 +13164,7 @@ use_preset_vocabulary: true
 疃	tuen
 疃	tuwn
 疄	lin
-疅	jiang
+疅	giang
 疆	giang
 疇	chou
 疈	f
@@ -13229,7 +13198,7 @@ use_preset_vocabulary: true
 疙	i
 疚	giou
 疛	zhou
-疜	xia
+疜	hia
 疝	shwn
 疞	zhuang
 疟	iau	7.69%
@@ -13301,7 +13270,7 @@ use_preset_vocabulary: true
 痗	mwi
 痘	dou
 痙	ging
-痚	xiau
+痚	hiau
 痛	tong
 痜	tu
 痝	mang
@@ -13411,7 +13380,7 @@ use_preset_vocabulary: true
 瘵	zhai
 瘶	shu
 瘶	sou
-瘷	ji
+瘷	se
 瘸	kUw
 瘹	diau
 瘺	lou
@@ -13435,7 +13404,7 @@ use_preset_vocabulary: true
 癋	he
 癌	ai
 癌	iwm
-癎	xiwn
+癎	hiwn
 癏	guwn
 癐	guai
 癐	guwi
@@ -13448,7 +13417,6 @@ use_preset_vocabulary: true
 癕	Uong
 癖	pi
 癗	lwi
-癘	ji
 癘	li
 癙	shu
 癚	dwn
@@ -13466,7 +13434,7 @@ use_preset_vocabulary: true
 癧	li
 癨	huo
 癩	lai
-癪	ji
+癪	zi
 癫	diwn
 癬	siwn
 癬	sUwn
@@ -13489,8 +13457,7 @@ use_preset_vocabulary: true
 白	buo	0%
 百	bai	100%
 百	buo	0%
-癿	qiw
-癿	zha
+癿	kiw
 皀	bi
 皀	gi
 皀	hiang
@@ -13509,7 +13476,7 @@ use_preset_vocabulary: true
 皊	ling
 皋	gau
 皌	muo
-皍	ji
+皍	zi
 皎	giau
 皏	peng
 皐	gau
@@ -13521,7 +13488,7 @@ use_preset_vocabulary: true
 皖	huwn	0%
 皖	uwn	100%
 皗	chou
-皘	qiwn
+皘	ciwn
 皙	si
 皙	zhe
 皚	ai
@@ -13544,7 +13511,7 @@ use_preset_vocabulary: true
 皥	hau
 皦	giau
 皧	ai
-皨	xing
+皨	sing
 皩	huang
 皪	li
 皫	piau
@@ -13572,7 +13539,7 @@ use_preset_vocabulary: true
 皾	du
 皿	min
 皿	ming
-盀	qi
+盀	ki
 盁	ing
 盂	U
 盃	bwi
@@ -13603,7 +13570,7 @@ use_preset_vocabulary: true
 盗	dau
 盘	pwn
 盙	f
-盚	qiou
+盚	kiou
 盛	cheng	5.20%
 盛	sheng	94.80%
 盜	dau
@@ -13613,7 +13580,7 @@ use_preset_vocabulary: true
 盟	meng	100%
 盠	li
 盡	zin
-盢	xU
+盢	hU
 監	giwm
 盤	pwn
 盥	guwn
@@ -13644,7 +13611,7 @@ use_preset_vocabulary: true
 盷	hUwn
 相	siang
 盹	duen
-盺	xin
+盺	hin
 盻	pwn
 盻	hi
 盼	pwn
@@ -13665,7 +13632,7 @@ use_preset_vocabulary: true
 眉	mwi
 眊	mau
 看	kwn
-県	xiwn
+県	hiwn
 眍	kou
 眎	sh
 眏	iang
@@ -13786,18 +13753,18 @@ use_preset_vocabulary: true
 睯	huen
 睯	min
 睰	ma
-睱	xia
+睱	hia
 睲	sing
 睳	huwi
 睴	guen
 睵	zai
 睶	chuen
-睷	jiwn
+睷	giwn
 睸	mwi
 睹	du
 睺	hou
 睻	hwn
-睻	xUwn
+睻	hUwn
 睼	sh
 睼	ti
 睽	guwi
@@ -13827,7 +13794,7 @@ use_preset_vocabulary: true
 瞑	ming
 瞑	miwn
 瞒	mwn
-瞓	xUin
+瞓	fen
 瞔	ze
 瞕	zhang
 瞖	i
@@ -13872,7 +13839,7 @@ use_preset_vocabulary: true
 瞵	lin
 瞶	guwi
 瞶	kuwi
-瞷	jiwn
+瞷	hiwn
 瞸	iw
 瞹	ai
 瞺	huwi
@@ -13886,11 +13853,10 @@ use_preset_vocabulary: true
 瞿	kU	100%
 矀	vwi
 矁	chou
-矁	qiou
 矂	cau
 矂	zau
 矃	ying
-矄	xUin
+矄	hUin
 矅	iau
 矆	huo
 矇	mong
@@ -13919,12 +13885,12 @@ use_preset_vocabulary: true
 矜	gin	100%
 矜	guwn	0%
 矝	guwn
-矝	jin
-矞	jUw
+矝	gin
+矝	ging
 矞	U
 矟	shuo
 矠	ce
-矡	jUw
+矡	gUw
 矢	sh
 矣	i
 矤	shen
@@ -13946,8 +13912,7 @@ use_preset_vocabulary: true
 石	dwn	0.14%
 石	sh	99.86%
 矴	ding
-矵	qi
-矵	qiw
+矵	ci
 矶	gi
 矷	z
 矸	gwn
@@ -13966,7 +13931,7 @@ use_preset_vocabulary: true
 码	ma
 砂	sha
 砃	dwn
-砄	jUw
+砄	gUw
 砅	li
 砆	f
 砇	min
@@ -13985,7 +13950,6 @@ use_preset_vocabulary: true
 砏	bin
 砏	fen
 砐	e
-砐	ji
 砑	ia
 砒	pi
 砓	muo
@@ -14028,7 +13992,6 @@ use_preset_vocabulary: true
 砱	ling
 砲	pau
 砳	le
-砳	qUw
 破	puo
 砵	buo
 砶	puo
@@ -14045,7 +14008,7 @@ use_preset_vocabulary: true
 硄	guang
 硄	kuang
 硅	guwi
-硆	qi
+硆	e
 硇	nau
 硈	gi
 硈	gia
@@ -14066,10 +14029,10 @@ use_preset_vocabulary: true
 硑	peng
 硒	si
 硕	shuo
-硖	xia
-硗	qiau
+硖	hia
+硗	kiau
 硙	ai
-硚	qiau
+硚	kiau
 硜	ging
 硜	keng
 硝	siau
@@ -14080,7 +14043,7 @@ use_preset_vocabulary: true
 硠	lang
 硡	hong
 硢	U
-硣	xiau
+硣	hiau
 硤	gia
 硤	hia
 硥	mang
@@ -14099,7 +14062,8 @@ use_preset_vocabulary: true
 硰	sha
 硱	kuen
 硶	chen
-硷	jiwn
+硷	ciwm
+硷	giwm
 硸	yUw
 硹	song
 硺	zhuo
@@ -14187,7 +14151,7 @@ use_preset_vocabulary: true
 碽	gong
 碾	yiwn
 碿	su
-碿	xiw
+碿	siw
 磀	e
 磁	c
 磂	liou
@@ -14220,7 +14184,6 @@ use_preset_vocabulary: true
 磒	Uwn
 磓	chuwi
 磓	duwi
-磔	jiw
 磔	zhe
 磕	ke
 磖	la
