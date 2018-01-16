@@ -103,15 +103,23 @@ speller:
 translator:
   dictionary: fongz_pinin
   preedit_format:
-    - xform/U/ü/
-    - xform/w/ə/
-    - xform/y/ñ/
-    - xform/ng/ŋ/
-    - xform/gn/ŋ/
-    - xform/zh/ž/
-    - xform/ch/č/
+    - xform/bv/Ɓ/
+    - xform/bf/ɓ/
+    - xform/pf/ƥ/
+    - xform/Dh/Ď/
+    - xform/dh/ď/
+    - xform/th/ť/
+    - xform/lh/ľ/
+    - xform/nh/ň/
     - xform/rh/ř/
     - xform/sh/š/
+    - xform/Zh/Ž/
+    - xform/zh/ž/
+    - xform/ch/č/
+    - xform/y/ñ/
+    - xform/ng/ŋ/
+    - xform/U/ü/
+    - xform/w/ə/
 
 custom_phrase:
   dictionary: ""
