@@ -44,6 +44,7 @@ use_preset_vocabulary: true
 ㏒	log
 ⿔	guwi
 〇	ling
+ㆠ	B
 ㄅ	b
 ㄆ	p
 ㄇ	m
@@ -53,10 +54,12 @@ use_preset_vocabulary: true
 ㄊ	t
 ㄋ	n
 ㄌ	l
+ㆣ	G
 ㄍ	g
 ㄎ	k
 ㄫ	ng
 ㄏ	h
+ㆢ	J
 ㄐ	j
 ㄑ	q
 ㄬ	y
@@ -65,6 +68,7 @@ use_preset_vocabulary: true
 ㄔ	ch
 ㄕ	sh
 ㄖ	rh
+ㆡ	Z
 ㄗ	z
 ㄘ	c
 ㄙ	s
@@ -909,8 +913,7 @@ use_preset_vocabulary: true
 丳	chwn
 临	lin
 丵	zhuo
-丶	diwn	79.67%
-丶	dhu	4.40%
+丶	dhu
 丷	ba
 丸	uwn
 丹	dwn
@@ -924,6 +927,7 @@ use_preset_vocabulary: true
 乀	f
 乀	piw
 乁	i
+乁	gi
 乂	ai
 乂	i
 乃	ai	0%
@@ -947,7 +951,7 @@ use_preset_vocabulary: true
 乏	fa
 乐	le	95%
 乐	Uw	5%
-乑	zhong
+乑	im
 乒	ping
 乓	pang
 乔	giau	0%
@@ -2501,7 +2505,7 @@ use_preset_vocabulary: true
 卍	vwn
 华	hua
 协	hiw
-卐	uwn
+卐	vwn
 卑	bwi
 卒	cu	1.88%
 卒	zu	98.12%
@@ -4396,7 +4400,6 @@ use_preset_vocabulary: true
 夯	nu	0%
 夰	gau
 失	sh
-夲	ben
 夲	tau
 夳	tai
 头	tou
@@ -5185,7 +5188,6 @@ use_preset_vocabulary: true
 宬	cheng
 宭	kUin
 宮	gong
-宮商角徵羽	gong shang gUw dh U
 宯	hiau
 宰	zai
 宱	zha
@@ -5845,6 +5847,7 @@ use_preset_vocabulary: true
 巣	chau
 巤	liw
 工	gong
+𠂇	zuo
 左	zuo
 巧	kiau
 巨	gU
@@ -8215,7 +8218,7 @@ use_preset_vocabulary: true
 攲	ki
 攳	sUin
 攴	pu
-攵	zh
+攵	ph
 收	shou
 攷	kau
 攸	iou
@@ -31752,6 +31755,7 @@ use_preset_vocabulary: true
 宣傳部長	sUwn thuwn bu dhang
 宣泄	sUwn siw
 室內樂	sh nwi Uw
+宮商角徵羽	gong shang gUw dh U
 宮掖	gong iw
 宮本武藏	gong ben v zang
 宮調	gong diau
