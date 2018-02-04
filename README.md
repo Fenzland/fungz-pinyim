@@ -76,11 +76,11 @@ iong  ->  üong
 
 已完成
 
+* 尖團音的區分
 * [bpmfu]eng和[bpmfu]ong的區分
 
 進行中
 
-* 尖團音的區分
 * 前鼻音和脣鼻音的區分
 * v 和 u 的區分
 * zh ch 和 dh th 的區分
