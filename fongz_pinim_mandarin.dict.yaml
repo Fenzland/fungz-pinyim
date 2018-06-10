@@ -28,7 +28,7 @@
 #
 
 ---
-name: fongz_pinin_mandarin
+name: fongz_pinim_mandarin
 version: "0.0.1"
 sort: by_wueight
 use_preset_vocabulary: true
