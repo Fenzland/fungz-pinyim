@@ -907,7 +907,7 @@ use_preset_vocabulary: true
 个	ge
 丫	ia
 丬	ciang
-中	dhong
+中	dhung
 丮	gi
 丮	hUin
 丯	giE
@@ -15445,7 +15445,7 @@ use_preset_vocabulary: true
 紿	dai
 絀	thu
 絁	sh
-終	zhong
+終	zhung
 絃	hiEn
 組	zu
 絅	gUong
@@ -15752,7 +15752,7 @@ use_preset_vocabulary: true
 縺	liEn
 縻	mi
 縼	sUEn
-總	zong
+總	zung
 績	zi
 縿	cEm
 縿	shEm
@@ -26074,8 +26074,8 @@ use_preset_vocabulary: true
 一覺	i giau
 一觸即潰	i chu zi kuEi
 一言一行	i iEn i hing
-一言中的	i iEn dhong di
-一語中的	i U dhong di
+一言中的	i iEn dhung di
+一語中的	i U dhung di
 一語成讖	i U cheng chem
 一語撞倒牆	i U dhuang dau ciang
 一語破的	i U puo di
@@ -26313,7 +26313,7 @@ use_preset_vocabulary: true
 不吭氣	bu keng ki
 不唧𠺕	bu zi liou
 不喜歡	bu hi huEn
-不在五行中	bu zai u hing dhong
+不在五行中	bu zai u hing dhung
 不在地主	bu zai di zhu
 不在行	bu zai hang
 不地着	bu di dhuo
@@ -26428,7 +26428,7 @@ use_preset_vocabulary: true
 不立崖岸	bu li iai En
 不算什麼	bu suEn shen me
 不管生癬生瘡	bu guEn sheng siEn sheng chuang
-不終朝	bu zhong dhau
+不終朝	bu zhung dhau
 不給	bu gi
 不繆	bu miou
 不老長生	bu lau thang sheng
@@ -26513,62 +26513,62 @@ use_preset_vocabulary: true
 並行	bing hing
 並行不悖	bing hing bu bEi
 並重	bing dhong
-中信銀行	dhong sin in hang
-中國內地	dhong guo nEi di
-中國大陸	dhong guo da lu
-中國重汽	dhong guo dhong ki
-中國銀行	dhong guo in hang
-中地	dhong di
-中圻	dhong ki
-中壼	dhong kuen
-中央空調	dhong iang kung tiau
-中央空調系統	dhong iang kung tiau hi tong
-中央警官學校	dhong iang ging guEn hUE hiau
-中央銀行	dhong iang in hang
-中子彈	dhong z dEn
-中學	dhong hUE
-中宿	dhong su
-中山高速公路	dhong shEn gau shu gung lu
-中幡會	dhong fEn huEi
-中彈	dhong dEn
-中心	dhong sim
-中心匯率	dhong sim huEi lU
-中心塊	dhong sim kuai
-中心角	dhong sim giau
-中懣之症	dhong men zh dheng
-中朝	dhong thau
-中東地區	dhong dung di kU
-中校	dhong hiau
-中樞	dhong shu
-中樞機關	dhong shu gi guEn
-中樞神經	dhong shu shen ging
-中流砥柱	dhong liou di dhu
-中浣	dhong uEn
-中源地震	dhong UEn di zhen
-中澣	dhong huEn
-中獎	dhong ziang
-中的	dhong de
-中的	dhong di
-中祕書	dhong mi shu
-中秋快樂	dhong ciou kuai le
-中籤率	dhong ciEm lU
-中美地峽	dhong mEi di hia
-中胚層	dhong pEi ceng
-中藏	dhong zang
-中覺	dhong giau
-中調	dhong diau
-中資銀行	dhong z in hang
-中途曝光	dhong tu pu guang
-中部地區	dhong bu di kU
-中部地方	dhong bu di fang
-中都	dhong du
-中長期	dhong thang ki
-中長線	dhong thang siEn
-中長鐵路	dhong thang tiE lu
-中間	dhong giEn
-中間件	dhong giEn giEn
-中間地帶	dhong giEn di dai
-中間宿主	dhong giEn su zhu
+中信銀行	dhung sin in hang
+中國內地	dhung guo nEi di
+中國大陸	dhung guo da lu
+中國重汽	dhung guo dhong ki
+中國銀行	dhung guo in hang
+中地	dhung di
+中圻	dhung ki
+中壼	dhung kuen
+中央空調	dhung iang kung tiau
+中央空調系統	dhung iang kung tiau hi tong
+中央警官學校	dhung iang ging guEn hUE hiau
+中央銀行	dhung iang in hang
+中子彈	dhung z dEn
+中學	dhung hUE
+中宿	dhung su
+中山高速公路	dhung shEn gau shu gung lu
+中幡會	dhung fEn huEi
+中彈	dhung dEn
+中心	dhung sim
+中心匯率	dhung sim huEi lU
+中心塊	dhung sim kuai
+中心角	dhung sim giau
+中懣之症	dhung men zh dheng
+中朝	dhung thau
+中東地區	dhung dung di kU
+中校	dhung hiau
+中樞	dhung shu
+中樞機關	dhung shu gi guEn
+中樞神經	dhung shu shen ging
+中流砥柱	dhung liou di dhu
+中浣	dhung uEn
+中源地震	dhung UEn di zhen
+中澣	dhung huEn
+中獎	dhung ziang
+中的	dhung de
+中的	dhung di
+中祕書	dhung mi shu
+中秋快樂	dhung ciou kuai le
+中籤率	dhung ciEm lU
+中美地峽	dhung mEi di hia
+中胚層	dhung pEi ceng
+中藏	dhung zang
+中覺	dhung giau
+中調	dhung diau
+中資銀行	dhung z in hang
+中途曝光	dhung tu pu guang
+中部地區	dhung bu di kU
+中部地方	dhung bu di fang
+中都	dhung du
+中長期	dhung thang ki
+中長線	dhung thang siEn
+中長鐵路	dhung thang tiE lu
+中間	dhung giEn
+中間件	dhung giEn giEn
+中間地帶	dhung giEn di dai
+中間宿主	dhung giEn su zhu
 串疽	chuEn zU
 串行	chuEn hing
 丹參	dEn shem
@@ -27855,7 +27855,7 @@ use_preset_vocabulary: true
 充詘	chung kU
 充電器	chung diEn ki
 兇相畢露	hUong siang bi lu
-兇終隙末	hUong zhong hi muo
+兇終隙末	hUong zhung hi muo
 先吾着鞭	siEn u dhuo biEn
 先天性畸形	siEn tiEn sing gi hing
 先天缺陷	siEn tiEn kUE hiEm
@@ -28070,7 +28070,7 @@ use_preset_vocabulary: true
 公道伯	gung dau buo
 公鐓	gung duen
 公鑰	gung iau
-公門之中好修行	gung men zh dhong hau siou hing
+公門之中好修行	gung men zh dhung hau siou hing
 公門修行	gung men siou hing
 公門裏好修行	gung men li hau siou hing
 公開發行	gung kai fa hing
@@ -28102,7 +28102,7 @@ use_preset_vocabulary: true
 兵行詭道	bing hing guEi dau
 兵車行	bing che hing
 其一	ki i
-其中	ki dhong
+其中	ki dhung
 其他	ki ta
 其他人	ki ta rhen
 其他地區	ki ta di kU
@@ -28519,7 +28519,7 @@ use_preset_vocabulary: true
 副角	f gUE
 副議長	f i dhang
 副車	f che
-副都市中心	f du sh dhong sim
+副都市中心	f du sh dhung sim
 割地	ge di
 割地賠款	ge di pEi kuEn
 割着	ge dhau
@@ -28644,7 +28644,7 @@ use_preset_vocabulary: true
 勒里勒得	lEi li lEi de
 勒馬懸崖	le ma hUEn iai
 動不了	dung bu liau
-動中窾要	dung dhong kuEn iau
+動中窾要	dung dhung kuEn iau
 動人心弦	dung rhen sim hiEn
 動勁	dung gin
 動地驚天	dung di ging tiEn
@@ -28802,7 +28802,7 @@ use_preset_vocabulary: true
 卑怯	bEi kUE
 卑薄	bEi buo
 卑賤	bEi ziEn
-卒中	cu dhong
+卒中	cu dhung
 卒乍	cu zha
 卒乘	zu sheng
 卒倒	cu dau
@@ -29363,7 +29363,7 @@ use_preset_vocabulary: true
 否極生泰	pi gi sheng tai
 否泰	pi tai
 否滯	pi dh
-否終而泰	pi zhong er tai
+否終而泰	pi zhung er tai
 否隔	pi ge
 吧嗒	ba da
 含哺鼓腹	hEm bu gu f
@@ -29499,10 +29499,10 @@ use_preset_vocabulary: true
 呶呶	nau nau
 呶呶不休	nau nau bu hiou
 呶呶嘴	nau nau zuEi
-呼吸調節中樞	hu hi tiau ziE dhong shu
+呼吸調節中樞	hu hi tiau ziE dhung shu
 呼天搶地	hu tiEn ciang di
 呼奴使婢	hu nu sh bi
-命中率	ming dhong lU
+命中率	ming dhung lU
 命令行	ming ling hang
 命小福薄	ming siau f buo
 命薄	ming buo
@@ -30180,7 +30180,7 @@ use_preset_vocabulary: true
 圜牆	UEn ciang
 圜鍾	UEn zhong
 圜鑿方枘	UEn zuo fang rhuEi
-土中曲蟮	tu dhong kU shEn
+土中曲蟮	tu dhung kU shEn
 土伯特	tu buo te
 土參	tu shem
 土地	tu di
@@ -30279,9 +30279,9 @@ use_preset_vocabulary: true
 地下電臺	di hia diEn tai
 地不怕	di bu pa
 地不載	di bu zai
-地中海	di dhong hai
-地中海型貧血	di dhong hai hing pin hiE
-地中海型貧血	di dhong hai hing pin hUE
+地中海	di dhung hai
+地中海型貧血	di dhung hai hing pin hiE
+地中海型貧血	di dhung hai hing pin hUE
 地主	di zhu
 地主之誼	di zhu zh i
 地主國	di zhu guo
@@ -30799,7 +30799,7 @@ use_preset_vocabulary: true
 壤地	rhang di
 壯猷	zhuang iou
 壯盛	zhuang sheng
-壺中天地	hu dhong tiEn di
+壺中天地	hu dhung tiEn di
 壺漿塞道	hu ziang se dau
 壺裏乾坤	hu li kiEn kuen
 壼奧	kuen au
@@ -30827,7 +30827,7 @@ use_preset_vocabulary: true
 外地人	uai di rhen
 外宿	uai su
 外弛內張	uai ch nEi dhang
-外強中乾	uai kiang dhong gEn
+外強中乾	uai kiang dhung gEn
 外形	uai hing
 外泄	uai siE
 外生殖器	uai sheng zh ki
@@ -30990,8 +30990,8 @@ use_preset_vocabulary: true
 大老闆	da lau bEn
 大耋	da diE
 大肆抨擊	da s peng gi
-大腦出血性中風	da nau chu hiE sing dhong fung
-大腦出血性中風	da nau chu hUE sing dhong fung
+大腦出血性中風	da nau chu hiE sing dhung fung
+大腦出血性中風	da nau chu hUE sing dhung fung
 大腹便便	da f piEn piEn
 大腹賈	da f gu
 大臠	da luEn
@@ -31766,7 +31766,7 @@ use_preset_vocabulary: true
 宴樂	iEn le
 宵柝	siau tuo
 宵行	siau hing
-家中	gia dhong
+家中	gia dhung
 家乘	gia sheng
 家什	gia sh
 家傳	gia thuEn
@@ -32105,7 +32105,7 @@ use_preset_vocabulary: true
 屁鳥人	pi diau rhen
 居不重席	gU bu thong si
 居不重茵	gU bu thong in
-居中調停	gU dhong tiau ting
+居中調停	gU dhung tiau ting
 居住地	gU dhu di
 居然	gU rhEn
 屈強	kU giang
@@ -32151,7 +32151,7 @@ use_preset_vocabulary: true
 層出疊見	ceng chu diE hiEn
 層級	ceng gi
 層見疊出	ceng hiEn diE chu
-履中行善	lU dhong hing shEn
+履中行善	lU dhung hing shEn
 履舄	lU si
 履舄交錯	lU si giau cuo
 履薄	lU buo
@@ -32422,7 +32422,7 @@ use_preset_vocabulary: true
 市鑰	sh iau
 市長	sh dhang
 布什	bu sh
-布什總統	bu sh zong tong
+布什總統	bu sh zung tong
 布喀河	bu ka he
 布撣子	bu dEn z
 布疋	bu pi
@@ -32762,7 +32762,7 @@ use_preset_vocabulary: true
 強顏	giang iEn
 強顏	kiang iEn
 強龍不壓地頭蛇	kiang long bu ia di tou she
-弸中彪外	peng dhong biau uai
+弸中彪外	peng dhung biau uai
 弸弓	peng gung
 彀率	gou lU
 彆強	biE giang
@@ -32968,7 +32968,7 @@ use_preset_vocabulary: true
 徘徊歧路	pai huai ki lu
 徙宅忘妻	si dhe vang ci
 徜徉	chang iang
-從中斡旋	cong dhong uo sUEn
+從中斡旋	cong dhung uo sUEn
 從伯	cong buo
 從伯	zong buo
 從兄	cong hUong
@@ -33163,7 +33163,7 @@ use_preset_vocabulary: true
 怙恃	hu sh
 怙惡不悛	hu e bu cUEn
 怙惡不改	hu e bu gai
-怙終	hu zhong
+怙終	hu zhung
 怛傷	da shang
 怛化	da hua
 怛吒	da dha
@@ -33182,8 +33182,8 @@ use_preset_vocabulary: true
 急脈緩受	gi mai huEn shou
 急脈緩受	gi muo huEn shou
 急行軍	gi hing gUin
-急驚風撞着慢郎中	gi ging fung dhuang dhau mEn lang dhong
-急驚風遇着慢郎中	gi ging fung U dhau mEn lang dhong
+急驚風撞着慢郎中	gi ging fung dhuang dhau mEn lang dhung
+急驚風遇着慢郎中	gi ging fung U dhau mEn lang dhung
 急驟	gi zhou
 性別	sing biE
 性地	sing di
@@ -33680,7 +33680,7 @@ use_preset_vocabulary: true
 戾天	li tiEn
 戾止	li zh
 戾氣	li ki
-房中樂	fang dhong UE
+房中樂	fang dhung UE
 房地	fang di
 房地產	fang di chEn
 房地產共同基金	fang di chEn gong tung gi gim
@@ -35659,8 +35659,8 @@ use_preset_vocabulary: true
 曳光彈	i guang dEn
 曳光彈	iE guang dEn
 曳剌	iE la
-曳尾塗中	i vEi tu dhong
-曳尾塗中	iE vEi tu dhong
+曳尾塗中	i vEi tu dhung
+曳尾塗中	iE vEi tu dhung
 曳尾泥塗	i vEi yi tu
 曳尾泥塗	iE vEi yi tu
 曳引機	i in gi
@@ -35760,7 +35760,7 @@ use_preset_vocabulary: true
 最大功率	zuEi da gung lU
 最新	zuEi sin
 最流行的	zuEi liou hing de
-最終目的	zuEi zhong mu di
+最終目的	zuEi zhung mu di
 最近	zuEi gin
 最重	zuEi dhong
 最重要的	zuEi dhong iau de
@@ -35872,8 +35872,8 @@ use_preset_vocabulary: true
 朝不圖夕	dhau bu tu si
 朝不慮夕	dhau bu lU si
 朝不謀夕	dhau bu mou si
-朝中	thau dhong
-朝中有人好做官	thau dhong iou rhen hau zuo guEn
+朝中	thau dhung
+朝中有人好做官	thau dhung iou rhen hau zuo guEn
 朝乾夕惕	dhau kiEn si ti
 朝代	thau dai
 朝令夕改	dhau ling si gai
@@ -36406,7 +36406,7 @@ use_preset_vocabulary: true
 桁楊	hang iang
 桂宮柏寢	guEi gung buo cim
 桂棹	guEi dhau
-桃園中壢臺地	tau UEn dhong li tai di
+桃園中壢臺地	tau UEn dhung li tai di
 桃源行	tau UEn hing
 桃花薄命	tau hua buo ming
 框架	kuang gia
@@ -36619,7 +36619,7 @@ use_preset_vocabulary: true
 樂園	le UEn
 樂團	UE tuEn
 樂土	le tu
-樂在其中	le zai ki dhong
+樂在其中	le zai ki dhung
 樂境	le ging
 樂壇	UE tEn
 樂天	le tiEn
@@ -37204,7 +37204,7 @@ use_preset_vocabulary: true
 氯化鋅	lU hua sin
 氯化鎂	lU hua mEi
 氯氣	lU ki
-氯氣中毒	lU ki dhong du
+氯氣中毒	lU ki dhung du
 氯水	lU shuEi
 氯絲菌素	lU s gUin su
 氯綸	lU luen
@@ -37673,7 +37673,7 @@ use_preset_vocabulary: true
 洛可可音樂	luo ke ke im UE
 洛浦宓妃	luo pu f fEi
 洛陽伽藍記	luo iang kiE lEm gi
-洞中肯綮	dung dhong ken king
+洞中肯綮	dung dhung ken king
 洞壑	dung he
 洞壑	dung huo
 洞天福地	dung tiEn f di
@@ -38111,7 +38111,7 @@ use_preset_vocabulary: true
 溯源	su UEn
 溯源窮流	su UEn kUung liou
 溲溺	sou yiau
-溴中毒	hiou dhong du
+溴中毒	hiou dhung du
 溴化物	hiou hua v
 溴化鈉	hiou hua na
 溴化銀	hiou hua in
@@ -38194,7 +38194,7 @@ use_preset_vocabulary: true
 漏露	lou lu
 演繁露	iEn fEn lu
 漠然不覺	muo rhEn bu gUE
-漢中盆地	hEn dhong pen di
+漢中盆地	hEn dhung pen di
 漢朝	hEn thau
 漢武帝內傳	hEn v di nEi dhuEn
 漢藏語系	hEn zang U hi
@@ -39725,7 +39725,7 @@ use_preset_vocabulary: true
 皋比	gau pi
 皋陶	gau iau
 皋隰	gau si
-皖中盆地	uEn dhong pen di
+皖中盆地	uEn dhung pen di
 皙面	si miEn
 皜皜	hau hau
 皞皞	hau hau
@@ -40090,7 +40090,7 @@ use_preset_vocabulary: true
 睚眥之隙	ia z zh hi
 睚眥必報	ia z bi bau
 睡不着	shuEi bu dhau
-睡中覺	shuEi dhong giau
+睡中覺	shuEi dhung giau
 睡午覺	shuEi u giau
 睡懶覺	shuEi lEn giau
 睡晌覺	shuEi shang giau
@@ -40227,7 +40227,7 @@ use_preset_vocabulary: true
 砥志礪行	di zh li hing
 砥據	di gU
 砥柱	di dhu
-砥柱中流	di dhu dhong liou
+砥柱中流	di dhu dhung liou
 砥礪	di li
 砥礪名節	di li ming ziE
 砥礪名號	di li ming hau
@@ -40327,7 +40327,7 @@ use_preset_vocabulary: true
 社區	she kU
 社會地位	she huEi di uEi
 社會失調	she huEi sh tiau
-社會總供給	she huEi zong gong gi
+社會總供給	she huEi zung gong gi
 社會行爲	she huEi hing uEi
 社會角色	she huEi gUE se
 社會調查	she huEi diau cha
@@ -40400,7 +40400,7 @@ use_preset_vocabulary: true
 神機火鎗	shen gi huo ciang
 神祕	shen mi
 神祕莫測	shen mi muo ce
-神經中樞	shen ging dhong shu
+神經中樞	shen ging dhung shu
 神經纖維	shen ging siEm uEi
 神荼鬱壘	shen shu U lU
 神鬼不覺	shen guEi bu gUE
@@ -40447,7 +40447,7 @@ use_preset_vocabulary: true
 禮輕意重	li king i dhong
 禰衡	mi heng
 禹行舜趨	U hing shuen cU
-禺中	U dhong
+禺中	U dhung
 禺彊	U kiang
 禺谷	U gu
 禽困覆車	kim kuen f che
@@ -40465,7 +40465,7 @@ use_preset_vocabulary: true
 秋收冬藏	ciou shou dong cang
 秋榜	ciou bang
 秋禊	ciou hi
-种師中	thong sh dhong
+种師中	thong sh dhung
 种師道	thong sh dau
 种放	thong fang
 科學	ke hUE
@@ -40594,7 +40594,7 @@ use_preset_vocabulary: true
 穩重	uen dhong
 穴隙	hUE hi
 究詰	giou giE
-空中學校	kung dhong hUE hiau
+空中學校	kung dhung hUE hiau
 空侗	kung tung
 空前盛況	kung ciEn sheng kuang
 空包彈	kung bau dEn
@@ -41022,10 +41022,10 @@ use_preset_vocabulary: true
 細長	si thang
 紲絆	siE bEn
 紲袢	siE bEn
-終了	zhong liau
-終宿主	zhong su zhu
-終朝	zhong dhau
-終軍棄繻	zhong gUin ki rhu
+終了	zhung liau
+終宿主	zhung su zhu
+終朝	zhung dhau
+終軍棄繻	zhung gUin ki rhu
 絃樂	hiEn UE
 絃歌	hiEn ge
 絃管	hiEn guEn
@@ -41075,7 +41075,7 @@ use_preset_vocabulary: true
 絣扒吊拷	beng ba diau kau
 給予	gi U
 給予	gEi U
-給事中	gi sh dhong
+給事中	gi sh dhung
 給付	gi f
 給付	gEi f
 給使	gi sh
@@ -41293,18 +41293,18 @@ use_preset_vocabulary: true
 縱軸	zong dhou
 縲紲	lEi siE
 縲絏	lEi siE
-總丱	zong guEn
-總價	zong gia
-總得	zong dEi
-總括	zong gua
-總括	zong kuo
-總結	zong giE
-總行	zong hang
-總覺	zong gUE
-總角	zong gUE
-總角之交	zong gUE zh giau
-總角之好	zong gUE zh hau
-總長	zong thang
+總丱	zung guEn
+總價	zung gia
+總得	zung dEi
+總括	zung gua
+總括	zung kuo
+總結	zung giE
+總行	zung hang
+總覺	zung gUE
+總角	zung gUE
+總角之交	zung gUE zh giau
+總角之好	zung gUE zh hau
+總長	zung thang
 績效斐然	zi hiau fEi rhEn
 繁刑重斂	fEn hing dhong liEm
 繁刑重賦	fEn hing dhong f
@@ -41384,7 +41384,7 @@ use_preset_vocabulary: true
 纖玉	siEm U
 纖畫	siEm hua
 纖瘦	siEm shou
-纖穠中度	siEm nong dhong du
+纖穠中度	siEm nong dhung du
 纖細	siEm si
 纖細畫	siEm si hua
 纖維	siEm uEi
@@ -41495,7 +41495,7 @@ use_preset_vocabulary: true
 羞靨	siou iE
 羣從	kUin cong
 羣從	kUin zong
-羣蝨處褌中	kUin sh chu kuen dhong
+羣蝨處褌中	kUin sh chu kuen dhung
 羣蟻潰堤	kUin i kuEi di
 羣蟻潰堤	kUin i kuEi ti
 羣起攻訐	kUin ki gong giE
@@ -41739,7 +41739,7 @@ use_preset_vocabulary: true
 聽其言而觀其行	ting ki iEn er guEn ki hing
 聽差	ting chai
 聽覺	ting gUE
-聽覺中樞	ting gUE dhong shu
+聽覺中樞	ting gUE dhung shu
 聽音樂	ting im UE
 聾啞學校	lung ia hUE hiau
 肆行	s hing
@@ -41905,7 +41905,7 @@ use_preset_vocabulary: true
 腤䐶	Em zEm
 腥風血雨	sing fung hiE U
 腥風血雨	sing fung hUE U
-腦中樞	nau dhong shu
+腦中樞	nau dhung shu
 腦出血	nau chu hiE
 腦出血	nau chu hUE
 腦勺	nau shau
@@ -41969,7 +41969,7 @@ use_preset_vocabulary: true
 膳宿	shEn su
 膴仕	v sh
 膴膴	v v
-膻中	dEn dhong
+膻中	dEn dhung
 膽小	dEm siau
 膽怯	dEm kUE
 膽懾	dEm zhe
@@ -42275,7 +42275,7 @@ use_preset_vocabulary: true
 若有還無	rhuo iou huEn v
 若還	rhuo huEn
 若釋重負	rhuo sh dhong f
-苦中作樂	ku dhong zuo le
+苦中作樂	ku dhung zuo le
 苦參	ku shem
 苦啾啾	ku ziou ziou
 苦地	ku di
@@ -42638,7 +42638,7 @@ use_preset_vocabulary: true
 蔡伯喈	cai buo giE
 蔡順分椹	cai shuen fen shem
 蔣百里	ziang buo li
-蔣總統祕錄	ziang zong tong mi lu
+蔣總統祕錄	ziang zung tong mi lu
 蔦蘿施喬松	yiau luo i kiau song
 蔽塞	bi se
 蔽席	f si
@@ -42932,7 +42932,7 @@ use_preset_vocabulary: true
 虎豹不外其爪	hu bau bu uai ki zhua
 虎貔	hu pi
 虎賁	hu ben
-虎賁中郎將	hu ben dhong lang ziang
+虎賁中郎將	hu ben dhung lang ziang
 虎頭埤	hu tou pi
 虎體鵷班	hu ti UEn bEn
 虓闞	hiau hEm
@@ -43042,7 +43042,7 @@ use_preset_vocabulary: true
 蝦蟆子	ha ma z
 蝦蟆跳在戥盤子裏	ha ma tiau zai deng pEn z li
 蝦蟆陵	ha ma ling
-蝨處褌中	sh chu kuen dhong
+蝨處褌中	sh chu kuen dhung
 蝮蛇螫手	f she zhe shou
 蝳蝐	dai mEi
 蝸利蠅名	gua li ing ming
@@ -43476,7 +43476,7 @@ use_preset_vocabulary: true
 行持	hing th
 行放	hing fang
 行政	hing zheng
-行政中立	hing zheng dhong li
+行政中立	hing zheng dhung li
 行政主管	hing zheng zhu guEn
 行政事業	hing zheng sh iE
 行政區	hing zheng kU
@@ -43888,7 +43888,7 @@ use_preset_vocabulary: true
 褊迫	biEn puo
 褊陋	biEn lou
 褊隘	biEn ai
-褌中	kuen dhong
+褌中	kuen dhung
 褌襠	kuen dang
 褎如充耳	iou rhu chung er
 褎然	iou rhEn
@@ -45791,7 +45791,7 @@ use_preset_vocabulary: true
 遷調	ciEn diau
 遷謫	ciEn dhe
 遷都	ciEn du
-選中	sUEn dhong
+選中	sUEn dhung
 選取	sUEn cU
 選懦	sUEn nuo
 選擇	sUEn ze
@@ -45970,9 +45970,9 @@ use_preset_vocabulary: true
 郵差	iou chai
 郵箱	iou siang
 郵箱地址	iou siang di zh
-都中	du dhong
+都中	du dhung
 都人士	du rhen sh
-都付笑談中	dou f siau tEm dhong
+都付笑談中	dou f siau tEm dhung
 都來	du lai
 都保	du bau
 都俞吁咈	du U hU f
@@ -46071,7 +46071,7 @@ use_preset_vocabulary: true
 酗酒	hU ziou
 酢敗	cu bai
 酢漿草	cu ziang cau
-酣中客	hEm dhong ke
+酣中客	hEm dhung ke
 酣夢	hEm mung
 酣嬉淋漓	hEm hi lim li
 酣戰	hEm zhEn
@@ -46118,7 +46118,7 @@ use_preset_vocabulary: true
 醒覺	sing gUE
 醜吒	chou dha
 醜地	chou di
-醜媳婦總得要見公婆	chou si f zong dEi iau giEn gung puo
+醜媳婦總得要見公婆	chou si f zung dEi iau giEn gung puo
 醜態畢露	chou tai bi lu
 醜行	chou hing
 醞釀	Uin yiang
@@ -46151,7 +46151,7 @@ use_preset_vocabulary: true
 重三	thong sEm
 重三疊四	thong sEm diE s
 重世	thong sh
-重中之重	dhong dhong zh dhong
+重中之重	dhong dhung zh dhong
 重九	thong giou
 重九登高	thong giou deng gau
 重任	dhong rhem
@@ -46439,7 +46439,7 @@ use_preset_vocabulary: true
 重馬	dhong ma
 重黎	thong li
 重點	dhong diEm
-重點中學	dhong diEm dhong hUE
+重點中學	dhong diEm dhung hUE
 重點企業	dhong diEm ki iE
 重點大學	dhong diEm da hUE
 重點工作	dhong diEm gung zuo
@@ -46681,7 +46681,7 @@ use_preset_vocabulary: true
 鎗膛	ciang tang
 鎗鍠	ciang huang
 鎗靶	ciang ba
-鎘中毒	ge dhong du
+鎘中毒	ge dhung du
 鎘米	ge mi
 鎩羽	sha U
 鎩羽而歸	sha U er guEi
@@ -47189,8 +47189,8 @@ use_preset_vocabulary: true
 閔子騫	min z kiEn
 閔行	min hang
 閔行區	min hang kU
-閤中	ge dhong
-閬中縣	lang dhong hiEn
+閤中	ge dhung
+閬中縣	lang dhung hiEn
 閬苑	lang UEn
 閬閬	lang lang
 閬風	lang fung
@@ -47496,7 +47496,7 @@ use_preset_vocabulary: true
 隄備	ti bEi
 隄潰蟻孔	ti kuEi i kung
 隄防	ti fang
-隅中	U dhong
+隅中	U dhung
 隅反	U fEn
 隅坐	U zuo
 隅頭	U tou
