@@ -103,9 +103,13 @@ speller:
 translator:
   dictionary: fungz_pinim
   preedit_format:
-    - xform/bv/Ɓ/
-    - xform/bf/ɓ/
-    - xform/pf/ƥ/
+    - xform/bv/B̪/
+    - xform/bf/b̪/
+    - xform/pf/p̪/
+    - xform/Bw/ɓ/
+    - xform/Dw/ɗ/
+    - xform/Dhw/ᶑ/
+    - xform/Gw/ɠ/
     - xform/Dh/Ď/
     - xform/dh/ď/
     - xform/th/ť/
@@ -119,7 +123,7 @@ translator:
     - xform/y/ñ/
     - xform/ng/ŋ/
     - xform/U/ü/
-    - xform/w/ə/
+    - xform/E/ə/
 
 custom_phrase:
   dictionary: ""
