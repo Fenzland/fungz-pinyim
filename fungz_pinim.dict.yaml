@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# Fong z Piny in - 楓梓拼音
+# Fung z Pin im - 楓梓拼音
 #
 # Thanks to the following works:
 #
@@ -28,7 +28,7 @@
 #
 
 ---
-name: fongz_pinim
+name: fungz_pinim
 version: "0.0.1"
 sort: by_weight
 use_preset_vocabulary: true

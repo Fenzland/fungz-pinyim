@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# Fong z Piny in Mandarin - 楓梓拼音 純普通話版
+# Fung z Pin im Mandarin - 楓梓拼音 純普通話版
 #
 # Thanks to the following works:
 #
@@ -28,7 +28,7 @@
 #
 
 ---
-name: fongz_pinim_mandarin
+name: fungz_pinim_mandarin
 version: "0.0.1"
 sort: by_wueight
 use_preset_vocabulary: true

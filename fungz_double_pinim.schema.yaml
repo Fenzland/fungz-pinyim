@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: fongz_double_pinim
+  schema_id: fungz_double_pinim
   name: 楓梓雙拼
   version: "0.1"
   author:
@@ -87,8 +87,8 @@ speller:
     #- abbrev/^(.).+$/$1/
 
 translator:
-  dictionary: fongz_pinim
-  prism: fongz_double_pinim
+  dictionary: fungz_pinim
+  prism: fungz_double_pinim
   preedit_format:
     # - xform/([bpmnljqxy])n/$1in/
     # - xform/(\w)g/$1eng/
