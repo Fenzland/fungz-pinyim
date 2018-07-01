@@ -35,13 +35,49 @@ use_preset_vocabulary: true
 ...
 
 ℃	she sh du
-∞	v kUong da
 ☯	tai gi
 ∫	zi fen
 ∮	huEn lu zi fen
 √	gen hau
 ㏑	ln
 ㏒	log
+π	pai
+π	py
+∑	kiou he
+∈	shu U
+∏	kiou gi
+±	zheng f
+÷	thu i
+×	cheng i
+≮	bu siau U
+≠	bu deng U
+≯	bu da U
+∝	zheng bi U
+∞	v kUung da
+∟	dh giau
+∠	giau
+∥	ping hing
+∧	luo zi U
+∨	luo zi huo
+∩	giau zi
+∪	bing zi
+∴	suo i
+∵	inu Ei
+∷	deng gia U
+∽	siang s U
+≌	cUEn deng U
+≈	UE deng U
+≒	UE deng U
+≡	heng deng U
+≤	siau U deng U
+≥	da U deng U
+≦	heng siau U deng U
+≧	heng da U deng U
+⊕	i huo
+⊙	tung huo
+⊙	UEn sim
+⊥	thuEi dh
+⊿	sEm giau hing
 ⿔	guEi
 〇	ling
 ㆠ	B
