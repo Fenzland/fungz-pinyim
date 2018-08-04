@@ -650,7 +650,7 @@ use_preset_vocabulary: true
 䐁	tuen
 䐂	lu
 䐓	rhou
-䐥	uung
+䐥	ung
 䐭	di
 䐶	ciEm
 䐶	zim
@@ -804,7 +804,7 @@ use_preset_vocabulary: true
 䨤	di
 䨵	dEn
 䨶	Uin
-䩺	uung
+䩺	ung
 䪖	f
 䪤	fEn
 䪮	chou
@@ -853,7 +853,7 @@ use_preset_vocabulary: true
 䱛	i
 䱤	hiEm
 䱭	geng
-䱵	uung
+䱵	ung
 䱷	U
 䱻	hua
 䱽	chang
@@ -4180,7 +4180,7 @@ use_preset_vocabulary: true
 塒	sh
 塓	mi
 塔	ta
-塕	uung
+塕	ung
 塖	cheng
 塗	tu
 塘	tang
@@ -8695,7 +8695,7 @@ use_preset_vocabulary: true
 暟	kai
 暟	ki
 暠	gau
-暡	uung
+暡	ung
 暢	thang
 暣	ki
 暤	gau
@@ -11159,7 +11159,7 @@ use_preset_vocabulary: true
 滀	thu
 滁	thu
 滂	pang
-滃	uung
+滃	ung
 滄	cang
 滅	miE
 滆	ge
@@ -13017,7 +13017,7 @@ use_preset_vocabulary: true
 瓫	pen
 瓬	fang
 瓭	dEm
-瓮	uung
+瓮	ung
 瓯	ou
 瓰	fen
 瓱	mau
@@ -13057,7 +13057,7 @@ use_preset_vocabulary: true
 甒	v
 甓	pi
 甔	dEm
-甕	uung
+甕	ung
 甖	ing
 甗	iEn
 甘	gEm
@@ -16227,7 +16227,7 @@ use_preset_vocabulary: true
 羾	hung
 羿	i
 翀	thung
-翁	uung
+翁	ung
 翂	fen
 翃	hong
 翄	ch
@@ -17771,7 +17771,7 @@ use_preset_vocabulary: true
 蓇	gu
 蓈	lang
 蓉	rhong
-蓊	uung
+蓊	ung
 蓋	gai	99.91%
 蓋	ge	0.09%
 蓋	he	0.09%
@@ -18634,7 +18634,7 @@ use_preset_vocabulary: true
 螆	c
 螇	hi
 螈	UEn
-螉	uung
+螉	ung
 螊	liEn
 螋	sou
 螌	bEn
@@ -30759,7 +30759,7 @@ use_preset_vocabulary: true
 塞納河	se na he
 塞給	sai gEi
 塞維利亞	sai uEi li ia
-塞翁失馬	sai uung sh ma
+塞翁失馬	sai ung sh ma
 塞耳	se er
 塞耳偷鈴	se er tou ling
 塞耳盜鐘	se er dau zhong
@@ -34926,7 +34926,7 @@ use_preset_vocabulary: true
 撼天震地	hEm tiEn zhen di
 撼樹蚍蜉	hEm shu pi f
 撾人	dhua rhen
-撾婦翁	dhua f uung
+撾婦翁	dhua f ung
 撾怨鼓	dhua UEn gu
 撾撓	dhua nau
 撾耳揉腮	dhua er rhou sai
@@ -36453,7 +36453,7 @@ use_preset_vocabulary: true
 桑乾盆地	sang gEn pen di
 桑柘	sang zhe
 桑樞	sang shu
-桑樞甕牖	sang shu uung iou
+桑樞甕牖	sang shu ung iou
 桑葚	sang shem
 桔子	gU z
 桔桀	giE giE
@@ -36720,7 +36720,7 @@ use_preset_vocabulary: true
 樂網	le vang
 樂羣	iau kUin
 樂羣	le kUin
-樂翁	UE uung
+樂翁	UE ung
 樂而不淫	le er bu im
 樂而不荒	le er bu huang
 樂而忘憂	le er vang iou
@@ -39245,10 +39245,10 @@ use_preset_vocabulary: true
 甌窶	ou lou
 甌臾	ou U
 甑箄	zeng bEi
-甕牖桑樞	uung iou sang shu
-甕牖繩樞	uung iou sheng shu
-甕盡杯乾	uung zin bEi gEn
-甕裏醯雞	uung li hi gi
+甕牖桑樞	ung iou sang shu
+甕牖繩樞	ung iou sheng shu
+甕盡杯乾	ung zin bEi gEn
+甕裏醯雞	ung li hi gi
 甘之如薺	gEm zh rhu zi
 甘地主義	gEm di zhu i
 甘心如薺	gEm sim rhu zi
@@ -41571,9 +41571,9 @@ use_preset_vocabulary: true
 羽翮已就	U he i ziou
 羽翮飛肉	U he fEi rhou
 羽騎	U gi
-翁同龢	uung tung he
-翁蛤	uung ge
-翁長	uung dhang
+翁同龢	ung tung he
+翁蛤	ung ge
+翁長	ung dhang
 翅膀	ch bang
 翅膀硬	ch bang ing
 習慣	si guEn
@@ -44079,7 +44079,7 @@ use_preset_vocabulary: true
 親家公	cing gia gung
 親家母	cing gia mu
 親家禮道	cing gia li dau
-親家翁	cing gia uung
+親家翁	cing gia ung
 親家老爺	cing gia lau iE
 親愛的	cin ai de
 親房	cing fang
@@ -44087,7 +44087,7 @@ use_preset_vocabulary: true
 親爹	cing diE
 親率	cin shuai
 親痛仇快	cin tung chou kuai
-親翁	cing uung
+親翁	cing ung
 親著	cin dhu
 覬倖	gi hing
 覬覦	gi U
@@ -46167,7 +46167,7 @@ use_preset_vocabulary: true
 醯胺類	hi En lEi
 醯醬	hi ziang
 醯雞	hi gi
-醯雞甕裏	hi gi uung li
+醯雞甕裏	hi gi ung li
 醱酵	puo giau
 醱酵乳	puo giau rhu
 醺酣	hUin hEm
@@ -47317,7 +47317,7 @@ use_preset_vocabulary: true
 阿姊	a z
 阿媚	e mEi
 阿家	a gu
-阿家翁	a gu uung
+阿家翁	a gu ung
 阿尊事貴	e zuen sh guEi
 阿屎	e sh
 阿巴桑	e ba sang
