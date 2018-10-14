@@ -1,6 +1,8 @@
 
 export const initials= {
 	
+	u: [ 'h', 't', 'n', ],
+	
 	b: [ 'f', ], bu: [ 'f', 'g', ],
 	p: [ 'g', ], pu: [ 'g', 'c', ],
 	m: [ 'c', ], mu: [ 'c', 'r', ],
@@ -26,9 +28,6 @@ export const initials= {
 	š: [ 'w', 'n', ], šu: [ 't', 'v', ],
 	ř: [ 'm', 'v', ], řu: [ 'm', 'z', ],
 	
-	
-	y: [ 'b', 's', ], yu: [ 'd', 'l', ],
-	
 	ɓ: [ 'f', 'c', ], ɓu: [ 'f', 'r', ],
 	B: [ 'g', 'r', ], Bu: [ 'g', 'l', ],
 	ɗ: [ 'd', 't', ], ɗu: [ 'd', 'n', ],
@@ -41,6 +40,7 @@ export const initials= {
 	ň: [ 'd', 'v', ], ňu: [ 'h', 'v', ],
 	Ž: [ 'b', 't', ], Žu: [ 'd', 'w', ],
 	
+	ñ: [ 'b', 's', ], ñu: [ 'd', 'l', ],
 	X: [ 'l', 's', ], Xu: [ 's', 'z', ],
 	x: [ 'r', 'n', ], xu: [ 'n', 'v', ],
 	J: [ 'f', 'd', ], Ju: [ 'd', 'b', ],
@@ -51,6 +51,8 @@ export const initials= {
 	G: [ 't', 's', ], Gu: [ 't', 'z', ],
 	ŋ: [ 'd', 's', ], ŋu: [ 'f', 's', ],
 	H: [ 'g', 's', ], Hu: [ 'c', 's', ],
+	
+	y: [ 'b', 'n', ], yu: [ 'm', 's', ],
 };
 
 export const finals= {
