@@ -12370,9 +12370,7 @@ use_preset_vocabulary: true
 狇	mu
 狈	bEi
 狉	pi
-狊	chou
 狊	gU
-狊	hau
 狋	i
 狋	nyi
 狌	sheng
@@ -16137,7 +16135,7 @@ use_preset_vocabulary: true
 罽	gi
 罾	zeng
 罿	chong
-罿	tong
+罿	tung
 羀	liou
 羁	gi
 羂	gUEn
@@ -16189,7 +16187,7 @@ use_preset_vocabulary: true
 羨	siEn
 義	i
 羫	kiang
-羫	kong
+羫	kung
 羬	hiEm
 羬	kiEm
 羭	U
@@ -16805,7 +16803,8 @@ use_preset_vocabulary: true
 膣	dh
 膦	lin
 膦	liEn
-膧	tong
+膧	tung
+膧	thuang
 膨	peng
 膩	nyi
 膪	dhai
@@ -16996,8 +16995,7 @@ use_preset_vocabulary: true
 舺	gia
 舺	hia
 舻	lu
-舼	gong
-舼	hong
+舼	hung
 舼	kUong
 舽	pang
 舿	kua
@@ -17031,8 +17029,8 @@ use_preset_vocabulary: true
 艜	dai
 艞	iau
 艞	tiau
-艟	thong
-艟	tong
+艟	chong
+艟	tung
 艡	dang
 艢	ciang
 艣	lu
@@ -17675,8 +17673,7 @@ use_preset_vocabulary: true
 葸	si
 葹	sh
 葺	ci
-葺	rhong
-葻	fong
+葻	fung
 葻	lEm
 葼	zung
 葽	iau
@@ -18031,7 +18028,7 @@ use_preset_vocabulary: true
 薥	shu
 薥	zhu
 薦	ziEn
-薧	hong
+薧	hau
 薧	kau
 薨	hong
 薨	ing
@@ -18196,9 +18193,8 @@ use_preset_vocabulary: true
 蘯	dang
 蘱	lEi
 蘲	lEi
-蘳	guEi
 蘳	hua
-蘳	tong
+蘳	huEi
 蘴	fong
 蘵	zh
 蘶	uEi
@@ -18303,8 +18299,9 @@ use_preset_vocabulary: true
 蚊	ven
 蚋	na
 蚋	rhuEi
-蚌	bang	72.52%
-蚌	bong	27.48%
+蚌	bang	99%
+蚌	beng	1%
+蚌	fong	0%
 蚍	bi
 蚍	pi
 蚎	UE
@@ -18333,7 +18330,8 @@ use_preset_vocabulary: true
 蚡	fen
 蚢	hang
 蚢	kang
-蚣	gong
+蚣	gung
+蚣	zhong
 蚤	zau
 蚥	f
 蚦	rhEn
@@ -18384,7 +18382,6 @@ use_preset_vocabulary: true
 蛇	she	99.95%
 蛈	tiE
 蛉	ling
-蛊	chong
 蛊	gu
 蛋	dEn
 蛌	gu
@@ -34855,7 +34852,7 @@ use_preset_vocabulary: true
 撞客	dhuang ke
 撞屍	dhuang sh
 撞席	dhuang si
-撞府沖州	dhuang f thung zhou
+撞府衝州	dhuang f chung zhou
 撞府穿州	dhuang f chuEn zhou
 撞心拳	dhuang sim kUEn
 撞擊	dhuang gi
@@ -37510,8 +37507,8 @@ use_preset_vocabulary: true
 沓沓	ta ta
 沓至	ta zh
 沓雜	ta za
-沖撞	thung dhuang
-沖模	thung mu
+衝撞	chung dhuang
+衝模	chung mu
 沙參	sha shem
 沙嗲	sha diE
 沙噀	sha sUin
@@ -38064,7 +38061,7 @@ use_preset_vocabulary: true
 渫渫	siE siE
 測度	ce duo
 渭河盆地	uEi he pen di
-港埠	gang f
+港埠	gang bu
 港行	gang hang
 港都	gang du
 渴澤	giE ze
@@ -42202,7 +42199,7 @@ use_preset_vocabulary: true
 船長	chuEn dhang
 艋舺	meng hia
 艦長	giEm dhang
-艨艟	mung tong
+艨艟	mung chong
 良价	liang giE
 良弓藏	liang gung cang
 良田美地	liang tiEn mEi di
@@ -42994,8 +42991,8 @@ use_preset_vocabulary: true
 虼螂	ge lang
 虼螂皮	ge lang pi
 蚊蚋	ven rhuEi
-蚌埠	bong bu
-蚌埠市	bang f sh
+蚌埠	beng bu
+蚌埠市	beng bu sh
 蚌殼	bang ke
 蚌珠	bang zhu
 蚍蜉	pi f
@@ -43020,7 +43017,6 @@ use_preset_vocabulary: true
 蛤灰	ge huEi
 蛤粉	ge fen
 蛤蚌	ge bang
-蛤蚌	ge bong
 蛤蚧	ge giE
 蛤蜊	ge li
 蛤蜊湯	ge li tang
