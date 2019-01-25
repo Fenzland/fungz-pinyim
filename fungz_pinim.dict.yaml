@@ -53,7 +53,7 @@ use_preset_vocabulary: true
 ≠	bu deng U
 ≯	bu da U
 ∝	zheng bi U
-∞	v kUung da
+∞	v kUng da
 ∟	dh giau
 ∠	giau
 ∥	ping hing
@@ -778,7 +778,7 @@ use_preset_vocabulary: true
 䤆	guEi
 䤑	uang
 䤝	ing
-䤝	kUung
+䤝	kUng
 䤞	Uin
 䤥	guEi
 䤪	duo
@@ -5181,7 +5181,7 @@ use_preset_vocabulary: true
 宄	guEi
 宅	dhai	100%
 宅	dhe	0%
-宆	kUung
+宆	kUng
 宇	U
 守	shou
 安	En
@@ -11889,7 +11889,7 @@ use_preset_vocabulary: true
 焦	ziau
 焧	zung
 焨	fung
-焪	kUung
+焪	kUng
 焫	rhe
 焫	rhuo
 焬	si
@@ -11997,12 +11997,12 @@ use_preset_vocabulary: true
 熈	hi
 熈	i
 熉	Uin
-熊	hUung
-熊	Uung
-熋	hUung
+熊	hUng
+熊	Ung
+熋	hUng
 熋	nai
 熌	shEn
-熍	kUung
+熍	kUng
 熎	iau
 熏	hUin
 熐	ming
@@ -14681,10 +14681,10 @@ use_preset_vocabulary: true
 穵	ia
 穵	ua
 究	giou
-穷	kUung
+穷	kUng
 穸	si
 穸	sUE
-穹	kUung
+穹	kUng
 空	kung
 穻	U
 穼	sem
@@ -14747,7 +14747,7 @@ use_preset_vocabulary: true
 窫	ia
 窬	U
 窭	gU
-窮	kUung
+窮	kUng
 窯	iau
 窰	iau
 窱	tiau
@@ -14774,7 +14774,7 @@ use_preset_vocabulary: true
 竃	zau
 竄	cuEn
 竅	kiau
-竆	kUung
+竆	kUng
 竇	dou
 竈	zau
 竉	lung
@@ -17083,8 +17083,8 @@ use_preset_vocabulary: true
 芌	U
 芍	shau
 芍	shuo
-芎	hUung
-芎	kUung
+芎	hUng
+芎	kUng
 芏	tu
 芐	hia
 芐	hu
@@ -18115,7 +18115,7 @@ use_preset_vocabulary: true
 藪	sou
 藫	tEm
 藬	tuEi
-藭	kUung
+藭	kUng
 藮	ciau
 藯	uEi
 藰	liou
@@ -18420,7 +18420,7 @@ use_preset_vocabulary: true
 蛦	ti
 蛧	vang
 蛨	muo
-蛩	kUung
+蛩	kUng
 蛪	ki
 蛪	kiE
 蛫	guEi
@@ -23250,8 +23250,8 @@ use_preset_vocabulary: true
 雃	hing
 雃	ia
 雃	kiEn
-雄	hUung
-雄	Uung
+雄	hUng
+雄	Ung
 雅	ia
 集	zi
 雇	gu
@@ -26661,7 +26661,7 @@ use_preset_vocabulary: true
 九地	giou di
 九垓	giou gai
 九嶷山	giou i shEn
-九芎	giou kUung
+九芎	giou kUng
 九還丹	giou huEn dEn
 九重	giou thong
 九重天	giou thong tiEn
@@ -27928,7 +27928,7 @@ use_preset_vocabulary: true
 免疫血清	miEn i hUE cing
 免黜	miEn thu
 兒女情長	er nyU cing thang
-兒女英雄傳	er nyU ing hUung dhuEn
+兒女英雄傳	er nyU ing hUng dhuEn
 兒寬	nyi kuEn
 兒童樂園	er tung le UEn
 兔毛大伯	tu mau da buo
@@ -28127,9 +28127,9 @@ use_preset_vocabulary: true
 其它	ki ta
 其從如雲	ki cong rhu Uin
 其從如雲	ki zong rhu Uin
-其樂不窮	ki le bu kUung
+其樂不窮	ki le bu kUng
 其樂無比	ki le v bi
-其樂無窮	ki le v kUung
+其樂無窮	ki le v kUng
 其樂融融	ki le rhung rhung
 具有	gU iou
 具體	gU ti
@@ -28622,7 +28622,7 @@ use_preset_vocabulary: true
 助長	zhu dhang
 努着	nu dhe
 努着	nu dhuo
-劫後英雄傳	giE hou ing hUung dhuEn
+劫後英雄傳	giE hou ing hUng dhuEn
 劻勷	kuang rhang
 劾奏	he zou
 劾繫	he hi
@@ -29523,7 +29523,7 @@ use_preset_vocabulary: true
 命小福薄	ming siau f buo
 命薄	ming buo
 命薄如花	ming buo rhu hua
-命薄相窮	ming buo siang kUung
+命薄相窮	ming buo siang kUng
 命途多舛	ming tu duo chuEn
 呿唫	kU im
 咀吸口	zU hi kou
@@ -30184,8 +30184,8 @@ use_preset_vocabulary: true
 圓鑿方枘	UEn zuo fang rhuEi
 圖像	tu siang
 圖度	tu duo
-圖窮匕見	tu kUung bi hiEn
-圖窮匕首見	tu kUung bi shou hiEn
+圖窮匕見	tu kUng bi hiEn
+圖窮匕首見	tu kUng bi shou hiEn
 圖讖	tu chem
 團掿	tuEn nuo
 團行	tuEn hang
@@ -30878,7 +30878,7 @@ use_preset_vocabulary: true
 多角度	duo giau du
 多角形	duo giau hing
 多角經營	duo giau ging ing
-多言數窮	duo iEn shuo kUung
+多言數窮	duo iEn shuo kUng
 多財善賈	duo cai shEn gu
 多賺	duo dhuEm
 多重	duo thong
@@ -31968,7 +31968,7 @@ use_preset_vocabulary: true
 封貯	fong dhu
 射干	iE gEn
 射沓	she ta
-射鵰英雄傳	she diau ing hUung dhuEn
+射鵰英雄傳	she diau ing hUng dhuEn
 將伯	ciang buo
 將伯之助	ciang buo zh zhu
 將來	ziang lai
@@ -32316,7 +32316,7 @@ use_preset_vocabulary: true
 巔崖峻谷	diEn iai zUin gu
 巖徼	iEm giau
 巘巘	iEn iEn
-川芎	chuEn kUung
+川芎	chuEn kUng
 川陸	chuEn lu
 州伯	zhou buo
 州長	zhou dhang
@@ -36308,7 +36308,7 @@ use_preset_vocabulary: true
 柘漿	zhe ziang
 柘絲	zhe s
 柘黃	zhe huang
-柙虎樊熊	hia hu fEn hUung
+柙虎樊熊	hia hu fEn hUng
 柞樹	zuo shu
 柞蠶	zuo cEm
 查士丁尼一世	zha sh ding nyi i sh
@@ -37911,8 +37911,8 @@ use_preset_vocabulary: true
 涸轍之魚	he dhe zh U
 涸轍之鮒	he dhe zh f
 涸轍枯魚	he dhe ku U
-涸轍窮魚	he dhe kUung U
-涸轍窮鱗	he dhe kUung lin
+涸轍窮魚	he dhe kUng U
+涸轍窮鱗	he dhe kUng lin
 涸陰	he im
 涸鮒	he f
 涸鱗濡沫	he lin rhu muo
@@ -38125,7 +38125,7 @@ use_preset_vocabulary: true
 溯流求源	su liou kiou UEn
 溯游	su iou
 溯源	su UEn
-溯源窮流	su UEn kUung liou
+溯源窮流	su UEn kUng liou
 溲溺	sou nyiau
 溴中毒	hiou dhung du
 溴化物	hiou hua v
@@ -38487,8 +38487,8 @@ use_preset_vocabulary: true
 無盡	v zin
 無盡藏	v zin zang
 無着	v dhuo
-無窮	v kUung
-無窮大	v kUung da
+無窮	v kUng
+無窮大	v kUng da
 無立足之地	v li zu zh di
 無立錐之地	v li zhuEi zh di
 無給職	v gi zh
@@ -38549,7 +38549,7 @@ use_preset_vocabulary: true
 煮熟	zhu shu
 煮熟的鴨子飛了	zhu shou de ia z fEi le
 熇熇	he he
-熊經鴟顧	hUung ging ch gu
+熊經鴟顧	hUng ging ch gu
 熙朝	hi thau
 熙洽	hi hia
 熙洽	hi kia
@@ -40673,12 +40673,12 @@ use_preset_vocabulary: true
 窩窩凹凹	uo uo au au
 窩藏	uo cang
 窪地	ua di
-窮天極地	kUung tiEn gi di
-窮愁潦倒	kUung chou liau dau
-窮源溯流	kUung UEn su liou
-窮纖入微	kUung siEm rhu vEi
-窮途潦倒	kUung tu liau dau
-窮途落魄	kUung tu luo tuo
+窮天極地	kUng tiEn gi di
+窮愁潦倒	kUng chou liau dau
+窮源溯流	kUng UEn su liou
+窮纖入微	kUng siEm rhu vEi
+窮途潦倒	kUng tu liau dau
+窮途落魄	kUng tu luo tuo
 窳楛	U ku
 窶人子	gU rhen z
 窶數	gU shu
@@ -41729,7 +41729,7 @@ use_preset_vocabulary: true
 聘請	pin cing
 聘金	pin gim
 聚殲	zU ziEm
-聚葯雄蕊	zU iau hUung rhuEi
+聚葯雄蕊	zU iau hUng rhuEi
 聚變	zU biEn
 聚酯纖維	zU zh siEm uEi
 聚集地	zU zi di
@@ -42109,7 +42109,7 @@ use_preset_vocabulary: true
 與噲爲伍	U kuai uEi u
 與民偕樂	U min hiE le
 與民同樂	U min tung le
-與窮呼	U kUung hu
+與窮呼	U kUng hu
 興嗟	hing ziE
 興業銀行	hing iE in hang
 興盛	hing sheng
@@ -42215,7 +42215,7 @@ use_preset_vocabulary: true
 芍藥	shau iau
 芍藥	shuo UE
 芍藥花	shau iau hua
-芎藭	kUung kUung
+芎藭	kUng kUng
 芒稷	mang zi
 芒角	mang giau
 芒角撐腸	mang giau theng thang
@@ -42300,7 +42300,7 @@ use_preset_vocabulary: true
 苦心孤詣	ku sim gu i
 苦樂	ku le
 苦行	ku hing
-英雄無用武之地	ing hUung v Uong v zh di
+英雄無用武之地	ing hUng v Uong v zh di
 苴布	zU bu
 苴杖	zU dhang
 苴秸	zU giE
@@ -46266,7 +46266,7 @@ use_preset_vocabulary: true
 重挫	dhong cuo
 重振	thong zhen
 重振旗鼓	thong zhen ki gu
-重振雄風	thong zhen hUung fung
+重振雄風	thong zhen hUng fung
 重播	thong buo
 重擊	dhong gi
 重操舊業	thong cau giou iE
@@ -47268,7 +47268,7 @@ use_preset_vocabulary: true
 阜財	f cai
 阤靡	i mi
 阨塞	e sai
-阨窮	e kUung
+阨窮	e kUng
 防地	fang di
 防彈衣	fang dEn i
 防沙堤	fang sha di
@@ -47584,8 +47584,8 @@ use_preset_vocabulary: true
 雁行	iEn hang
 雁行折翼	iEn hang zhe i
 雁頭鴟勞嘴	iEn tou zh lau zuEi
-雄勁	hUung ging
-雄長	hUung dhang
+雄勁	hUng ging
+雄長	hUng dhang
 雅樂	ia UE
 雅謔	ia nyUE
 雅重	ia dhong
