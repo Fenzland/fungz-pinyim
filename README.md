@@ -81,12 +81,12 @@ iong  ->  üong
 * [bpmfu]eng和[bpmfu]ong的區分
 * 零聲母補影母 y- 
 * v- 和 u- 的區分
+* ung 和 ong 的區分
 
 進行中
 
 * 前鼻音和脣鼻音的區分
 * zh ch 和 dh th 的區分
-* ung 和 ong 的區分
 * 零聲母補疑母 ng- 
 
 計劃
