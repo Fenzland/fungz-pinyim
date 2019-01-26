@@ -29222,11 +29222,8 @@ use_preset_vocabulary: true
 周召	zhou shau
 周召共和	zhou shau gong he
 周朝	zhou thau
-周率	zhou lU
 周給	zhou gi
-周角	zhou giau
 周邊地區	zhou biEn di kU
-周長	zhou thang
 周顒	zhou Uong
 周顗	zhou i
 周髀	zhou bi
@@ -29932,11 +29929,12 @@ use_preset_vocabulary: true
 園地	UEn di
 園長	UEn dhang
 圓仔湯	UEn z tang
-圓周率	UEn zhou lU
-圓周角	UEn zhou giau
 圓心角	UEn sim giau
 圓熟	UEn shu
 圓角	UEn giau
+圓週	UEn zhou
+圓週率	UEn zhou lU
+圓週角	UEn zhou giau
 圓鍬	UEn ciau
 圓鑿方枘	UEn zuo fang rhuEi
 圖像	tu siang
@@ -45452,6 +45450,8 @@ use_preset_vocabulary: true
 連長	liEn dhang
 逭暑	huEn shu
 逮逮	di di
+週角	zhou giau
+週長	zhou thang
 進一步	zin yi bu
 進不了	zin bu liau
 進來	zin lai
