@@ -555,7 +555,7 @@ use_preset_vocabulary: true
 㾏	ia
 㾐	li
 㾓	yUEn
-㿈	Uong
+㿈	yUong
 㿗	huEi
 㿗	tuEi
 㿜	biE
@@ -591,7 +591,7 @@ use_preset_vocabulary: true
 䃺	muo
 䄂	liou
 䄃	yiang
-䄄	in
+䄄	yin
 䄉	e
 䄍	zha
 䄎	ki
@@ -614,7 +614,7 @@ use_preset_vocabulary: true
 䇭	lau
 䇯	rhong
 䇹	gUin
-䇼	i
+䇼	yi
 䈎	iE
 䈑	gua
 䈣	zheng
@@ -625,7 +625,7 @@ use_preset_vocabulary: true
 䉶	shuang
 䉺	hung
 䊆	giou
-䊔	ing
+䊔	ying
 䊕	giEn
 䊤	tEm
 䊵	kiou
@@ -697,12 +697,11 @@ use_preset_vocabulary: true
 䔻	duEi
 䔽	yai
 䔿	zuen
-䕃	im
+䕃	yim
 䕑	suEi
 䕑	zUin
 䕒	gia
 䕕	mEn
-䕕	uEn
 䕘	ling
 䕡	lU
 䕢	zha
@@ -711,7 +710,7 @@ use_preset_vocabulary: true
 䕸	giE
 䕸	hia
 䖅	ling
-䖚	u
+䖚	yu
 䖦	cU
 䖦	zhuo
 䖳	dha
@@ -721,7 +720,7 @@ use_preset_vocabulary: true
 䗪	zhe
 䗿	nying
 䘃	muo
-䘆	in
+䘆	hiEn
 䘏	sU
 䘕	hang
 䘗	huEi
@@ -738,7 +737,7 @@ use_preset_vocabulary: true
 䛐	c
 䛟	gia
 䛵	shou
-䛷	uEn
+䛷	yuEn
 䜑	yu
 䜓	she
 䜘	ging
@@ -771,7 +770,7 @@ use_preset_vocabulary: true
 䢛	gUong
 䢭	iEn
 䢮	lEi
-䣐	ing
+䣐	ying
 䣝	tu
 䣭	iou
 䣺	gUEn
@@ -787,13 +786,13 @@ use_preset_vocabulary: true
 䤵	pi
 䤾	tau
 䥅	kin
-䥑	uEn
+䥑	mai
 䥥	liEn
 䥪	hiEn
 䥯	ba
-䥲	ou
-䥳	iou
-䦟	uen
+䥲	you
+䥳	yiou
+䦟	yuen
 䦡	huEn
 䦧	dou
 䦧	er
@@ -816,7 +815,7 @@ use_preset_vocabulary: true
 䪴	zhem
 䪸	min
 䫌	pi
-䫑	i
+䫑	yi
 䫤	ming
 䫿	thau
 䬐	rhuEi
@@ -830,7 +829,7 @@ use_preset_vocabulary: true
 䭞	i
 䭯	buo
 䭰	bung
-䭲	i
+䭲	yi
 䭻	fen
 䭾	duo
 䭾	tuo
@@ -850,11 +849,11 @@ use_preset_vocabulary: true
 䰲	yia
 䰻	U
 䰾	ba
-䱀	iang
+䱀	yiang
 䱇	shEn
 䱗	cEn
 䱚	lu
-䱛	i
+䱛	hU
 䱤	hiEm
 䱭	geng
 䱵	yung
@@ -874,22 +873,22 @@ use_preset_vocabulary: true
 䳭	zi
 䴇	ling
 䴉	hUEn
-䴏	iEn
+䴏	yiEn
 䴐	bau
 䴴	nyiEn
 䵚	tau
-䵦	u
+䵦	hiE
 䵶	gou
-䵷	ua
+䵷	yua
 䶉	liou
 䶊	nyU
-䶍	u
+䶍	di
 䶑	ti
 䶕	ba
 䶗	ke
 䶜	gu
 䶧	giau
-䶧	iau
+䶧	yiau
 一	yi
 丁	dheng	0.07%
 丁	ding	99.93%
@@ -975,8 +974,7 @@ use_preset_vocabulary: true
 乁	i
 乂	ai
 乂	i
-乃	ai	0%
-乃	nai	100%
+乃	nai
 乄	u
 久	giou
 乆	giou
@@ -984,11 +982,11 @@ use_preset_vocabulary: true
 乇	mau	0%
 乇	th	0%
 乇	tuo	29.47%
-么	iau	1%
+么	yiau	1%
 么	ma	0.04%
 么	me	98.93%
 义	i
-乊	i
+乊	yi
 之	zh
 乌	yu
 乍	zha
@@ -1068,8 +1066,7 @@ use_preset_vocabulary: true
 争	zheng
 事	sh
 二	er
-亍	thu	100%
-亍	U	0%
+亍	thu
 于	hU	0%
 于	yU	100%
 亏	kuEi
@@ -1090,7 +1087,7 @@ use_preset_vocabulary: true
 亚	yia
 些	siE	100%
 些	suo	0%
-亜	ia
+亜	yia
 亝	ci
 亝	z
 亝	zhai
@@ -1114,13 +1111,11 @@ use_preset_vocabulary: true
 亩	mu
 亪	iE
 享	hiang
-京	ging	100%
-京	UEn	0%
+京	ging
 亭	ting
 亮	liang
 亯	hiang
-亰	ging	100%
-亰	UEn	0%
+亰	ging
 亱	iE
 亲	cin	99.82%
 亲	cing	0.18%
@@ -1213,8 +1208,7 @@ use_preset_vocabulary: true
 仲	dhung
 仳	bi
 仳	pi
-仴	e
-仴	uEn
+仴	uo
 仵	u
 件	giEn
 价	gia	99.98%
@@ -1241,7 +1235,7 @@ use_preset_vocabulary: true
 伉	kang
 伊	yi
 伋	gi
-伌	ai
+伌	yai
 伍	u
 伎	gi
 伏	f
@@ -1338,8 +1332,7 @@ use_preset_vocabulary: true
 佖	bi
 佗	ta
 佗	tuo
-佘	she	100%
-佘	U	0%
+佘	she
 余	sU	0%
 余	tu	0%
 余	U	100%
@@ -6179,7 +6172,7 @@ use_preset_vocabulary: true
 廒	au
 廓	kuo
 廔	lou
-廕	in
+廕	yin
 廖	liau
 廗	dai
 廘	lu
