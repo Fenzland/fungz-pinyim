@@ -28,7 +28,7 @@
 #
 
 ---
-name: fungz_pinim
+name: fungz_pinyim
 version: "0.0.1"
 sort: by_weight
 use_preset_vocabulary: true

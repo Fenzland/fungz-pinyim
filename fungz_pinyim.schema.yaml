@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: fungz_pinim
+  schema_id: fungz_pinyim
   name: 楓梓拼音
   version: "0.1"
   author:
@@ -101,7 +101,7 @@ speller:
     - derive/([iu])a(o|ng?)$/a$1$2/
 
 translator:
-  dictionary: fungz_pinim
+  dictionary: fungz_pinyim
   preedit_format:
     - xform/bv/B̪/
     - xform/bf/b̪/

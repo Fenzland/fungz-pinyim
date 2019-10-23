@@ -3,7 +3,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: fungz_combo_pinim
+  schema_id: fungz_combo_pinyim
   name: 楓梓宮保拼音
   version: "0.1"
   author:
@@ -152,9 +152,9 @@ chord_composer:
     - "xform/^(.*)$/[$1]/"
 
 translator:
-  dictionary: fungz_pinim
-  table: fungz_pinim
-  prism: fungz_pinim
+  dictionary: fungz_pinyim
+  table: fungz_pinyim
+  prism: fungz_pinyim
   preedit_format:
     - xform/bv/Ɓ/
     - xform/bf/ɓ/
