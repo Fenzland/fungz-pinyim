@@ -78,6 +78,7 @@ iong  ->  üong
 
 * 尖團音的區分
 * [bpmfu]eng和[bpmfu]ong的區分
+* 零聲母補影母 y- 
 
 進行中
 
@@ -85,7 +86,6 @@ iong  ->  üong
 * v 和 u 的區分
 * zh ch 和 dh th 的區分
 * ung 和 ong 的區分
-* 零聲母補影母 y- 
 
 計劃
 
