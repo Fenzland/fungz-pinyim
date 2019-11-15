@@ -36,16 +36,31 @@ use_preset_vocabulary: true
 
 ℃	she sh du
 ☯	tai gi
+⌬	ben huEn
 ∫	zi fen
-∮	huEn lu zi fen
+∮	zi fen
+∫	zi fen
+∬	zi fen
+∭	zi fen
+∮	zi fen
+∯	zi fen
+∰	zi fen
+∱	zi fen
+∲	zi fen
+∳	zi fen
 √	gen hau
+∛	gen hau
+∜	gen hau
 ㏑	ln
 ㏒	log
 π	pai
 π	py
 ∑	kiou he
-∈	shu yU
 ∏	kiou gi
+∈	shu yU
+∉	bu shu yU
+∋	shu yU
+∌	bu shu yU
 ±	zheng f
 ÷	thu i
 ×	cheng i
@@ -78,6 +93,116 @@ use_preset_vocabulary: true
 ⊙	UEn sim
 ⊥	thuEi dh
 ⊿	sEm giau hing
+∀	duEi rhem yi
+∃	cuen zai
+∄	bu cuen zai
+∂	piEn dau shu
+∅	kung zi
+‰	ciEn fen hau
+‱	vEn fen hau
+⁰	ling c fang
+¹	yi c fang
+²	er c fang
+³	sEm c fang
+⁴	s c fang
+⁵	ngu c fang
+⁶	liou c fang
+⁷	ci c fang
+⁸	ba c fang
+⁹	giou c fang
+ⁱ	i c fang
+ⁿ	n c fang
+ⁱ	shang biau i
+⁰	shang biau ling
+¹	shang biau yi
+²	shang biau er
+³	shang biau sEm
+⁴	shang biau s
+⁵	shang biau ngu
+⁶	shang biau liou
+⁷	shang biau ci
+⁸	shang biau ba
+⁹	shang biau giou
+⁺	shang biau gia
+⁻	shang biau giEm
+⁼	shang biau deng yU
+⁽	shang biau kuo hau
+⁾	shang biau kuo hau
+ⁿ	shang biau n
+₀	hia biau ling
+₁	hia biau yi
+₂	hia biau er
+₃	hia biau sEm
+₄	hia biau s
+₅	hia biau ngu
+₆	hia biau liou
+₇	hia biau ci
+₈	hia biau ba
+₉	hia biau giou
+₊	hia biau gia
+₋	hia biau giEm
+₌	hia biau deng yU
+₍	hia biau kuo hau
+₎	hia biau kuo hau
+ₐ	hia biau a
+ₑ	hia biau e
+ₒ	hia biau o
+ₓ	hia biau x
+ₔ	hia biau E
+ₕ	hia biau h
+ₖ	hia biau k
+ₗ	hia biau l
+ₘ	hia biau m
+ₙ	hia biau n
+ₚ	hia biau p
+ₛ	hia biau s
+ₜ	hia biau t
+¼	s fen zh yi
+½	er fen zh yi
+¾	s fen zh sEm
+↉	sEm fen zh ling
+⅓	sEm fen zh yi
+⅔	sEm fen zh er
+⅕	ngu fen zh yi
+⅖	ngu fen zh er
+⅗	ngu fen zh sEm
+⅘	ngu fen zh s
+⅙	liou fen zh yi
+⅚	liou fen zh ngu
+⅐	ci fen zh yi
+⅛	ba fen zh yi
+⅜	ba fen zh sEm
+⅝	ba fen zh ngu
+⅞	ba fen zh ci
+⅑	giou fen zh yi
+⅒	sh fen zh yi
+⅟	fen zh yi
+↊	dau er
+↋	dau sEm
+©	bEn kUEn
+®	dhu ce shang biau
+¼	s fen zh yi
+½	er fen zh yi
+¾	s fen zh sEm
+↉	sEm fen zh ling
+⅓	sEm fen zh yi
+⅔	sEm fen zh er
+⅕	ngu fen zh yi
+⅖	ngu fen zh er
+⅗	ngu fen zh sEm
+⅘	ngu fen zh s
+⅙	liou fen zh yi
+⅚	liou fen zh ngu
+⅐	ci fen zh yi
+⅛	ba fen zh yi
+⅜	ba fen zh sEm
+⅝	ba fen zh ngu
+⅞	ba fen zh ci
+⅑	giou fen zh yi
+⅒	sh fen zh yi
+⅟	fen zh yi
+↊	dau er
+↋	dau sEm
 ⿔	guEi
 〇	ling
 㑣	lEm
