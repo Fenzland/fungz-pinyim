@@ -44,15 +44,15 @@ use_preset_vocabulary: true
 π	pai
 π	py
 ∑	kiou he
-∈	shu U
+∈	shu yU
 ∏	kiou gi
 ±	zheng f
 ÷	thu i
 ×	cheng i
-≮	bu siau U
-≠	bu deng U
-≯	bu da U
-∝	zheng bi U
+≮	bu siau yU
+≠	bu deng yU
+≯	bu da yU
+∝	zheng bi yU
 ∞	v kUng da
 ∟	dh giau
 ∠	giau
@@ -62,17 +62,17 @@ use_preset_vocabulary: true
 ∩	giau zi
 ∪	bing zi
 ∴	suo i
-∵	inu Ei
-∷	deng gia U
-∽	siang s U
-≌	cUEn deng U
-≈	UE deng U
-≒	UE deng U
-≡	heng deng U
-≤	siau U deng U
-≥	da U deng U
-≦	heng siau U deng U
-≧	heng da U deng U
+∵	yin uEi
+∷	deng gia yU
+∽	siang s yU
+≌	cUEn deng yU
+≈	yUE deng yU
+≒	yUE deng yU
+≡	heng deng yU
+≤	siau yU deng yU
+≥	da yU deng yU
+≦	heng siau yU deng yU
+≧	heng da yU deng yU
 ⊕	i huo
 ⊙	tung huo
 ⊙	UEn sim
