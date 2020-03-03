@@ -3018,9 +3018,8 @@ use_preset_vocabulary: true
 味	vEi
 呴	hou
 呴	hU
-呵	a	8.96%
+呵	ya	8.96%
 呵	he	91.04%
-呵	o	0%
 呶	nau
 呶	nu
 呷	hia
@@ -3301,8 +3300,7 @@ use_preset_vocabulary: true
 啈	heng
 啉	lim
 啉	lEm
-啊	a	100%
-啊	o	0%
+啊	ya
 啋	cai
 啋	hiau
 啌	hiang
@@ -27004,7 +27002,7 @@ use_preset_vocabulary: true
 什麼叫做	shen me giau zuo
 什麼名字	shen me ming z
 什麼呢	shen me ne
-什麼啊	shen me a
+什麼啊	shen me ya
 什麼問題	shen me ven ti
 什麼地方	shen me di fang
 什麼好	shen me hau
@@ -29689,7 +29687,7 @@ use_preset_vocabulary: true
 商行	shang hang
 商調	shang diau
 商賈	shang gu
-啊喲	a iau
+啊喲	ya iau
 問卜	ven bu
 問卷	ven gUEn
 問卷調查	ven gUEn diau cha
@@ -29867,7 +29865,7 @@ use_preset_vocabulary: true
 嗨喲	hai iau
 嗩吶	suo na
 嗩吶草	suo na cau
-嗯啊	yen a
+嗯啊	yen ya
 嗯嗯	yen yen
 嗷嗷嘔嘔	au au hU hU
 嗷嗷待哺	au au dai bu
@@ -44304,7 +44302,7 @@ use_preset_vocabulary: true
 誰叫你	shuEi giau nyi
 誰呀	shuEi ia
 誰呢	shuEi ne
-誰啊	shuEi a
+誰啊	shuEi ya
 誰在	shuEi zai
 誰家	shEi gia
 誰家竈內無煙	shEi gia zau nEi v yiEn
