@@ -1052,7 +1052,7 @@ use_preset_vocabulary: true
 亿	yi
 什	sh	15.80%
 什	she	0%
-什	shen	84.20%
+什	shem	84.20%
 仁	rhen
 仂	le
 仂	li
@@ -26111,7 +26111,7 @@ use_preset_vocabulary: true
 不尷尬	bu gEm ga
 不屑	bu siE
 不屑一顧	bu siE yi gu
-不差什麼	bu cha shen me
+不差什麼	bu cha shem me
 不差毫釐	bu cha hau li
 不弟	bu ti
 不弱似	bu rhuo s
@@ -26203,7 +26203,7 @@ use_preset_vocabulary: true
 不知輕重	bu dh king dhong
 不禁	bu gim
 不立崖岸	bu li ngia En
-不算什麼	bu suEn shen me
+不算什麼	bu suEn shem me
 不管生癬生瘡	bu guEn sheng siEn sheng chuang
 不終朝	bu zhung dhau
 不給	bu gi
@@ -26729,7 +26729,7 @@ use_preset_vocabulary: true
 亙古	gen gu
 亙古亙今	gen gu gen gim
 亙古未有	gen gu vEi iou
-些什麼	siE shen me
+些什麼	siE shem me
 亞伯拉罕	yia buo la hEn
 亞塞拜然	yia se bai rhEn
 亞塞拜然共和國	yia se bai rhEn gong he guo
@@ -26826,39 +26826,39 @@ use_preset_vocabulary: true
 什錦	sh gim
 什面	sh miEn
 什麼	she me
-什麼	shen me
-什麼事情	shen me sh cing
-什麼人	shen me rhen
-什麼作用	shen me zuo Uong
-什麼原因	shen me UEn yin
-什麼叫	shen me giau
-什麼叫做	shen me giau zuo
-什麼名字	shen me ming z
-什麼呢	shen me ne
-什麼啊	shen me ya
-什麼問題	shen me ven ti
-什麼地方	shen me di fang
-什麼好	shen me hau
-什麼情況	shen me cing kuang
-什麼意思	shen me yi s
-什麼時候	shen me sh hou
-什麼時間	shen me sh giEn
-什麼書	shen me shu
-什麼東東	shen me dung dung
-什麼東西	shen me dung si
-什麼樣	shen me iang
-什麼樣子	shen me iang z
-什麼歌	shen me ge
-什麼牌子	shen me pai z
-什麼用	shen me Uong
-什麼病	shen me bing
-什麼的	shen me de
-什麼程度	shen me theng du
-什麼藥	shen me iau
-什麼話	shen me hua
-什麼車	shen me che
-什麼關係	shen me guEn hi
-什麼顏色	shen me ngiEn se
+什麼	shem me
+什麼事情	shem me sh cing
+什麼人	shem me rhen
+什麼作用	shem me zuo Uong
+什麼原因	shem me UEn yin
+什麼叫	shem me giau
+什麼叫做	shem me giau zuo
+什麼名字	shem me ming z
+什麼呢	shem me ne
+什麼啊	shem me ya
+什麼問題	shem me ven ti
+什麼地方	shem me di fang
+什麼好	shem me hau
+什麼情況	shem me cing kuang
+什麼意思	shem me yi s
+什麼時候	shem me sh hou
+什麼時間	shem me sh giEn
+什麼書	shem me shu
+什麼東東	shem me dung dung
+什麼東西	shem me dung si
+什麼樣	shem me iang
+什麼樣子	shem me iang z
+什麼歌	shem me ge
+什麼牌子	shem me pai z
+什麼用	shem me Uong
+什麼病	shem me bing
+什麼的	shem me de
+什麼程度	shem me theng du
+什麼藥	shem me iau
+什麼話	shem me hua
+什麼車	shem me che
+什麼關係	shem me guEn hi
+什麼顏色	shem me ngiEn se
 仁者樂山	rhen zhe iau shEn
 仂語	le U
 仄行	ze hing
@@ -27399,7 +27399,7 @@ use_preset_vocabulary: true
 做一天和尚撞一天鐘	zuo yi tiEn he shang dhuang yi tiEn zhong
 做一行怨一行	zuo yi hang yUEn yi hang
 做不了	zuo bu liau
-做什麼	zuo shen me
+做什麼	zuo shem me
 做得了	zuo de le
 做得了	zuo de liau
 做我不着	zuo nguo bu dhau
@@ -28001,7 +28001,7 @@ use_preset_vocabulary: true
 出不了	chu bu liau
 出乖露醜	chu guai lou chou
 出人頭地	chu rhen tou di
-出什麼	chu shen me
+出什麼	chu shem me
 出公差	chu gung chai
 出去	chu kU
 出塞	chu sai
@@ -28945,7 +28945,7 @@ use_preset_vocabulary: true
 只重衣衫不重人	zh dhong yi shEm bu dhong rhen
 只需	zh sU
 只需要	zh sU yiau
-叫什麼	giau shen me
+叫什麼	giau shem me
 叫囂	giau hiau
 叫地地不靈	giau di di bu ling
 叫聒	giau gua
@@ -28954,7 +28954,7 @@ use_preset_vocabulary: true
 召父杜母	shau f du mu
 可乘之隙	ke cheng zh hi
 可了不得	ke liau bu de
-可什麼	ke shen me
+可什麼	ke shem me
 可共患難不可共安樂	ke gong huEn nEn bu ke gong yEn le
 可口可樂	ke kou ke le
 可執行	ke zh hing
@@ -29004,7 +29004,7 @@ use_preset_vocabulary: true
 吃不了	ch bu liau
 吃不了兜着走	ch bu liau dou dhe zou
 吃乾醋	ch gEn cu
-吃什麼	ch shen me
+吃什麼	ch shem me
 吃勁	ch gin
 吃口令	gi kou ling
 吃喝玩樂	ch he nguEn le
@@ -29606,7 +29606,7 @@ use_preset_vocabulary: true
 喜怒哀樂	hi nu yai le
 喜樂	hi le
 喜歡	hi huEn
-喜歡什麼	hi huEn shen me
+喜歡什麼	hi huEn shem me
 喜洽	hi hia
 喜洽	hi kia
 喜聞樂見	hi ven le giEn
@@ -31383,7 +31383,7 @@ use_preset_vocabulary: true
 孱頭	cEn tou
 孱頭貨	cEn tou huo
 孳蔓	z mEn
-學什麼	hUE shen me
+學什麼	hUE shem me
 學名	hUE ming
 學如逆水行舟	hUE rhu nyi shuEi hing zhou
 學富五車	hUE f ngu che
@@ -32318,7 +32318,7 @@ use_preset_vocabulary: true
 幸災樂禍	hing zai le huo
 幹了	gEn le
 幹了	gEn liau
-幹什麼	gEn shen me
+幹什麼	gEn shem me
 幹勁	gEn gin
 幹得了	gEn de liau
 幹麼	gEn ma
@@ -32732,7 +32732,7 @@ use_preset_vocabulary: true
 得便宜處失便宜	de piEn i chu sh piEn i
 得償所願	de chang suo UEn
 得先	dEi siEn
-得到什麼	de dau shen me
+得到什麼	de dau shem me
 得勁	de gin
 得勝回朝	de sheng huEi thau
 得匣還珠	de hia huEn zhu
@@ -32936,7 +32936,7 @@ use_preset_vocabulary: true
 怔呵呵	leng he he
 怔忪	zheng zhong
 怔怔	leng leng
-怕什麼	pa shen me
+怕什麼	pa shem me
 怕長怕短	pa thang pa duEn
 怗懘	zhEn ch
 怙亂	hu luEn
@@ -33160,7 +33160,7 @@ use_preset_vocabulary: true
 惱懆	nau cau
 惱聒	nau gua
 想不到	siang bu dau
-想什麼	siang shen me
+想什麼	siang shem me
 想到	siang dau
 想度	siang duo
 想法	siang fa
@@ -33291,7 +33291,7 @@ use_preset_vocabulary: true
 憋拗	biE nyiou
 憎惡	zeng ye
 憎惡	zeng yu
-憑什麼	ping shen me
+憑什麼	ping shem me
 憑藉	ping ziE
 憔悴	ciau cuEi
 憔慮	ciau lU
@@ -33568,7 +33568,7 @@ use_preset_vocabulary: true
 扒飯	pa fEn
 扒魯	ba lu
 打乾噦	da gEn yUE
-打什麼	da shen me
+打什麼	da shem me
 打仔	da zai
 打倒褪	da dau tuen
 打僉	da ciEm
@@ -34081,7 +34081,7 @@ use_preset_vocabulary: true
 拾級而上	she gi er shang
 拾芥	sh giE
 拿不了	na bu liau
-拿什麼	na shen me
+拿什麼	na shem me
 拿捻	na nyiE
 拿粗挾細	na cu hiE si
 拿腔拿調	na kiang na diau
@@ -34474,7 +34474,7 @@ use_preset_vocabulary: true
 搜章擿句	sou zhang ti gU
 搞七捻三	gau ci nyiEn sEm
 搞不清	gau bu cing
-搞什麼	gau shen me
+搞什麼	gau shem me
 搢笏	zin hu
 搤肮拊背	ye hang f bEi
 搦戰	nuo zhEn
@@ -35581,7 +35581,7 @@ use_preset_vocabulary: true
 月落參橫	UE luo shem heng
 月長石	UE thang sh
 有一些	iou yi siE
-有什	iou shen
+有什	iou shem
 有仇	iou chou
 有仇報仇	iou chou bau chou
 有個地洞鑽了下去	iou ge di dung zuEn le hia kU
@@ -37190,8 +37190,8 @@ use_preset_vocabulary: true
 沒了落	mEi liau luo
 沒事哏	mEi sh hen
 沒人	mEi rhen
-沒什麼	mEi shen me
-沒什麼要緊	mEi shen me yiau gin
+沒什麼	mEi shem me
+沒什麼要緊	mEi shem me yiau gin
 沒入	muo rhu
 沒出長	mEi chu dhang
 沒勁	mEi gin
@@ -37218,8 +37218,8 @@ use_preset_vocabulary: true
 沒撻煞	mEi ta sha
 沒收	muo shou
 沒是哏	mEi sh hen
-沒有什麼	mEi iou shen me
-沒有什麼道理	mEi iou shen me dau li
+沒有什麼	mEi iou shem me
+沒有什麼道理	mEi iou shem me dau li
 沒有感覺	mEi iou gEm gUE
 沒有長羽毛就忘了根本	mEi iou dhang U mau ziou vang le gen ben
 沒查沒利	mEi zha mEi li
@@ -38502,8 +38502,8 @@ use_preset_vocabulary: true
 爭長競短	zheng thang ging duEn
 爭長論短	zheng thang luen duEn
 爲人行事	uEi rhen hing sh
-爲什	uEi shen
-爲什麼	uEi shen me
+爲什	uEi shem
+爲什麼	uEi shem me
 爲叢敺雀	uEi cung kU cUE
 爲善最樂	uEi shEn zuEi le
 爲惡不悛	uEi ye bu cUEn
@@ -38833,7 +38833,7 @@ use_preset_vocabulary: true
 王韜	uang tau
 玢岩	bin iEm
 玢璘	bin lin
-玩什麼	nguEn shen me
+玩什麼	nguEn shem me
 玩其磧礫	nguEn ki zi li
 玩愒	nguEn kai
 玩日愒歲	nguEn rh kai suEi
@@ -39053,7 +39053,7 @@ use_preset_vocabulary: true
 產業基地	chEn iE gi di
 用不了	Uong bu liau
 用不着	Uong bu dhau
-用什麼	Uong shen me
+用什麼	Uong shem me
 用其所長	Uong ki suo thang
 用勁	Uong ging
 用在一朝	Uong zai yi dhau
@@ -39356,7 +39356,7 @@ use_preset_vocabulary: true
 發源地	fa UEn di
 發獃	fa dai
 發現	fa hiEn
-發生什麼	fa sheng shen me
+發生什麼	fa sheng shem me
 發生率	fa sheng lU
 發生重大	fa sheng dhong da
 發病率	fa bing lU
@@ -39726,7 +39726,7 @@ use_preset_vocabulary: true
 眉貼花鈿	mEi tiE hua diEn
 看一下	kEn yi hia
 看人行事	kEn rhen hing sh
-看什麼	kEn shen me
+看什麼	kEn shem me
 看似	kEn s
 看誰	kEn shuEi
 看起來	kEn ki lai
@@ -40399,7 +40399,7 @@ use_preset_vocabulary: true
 空間軸	kung giEn dhou
 空隙	kung hi
 穾廈	yiau hia
-穿什麼	chuEn shen me
+穿什麼	chuEn shem me
 穿甲彈	chuEn gia dEn
 穿着	chuEn dhe
 穿着	chuEn dhuo
@@ -40529,9 +40529,9 @@ use_preset_vocabulary: true
 箕伯	gi buo
 箕畚	gi ben
 算不了	suEn bu liau
-算什麼	suEn shen me
+算什麼	suEn shem me
 算得了	suEn de liau
-算得了什麼	suEn de liau shen me
+算得了什麼	suEn de liau shem me
 箘簬	gUin lu
 管不了	guEn bu liau
 管不了那麼多	guEn bu liau na me duo
@@ -41636,7 +41636,7 @@ use_preset_vocabulary: true
 胸無宿物	hUong v su v
 胸脯	hUong pu
 胼胚種	piEn pEi zhong
-能做什麼	neng zuo shen me
+能做什麼	neng zuo shem me
 能樂	neng UE
 能牙利爪	neng ia li zhau
 能牙利爪	neng ia li zhua
@@ -43768,7 +43768,7 @@ use_preset_vocabulary: true
 西門町	si men ding
 西陸	si lu
 西點軍校	si diEm gUin hiau
-要做什麼	yiau zuo shen me
+要做什麼	yiau zuo shem me
 要價還價	yiau gia huEn gia
 要地	yiau di
 要塞	yiau sai
@@ -44102,7 +44102,7 @@ use_preset_vocabulary: true
 誤解	ngu giE
 誤謬	ngu miou
 說不了	shuo bu liau
-說什麼也不能	shuo shen me iE bu neng
+說什麼也不能	shuo shem me iE bu neng
 說來話長	shuo lai hua thang
 說參請	shuo cEm cing
 說地談天	shuo di tEm tiEn
@@ -44110,7 +44110,7 @@ use_preset_vocabulary: true
 說天說地	shuo tiEn shuo di
 說客	shuEi ke
 說得着	shuo de dhau
-說明什麼	shuo ming shen me
+說明什麼	shuo ming shem me
 說服	shuo f
 說服	shuEi f
 說服力	shuEi f li
@@ -44642,7 +44642,7 @@ use_preset_vocabulary: true
 貴霜王朝	guEi shuang uang thau
 貶謫	biEm dhe
 貶黜	biEm thu
-買什麼	mai shen me
+買什麼	mai shem me
 買官鬻爵	mai guEn U zUE
 買樂	mai le
 買櫝還珠	mai du huEn zhu
@@ -45404,7 +45404,7 @@ use_preset_vocabulary: true
 這倆	zhe lia
 這個地方	zhe ge di fang
 這就是	zhe ziou sh
-這是什麼	zhe sh shen me
+這是什麼	zhe sh shem me
 這步田地	zhe bu tiEn di
 這番	zhe fEn
 這的	zhe di
@@ -45653,7 +45653,7 @@ use_preset_vocabulary: true
 還書	huEn shu
 還有	hai iou
 還有	huEn iou
-還有什麼	hai iou shen me
+還有什麼	hai iou shem me
 還有誰	hai iou shuEi
 還本	huEn ben
 還款	huEn kuEn
@@ -46946,7 +46946,7 @@ use_preset_vocabulary: true
 閉門塞竇	bi men se dou
 閉門造車	bi men zau che
 開不了	kai bu liau
-開什麼	kai shen me
+開什麼	kai shem me
 開呵	kai he
 開堂歃血	kai tang sha hiE
 開堂歃血	kai tang sha hUE
@@ -47507,7 +47507,7 @@ use_preset_vocabulary: true
 電話簿	diEn hua bu
 需求	sU kiou
 需要	sU yiau
-需要什麼	sU yiau shen me
+需要什麼	sU yiau shem me
 震天價響	zhen tiEn ga hiang
 震天動地	zhen tiEn dung di
 震天駭地	zhen tiEn hai di
