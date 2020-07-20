@@ -1,0 +1,124 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: fungz_pinyim_mandarin
+  name: 楓梓拼音（普通話）
+  version: "0.1"
+  author:
+    - 楓梓 <uukoo@163.com>
+  description: |
+    基於 Rime 的拼音方案
+    在現代漢語拼音的基礎上，進行更加符合發音的優化
+  dependencies:
+    - cangjie5
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - r10n_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  delimiter: " '"
+  algebra:
+    - erase/^xx$/
+    - xform/^ng(.+)/$1/ # 去除“疑”母
+    - xform/^y(.+)/$1/ # 去除“影”母
+    - xform/^v/u/
+    - xform/^th/ch/
+    - xform/^dh/zh/
+    - xform/^([bpmf])[uo]ng$/$1eng/
+    - xform/^uo?ng/ueng/
+    - xform/ung/ong/
+    - xform/Ung/Uong/
+    - xform/^ny([iU])/n$1/
+    - xform/([aoeuiAOEUI])m$/$1n/ # 脣鼻音和齒鼻音合併
+    - xform/([aoeuiAOEUI])[bdgy]$/$1/ # 去除入聲
+    - xform/[zg]([iU])/j$1/ # 尖團合併
+    - xform/[ck]([iU])/q$1/ # 尖團合併
+    - xform/[sh]([iU])/x$1/ # 尖團合併
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcrs]h).+$/$1/
+
+translator:
+  dictionary: fungz_pinyim
+  prism: fungz_pinyim_mandarin
+  preedit_format:
+    - xform/bv/B̪/
+    - xform/bf/b̪/
+    - xform/pf/p̪/
+    - xform/Bw/ɓ/
+    - xform/Dw/ɗ/
+    - xform/Dhw/ᶑ/
+    - xform/Gw/ɠ/
+    - xform/Dh/Ď/
+    - xform/dh/ď/
+    - xform/th/ť/
+    - xform/lh/ľ/
+    - xform/nh/ň/
+    - xform/rh/ř/
+    - xform/sh/š/
+    - xform/Zh/Ž/
+    - xform/zh/ž/
+    - xform/ch/č/
+    - xform/ny/ñ/
+    - xform/ng/ŋ/
+    - xform/U/ü/
+    - xform/E/ə/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_sentence: false
+
+  suffix: "'"
+  tips: 〔倉頡〕
+  preedit_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+  comment_format:
+    - xform/([nl])v/$1ü/
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  bindings:
+    - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
