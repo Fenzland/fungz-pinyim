@@ -94,7 +94,7 @@ translator:
     - xform/ny/ñ/
     - xform/ng/ŋ/
     - xform/U/ü/
-    - xform/E/ə/
+    - xform/E/ɛ/
 
 custom_phrase:
   dictionary: ""

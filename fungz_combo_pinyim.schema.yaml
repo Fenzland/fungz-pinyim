@@ -172,7 +172,7 @@ translator:
     - xform/y/ñ/
     - xform/ng/ŋ/
     - xform/U/ü/
-    - xform/w/ə/
+    - xform/w/ɛ/
 
 punctuator:
   full_shape:
