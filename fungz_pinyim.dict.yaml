@@ -42,10 +42,6 @@ use_preset_vocabulary: true
 
 ⿔	guEi
 〇	ling
-㑣	lEm
-㐰	sin
-㕵	guo
-㚘	bEn
 㐀	kiou
 㐁	tiEm
 㐄	kua
@@ -58,6 +54,7 @@ use_preset_vocabulary: true
 㐡	rhu
 㐤	dEn
 㐤	kiou
+㐰	sin
 㐲	dai
 㐴	pEn
 㐹	i
@@ -67,12 +64,13 @@ use_preset_vocabulary: true
 㑇	zhou
 㑊	i
 㑌	kuang
-㑑	za
 㑑	zEn
+㑑	za
+㑣	lEm
 㑤	miau
 㑳	zhou
-㑺	zuen
 㑺	zUin
+㑺	zuen
 㑽	tang
 㑾	iau
 㒓	ta
@@ -95,6 +93,8 @@ use_preset_vocabulary: true
 㔊	zhEn
 㔾	ziE
 㕑	chu
+㕒	ngi
+㕒	nguEi
 㕙	zUin
 㕡	huo
 㕡	rhuEi
@@ -111,6 +111,7 @@ use_preset_vocabulary: true
 㕱	iou
 㕲	hua
 㕲	ing
+㕵	guo
 㕶	f
 㕷	huo
 㕸	li
@@ -119,9 +120,9 @@ use_preset_vocabulary: true
 㖇	er
 㖗	in
 㖘	zhen
+㖠	nEi
 㖠	na
 㖠	ne
-㖠	nEi
 㖡	iE
 㖤	hEn
 㖥	gUin
@@ -168,6 +169,7 @@ use_preset_vocabulary: true
 㙺	guEi
 㚁	kiau
 㚇	zung
+㚘	bEn
 㚚	kong
 㚥	U
 㚪	hau
@@ -224,6 +226,9 @@ use_preset_vocabulary: true
 㟸	gau
 㟻	ciEn
 㠏	hua
+㠖	ngi
+㠘	U
+㠘	sU
 㠙	hau
 㠠	lU
 㠭	dhEn
@@ -258,12 +263,13 @@ use_preset_vocabulary: true
 㥣	huEi
 㥮	chau
 㥸	min
-㥼	yin
 㥼	yiEn
+㥼	yin
 㦀	pung
 㦉	yi
 㦊	hua
 㦒	li
+㦔	yiEm
 㦛	U
 㦡	le
 㦤	yi
@@ -271,8 +277,8 @@ use_preset_vocabulary: true
 㧍	bang
 㧍	beng
 㧑	huEi
-㧒	i
 㧒	U
+㧒	i
 㧙	bi
 㧙	biE
 㧡	hai
@@ -324,8 +330,8 @@ use_preset_vocabulary: true
 㫞	tau
 㫠	bEn
 㫰	lang
-㫲	buo
 㫲	bEi
+㫲	buo
 㫻	kuen
 㬎	hiEn
 㬙	uEi
@@ -395,8 +401,8 @@ use_preset_vocabulary: true
 㵪	siEn
 㵯	fung
 㵲	v
-㵵	zou
 㵵	zU
+㵵	zou
 㵽	lEi
 㶅	hUE
 㶈	ing
@@ -425,6 +431,7 @@ use_preset_vocabulary: true
 㹂	kiEn
 㹃	fEi
 㹕	huEn
+㹜	ngin
 㹭	s
 㹴	geng
 㺖	hEm
@@ -444,8 +451,8 @@ use_preset_vocabulary: true
 㻗	bEi
 㻗	fEi
 㻗	pEi
-㻞	bin
 㻞	bEn
+㻞	bin
 㻡	diE
 㻡	giE
 㻧	duo
@@ -467,8 +474,8 @@ use_preset_vocabulary: true
 㽙	Uin
 㽣	U
 㽹	fEn
-㾀	kiE
 㾀	kU
+㾀	kiE
 㾏	giE
 㾏	ngia
 㾐	li
@@ -486,6 +493,7 @@ use_preset_vocabulary: true
 䀉	kiau
 䀐	shEm
 䀟	fEi
+䀱	fong
 䀹	shEn
 䁅	meng
 䁓	zung
@@ -561,8 +569,8 @@ use_preset_vocabulary: true
 䍮	dhau
 䎗	kiau
 䎚	huEi
-䎱	ba
 䎱	bEi
+䎱	ba
 䎺	zh
 䏁	zai
 䏙	tEm
@@ -575,8 +583,8 @@ use_preset_vocabulary: true
 䐥	yung
 䐭	di
 䐶	ciEm
-䐶	zim
 䐶	zEm
+䐶	zim
 䑙	tEn
 䑲	di
 䑲	zhau
@@ -716,10 +724,11 @@ use_preset_vocabulary: true
 䦧	er
 䦧	hi
 䦧	nyi
-䧟	hiEn
 䧟	hUEn
+䧟	hiEn
 䧥	huEi
 䧧	ngi
+䨄	yEm
 䨏	z
 䨝	cing
 䨤	di
@@ -729,6 +738,7 @@ use_preset_vocabulary: true
 䪖	f
 䪤	fEn
 䪮	chou
+䪲	ngu
 䪴	dEm
 䪴	zhem
 䪸	min
@@ -789,6 +799,8 @@ use_preset_vocabulary: true
 䳡	zhuEi
 䳢	ki
 䳭	zi
+䳺	yEm
+䳼	you
 䴇	ling
 䴉	hUEn
 䴏	yiEn
@@ -819,8 +831,8 @@ use_preset_vocabulary: true
 万	muo	0.02%
 万	vEn	99.98%
 丈	dhang
-三	sa	0%
 三	sEm	100%
+三	sa	0%
 上	shang
 下	hia
 丌	gi
@@ -835,11 +847,11 @@ use_preset_vocabulary: true
 丑	thou
 丒	chou
 专	zhuEn
-且	ciE	100%
 且	cU	0%
+且	ciE	100%
 且	zU	0%
-丕	pi
 丕	pEi
+丕	pi
 世	sh
 丗	sh
 丘	kiou
@@ -900,9 +912,9 @@ use_preset_vocabulary: true
 乇	mau	0%
 乇	th	0%
 乇	tuo	29.47%
-么	yiau	1%
 么	ma	0.04%
 么	me	98.93%
+么	yiau	1%
 义	i
 乊	yi
 之	zh
@@ -910,8 +922,8 @@ use_preset_vocabulary: true
 乍	zha
 乎	hu
 乏	fa
-乐	le	95%
 乐	UE	5%
+乐	le	95%
 乑	im
 乒	ping
 乓	pang
@@ -950,8 +962,8 @@ use_preset_vocabulary: true
 乫	gia
 乭	sh
 买	mai
-乱	luEn	100%
 乱	lEn	0%
+乱	luEn	100%
 乳	rhu
 乴	sUE
 乵	iEn
@@ -972,8 +984,8 @@ use_preset_vocabulary: true
 亀	kiou
 亁	gEn	90%
 亁	kiEn	10%
-亂	luEn	100%
 亂	lEn	0%
+亂	luEn	100%
 亃	lin
 亄	yi
 亅	gUE
@@ -1089,8 +1101,8 @@ use_preset_vocabulary: true
 仗	dhang
 付	f
 仙	siEn
-仚	hiEn
 仚	hUEn
+仚	hiEn
 仛	cha
 仜	gang
 仜	gung
@@ -1110,8 +1122,8 @@ use_preset_vocabulary: true
 仦	miau
 仧	chang
 仧	zhang
-仨	sa	100%
 仨	sEm	0%
+仨	sa	100%
 仩	shang
 仪	i
 仫	mu
@@ -1129,8 +1141,8 @@ use_preset_vocabulary: true
 仴	nguo
 仵	ngu
 件	giEn
-价	gia	99.98%
 价	giE	0.02%
+价	gia	99.98%
 仸	yiau
 仹	fong
 仺	cang
@@ -1158,8 +1170,8 @@ use_preset_vocabulary: true
 伎	gi
 伏	fug
 伐	fa
-休	hiou	100%
 休	hU	0%
+休	hiou	100%
 伒	gin
 伒	in
 伓	bEi
@@ -1176,8 +1188,8 @@ use_preset_vocabulary: true
 伛	kou
 伛	yU
 伜	cuEi
-伝	chuEn
 伝	Uin
+伝	chuEn
 伞	sEn
 伟	uEi
 传	dhuEn	2.07%
@@ -1192,8 +1204,8 @@ use_preset_vocabulary: true
 伫	dhu
 伬	ch
 伬	ze
-伭	hiEn
 伭	hUEn
+伭	hiEn
 伮	nu
 伯	ba	0.02%
 伯	bai	9%
@@ -1251,16 +1263,16 @@ use_preset_vocabulary: true
 佗	ta
 佗	tuo
 佘	she
+余	U	100%
 余	sU	0%
 余	tu	0%
-余	U	100%
 佚	i
 佛	bi	0%
 佛	f	2.26%
 佛	fuo	97.74%
 作	zuo
-佝	gou
 佝	gU
+佝	gou
 佝	kou
 佞	nying
 佟	tong
@@ -1274,8 +1286,8 @@ use_preset_vocabulary: true
 佥	ciEm
 佧	ka
 佩	pEi
-佪	huai
 佪	huEi
+佪	huai
 佫	ge
 佫	he
 佫	ke
@@ -1383,13 +1395,13 @@ use_preset_vocabulary: true
 促	cu
 俄	e
 俅	kiou
-俆	shu
 俆	sU
+俆	shu
 俇	guang
 俈	ku
 俉	ngu
-俊	zuen	0%
 俊	zUin	100%
+俊	zuen	0%
 俋	yi
 俌	f
 俍	lang
@@ -1413,8 +1425,8 @@ use_preset_vocabulary: true
 俛	miEn
 俜	ping
 保	bau
-俞	shu	0%
 俞	U	100%
+俞	shu	0%
 俟	ki	7.04%
 俟	s	92.96%
 俠	hia
@@ -1445,14 +1457,14 @@ use_preset_vocabulary: true
 俷	fEi
 俸	fung
 俹	yia
-俺	yiEm	0%
 俺	yEm	100%
+俺	yiEm	0%
 俻	bEi
 俼	U
 俼	zhu
 俽	hin
-俾	bi
 俾	bEi
+俾	bi
 俾	pi
 俿	ch
 倀	thang
@@ -1491,8 +1503,8 @@ use_preset_vocabulary: true
 倞	liang
 借	ziE
 倠	hU
-倠	huai
 倠	huEi
+倠	huai
 倡	chang
 倢	ziE
 倣	fang
@@ -1505,8 +1517,8 @@ use_preset_vocabulary: true
 倪	nyi
 倫	luen
 倬	dhuo
-倭	yuo	100%
 倭	yuEi	0%
+倭	yuo	100%
 倮	luo
 倯	song
 倰	leng
@@ -1544,8 +1556,8 @@ use_preset_vocabulary: true
 偍	ti
 偎	yuEi
 偏	piEn
-偐	ing
 偐	iEn
+偐	ing
 偑	fung
 偒	dang
 偒	tang
@@ -1596,10 +1608,10 @@ use_preset_vocabulary: true
 偷	tou
 偸	tou
 偹	bEi
-偺	za
 偺	zEm
-偻	lou	63.64%
+偺	za
 偻	lU	36.36%
+偻	lou	63.64%
 偼	ziE
 偽	uEi
 偾	fen
@@ -1637,8 +1649,8 @@ use_preset_vocabulary: true
 傘	sEn
 備	bEi
 傚	hiau
-傛	rhong
 傛	Uong
+傛	rhong
 傜	iau
 傝	ta
 傞	cuo
@@ -1682,8 +1694,8 @@ use_preset_vocabulary: true
 傿	yiEn
 僀	di
 僁	si
-僂	lou	63.64%
 僂	lU	36.36%
+僂	lou	63.64%
 僃	bEi
 僄	biau
 僄	piau
@@ -1720,8 +1732,8 @@ use_preset_vocabulary: true
 僟	gi
 僠	fEn
 僡	huEi
-僢	chuen
 僢	chuEn
+僢	chuen
 僣	tiE
 僣	ziEn
 僤	dEn
@@ -1749,8 +1761,8 @@ use_preset_vocabulary: true
 僷	iE
 僸	gim
 價	ga	0%
-價	gia	99.98%
 價	giE	0.02%
+價	gia	99.98%
 價	shu	0%
 僺	ciau
 僻	bEi	0%
@@ -1762,8 +1774,8 @@ use_preset_vocabulary: true
 僿	sai
 僿	sh
 儀	i
-儁	zuen
 儁	zUin
+儁	zuen
 儂	nong
 儃	chEn
 儃	shEn
@@ -1771,8 +1783,8 @@ use_preset_vocabulary: true
 億	yi
 儅	dang
 儆	ging
-儇	huEn
 儇	hUEn
+儇	huEn
 儈	kuai
 儉	giEm
 儊	chu
@@ -1805,8 +1817,8 @@ use_preset_vocabulary: true
 儢	lU
 儣	kuang
 儤	bau
-儥	dug
 儥	Ug
+儥	dug
 儦	biau
 儧	zEn
 儨	zh
@@ -1848,11 +1860,11 @@ use_preset_vocabulary: true
 兇	hUong
 先	siEn
 光	guang
-兊	duEi	100%
 兊	UE	0%
+兊	duEi	100%
 克	ke
-兌	duEi	100%
 兌	UE	0%
+兌	duEi	100%
 免	miEn	100%
 免	ven	0%
 兎	tu
@@ -1860,8 +1872,8 @@ use_preset_vocabulary: true
 兏	zhang
 児	er
 児	nyi
-兑	duEi	100%
 兑	UE	0%
+兑	duEi	100%
 兒	er	100%
 兒	nyi	0%
 兓	cim
@@ -1877,8 +1889,8 @@ use_preset_vocabulary: true
 兝	fen
 兞	mau
 兟	shen
-兟	sin
 兟	siEn
+兟	sin
 兠	dou
 兡	bai
 兢	ging
@@ -1888,12 +1900,12 @@ use_preset_vocabulary: true
 入	rh	0%
 入	rhu	100%
 兦	vang
-內	na	0%
 內	nEi	100%
+內	na	0%
 全	cUEn
 兩	liang
-兪	shu	0%
 兪	U	100%
+兪	shu	0%
 八	ba
 公	gung
 六	lioug	99.90%
@@ -1919,8 +1931,8 @@ use_preset_vocabulary: true
 冂	gUong
 冃	mau
 冄	rhEm
-内	na	0%
 内	nEi	100%
+内	na	0%
 円	UEn
 冇	mau
 冇	mou
@@ -1991,8 +2003,8 @@ use_preset_vocabulary: true
 净	zing
 凁	sou
 凂	f
-凂	miEn
 凂	mEi
+凂	miEn
 凃	tu
 凄	ci
 凅	gu
@@ -2030,8 +2042,8 @@ use_preset_vocabulary: true
 凢	fEm
 凣	fEm
 凤	fung
-凥	gi
 凥	gU
+凥	gi
 処	chu
 凨	fung
 凫	f
@@ -2044,8 +2056,8 @@ use_preset_vocabulary: true
 凲	gEm
 凳	deng
 凴	ping
-凵	kU
 凵	kEm
+凵	kU
 凶	hUong
 凷	kuai
 凸	diE	0%
@@ -2140,8 +2152,8 @@ use_preset_vocabulary: true
 則	ze
 剈	yUEn
 剉	cuo
-削	siau	72.30%
 削	sUE	27.70%
+削	siau	72.30%
 剋	ke
 剌	la
 前	ciEn
@@ -2177,8 +2189,8 @@ use_preset_vocabulary: true
 剤	zi
 剥	bau	2.33%
 剥	buo	97.67%
-剧	gi	0%
 剧	gU	100%
+剧	gi	0%
 剨	huo
 剩	sheng
 剪	ziEn
@@ -2217,8 +2229,8 @@ use_preset_vocabulary: true
 劄	dha
 劅	zhuo
 劆	liEn
-劇	gi	0%
 劇	gU	100%
+劇	gi	0%
 劈	pi
 劉	liou
 劊	guEi
@@ -2239,8 +2251,8 @@ use_preset_vocabulary: true
 劕	zh
 劖	chEn
 劗	cuEn
-劗	zuEn
 劗	zEn
+劗	zuEn
 劘	muo
 劙	li
 劚	zhu
@@ -2305,8 +2317,8 @@ use_preset_vocabulary: true
 勏	pou
 勐	meng
 勑	ch
-勒	le	96.20%
 勒	lEi	3.80%
+勒	le	96.20%
 勓	giE
 勓	kai
 勔	miEn
@@ -2374,16 +2386,16 @@ use_preset_vocabulary: true
 匏	bau
 匏	pau
 匐	fug
-匑	gung
 匑	gU
+匑	gung
 匒	da
 匓	giou
-匔	gung
 匔	gU
+匔	gung
 匕	bi
 化	hua
-北	buo	0%
 北	bEi	100%
+北	buo	0%
 匘	nau
 匙	ch	22.84%
 匙	sh	77.16%
@@ -2461,8 +2473,8 @@ use_preset_vocabulary: true
 单	dEn	99.52%
 单	shEn	0.38%
 卖	mai
-南	na	0%
 南	nEm	100%
+南	na	0%
 単	chEn
 単	dEn
 単	shEn
@@ -2501,9 +2513,9 @@ use_preset_vocabulary: true
 卲	shau
 即	zi
 却	kUE
-卵	luo	0%
-卵	luEn	100%
 卵	lEn	0%
+卵	luEn	100%
+卵	luo	0%
 卵	rhuEn	0%
 卶	ch
 卷	gUEn
@@ -2524,19 +2536,11 @@ use_preset_vocabulary: true
 厃	nguEi
 厃	zhEm
 厄	ye
-𠂘	ye
-𠂬	ye
-𠨳	ye
-𢀴	ye
-𢨤	ye
-𢨩	ye
-𨸷	ye
-𠨗	ye
 厅	ting
 历	li
 厇	dhe
-厈	hEn
 厈	En
+厈	hEn
 厉	lai	0%
 厉	li	100%
 厊	ngia
@@ -2607,19 +2611,19 @@ use_preset_vocabulary: true
 县	hiEn	99.88%
 叀	zhuEn
 叁	sEm	100%
-参	cem	0.01%
 参	cEm	90.45%
-参	shem	8.49%
+参	cem	0.01%
 参	sEm	0.01%
-參	cem	0.01%
+参	shem	8.49%
 參	cEm	90.45%
-參	shem	8.49%
+參	cem	0.01%
 參	sEm	0.01%
+參	shem	8.49%
 叄	sEm
-叅	cen
 叅	cEn
-叅	shen
+叅	cen
 叅	sEn
+叅	shen
 叆	yai
 又	iou
 叉	cha
@@ -2628,8 +2632,8 @@ use_preset_vocabulary: true
 双	shuang
 反	fEn
 収	shou
-叏	guai
 叏	gUE
+叏	guai
 叐	buo
 发	fa
 叒	rhe
@@ -2654,8 +2658,8 @@ use_preset_vocabulary: true
 叢	cung
 口	kou
 古	gu
-句	gou	0%
 句	gU	100%
+句	gou	0%
 另	ling
 叧	guo
 叧	kua
@@ -2690,8 +2694,8 @@ use_preset_vocabulary: true
 叽	giau	0%
 叿	hung
 吀	miE
-吁	hU	40.45%
 吁	U	59.55%
+吁	hU	40.45%
 吂	mang
 吃	ch	100%
 吃	gi	0%
@@ -2720,8 +2724,8 @@ use_preset_vocabulary: true
 吖	a
 吗	ma
 吘	ou
-吙	huo
 吙	hUE
+吙	huo
 吚	yi
 君	gUin
 吜	thou
@@ -2742,8 +2746,8 @@ use_preset_vocabulary: true
 吨	tuen	0%
 吩	fen
 吪	e
-含	hem	0%
 含	hEm	100%
+含	hem	0%
 听	in	0%
 听	ting	100%
 吭	hang	27.07%
@@ -2808,8 +2812,8 @@ use_preset_vocabulary: true
 呔	tai
 呕	you
 呖	li
-呗	bai	3.71%
 呗	bEi	96.29%
+呗	bai	3.71%
 员	UEn	100%
 呚	ki
 呛	ciang
@@ -2848,10 +2852,10 @@ use_preset_vocabulary: true
 呲	i
 呲	z
 味	vEi
-呴	hou
 呴	hU
-呵	ya	8.96%
+呴	hou
 呵	he	91.04%
+呵	ya	8.96%
 呶	nau
 呶	nu
 呷	hia
@@ -2877,17 +2881,17 @@ use_preset_vocabulary: true
 咇	biE
 咈	f
 咉	yiang
+咊	hEn
 咊	he
 咊	hu
 咊	huo
-咊	hEn
 咋	za	98.76%
 咋	ze	0.15%
 咋	zha	1.09%
+和	hEn	0%
 和	he	99.97%
 和	hu	0%
 和	huo	0.02%
-和	hEn	0%
 咍	hai
 咎	gau	0%
 咎	giou	100%
@@ -2933,10 +2937,10 @@ use_preset_vocabulary: true
 咯	ka	0%
 咯	lo	94.72%
 咯	luo	3.22%
-咰	shuai
 咰	sUin
-咱	za	1%
+咰	shuai
 咱	zEm	99%
+咱	za	1%
 咲	hiau
 咳	hai	78.98%
 咳	ka	0%
@@ -2951,8 +2955,8 @@ use_preset_vocabulary: true
 咸	hiEm
 咹	ye
 咺	hUEn
-咻	hiou
 咻	hU
+咻	hiou
 咼	guo
 咼	kua
 咼	kuai
@@ -2965,8 +2969,8 @@ use_preset_vocabulary: true
 哂	shen
 哃	tung
 哄	hung
-哅	hong
 哅	hUong
+哅	hong
 哆	duo
 哆	the
 哇	yua
@@ -2997,8 +3001,8 @@ use_preset_vocabulary: true
 哟	Uo
 哠	gau
 哠	hau
-員	Uin	0%
 員	UEn	100%
+員	Uin	0%
 哢	lung
 哣	pou
 哤	mang
@@ -3008,9 +3012,9 @@ use_preset_vocabulary: true
 哧	ch
 哨	shau
 哩	li
+哪	nEi	0.13%
 哪	na	98.99%
 哪	ne	0.88%
-哪	nEi	0.13%
 哫	zu
 哬	he
 哭	kaug	0%
@@ -3018,8 +3022,8 @@ use_preset_vocabulary: true
 哮	hiau
 哯	hiEn
 哰	lau
-哱	buo
 哱	bEi
+哱	buo
 哱	puo
 哲	dhe
 哳	dha
@@ -3036,16 +3040,16 @@ use_preset_vocabulary: true
 哻	hEn
 哼	heng
 哽	geng
-哾	shuo
 哾	UE
+哾	shuo
 哿	ge
 哿	ke
 唀	iou
 唁	iEn
 唂	gug
 唃	gu
-唄	bai	3.71%
 唄	bEi	96.29%
+唄	bai	3.71%
 唅	hEm
 唆	suo
 唇	chuen	100%
@@ -3092,9 +3096,9 @@ use_preset_vocabulary: true
 唰	shua
 唱	chang
 唲	er
+唳	lEi
 唳	li
 唳	liE
-唳	lEi
 唴	kiang
 唵	yEm
 唶	cu
@@ -3130,8 +3134,8 @@ use_preset_vocabulary: true
 啇	di
 啇	sh
 啈	heng
-啉	lim
 啉	lEm
+啉	lim
 啊	ya
 啋	cai
 啋	hiau
@@ -3166,8 +3170,8 @@ use_preset_vocabulary: true
 啥	sha
 啦	la
 啧	ze
-啨	ying
 啨	king
+啨	ying
 啪	pa	100%
 啪	pai	0%
 啫	zhe
@@ -3214,8 +3218,8 @@ use_preset_vocabulary: true
 喏	rhe	3.98%
 喐	yU
 喑	yim
-喒	za
 喒	zEm
+喒	za
 喓	yiau
 喔	yo	35.47%
 喔	yu	0%
@@ -3255,9 +3259,9 @@ use_preset_vocabulary: true
 喯	fen
 喯	pen
 喱	li
+喲	Uo	100%
 喲	iau	0%
 喲	iou	0%
-喲	Uo	100%
 喳	cha	3.49%
 喳	zha	96.51%
 喴	yuEi
@@ -3278,8 +3282,8 @@ use_preset_vocabulary: true
 嗂	iau
 嗃	gau
 嗃	he
-嗄	ya	100%
 嗄	sha	0%
+嗄	ya	100%
 嗅	hiou
 嗆	ciang
 嗇	se
@@ -3313,8 +3317,8 @@ use_preset_vocabulary: true
 嗜	sh
 嗝	ge
 嗞	z
-嗟	ziE
 嗟	zUE
+嗟	ziE
 嗠	luo
 嗡	yung
 嗢	yua
@@ -3332,8 +3336,8 @@ use_preset_vocabulary: true
 嗯	yen
 嗯	yn
 嗰	ge
-嗲	dia	100%
 嗲	diE	0%
+嗲	dia	100%
 嗳	ai
 嗵	tung
 嗶	bi
@@ -3364,8 +3368,8 @@ use_preset_vocabulary: true
 嘅	kai	0%
 嘆	tEn
 嘇	cEn
-嘇	shEn
 嘇	sEn
+嘇	shEn
 嘈	cau
 嘉	gia
 嘊	ai
@@ -3392,9 +3396,9 @@ use_preset_vocabulary: true
 嘜	ma
 嘜	muo
 嘝	hu
+嘞	lEi	30%
 嘞	le	70%
 嘞	liau	0%
-嘞	lEi	30%
 嘟	du
 嘢	iE
 嘣	beng
@@ -3407,8 +3411,8 @@ use_preset_vocabulary: true
 嘪	mai
 嘫	rhEn
 嘬	chuai	1.47%
-嘬	zuo	98.53%
 嘬	zuEi	0%
+嘬	zuo	98.53%
 嘭	peng
 嘮	lau
 嘯	siau
@@ -3431,8 +3435,8 @@ use_preset_vocabulary: true
 嘺	kiau
 嘻	hi
 嘼	chu
-嘼	hiou
 嘼	hU
+嘼	hiou
 嘼	shou
 嘽	chEn
 嘽	dEn
@@ -3441,8 +3445,8 @@ use_preset_vocabulary: true
 嘾	tEm
 嘿	hEi	100%
 嘿	muo	0%
-噀	suen
 噀	sUin
+噀	suen
 噁	ye	100%
 噁	yu	0%
 噂	zuen
@@ -3485,9 +3489,9 @@ use_preset_vocabulary: true
 噟	ying
 噠	da
 噡	zhEm
+噢	yUg	0%
 噢	yo	99%
 噢	youg	1%
-噢	yUg	0%
 噣	dhou
 噣	dhuo
 噤	gim
@@ -3588,8 +3592,8 @@ use_preset_vocabulary: true
 嚷	rhang
 嚻	hiau
 嚻	ki
-嚼	ziau	82.38%
 嚼	zUE	17.62%
+嚼	ziau	82.38%
 嚽	chuo
 嚾	huEn
 嚿	huo
@@ -3666,8 +3670,8 @@ use_preset_vocabulary: true
 囿	ioug
 圀	guo
 圁	in
-圂	huen
 圂	huEn
+圂	huen
 圃	pu
 圄	U
 圅	hEm
@@ -3695,8 +3699,8 @@ use_preset_vocabulary: true
 圚	guEi
 圚	huEi
 圛	i
-圜	huEn	39.13%
 圜	UEn	60.87%
+圜	huEn	39.13%
 圝	luEn
 圞	luEn
 土	tu
@@ -3741,17 +3745,17 @@ use_preset_vocabulary: true
 址	zh
 坁	zh
 坂	bEn
-坃	hUin
 坃	hUEn
+坃	hUin
 坄	tou
 坅	gim
 坅	kim
 坆	fen
 坆	mEi
-均	gUin	100%
 均	Uin	0%
-坈	rhong
+均	gUin	100%
 坈	keng
+坈	rhong
 坉	duen
 坉	tuen
 坊	fang
@@ -3761,8 +3765,8 @@ use_preset_vocabulary: true
 坎	kEm
 坏	bEi	0%
 坏	huai	100%
-坏	pi	0%
 坏	pEi	0%
+坏	pi	0%
 坐	zuo
 坑	keng
 坒	bi
@@ -3797,8 +3801,8 @@ use_preset_vocabulary: true
 坬	gua
 坭	nyi
 坮	tai
-坯	pi
 坯	pEi
+坯	pi
 坰	gUong
 坱	yiang
 坲	f
@@ -3839,8 +3843,8 @@ use_preset_vocabulary: true
 垒	lEi
 垓	gai
 垓	hai
-垔	yin
 垔	yiEn
+垔	yin
 垕	hou
 垖	duEi
 垖	zuEi
@@ -3857,8 +3861,8 @@ use_preset_vocabulary: true
 垠	in
 垡	fa
 垢	gou
-垣	huEn	0%
 垣	UEn	100%
+垣	huEn	0%
 垤	diE
 垤	zh
 垥	hiE
@@ -3867,8 +3871,8 @@ use_preset_vocabulary: true
 垧	gUong
 垧	shang
 垨	shou
-垩	ye
 垩	sheng
+垩	ye
 垫	diEm
 垬	hung
 垭	yia
@@ -3903,8 +3907,8 @@ use_preset_vocabulary: true
 埉	hia
 埊	de
 埊	di
-埋	mai	99.80%
 埋	mEn	0.20%
+埋	mai	99.80%
 埌	lang
 埍	gUEn
 城	cheng
@@ -3912,8 +3916,8 @@ use_preset_vocabulary: true
 埏	shEn	50%
 埐	zim
 埑	zhe
-埒	le
 埒	lEi
+埒	le
 埓	le
 埔	bu	7.27%
 埔	pu	92.73%
@@ -3935,8 +3939,8 @@ use_preset_vocabulary: true
 埡	yu
 埢	gUEn
 埣	suEi
-埤	bi
 埤	bEi
+埤	bi
 埤	pi
 埥	cheng
 埥	cing
@@ -3949,8 +3953,8 @@ use_preset_vocabulary: true
 埬	dung
 埭	dai
 埮	tEn
-埯	yiEm
 埯	yEm
+埯	yiEm
 埰	cai
 埱	shug
 埲	bung
@@ -3962,8 +3966,8 @@ use_preset_vocabulary: true
 埶	sh
 執	zh
 埸	i
-培	pou	0%
 培	pEi	100%
+培	pou	0%
 基	gi
 埻	guo
 埻	zhuen
@@ -4016,10 +4020,10 @@ use_preset_vocabulary: true
 堥	mou
 堦	giE
 堧	rhuEn
-堨	yai
-堨	ye
 堨	giE
 堨	he
+堨	yai
+堨	ye
 堩	geng
 堩	heng
 堪	kEm
@@ -4043,8 +4047,8 @@ use_preset_vocabulary: true
 堻	zin
 堼	fong
 堽	gang
-堾	chuen
 堾	chuEn
+堾	chuen
 堿	giEm
 堿	kEm
 塁	lEi
@@ -4072,15 +4076,15 @@ use_preset_vocabulary: true
 塗	tu
 塘	tang
 塙	gau
-塙	kiau
 塙	kUE
+塙	kiau
 塚	dhong
 塛	li
 塜	pong
 塝	bang
+塞	sEi	0%
 塞	sai	88.67%
 塞	se	11.33%
-塞	sEi	0%
 塟	zang
 塠	duEi
 塠	zuEi
@@ -4108,8 +4112,8 @@ use_preset_vocabulary: true
 塷	lu
 塸	you
 塹	ciEm
-塺	muo
 塺	mEi
+塺	muo
 塻	muo
 塼	zhuEn
 塽	shuang
@@ -4127,8 +4131,8 @@ use_preset_vocabulary: true
 墈	kEm
 墉	Uong
 墊	diEm
-墋	chem
 墋	cEm
+墋	chem
 墌	zh
 墌	zhuo
 墍	gi
@@ -4203,23 +4207,23 @@ use_preset_vocabulary: true
 壊	huai
 壌	rhang
 壍	ciEm
-壎	hUin
 壎	hUEn
+壎	hUin
 壏	giEm
 壏	lEm
 壐	si
 壑	he	100%
 壑	huo	0%
 壑	rhuEi	0%
-壒	yai
 壒	kai
+壒	yai
 壓	yia
 壔	dau
 壕	hau
 壖	rhu
 壖	rhuEn
-壘	lU	0%
 壘	lEi	100%
+壘	lU	0%
 壙	kuang
 壚	lu
 壛	iEm
@@ -4233,8 +4237,8 @@ use_preset_vocabulary: true
 壢	li
 壣	lin
 壤	rhang
-壦	hUin
 壦	hUEn
+壦	hUin
 壧	iEn
 壨	lEi
 壩	ba
@@ -4274,13 +4278,13 @@ use_preset_vocabulary: true
 夊	suEi
 夋	zUin
 夌	ling
-复	fug	100%
 复	foug	0%
+复	fug	100%
 夎	zuo
 夏	gia	0%
 夏	hia	100%
-夐	hUong
 夐	hUEn
+夐	hUong
 夒	nau
 夓	gia
 夓	hia
@@ -4311,8 +4315,8 @@ use_preset_vocabulary: true
 太	tai	100%
 太	tuEi	0%
 夫	f
-夬	guai
 夬	gUE
+夬	guai
 夭	yau	0%
 夭	yiau	100%
 央	yiang
@@ -4375,8 +4379,8 @@ use_preset_vocabulary: true
 奛	huang
 奜	fEi
 奝	diau
-奞	siau
 奞	sUin
+奞	siau
 奞	suEi
 奟	beng
 奠	diEn
@@ -4384,33 +4388,33 @@ use_preset_vocabulary: true
 奢	she
 奣	yueng
 奤	puo
-奥	yau	100%
 奥	yU	0%
+奥	yau	100%
 奦	v
-奧	yau	100%
 奧	yU	0%
+奧	yau	100%
 奨	ziang
 奩	liEm
 奪	duo
-奫	yUin
 奫	yUEn
+奫	yUin
 奬	ziang
 奭	sh
 奮	fen
 奯	huo
-奰	bi
 奰	bEi
+奰	bi
 奱	liEn
 奲	che
-女	rhu	0%
 女	nyU	100%
+女	rhu	0%
 奴	nu
 奵	ding
 奶	nai
 奷	ciEn
 奸	giEn
-她	ziE	0%
 她	ta	100%
+她	ziE	0%
 奺	giou
 奻	nEn
 奼	tha
@@ -4450,8 +4454,8 @@ use_preset_vocabulary: true
 妗	gim
 妘	Uin
 妙	miau
-妚	pi
 妚	pEi
+妚	pi
 妛	ch
 妜	gUE
 妝	zhuang
@@ -4464,8 +4468,8 @@ use_preset_vocabulary: true
 妤	U
 妥	tuo
 妦	fung
-妧	nguEn
 妧	ngUEn
+妧	nguEn
 妨	fang
 妩	v
 妪	yU
@@ -4477,15 +4481,15 @@ use_preset_vocabulary: true
 妯	dhug
 妰	zhuo
 妱	zhau
-妲	da
 妲	dEn
+妲	da
 妳	nai	0%
 妳	nyi	100%
-妴	yuEn
 妴	yUEn
+妴	yuEn
 妵	tou
-妶	hiEn
 妶	hUEn
+妶	hiEn
 妷	dh
 妸	ye
 妹	mEi
@@ -4509,8 +4513,8 @@ use_preset_vocabulary: true
 姊	z
 始	sh
 姌	rhEm
-姍	shEn	100%
 姍	sEn	0%
+姍	shEn	100%
 姎	yiang
 姏	mEm
 姐	ziE
@@ -4520,8 +4524,8 @@ use_preset_vocabulary: true
 委	yuEi
 姕	z
 姖	gU
-姗	shEn	100%
 姗	sEn	0%
+姗	shEn	100%
 姘	pin
 姙	rhen
 姚	iau
@@ -4551,11 +4555,11 @@ use_preset_vocabulary: true
 姬	gi
 姭	hiE
 姭	hiEm
-姮	heng
 姮	UEn
+姮	heng
 姯	guang
-姰	hUin
 姰	hUEn
+姰	hUin
 姱	kua
 姲	yiEn
 姳	ming
@@ -4579,8 +4583,8 @@ use_preset_vocabulary: true
 威	yuEi
 娂	hung
 娃	yua
-娄	lou
 娄	lU
+娄	lou
 娅	yia
 娆	rhau
 娇	giau
@@ -4634,8 +4638,8 @@ use_preset_vocabulary: true
 娫	iEn
 娬	f
 娬	v
-娭	yai
 娭	hi
+娭	yai
 娮	ngiEn
 娯	ngU
 娰	s
@@ -4645,15 +4649,15 @@ use_preset_vocabulary: true
 娳	li
 娴	hiEn
 娵	cU
-娵	zou
 娵	zU
+娵	zou
 娶	cU
 娷	dhuEi
 娷	shuEi
 娸	ki
 娹	hiEn
-娺	dhuo
 娺	dhuEi
+娺	dhuo
 娻	dung
 娼	chang
 娽	lug
@@ -4661,8 +4665,8 @@ use_preset_vocabulary: true
 娾	iai
 娿	ye
 婀	ye
-婁	lou
 婁	lU
+婁	lou
 婂	miEn
 婃	cong
 婄	pou
@@ -4677,11 +4681,11 @@ use_preset_vocabulary: true
 婍	ki
 婎	huEi
 婏	f
-婐	ye
 婐	guo
+婐	ye
 婐	yuo
-婑	rhuEi
 婑	nuEi
+婑	rhuEi
 婑	yuo
 婒	tEn
 婓	fEi
@@ -4704,8 +4708,8 @@ use_preset_vocabulary: true
 婠	guEn
 婠	yuEn
 婡	lai
-婢	bi
 婢	bEi
+婢	bi
 婣	yin
 婤	dhou
 婤	thou
@@ -4714,16 +4718,16 @@ use_preset_vocabulary: true
 婦	f
 婧	zing	100%
 婨	luen
-婩	ngiEn
 婩	ngEn
+婩	ngiEn
 婪	lEm
 婬	im
 婭	yia
 婮	gU
 婯	li
 婰	diEn
-婱	hiEn
 婱	hUEn
+婱	hiEn
 婳	hua
 婴	ying
 婵	chEn
@@ -4766,8 +4770,8 @@ use_preset_vocabulary: true
 媒	mEi
 媓	huang
 媔	miEn
-媕	yiEm
 媕	yEm
+媕	yiEm
 媖	ying
 媗	hUEn
 媘	giE
@@ -4787,9 +4791,8 @@ use_preset_vocabulary: true
 媤	s
 媥	piEn
 媦	uEi
-媧	yua
 媧	gua
-𡢓	gua
+媧	yua
 媨	ziou
 媩	hu
 媪	yau
@@ -4846,8 +4849,8 @@ use_preset_vocabulary: true
 嫛	yi
 嫜	zhang
 嫝	kang
-嫞	chong
 嫞	Uong
+嫞	chong
 嫟	nyi
 嫠	li
 嫡	di
@@ -4867,9 +4870,9 @@ use_preset_vocabulary: true
 嫬	shu
 嫬	zhe
 嫭	hu
+嫮	U
 嫮	e
 嫮	hu
-嫮	U
 嫯	au
 嫰	nen
 嫰	nuen
@@ -4899,8 +4902,8 @@ use_preset_vocabulary: true
 嬅	hua
 嬆	hi
 嬇	huEi
-嬈	yiau
 嬈	rhau
+嬈	yiau
 嬉	hi
 嬊	yiEn
 嬋	chEn
@@ -4911,8 +4914,8 @@ use_preset_vocabulary: true
 嬐	iEm
 嬐	siEm
 嬑	yi
-嬒	yuo
 嬒	yuEi
+嬒	yuo
 嬓	chEn
 嬓	giau
 嬔	f
@@ -4923,8 +4926,8 @@ use_preset_vocabulary: true
 嬘	suEi
 嬙	ciang
 嬚	liEm
-嬛	huEn
 嬛	hUEn
+嬛	huEn
 嬛	kUong
 嬜	hiEm
 嬜	yEm
@@ -4954,8 +4957,8 @@ use_preset_vocabulary: true
 嬮	yiEm
 嬯	tai
 嬰	ying
-嬱	ciEm
 嬱	cEm
+嬱	ciEm
 嬲	nyiau
 嬳	yUE
 嬴	ing
@@ -4987,16 +4990,16 @@ use_preset_vocabulary: true
 孉	kUEn
 孊	mi
 孋	li
-孌	luEn
 孌	lUEn
+孌	luEn
 孍	ngiEn
 孎	dhu
 孎	thu
 孏	lEn
 子	z
 孑	giE
-孒	gong
 孒	gUE
+孒	gong
 孓	gUE
 孔	kung
 孕	Uin
@@ -5005,8 +5008,8 @@ use_preset_vocabulary: true
 存	cuen
 孙	suen
 孚	f
-孛	buo	24.32%
 孛	bEi	75.68%
+孛	buo	24.32%
 孜	z
 孝	hiau
 孟	meng
@@ -5020,18 +5023,18 @@ use_preset_vocabulary: true
 孨	nyi
 孨	zhuEn
 孩	hai
-孪	luEn
 孪	lUEn
-孫	suen	100%
+孪	luEn
 孫	sUin	0%
+孫	suen	100%
 孬	huai	0%
 孬	nau	100%
 孭	miE
 孮	cong
 孯	kiEn
 孰	shug
-孱	chEn	50%
 孱	cEn	50%
+孱	chEn	50%
 孲	yia
 孳	z
 孴	nyi
@@ -5047,8 +5050,8 @@ use_preset_vocabulary: true
 孼	nyiE
 孽	nyiE
 孾	ying
-孿	luEn
 孿	lUEn
+孿	luEn
 宀	miEn
 宁	dhu
 宁	nying
@@ -5157,8 +5160,8 @@ use_preset_vocabulary: true
 寞	muo
 察	cha
 寠	gU
-寠	lou
 寠	lU
+寠	lou
 寡	gua
 寢	cim
 寣	hu
@@ -5187,8 +5190,8 @@ use_preset_vocabulary: true
 寺	s
 寻	sUin	99.96%
 导	dau
-寽	le
 寽	lU
+寽	le
 寽	luo
 対	duEi
 寿	shou
@@ -5209,9 +5212,9 @@ use_preset_vocabulary: true
 尉	yU	3.61%
 尉	yuEi	96.39%
 尊	zuen
-尋	sim	0.04%
-尋	sUim	99.96%
 尋	sUE	0%
+尋	sUim	99.96%
+尋	sim	0.04%
 尌	shu
 對	duEi
 導	dau
@@ -5267,14 +5270,14 @@ use_preset_vocabulary: true
 尼	nyi
 尽	zin
 尾	vEi
-尿	suEi	0.39%
 尿	nyiau	99.61%
+尿	suEi	0.39%
 局	gU
 屁	pi
 层	ceng
 屄	bi
-居	gi	0%
 居	gU	100%
+居	gi	0%
 屆	giE
 屆	kU	0%
 屇	tiEn
@@ -5290,9 +5293,9 @@ use_preset_vocabulary: true
 屏	bing	0.76%
 屏	ping	99.24%
 屐	gi
-屑	siau	0%
-屑	siE
 屑	sUE
+屑	siE
+屑	siau	0%
 屒	dhen
 屓	hi
 屔	nyi
@@ -5315,8 +5318,8 @@ use_preset_vocabulary: true
 屢	lU
 屣	si
 層	ceng
-履	li	0%
 履	lU	100%
+履	li	0%
 屦	gU
 屧	diE
 屧	siE
@@ -5330,8 +5333,8 @@ use_preset_vocabulary: true
 屮	the
 屯	dhuen	0.29%
 屯	tuen	99.71%
-屰	puo
 屰	nyi
+屰	puo
 山	shEn
 屳	hiEn
 屴	li
@@ -5343,8 +5346,8 @@ use_preset_vocabulary: true
 屼	ngu
 屽	hEn
 屾	shen
-屿	sU
 屿	U
+屿	sU
 岀	chu
 岁	suEi
 岂	kai
@@ -5387,8 +5390,8 @@ use_preset_vocabulary: true
 岥	buo
 岦	li
 岧	tiau
-岨	cu
 岨	cU
+岨	cu
 岨	zU
 岨	zu
 岩	iEm
@@ -5438,9 +5441,9 @@ use_preset_vocabulary: true
 峔	mu
 峖	yEn
 峗	nguEi
+峘	UEn
 峘	hu
 峘	huEn
-峘	UEn
 峙	dh
 峚	mi
 峛	li
@@ -5543,8 +5546,8 @@ use_preset_vocabulary: true
 崱	ze
 崲	huang
 崳	U
-崴	yuai
 崴	yuEi
+崴	yuai
 崵	dang
 崵	iang
 崶	fong
@@ -5570,15 +5573,15 @@ use_preset_vocabulary: true
 嵉	ting
 嵊	sheng
 嵋	mEi
-嵌	kiEm	97.55%
 嵌	kEm	2.45%
+嵌	kiEm	97.55%
 嵍	mau
 嵍	v
 嵎	U
 嵏	zung
 嵐	lEm
-嵑	giE
 嵑	gUE
+嵑	giE
 嵑	he
 嵑	ke
 嵒	ngiEm
@@ -5614,8 +5617,8 @@ use_preset_vocabulary: true
 嵮	diEn
 嵯	cuo
 嵰	kiEm
-嵱	rhong
 嵱	Uong
+嵱	rhong
 嵲	nyiE
 嵳	cuo
 嵴	zi
@@ -5649,8 +5652,8 @@ use_preset_vocabulary: true
 嶋	dau
 嶌	dau
 嶍	si
-嶏	pi
 嶏	pEi
+嶏	pi
 嶐	lung
 嶑	siang
 嶒	ceng
@@ -5664,8 +5667,8 @@ use_preset_vocabulary: true
 嶙	lin
 嶚	liau
 嶛	liau
-嶜	cim
 嶜	ciEm
+嶜	cim
 嶜	zim
 嶝	deng
 嶞	duo
@@ -5685,9 +5688,6 @@ use_preset_vocabulary: true
 嶪	ngiE
 嶫	ngiE
 嶬	ngi
-㠖	ngi
-㕒	nguEi
-㕒	ngi
 嶭	e
 嶭	nyiE
 嶮	hiEm
@@ -5709,12 +5709,8 @@ use_preset_vocabulary: true
 嶺	ling
 嶻	za
 嶻	ziE
-嶼	sU
 嶼	U
-㠘	sU
-㠘	U
-𡽬	sU
-𡽬	U
+嶼	sU
 嶽	UE
 嶾	yin
 巀	za
@@ -5746,8 +5742,6 @@ use_preset_vocabulary: true
 巖	ngiEm
 巗	ngiEm
 巘	ngiEn
-𡿕	ngiEn
-𪩘	ngiEn
 巙	nau
 巚	ngiEn
 巛	chuEn
@@ -5783,12 +5777,12 @@ use_preset_vocabulary: true
 巸	i
 巹	cheng
 巹	gin
-巺	suen
 巺	sUin
+巺	suen
 巻	gUEn
 巻	kUEn
-巽	suen
 巽	sUin
+巽	suen
 巾	gin
 巿	f	100%
 巿	sh	0%
@@ -5814,8 +5808,8 @@ use_preset_vocabulary: true
 帑	tang	70%
 帒	dai
 帓	muo
-帔	pi
 帔	pEi
+帔	pi
 帕	pa
 帖	tiE
 帗	ba
@@ -5877,8 +5871,8 @@ use_preset_vocabulary: true
 幃	uEi
 幄	yuo
 幅	fug
-幆	yi
 幆	kai
+幆	yi
 幇	bang
 幈	bing
 幈	ping
@@ -6011,14 +6005,12 @@ use_preset_vocabulary: true
 庰	bing
 庱	theng
 庲	lai
-庳	bi
 庳	bEi
+庳	bi
 庴	cuo
 庴	si
 庴	zi
 庵	yEm
-𢊊	yEm
-𠪎	yEm
 庶	shu
 康	kang
 庸	Uong
@@ -6054,8 +6046,6 @@ use_preset_vocabulary: true
 廐	giou
 廑	gin
 廒	ngau
-𠪭	ngau
-廒	ngau
 廓	kuo
 廔	lou
 廕	yin
@@ -6112,8 +6102,8 @@ use_preset_vocabulary: true
 弃	ki
 弄	lung	3.66%
 弄	neng	0%
-弄	nung	96.34%
 弄	nou	0%
+弄	nung	96.34%
 弅	fen
 弆	gU
 弇	yiEm
@@ -6122,8 +6112,8 @@ use_preset_vocabulary: true
 弋	i
 弌	yi
 弍	er
-弎	sa
 弎	sEm
+弎	sa
 式	sh
 弐	er
 弑	sh
@@ -6268,8 +6258,8 @@ use_preset_vocabulary: true
 徇	sUin
 很	hen
 徉	iang
-徊	huai	88.24%
 徊	huEi	11.76%
+徊	huai	88.24%
 律	lU
 後	hou
 徍	yua
@@ -6284,10 +6274,10 @@ use_preset_vocabulary: true
 従	zong
 徕	lai
 徖	cong
+得	dEi	3%
 得	dai	0%
 得	de	97%
 得	di	0%
-得	dEi	3%
 徘	pai
 徙	si
 徛	gi
@@ -6299,8 +6289,8 @@ use_preset_vocabulary: true
 從	zong	0%
 徟	zhou
 徠	lai
-御	ia	0%
 御	U	100%
+御	ia	0%
 徢	siE
 徣	ziE
 徤	giEn
@@ -6311,8 +6301,8 @@ use_preset_vocabulary: true
 徧	biEn
 徧	piEn
 徨	huang
-復	fug	100%
 復	foug	0%
+復	fug	100%
 循	sUin
 徫	uEi
 徬	bang
@@ -6333,8 +6323,8 @@ use_preset_vocabulary: true
 德	de
 徸	zhong
 徹	the
-徻	yuEi
 徻	huEi
+徻	yuEi
 徼	giau
 徼	yiau
 徽	huEi
@@ -6358,8 +6348,8 @@ use_preset_vocabulary: true
 忏	chEm
 忐	tEm
 忑	te
-忒	te	23.24%
 忒	tEi	56.44%
+忒	te	23.24%
 忓	gEn
 忔	ki
 忕	dai
@@ -6402,15 +6392,15 @@ use_preset_vocabulary: true
 忲	sh
 忲	tai
 忳	tuen
-忴	kin
 忴	kiEn
+忴	kin
 念	nyiEm
 忶	huen
 忷	hUong
-忸	nyioug
 忸	nyUg
-忹	rhen
+忸	nyioug
 忹	nyin
+忹	rhen
 忺	hiEm
 忺	kiEm
 忻	hin
@@ -6432,14 +6422,14 @@ use_preset_vocabulary: true
 怉	bau
 怊	thau
 怋	min
-怌	pi
 怌	pEi
+怌	pi
 怍	zuo
 怎	ze	1%
 怎	zem	99%
 怏	yiang
-怐	gou
 怐	gU
+怐	gou
 怐	kou
 怑	bEn
 怒	nu
@@ -6455,11 +6445,11 @@ use_preset_vocabulary: true
 怙	hu
 怚	ciE
 怚	zU
-怛	da
 怛	dEn
+怛	da
 怛	tEn
-怜	ling
 怜	liEn
+怜	ling
 思	s	100%
 思	sai	0%
 怞	dhou
@@ -6500,8 +6490,8 @@ use_preset_vocabulary: true
 怿	i
 恀	ch
 恁	nem	100%
-恁	rhem	100%
 恁	nyim	0%
+恁	rhem	100%
 恂	sUin
 恃	sh
 恄	gi
@@ -6580,10 +6570,10 @@ use_preset_vocabulary: true
 悃	kuen
 悄	ciau
 悅	UE
-悆	shu
 悆	U
-悇	tu
+悆	shu
 悇	U
+悇	tu
 悈	giE
 悉	si
 悊	dhe
@@ -6600,8 +6590,8 @@ use_preset_vocabulary: true
 悓	kiEn
 悔	huEi
 悕	hi
-悖	buo	0%
 悖	bEi	100%
+悖	buo	0%
 悗	mEn
 悘	yi
 悙	heng
@@ -6666,15 +6656,15 @@ use_preset_vocabulary: true
 惍	gim
 惎	gi
 惎	ki
-惏	lim
 惏	lEm
-惐	hU
+惏	lim
 惐	U
+惐	hU
 惑	huo
+惒	hEn
 惒	he
 惒	hu
 惒	huo
-惒	hEn
 惓	gUEn
 惓	kUEn
 惔	tEm
@@ -6730,8 +6720,8 @@ use_preset_vocabulary: true
 愀	ciou
 愀	ziou
 愁	chou
-愂	buo
 愂	bEi
+愂	buo
 愃	hUEn
 愄	yuEi
 愅	ge
@@ -6740,8 +6730,8 @@ use_preset_vocabulary: true
 愈	U
 愉	U
 愊	bi
-愋	huEn
 愋	hUEn
+愋	huEn
 愌	huEn
 愍	min
 愎	bi
@@ -6760,8 +6750,8 @@ use_preset_vocabulary: true
 愗	mou
 愘	ke
 愘	kia
-愙	ke
 愙	kUE
+愙	ke
 愚	U
 愛	yai
 愜	kiE
@@ -6840,8 +6830,8 @@ use_preset_vocabulary: true
 慚	cEm
 慛	cuEi
 慜	min
-慝	te
 慝	nyi
+慝	te
 慞	zhang
 慟	dung
 慟	tung
@@ -6874,8 +6864,8 @@ use_preset_vocabulary: true
 慷	kang
 慸	th
 慹	zh
-慺	lou
 慺	lU
+慺	lou
 慻	gUEn
 慼	ci
 慽	ci
@@ -6918,10 +6908,10 @@ use_preset_vocabulary: true
 憚	dEn
 憛	tEm
 憜	duo
-憝	duen
 憝	duEi
-憞	duen
+憝	duen
 憞	duEi
+憞	duen
 憟	su
 憠	gUE
 憡	ce
@@ -6942,9 +6932,9 @@ use_preset_vocabulary: true
 憭	liau
 憮	v
 憯	cEm
-憰	gi
 憰	gU
 憰	gUE
+憰	gi
 憱	chou
 憱	cu
 憲	hiEn
@@ -6965,8 +6955,8 @@ use_preset_vocabulary: true
 憿	gi
 憿	giau
 懀	yuEi
-懁	huEn
 懁	hUEn
+懁	huEn
 懂	dung
 懃	kin
 懄	gin
@@ -6990,7 +6980,6 @@ use_preset_vocabulary: true
 懒	lEn
 懔	lin
 懕	yiEm
-㦔	yiEm
 懖	gua
 懖	guo
 懗	hia
@@ -7007,8 +6996,8 @@ use_preset_vocabulary: true
 懡	muo
 懢	hiEm
 懢	lEm
-懣	men
 懣	mEn
+懣	men
 懤	thou
 懥	dh
 懥	ti
@@ -7016,7 +7005,6 @@ use_preset_vocabulary: true
 懦	rhu
 懧	nuo
 懨	yiEm
-𢣽	yiEm
 懩	iang
 懪	buo
 懫	dh
@@ -7039,8 +7027,8 @@ use_preset_vocabulary: true
 懼	gU
 懽	guEn
 懽	huEn
-懾	she
 懾	nyiE
+懾	she
 懾	zhe
 懿	yi
 戀	liEn
@@ -7083,8 +7071,8 @@ use_preset_vocabulary: true
 戛	ga
 戛	gia
 戜	diE
-戝	ze
 戝	zEi
+戝	ze
 戞	ga
 戞	gia
 戟	gi
@@ -7104,10 +7092,10 @@ use_preset_vocabulary: true
 戩	ziEn
 截	ziE
 戫	yUg
-戬	zin
 戬	ziEn
-戭	in
+戬	zin
 戭	iEn
+戭	in
 戮	lug
 戯	hi
 戯	hu
@@ -7132,9 +7120,9 @@ use_preset_vocabulary: true
 戻	ti
 戼	mau
 戽	hu
+戾	lEi
 戾	li
 戾	liE
-戾	lEi
 房	fang	100%
 房	pang	0%
 所	suo
@@ -7197,12 +7185,12 @@ use_preset_vocabulary: true
 扱	si
 扱	zi
 扲	gin
-扲	kin
 扲	kiEn
+扲	kin
 扳	bEn	100%
 扳	pEn	0%
-扴	gia
 扴	giE
+扴	gia
 扵	yu
 扶	f
 扷	yau
@@ -7216,8 +7204,8 @@ use_preset_vocabulary: true
 找	zhau
 承	cheng
 技	gi
-抁	iEn
 抁	Uin
+抁	iEn
 抂	kuang
 抃	biEn
 抄	chau
@@ -7234,8 +7222,8 @@ use_preset_vocabulary: true
 抌	chem
 抌	zhem
 抍	zheng
-抎	shEn
 抎	Uin
+抎	shEn
 抏	nguEn
 抐	ne
 抑	yi
@@ -7253,10 +7241,10 @@ use_preset_vocabulary: true
 抚	f
 抛	pau
 抜	ba
+抝	nyiou
+抝	yU
 抝	yau
 抝	yiau
-抝	yU
-抝	nyiou
 択	ze
 択	zhai
 抟	tuEn
@@ -7273,8 +7261,8 @@ use_preset_vocabulary: true
 抩	tEm
 抪	bu
 抪	pu
-披	pi
 披	pEi
+披	pi
 抬	tai
 抭	iau
 抮	zhen
@@ -7289,8 +7277,8 @@ use_preset_vocabulary: true
 抵	di	100%
 抵	zh	0%
 抶	th
-抷	pi
 抷	pEi
+抷	pi
 抸	za
 抹	ma	7.13%
 抹	muo	92.87%
@@ -7299,9 +7287,9 @@ use_preset_vocabulary: true
 抻	shen
 押	yia
 抽	thou
-抾	ki
 抾	kU
 抾	kUE
+抾	ki
 抿	min
 拀	zhu
 拁	gia
@@ -7334,15 +7322,15 @@ use_preset_vocabulary: true
 拔	ba
 拕	tuo
 拖	tuo
+拗	nyiou	39.88%
+拗	yU	0%
 拗	yau	60.12%
 拗	yiau	0%
-拗	yU	0%
-拗	nyiou	39.88%
 拘	gU
 拙	zhuo
 拚	fen	0%
-拚	pin	88.14%
 拚	pEn	11.86%
+拚	pin	88.14%
 招	ciau	0%
 招	shau	0%
 招	zhau	100%
@@ -7376,8 +7364,8 @@ use_preset_vocabulary: true
 拴	shuEn
 拵	cuen
 拵	tuen
-拶	za	78.95%
 拶	zEn	21.05%
+拶	za	78.95%
 拷	kau
 拸	ch
 拸	che
@@ -7403,8 +7391,8 @@ use_preset_vocabulary: true
 按	yEn
 挊	lung
 挊	neng
-挊	nung
 挊	nou
+挊	nung
 挋	chen
 挋	zhen
 挌	ge
@@ -7426,14 +7414,14 @@ use_preset_vocabulary: true
 挗	gUE
 挙	gU
 挚	zh
+挛	lUEn
 挛	liEn
 挛	luEn
-挛	lUEn
 挝	dhua	74.70%
 挞	ta
 挟	gia
-挟	hia
 挟	hiE
+挟	hia
 挠	nau
 挡	dang
 挢	giau
@@ -7461,8 +7449,8 @@ use_preset_vocabulary: true
 挴	mEi
 挵	lung
 挵	neng
-挵	nung
 挵	nou
+挵	nung
 挶	gU
 挷	bang
 挷	beng
@@ -7474,8 +7462,8 @@ use_preset_vocabulary: true
 挼	nuo
 挽	vEn
 挾	gia
-挾	hia
 挾	hiE
+挾	hia
 挿	cha
 捀	fong
 捁	gau
@@ -7491,8 +7479,8 @@ use_preset_vocabulary: true
 捈	tu
 捉	zhuo
 捊	pou
-捋	le	0%
 捋	lU	93.33%
+捋	le	0%
 捋	luo	6.67%
 捌	ba
 捍	hEn
@@ -7505,8 +7493,8 @@ use_preset_vocabulary: true
 捒	song
 捒	sou
 捓	iE
-捔	giau
 捔	gUE
+捔	giau
 捕	bu
 捖	huEn
 捖	uEn
@@ -7528,14 +7516,14 @@ use_preset_vocabulary: true
 捦	kim
 捧	pong
 捨	she
+捩	lEi
 捩	li
 捩	liE
-捩	lEi
 捪	min
 捫	men
 捬	f
-捭	bai
 捭	bEi
+捭	bai
 据	gU
 捯	dau
 捰	guo
@@ -7593,8 +7581,8 @@ use_preset_vocabulary: true
 掛	gua
 掜	i
 掜	nyi
-掝	huo
 掝	hU
+掝	huo
 掞	iEm
 掞	shEm
 掟	ding
@@ -7623,24 +7611,24 @@ use_preset_vocabulary: true
 掴	guo	97.33%
 掷	dh
 掸	dEn	50%
-掺	chEm
 掺	cEm
+掺	chEm
 掺	shEm
 掼	guEn
 掽	peng
 掾	UEn
 掿	nuo
-掿	rhuo
 掿	nyi
+掿	rhuo
 揀	giEn
 揁	keng
 揂	ciou
 揂	ziou
 揃	ciEn
 揃	ziEn
+揄	U
 揄	iau
 揄	iou
-揄	U
 揅	iEn
 揆	kuEi
 揇	nEm
@@ -7668,16 +7656,16 @@ use_preset_vocabulary: true
 揚	iang
 換	huEn
 揜	yiEm
-揝	zuEn
 揝	zEn
+揝	zuEn
 揞	yEm
 揟	sU
 揟	zU
 揠	yia
 握	yuo
 揢	ke
-揣	chuai	100%
 揣	chuEn	0%
+揣	chuai	100%
 揤	zi
 揤	ziE
 揥	ti
@@ -7759,8 +7747,8 @@ use_preset_vocabulary: true
 搤	ye
 搥	chuEi
 搦	nuo
-搦	rhuo
 搦	nyi
+搦	rhuo
 搧	shEn
 搨	ta
 搩	zha
@@ -7782,13 +7770,13 @@ use_preset_vocabulary: true
 搷	chen
 搷	tiEn
 搸	zhen
-搹	ye
 搹	ge
+搹	ye
 携	hi
 携	hiE
 搻	nuo
-搻	rhuo
 搻	nyi
+搻	rhuo
 搼	kUEn
 搽	ca	0%
 搽	tha	100%
@@ -7827,8 +7815,8 @@ use_preset_vocabulary: true
 摕	tu
 摖	cha
 摖	ci
-摗	sung
 摗	sou
+摗	sung
 摘	dhai	100%
 摘	dhe	0%
 摙	liEn
@@ -7866,8 +7854,8 @@ use_preset_vocabulary: true
 摱	mEn
 摲	shEm
 摲	ziEm
-摳	kou	100%
 摳	kU	0%
+摳	kou	100%
 摴	thu
 摵	sheg
 摵	suog
@@ -7879,8 +7867,8 @@ use_preset_vocabulary: true
 摸	muo	100%
 摹	muo
 摺	zhe
-摻	chEm	100%
 摻	cEm	0%
+摻	chEm	100%
 摻	shEm	0%
 摼	keng
 摼	kiEn
@@ -7890,8 +7878,8 @@ use_preset_vocabulary: true
 摿	yin
 撀	gou
 撁	kiEn
-撂	liau
 撂	lUE
+撂	liau
 撃	gi
 撄	ying
 撅	gUE
@@ -7900,15 +7888,15 @@ use_preset_vocabulary: true
 撈	lau
 撉	duen
 撊	hiEn
-撋	rhuen
 撋	rhuEn
+撋	rhuen
 撌	guEi
 撌	kuEi
 撍	ciEm
 撍	zEm
 撎	yi
-撏	siEm
 撏	sUim
+撏	siEm
 撐	theng
 撑	theng
 撒	sa
@@ -7933,9 +7921,9 @@ use_preset_vocabulary: true
 撞	thuang
 撟	giau
 撠	gi
+撡	cEn
 撡	cau
 撡	chEn
-撡	cEn
 撡	shEn
 撢	dEm
 撢	tEm
@@ -7954,8 +7942,8 @@ use_preset_vocabulary: true
 撬	kiau
 播	buo
 撮	cuo	99.90%
-撮	zuo	0.10%
 撮	zuEi	0%
+撮	zuo	0.10%
 撯	zhuo
 撰	zhuEn
 撱	tuo
@@ -7971,8 +7959,8 @@ use_preset_vocabulary: true
 撻	ta
 撼	hEm
 撽	gi
-撽	yiau
 撽	kiau
+撽	yiau
 撾	dhua
 撾	guo
 撿	giEm
@@ -8052,8 +8040,8 @@ use_preset_vocabulary: true
 擺	bai
 擻	sou
 擼	lu
-擽	li
 擽	lUE
+擽	li
 擾	rhau
 擿	dh
 擿	dhai
@@ -8071,11 +8059,11 @@ use_preset_vocabulary: true
 攈	gUin
 攉	huo
 攊	li
+攋	lEn
 攋	la
 攋	lai
-攋	lEn
-攌	huEn
 攌	hEn
+攌	huEn
 攍	ing
 攎	lu
 攏	lung
@@ -8094,17 +8082,17 @@ use_preset_vocabulary: true
 攛	cuEn
 攜	hi
 攜	hiE
-攝	she	99.72%
 攝	nyiE	0.28%
+攝	she	99.72%
 攞	luo
 攟	gUin
 攠	mi
 攡	li
 攢	cuEn	10%
 攢	zEn	90%
+攣	lUEn
 攣	liEn
 攣	luEn
-攣	lUEn
 攤	tEn
 攥	cuEn
 攥	zuEn
@@ -8118,8 +8106,8 @@ use_preset_vocabulary: true
 攬	lEm
 攭	li
 攭	luo
-攮	nang
 攮	nEn
+攮	nang
 支	zh
 攰	guEi
 攱	guEi
@@ -8135,8 +8123,8 @@ use_preset_vocabulary: true
 攺	s
 攻	gung
 攼	gEn
-攽	bin
 攽	bEn
+攽	bin
 放	fang
 政	zheng
 敀	buo
@@ -8183,8 +8171,8 @@ use_preset_vocabulary: true
 敤	guo
 敤	ke
 敥	iEn
-敦	duen	96.47%
 敦	duEi	4.53%
+敦	duen	96.47%
 敧	gi
 敧	ki
 敨	dou
@@ -8205,7 +8193,6 @@ use_preset_vocabulary: true
 敱	zhu
 敲	kiau
 敳	ngai
-𣪱	ngai
 整	zheng
 敵	di
 敶	dhen
@@ -8216,11 +8203,11 @@ use_preset_vocabulary: true
 數	shuo	0.50%
 數	su	0%
 敹	liau
-敺	kiau
 敺	kU
+敺	kiau
 敺	you
-敻	hUong
 敻	hUEn
+敻	hUong
 敻	kUong
 敼	hi
 敿	giau
@@ -8231,16 +8218,16 @@ use_preset_vocabulary: true
 斃	bi
 斄	li
 斄	tai
-斅	hiau
 斅	hUE
+斅	hiau
 文	ven
 斈	hUE
 斉	ci
 斊	ci
 斋	zhai
 斌	bin
-斍	giau
 斍	gUE
+斍	giau
 斎	zhai
 斐	fEi
 斐	pEi
@@ -8257,8 +8244,8 @@ use_preset_vocabulary: true
 斚	gia
 斛	hug
 斜	iE	0%
-斜	sia	0%
 斜	siE	100%
+斜	sia	0%
 斝	gia
 斞	U
 斟	zhem
@@ -8295,8 +8282,8 @@ use_preset_vocabulary: true
 斺	hiE
 斻	hang
 斻	kang
-於	yu	0%
 於	yU	100%
+於	yu	0%
 施	i	0%
 施	sh	100%
 斾	pEi
@@ -8374,8 +8361,8 @@ use_preset_vocabulary: true
 旾	chuen
 旿	ngu
 昀	Uin
-昁	puo
 昁	pEi
+昁	puo
 昂	ang
 昃	ze
 昄	bEn
@@ -8412,12 +8399,12 @@ use_preset_vocabulary: true
 昞	bing
 星	sing
 映	ying
-昡	hiEn
 昡	hUEn
+昡	hiEn
 昢	bEi
 昢	fEi
-昢	pu
 昢	pEi
+昢	pu
 昣	zhen
 昤	ling
 春	chuen
@@ -8478,8 +8465,8 @@ use_preset_vocabulary: true
 晖	huEi
 晗	hEm
 晘	hEn
-晙	zuen
 晙	zUin
+晙	zuen
 晚	vEn
 晛	hiEn
 晜	di
@@ -8520,8 +8507,8 @@ use_preset_vocabulary: true
 晸	zheng
 晹	i
 智	dh
-晻	yiEm
 晻	yEm
+晻	yiEm
 晼	yuEn
 晽	lin
 晾	liang
@@ -8533,8 +8520,8 @@ use_preset_vocabulary: true
 暅	hUEn
 暆	i
 暇	hia
-暈	in	0%
 暈	Uin	100%
+暈	in	0%
 暉	huEi
 暊	f
 暋	min
@@ -8574,8 +8561,8 @@ use_preset_vocabulary: true
 暩	guEi
 暪	men
 暫	zEm
-暬	siE
 暬	nyiE
+暬	siE
 暭	gau
 暭	hau
 暮	mu
@@ -8617,10 +8604,10 @@ use_preset_vocabulary: true
 曎	i
 曏	hiang
 曐	sing
-曑	cem
 曑	cEm
-曑	shem
+曑	cem
 曑	sEm
+曑	shem
 曒	giau
 曓	bau
 曓	pu
@@ -8633,8 +8620,8 @@ use_preset_vocabulary: true
 曙	shu
 曚	mung
 曛	hUin
-曜	iau	100%
 曜	UE	0%
+曜	iau	100%
 曝	baug	80.43%
 曝	pug	19.57%
 曞	li
@@ -8687,8 +8674,8 @@ use_preset_vocabulary: true
 朆	fen
 朇	bi
 朇	pi
-月	rhou	0%
 月	UE	100%
+月	rhou	0%
 有	iou
 朊	guEn
 朊	rhuEn
@@ -8706,9 +8693,9 @@ use_preset_vocabulary: true
 朕	dhem
 朖	lang
 朗	lang
+朘	zUEn
 朘	zUin
 朘	zuEi
-朘	zUEn
 朙	ming
 朚	mang
 望	vang
@@ -8766,8 +8753,8 @@ use_preset_vocabulary: true
 杆	gEn
 杇	yu
 杈	cha
-杉	sha	0.59%
 杉	shEm	99.41%
+杉	sha	0.59%
 杊	sUin
 杋	fEm
 杌	ngu
@@ -8803,8 +8790,8 @@ use_preset_vocabulary: true
 杫	s
 杫	si
 杫	zh
-杬	nguEn
 杬	ngUEn
+杬	nguEn
 杭	hang
 杮	lin
 杯	bEi
@@ -8812,8 +8799,8 @@ use_preset_vocabulary: true
 東	dung
 杲	gau
 杲	guo
-杳	yiau	100%
 杳	miau	0%
+杳	yiau	100%
 杴	hiEm
 杴	kiEm
 杵	chu
@@ -8824,8 +8811,8 @@ use_preset_vocabulary: true
 杸	shu
 杹	hua
 杺	sim
-杻	thou	50%
 杻	nyiou	50%
+杻	thou	50%
 杼	dhu
 杽	thou
 松	song
@@ -8835,8 +8822,8 @@ use_preset_vocabulary: true
 极	gi
 枂	nguo
 枃	Uin
-枃	zin
 枃	rhUin
+枃	zin
 构	gou
 枅	gi
 枆	mau
@@ -8889,8 +8876,8 @@ use_preset_vocabulary: true
 枵	hiau
 架	gia
 枷	gia
-枸	gou	72.22%
 枸	gU	27.78%
+枸	gou	72.22%
 枹	bau
 枹	f
 枺	muo
@@ -8941,8 +8928,8 @@ use_preset_vocabulary: true
 柞	ze
 柞	zuo
 柟	nEm
-柠	thu
 柠	nying
+柠	thu
 柡	yUong
 柢	di
 柣	dh
@@ -9037,8 +9024,8 @@ use_preset_vocabulary: true
 栬	zuEi
 栭	er
 栮	er
-栯	yioug
 栯	yUg
+栯	yioug
 栰	fa
 栱	gong
 栲	kau
@@ -9081,8 +9068,8 @@ use_preset_vocabulary: true
 桑	sang
 桒	sang
 桓	huEn
-桔	giE	14.68%
 桔	gU	85.32%
+桔	giE	14.68%
 桕	gau
 桕	giou
 桖	hUE
@@ -9115,8 +9102,8 @@ use_preset_vocabulary: true
 桴	f
 桵	rhuEi
 桶	tung
-桷	giau
 桷	gUE
+桷	giau
 桸	hi
 桹	lang
 桺	liou
@@ -9155,15 +9142,15 @@ use_preset_vocabulary: true
 梙	huEn
 梚	vEn
 梛	nuo
-梜	gia
 梜	giE
+梜	gia
 條	di	0%
 條	tiau	100%
 梞	gi
 梟	hiau
 梠	lU
-梡	huen
 梡	huEn
+梡	huen
 梡	kuEn
 梡	uEn
 梢	shau
@@ -9206,8 +9193,8 @@ use_preset_vocabulary: true
 棆	luen
 棆	tuen
 棇	cung
-棈	cing
 棈	ciEn
+棈	cing
 棉	miEn
 棊	ki
 棋	ki
@@ -9254,8 +9241,8 @@ use_preset_vocabulary: true
 棬	kUEn
 棭	i
 森	sem
-棯	rhem
 棯	nyiEm
+棯	rhem
 棰	chuEi
 棱	leng
 棲	ci	64.80%
@@ -9312,8 +9299,8 @@ use_preset_vocabulary: true
 椥	zh
 椪	peng
 椭	tuo
-椮	sem
 椮	sEm
+椮	sem
 椯	chuEn
 椯	duo
 椰	iE
@@ -9350,8 +9337,8 @@ use_preset_vocabulary: true
 楋	la
 楌	iEn
 楍	ben
-楎	huen
 楎	huEi
+楎	huen
 楏	guEi
 楏	kuEi
 楐	giE
@@ -9362,8 +9349,8 @@ use_preset_vocabulary: true
 楕	tuo
 楖	zi
 楖	ziE
-楗	giEn
 楗	gUEn
+楗	giEn
 楘	mug
 楙	mau
 楙	mou
@@ -9379,9 +9366,9 @@ use_preset_vocabulary: true
 楢	iou
 楣	mEi
 楤	cung
-楥	huEn
-楥	hUEn
 楥	UEn
+楥	hUEn
+楥	huEn
 楦	hUEn
 楧	yiang
 楨	dhen
@@ -9412,9 +9399,9 @@ use_preset_vocabulary: true
 楻	heng
 楻	huang
 楼	lou
-楽	ngiau
 楽	le
 楽	ngUE
+楽	ngiau
 榀	pim
 概	gai	100%
 概	kai	0%
@@ -9427,8 +9414,8 @@ use_preset_vocabulary: true
 榈	lU
 榉	gU
 榊	shen
-榍	siau
 榍	siE
+榍	siau
 榎	gia
 榏	ngi
 榐	zhEn
@@ -9438,8 +9425,8 @@ use_preset_vocabulary: true
 榔	lang
 榕	rhong
 榖	gug
-榗	zin
 榗	ziEn
+榗	zin
 榘	gU
 榙	da
 榙	ta
@@ -9537,8 +9524,8 @@ use_preset_vocabulary: true
 槬	hua
 槭	ci
 槭	cug
-槮	sem
 槮	sEm
+槮	sem
 槯	cuEi
 槰	pung
 槱	iou
@@ -9546,8 +9533,8 @@ use_preset_vocabulary: true
 槳	ziang
 槴	hu
 槵	huEn
-槶	guo
 槶	guEi
+槶	guo
 槶	kuEi
 槷	i
 槷	nyiE
@@ -9562,10 +9549,10 @@ use_preset_vocabulary: true
 槿	gin
 樀	di
 樁	dhuang
+樂	UE	5%
 樂	iau	0%
 樂	lau	0%
 樂	le	95%
-樂	UE	5%
 樃	lang
 樄	chen
 樅	cong
@@ -9602,8 +9589,8 @@ use_preset_vocabulary: true
 樝	zha
 樞	shu
 樟	zhang
-樠	men
 樠	mEn
+樠	men
 模	mu	1.29%
 模	muo	98.71%
 樢	mu
@@ -9615,8 +9602,8 @@ use_preset_vocabulary: true
 樥	pung
 樦	zhu
 樧	sha
-樨	si
 樨	sU
+樨	si
 権	kUEn
 横	heng
 樬	cung
@@ -9643,8 +9630,8 @@ use_preset_vocabulary: true
 橁	chuen
 橁	sUin
 橂	diEn
-橃	fa
 橃	fEi
+橃	fa
 橄	gEm
 橅	mu
 橅	muo
@@ -9713,8 +9700,8 @@ use_preset_vocabulary: true
 檃	yin
 檄	hi
 檅	suEi
-檆	sha
 檆	shEm
+檆	sha
 檇	zuEi
 檈	sUEn
 檉	theng
@@ -9810,8 +9797,8 @@ use_preset_vocabulary: true
 櫓	lu
 櫔	li
 櫕	cuEn
-櫕	zuEn
 櫕	zEn
+櫕	zuEn
 櫖	lU
 櫗	miE
 櫘	huEi
@@ -9890,8 +9877,8 @@ use_preset_vocabulary: true
 欣	hin
 欤	U
 欥	U
-欦	hiEm
 欦	hEm
+欦	hiEm
 欦	kiEm
 欧	you
 欨	hU
@@ -9915,8 +9902,8 @@ use_preset_vocabulary: true
 欶	shuo
 欶	sou
 欷	hi
-欸	yai	50%
 欸	yEi
+欸	yai	50%
 欹	yi
 欺	ki
 欻	chua
@@ -9931,8 +9918,8 @@ use_preset_vocabulary: true
 歂	chuEn
 歃	sha
 歄	gua
-歅	yin
 歅	yiEn
+歅	yin
 歆	him
 歇	hiE
 歈	U
@@ -10061,17 +10048,17 @@ use_preset_vocabulary: true
 殴	you
 段	duEn
 殶	zhu
-殷	yin	99.80%
 殷	yiEn	0.20%
+殷	yin	99.80%
 殸	keng
 殸	king
 殸	sheng
 殹	yi
 殺	sha	100%
 殺	shai	0%
+殻	kUE
 殻	ke
 殻	kiau
-殻	kUE
 殼	ke	97.56%
 殼	kiau	2.44%
 殽	iau
@@ -10080,8 +10067,8 @@ use_preset_vocabulary: true
 毀	huEi
 毁	huEi
 毂	gug
-毃	kiau
 毃	kUE
+毃	kiau
 毄	gi
 毅	i
 毆	kU	0%
@@ -10139,10 +10126,10 @@ use_preset_vocabulary: true
 毷	mau
 毸	sai
 毸	suEi
-毹	shu
 毹	U
-毺	shu
+毹	shu
 毺	U
+毺	shu
 毻	tuo
 毼	he
 毼	hiE
@@ -10188,8 +10175,8 @@ use_preset_vocabulary: true
 氚	chuEn
 氛	fen
 氜	iang
-氝	nai
 氝	nEi
+氝	nai
 氟	f
 氠	shen
 氡	dong
@@ -10206,8 +10193,8 @@ use_preset_vocabulary: true
 氬	yia
 氭	dung
 氮	dEm
-氯	lu
 氯	lU
+氯	lu
 氰	cing
 氱	yiang
 氲	yUin
@@ -10255,11 +10242,11 @@ use_preset_vocabulary: true
 汖	puo
 汗	hEn
 汘	ciEn
-汙	yu
 汙	yU
+汙	yu
 汙	yua
-汚	yu
 汚	yU
+汚	yu
 汚	yua
 汛	fEn	0%
 汛	sUin	100%
@@ -10279,14 +10266,14 @@ use_preset_vocabulary: true
 汦	zh
 汧	kiEn
 汨	mi
-汩	gu
 汩	U
+汩	gu
 汪	yuang
 汫	cing
 汫	zing
 汬	zing
-汭	na
 汭	nEi
+汭	na
 汭	rhuEi
 汮	gUin
 汯	hong
@@ -10320,8 +10307,8 @@ use_preset_vocabulary: true
 沅	UEn
 沆	hang
 沆	kang
-沇	iEn
 沇	Uin
+沇	iEn
 沈	shem	99.99%
 沈	them	0.01%
 沉	them
@@ -10331,14 +10318,14 @@ use_preset_vocabulary: true
 沍	hu
 沎	hua
 沎	huo
+沏	cU	0%
 沏	ci	100%
 沏	ciE	0%
-沏	cU	0%
 沐	mug
-沑	nyioug
 沑	nyUg
-沒	muo	0.11%
+沑	nyioug
 沒	mEi	99.89%
+沒	muo	0.11%
 沓	miau	23.44%
 沓	ta	76.56%
 沔	miEn
@@ -10355,8 +10342,8 @@ use_preset_vocabulary: true
 沞	za
 沟	gou
 沠	liou
-没	muo	0.11%
 没	mEi	99.89%
+没	muo	0.11%
 沢	ze
 沣	fung
 沤	you
@@ -10366,20 +10353,20 @@ use_preset_vocabulary: true
 沩	guEi
 沪	hu
 沫	muo
-沬	muo
 沬	mEi
+沬	muo
 沬	vEi
 沭	shu
-沮	zu
 沮	zU
+沮	zu
 沯	za
 沰	tuo
 沱	tuo
 沲	tuo
 河	he
 沴	li
-沵	mi
 沵	li
+沵	mi
 沶	i
 沷	f
 沷	fa
@@ -10397,8 +10384,8 @@ use_preset_vocabulary: true
 泀	s
 況	kuang
 泂	gUong
-泃	gou
 泃	gU
+泃	gou
 泄	s
 泄	siE
 泅	ciou
@@ -10430,8 +10417,8 @@ use_preset_vocabulary: true
 泙	peng
 泙	ping
 泚	c
-泛	fung	0%
 泛	fEm	100%
+泛	fung	0%
 泜	dh
 泜	th
 泝	su
@@ -10483,8 +10470,8 @@ use_preset_vocabulary: true
 洄	huEi
 洅	zai
 洆	cheng
-洇	yin
 洇	yiEn
+洇	yin
 洈	nguEi
 洉	hou
 洊	cuen
@@ -10549,8 +10536,8 @@ use_preset_vocabulary: true
 洷	zh
 洸	guang
 洸	huang
-洹	huEn
 洹	UEn
+洹	huEn
 洺	ming
 活	huo
 洼	guEi
@@ -10626,8 +10613,8 @@ use_preset_vocabulary: true
 浺	thung
 浻	gUong
 浻	yueng
-浼	miEn
 浼	mEi
+浼	miEn
 浽	suEi
 浾	cheng
 浿	pEi
@@ -10647,8 +10634,8 @@ use_preset_vocabulary: true
 涋	tu
 涌	Uong
 涍	hiau
-涎	siEn
 涎	sEn
+涎	siEn
 涏	ting
 涐	e
 涑	sug
@@ -10679,15 +10666,15 @@ use_preset_vocabulary: true
 涫	guEn
 涬	hing
 涭	shou
-涮	shua
 涮	shuEn
+涮	shua
 涯	ngia
 涰	chuo
 涱	zhang
 液	iEg
 涳	kung
-涴	yuo
 涴	yuEn
+涴	yuo
 涵	hEm
 涶	tuo
 涷	dung
@@ -10714,8 +10701,8 @@ use_preset_vocabulary: true
 淈	gu
 淈	kU
 淉	guo
-淊	hiEm
 淊	hEm
+淊	hiEm
 淊	yiEm
 淋	lim
 淌	tang
@@ -10741,11 +10728,11 @@ use_preset_vocabulary: true
 淝	fEi
 淞	song
 淟	tiEn
-淠	pi
 淠	pEi
+淠	pi
 淡	dEm
-淢	hU
 淢	U
+淢	hU
 淣	nyi
 淤	yU
 淥	lu
@@ -10759,8 +10746,8 @@ use_preset_vocabulary: true
 淭	kU
 淮	huai
 淯	Ug
-淰	shem
 淰	nyiEm
+淰	shem
 深	shem
 淲	hu
 淲	piau
@@ -10782,8 +10769,8 @@ use_preset_vocabulary: true
 淿	buo
 渀	ben
 渁	yUEn
-渂	ven
 渂	min
+渂	ven
 渃	rhe
 渃	rhuo
 渄	fEi
@@ -10844,8 +10831,8 @@ use_preset_vocabulary: true
 渴	ke	100%
 渵	mau
 渶	ying
-渷	iEn
 渷	Uin
+渷	iEn
 游	iou
 渹	hong
 渺	miau
@@ -10886,8 +10873,8 @@ use_preset_vocabulary: true
 湘	siang
 湙	i
 湚	in
-湛	dhEm	100%
 湛	dEm	0%
+湛	dhEm	100%
 湜	sh
 湝	gai
 湝	giE
@@ -10896,8 +10883,8 @@ use_preset_vocabulary: true
 湞	theng
 湟	huang
 湠	tEn
-湡	ou
 湡	U
+湡	ou
 湢	bi
 湣	min
 湤	sh
@@ -10915,8 +10902,8 @@ use_preset_vocabulary: true
 湬	ciou
 湬	ziau
 湭	ciou
-湮	yin	16.22%
 湮	yiEn	83.78%
+湮	yin	16.22%
 湯	shang	0.06%
 湯	tang	99.94%
 湰	lung
@@ -10926,8 +10913,8 @@ use_preset_vocabulary: true
 湴	bEm
 湵	iou
 湶	cUEn
-湷	chuen
 湷	chuEi
+湷	chuen
 湸	liang
 湹	chEn
 湻	chuen
@@ -11038,7 +11025,6 @@ use_preset_vocabulary: true
 滙	huEi
 滚	guen
 滛	im
-滛	im
 滜	gau
 滝	lung
 滝	shuang
@@ -11084,13 +11070,13 @@ use_preset_vocabulary: true
 漄	ngia
 漅	chau
 漅	ziau
-漆	ci	99%
 漆	cU	1%
+漆	ci	99%
 漇	si
 漈	zi
 漉	lug
-漊	lou
 漊	lU
+漊	lou
 漋	lung
 漌	gin
 漍	guo
@@ -11132,8 +11118,8 @@ use_preset_vocabulary: true
 漬	z
 漭	mang
 漮	kang
-漯	luo
 漯	lEi
+漯	luo
 漯	ta
 漰	peng
 漱	shu
@@ -11193,8 +11179,8 @@ use_preset_vocabulary: true
 潞	lu
 潟	si
 潟	siE
-潠	suen
 潠	sUin
+潠	suen
 潡	duen
 潢	huang
 潣	min
@@ -11209,8 +11195,8 @@ use_preset_vocabulary: true
 潩	i
 潪	dh
 潪	di
-潫	yuEn
 潫	yUEn
+潫	yuEn
 潬	dEn
 潭	tEm
 潮	thau
@@ -11289,13 +11275,13 @@ use_preset_vocabulary: true
 澰	liEm
 澱	diEn
 澲	iE
-澳	yaug	100%
 澳	yUg	0%
+澳	yaug	100%
 澴	huEn
 澵	cin
 澵	zhen
-澶	chEn
 澶	cEn
+澶	chEn
 澶	dEn
 澷	mEn
 澸	dEn
@@ -11319,8 +11305,8 @@ use_preset_vocabulary: true
 濇	se
 濈	zi
 濉	suEi
-濊	huo
 濊	huEi
+濊	huo
 濊	yuEi
 濋	chu
 濌	ta
@@ -11363,9 +11349,9 @@ use_preset_vocabulary: true
 濫	lEm
 濬	rhuEi
 濬	zUin
-濭	yai
 濭	kai
 濭	ke
+濭	yai
 濮	pug
 濯	dhau
 濯	dhuo
@@ -11453,8 +11439,8 @@ use_preset_vocabulary: true
 瀷	i
 瀸	ciEm
 瀸	ziEm
-瀹	iau
 瀹	UE
+瀹	iau
 瀺	chEm
 瀻	dai
 瀼	rhang
@@ -11499,8 +11485,8 @@ use_preset_vocabulary: true
 灢	nang
 灣	yuEn
 灤	luEn
-灥	chuEn
 灥	cUEn
+灥	chuEn
 灥	sUin
 灦	hiEn
 灧	iEm
@@ -11556,8 +11542,8 @@ use_preset_vocabulary: true
 炓	liau
 炔	gUE
 炔	guEi
-炔	kuai
 炔	kUE
+炔	kuai
 炕	kang
 炖	duen
 炖	tuen
@@ -11643,8 +11629,8 @@ use_preset_vocabulary: true
 烚	kia
 烛	chung
 烛	zhu
-烜	huEn
 烜	hUEn
+烜	huEn
 烝	zheng
 烞	puo
 烟	yiEn
@@ -11685,9 +11671,9 @@ use_preset_vocabulary: true
 烽	fong
 烾	ch
 烿	rhung
+焀	Ug
 焀	gug
 焀	hug
-焀	Ug
 焁	hi
 焂	shu
 焃	he
@@ -11704,8 +11690,8 @@ use_preset_vocabulary: true
 焊	hEn
 焋	zhuang
 焌	cU	50%
-焌	zuen
 焌	zUin	50%
+焌	zuen
 焍	di
 焍	ti
 焎	hiE
@@ -11735,8 +11721,8 @@ use_preset_vocabulary: true
 焣	chau
 焣	zU
 焤	f
-焥	yuo
 焥	yUE
+焥	yuo
 焦	ziau
 焧	zung
 焨	fung
@@ -11846,8 +11832,8 @@ use_preset_vocabulary: true
 熇	kaug
 熈	hi
 熉	Uin
-熊	hUng
 熊	Ung
+熊	hUng
 熋	hUng
 熋	nai
 熌	shEn
@@ -11915,8 +11901,8 @@ use_preset_vocabulary: true
 燂	tEm
 燃	rhEn
 燄	iEm
-燅	siEm
 燅	sUim
+燅	siEm
 燆	giau
 燆	kiau
 燇	zuen
@@ -11944,8 +11930,8 @@ use_preset_vocabulary: true
 燛	ging
 燜	men
 營	ing
-燠	yaug
 燠	yUg
+燠	yaug
 燡	i
 燢	hUE
 燣	lEm
@@ -11977,8 +11963,8 @@ use_preset_vocabulary: true
 燾	dau
 燾	shou
 燾	tau
-燿	iau
 燿	UE
+燿	iau
 爀	ch
 爀	he
 爁	lEm
@@ -12010,8 +11996,8 @@ use_preset_vocabulary: true
 爗	iE
 爙	rhang
 爙	shang
-爚	iau
 爚	UE
+爚	iau
 爛	lEn
 爜	cung
 爝	zUE
@@ -12045,8 +12031,8 @@ use_preset_vocabulary: true
 爵	zUE	100%
 父	f
 爷	iE
-爸	ba	100%
 爸	bEi	0%
+爸	ba	100%
 爹	diE
 爺	iE
 爻	hiau
@@ -12187,8 +12173,8 @@ use_preset_vocabulary: true
 犱	gi
 犲	chai
 犳	zhuo
-犴	hEn
 犴	En
+犴	hEn
 犵	giE
 犵	ki
 状	zhuang
@@ -12200,7 +12186,6 @@ use_preset_vocabulary: true
 犼	hou
 犽	ngia
 犾	ngin
-㹜	ngin
 犿	biEn
 犿	huEn
 狀	zhuang
@@ -12233,16 +12218,16 @@ use_preset_vocabulary: true
 狖	iou
 狗	gou
 狘	hUE
-狙	zu
 狙	zU
+狙	zu
 狚	dEn
 狛	puo
 狜	gu
 狝	mi
 狝	siEn
 狞	nying
-狟	huEn
 狟	UEn
+狟	huEn
 狠	hen
 狡	giau
 狢	ge
@@ -12274,8 +12259,8 @@ use_preset_vocabulary: true
 狷	gUEn
 狸	li
 狹	hia
-狺	in
 狺	iEn
+狺	in
 狻	suEn
 狼	lang
 狽	bEi
@@ -12475,8 +12460,8 @@ use_preset_vocabulary: true
 玤	bang
 玥	UE
 玦	gUE
-玧	men
 玧	Uin
+玧	men
 玨	gUE
 玩	nguEn
 玪	lim
@@ -12496,8 +12481,8 @@ use_preset_vocabulary: true
 玷	diEm
 玷	zhEm
 玸	f
-玹	hiEn
 玹	hUEn
+玹	hiEn
 玺	si
 玻	buo
 玼	c
@@ -12637,8 +12622,8 @@ use_preset_vocabulary: true
 琾	giE
 琿	huen
 瑀	U
-瑁	mau
 瑁	mEi
+瑁	mau
 瑂	mEi
 瑃	thuen
 瑄	sUEn
@@ -12690,8 +12675,8 @@ use_preset_vocabulary: true
 瑬	liou
 瑭	tang
 瑮	li
-瑯	lang
 瑯	lEn
+瑯	lang
 瑰	guEi
 瑱	dhen
 瑱	tiEn
@@ -12725,8 +12710,8 @@ use_preset_vocabulary: true
 璇	sUEn
 璈	ngau
 璉	liEn
-璊	men
 璊	mEn
+璊	men
 璋	zhang
 璌	in
 璎	ying
@@ -12785,8 +12770,8 @@ use_preset_vocabulary: true
 璽	si
 璾	z
 璾	zi
-璿	sUin
 璿	sUEn
+璿	sUin
 璿	zUin
 瓀	rhu
 瓀	rhuEn
@@ -12979,19 +12964,19 @@ use_preset_vocabulary: true
 畦	ua
 畧	lUE
 畨	fEn
-畨	puo
 畨	pEn
+畨	puo
 番	fEn	89.71%
-番	puo	0%
 番	pEn	10.29%
+番	puo	0%
 畫	hua
-畬	she
 畬	U
+畬	she
 畭	she
 畮	mou
 畮	mu
-畯	zuen
 畯	zUin
+畯	zuen
 異	i
 畱	liou
 畲	she
@@ -12999,22 +12984,22 @@ use_preset_vocabulary: true
 畴	thou
 畵	hua
 當	dang
-畷	dhuo
 畷	dhuEi
+畷	dhuo
 畸	gi
 畹	yuEn
 畺	giang
 畻	cheng
 畼	thang
-畽	tuen
 畽	tuEn
+畽	tuen
 畾	lEi
 畿	gi
 畿	ki
 疀	cha
 疁	liou
-疃	tuen
 疃	tuEn
+疃	tuen
 疄	lin
 疅	giang
 疆	giang
@@ -13074,14 +13059,14 @@ use_preset_vocabulary: true
 疱	pau
 疲	pi
 疳	gEm
-疴	ye
 疴	ke
+疴	ye
 疵	c
 疶	sh
 疶	siE
 疷	dh
-疸	da
 疸	dEn
+疸	da
 疹	zhen
 疺	fa
 疻	zh
@@ -13152,18 +13137,18 @@ use_preset_vocabulary: true
 痵	gi
 痶	diEn
 痶	tiEn
-痷	yiE
 痷	yEn
+痷	yiE
 痸	ch
 痹	bi
 痹	pi
-痺	bi
 痺	bEi
+痺	bi
 痻	min
 痼	gu
 痽	duEi
-痾	ye
 痾	ke
+痾	ye
 痿	yuEi
 瘀	yU
 瘁	cuEi
@@ -13182,8 +13167,8 @@ use_preset_vocabulary: true
 瘍	iang
 瘎	chem
 瘏	tu
-瘐	sou
 瘐	U
+瘐	sou
 瘑	gua
 瘑	guo
 瘒	nguen
@@ -13256,8 +13241,8 @@ use_preset_vocabulary: true
 癌	ngai
 癎	hiEn
 癏	guEn
-癐	guai
 癐	guEi
+癐	guai
 癐	kuai
 癑	neng
 癑	nung
@@ -13286,8 +13271,8 @@ use_preset_vocabulary: true
 癩	lai
 癪	zi
 癫	diEn
-癬	siEn
 癬	sUEn
+癬	siEn
 癭	ying
 癮	yin
 癯	kU
@@ -13295,8 +13280,8 @@ use_preset_vocabulary: true
 癱	tEn
 癲	diEn
 癴	lUEn
-癵	luEn
 癵	lUEn
+癵	luEn
 癶	buo
 癸	guEi
 癹	puo
@@ -13342,8 +13327,8 @@ use_preset_vocabulary: true
 皙	si
 皙	zhe
 皚	ai
-皛	giau
 皛	gUong
+皛	giau
 皜	gau
 皜	hau
 皝	huang
@@ -13366,8 +13351,8 @@ use_preset_vocabulary: true
 皪	li
 皫	piau
 皬	le
-皭	ziau
 皭	zUE
+皭	ziau
 皮	pi
 皯	gEn
 皰	bau
@@ -13455,9 +13440,9 @@ use_preset_vocabulary: true
 盵	ch
 盵	ki
 盶	ngUEn
+盷	Uin
 盷	hUEn
 盷	tiEn
-盷	Uin
 相	siang
 盹	duen
 盺	hin
@@ -13465,7 +13450,6 @@ use_preset_vocabulary: true
 盻	pEn
 盼	pEn
 盽	fong
-䀱	fong
 盾	duen	100%
 盾	shuen	0%
 盿	min
@@ -13508,8 +13492,8 @@ use_preset_vocabulary: true
 真	zhen
 眠	miEn
 眡	sh
-眢	yuEn
 眢	yUEn
+眢	yuEn
 眣	diE
 眤	nyi
 眥	z
@@ -13559,7 +13543,6 @@ use_preset_vocabulary: true
 睊	gUEn
 睋	e
 睌	mian
-𥇅	mian
 睍	giEn
 睍	hiEn
 睎	hi
@@ -13610,8 +13593,8 @@ use_preset_vocabulary: true
 睸	mEi
 睹	du
 睺	hou
-睻	hUEn
 睻	hEn
+睻	hUEn
 睼	sh
 睼	ti
 睽	guEi
@@ -13637,8 +13620,8 @@ use_preset_vocabulary: true
 瞎	hia
 瞏	kUong
 瞐	muo
-瞑	ming
 瞑	miEn
+瞑	ming
 瞒	mEn
 瞓	fen
 瞔	ze
@@ -13711,8 +13694,8 @@ use_preset_vocabulary: true
 矌	guang
 矌	kuang
 矍	gUE
-矎	hing
 矎	hUEn
+矎	hing
 矏	miEn
 矐	huo
 矑	lu
@@ -13760,8 +13743,8 @@ use_preset_vocabulary: true
 矵	ci
 矶	gi
 矷	z
-矸	gEn
 矸	En
+矸	gEn
 矹	ngu
 矺	tuo
 矻	kud
@@ -13878,8 +13861,8 @@ use_preset_vocabulary: true
 硜	keng
 硝	siau
 硞	gau
-硞	ku
 硞	kUE
+硞	ku
 硟	chEn
 硠	lang
 硡	hong
@@ -13889,8 +13872,8 @@ use_preset_vocabulary: true
 硤	hia
 硥	mang
 硦	lung
-硧	tong
 硧	Uong
+硧	tong
 硨	che
 硩	the
 硪	e
@@ -13922,8 +13905,8 @@ use_preset_vocabulary: true
 碃	cing
 碄	lin
 碅	gUin
-碅	kuen
 碅	kUin
+碅	kuen
 碆	buo
 碆	puo
 碇	ding
@@ -13938,9 +13921,9 @@ use_preset_vocabulary: true
 碍	ai
 碎	cuEi	0%
 碎	suEi	100%
+碏	cUE
 碏	cu
 碏	cuo
-碏	cUE
 碐	leng
 碑	bEi
 碒	ngim
@@ -14020,9 +14003,9 @@ use_preset_vocabulary: true
 磑	i
 磑	kai
 磑	nguEi
-磒	suen
-磒	Uin
 磒	UEn
+磒	Uin
+磒	suen
 磓	chuEi
 磓	duEi
 磔	dhe
@@ -14040,8 +14023,8 @@ use_preset_vocabulary: true
 磢	chuang
 磢	ciang
 磢	shuang
-磣	chem
 磣	cEm
+磣	chem
 磤	yin
 磥	lEi
 磦	biau
@@ -14091,10 +14074,10 @@ use_preset_vocabulary: true
 礍	kiE
 礎	chu
 礏	iE
+礐	Ug
 礐	hug
 礐	kUEg
 礐	leg
-礐	Ug
 礑	dang
 礒	i
 礓	giang
@@ -14186,11 +14169,11 @@ use_preset_vocabulary: true
 祢	mi
 祢	nyi
 祣	lU
-祤	hU
 祤	U
+祤	hU
 祥	siang
-祦	ngu
 祦	ngU
+祦	ngu
 祧	tiau
 票	piau
 祩	zhu
@@ -14234,8 +14217,8 @@ use_preset_vocabulary: true
 禈	huEi
 禉	iou
 禊	hi
-禋	yin
 禋	yiEn
+禋	yin
 禌	z
 禍	huo
 禎	dhen
@@ -14252,8 +14235,8 @@ use_preset_vocabulary: true
 禚	gau
 禚	zhuo
 禛	zhen
-禜	ing
 禜	Uong
+禜	ing
 禝	zi
 禞	gau
 禟	tang
@@ -14286,8 +14269,8 @@ use_preset_vocabulary: true
 禷	lEi
 禸	rhou
 禹	U
-禺	ou
 禺	U
+禺	ou
 离	li
 离	th
 禼	siE
@@ -14356,8 +14339,8 @@ use_preset_vocabulary: true
 秶	z
 秷	dh
 秸	gi
-秸	gia
 秸	giE
+秸	gia
 秹	rhen
 秺	du
 移	i
@@ -14385,8 +14368,8 @@ use_preset_vocabulary: true
 稑	lug
 稒	gu
 稓	zuo
-稔	rhem
 稔	nyiEm
+稔	rhem
 稕	zhuen
 稖	bang
 稗	bai
@@ -14468,8 +14451,8 @@ use_preset_vocabulary: true
 穚	kiau
 穛	zhuo
 穛	ziau
-穜	tung
 穜	dhong
+穜	tung
 穟	suEi
 穠	nong
 穡	se
@@ -14499,8 +14482,8 @@ use_preset_vocabulary: true
 穵	yua
 究	giou
 穷	kUng
-穸	si
 穸	sUE
+穸	si
 穹	kUng
 空	kung
 穻	yU
@@ -14748,8 +14731,8 @@ use_preset_vocabulary: true
 筝	zheng
 筞	ce
 筟	f
-筠	gUin
 筠	Uin
+筠	gUin
 筡	tu
 筢	pa
 筣	li
@@ -14801,8 +14784,8 @@ use_preset_vocabulary: true
 箎	ch
 箎	hu
 箏	zheng
-箐	cing
 箐	ciEn
+箐	cing
 箐	zing
 箑	sha
 箑	ziE
@@ -14854,9 +14837,9 @@ use_preset_vocabulary: true
 箻	lU
 箼	yug
 箽	dung
+箾	sUE
 箾	shuo
 箾	siau
-箾	sUE
 箿	zi
 節	ziE
 篁	huang
@@ -15072,8 +15055,8 @@ use_preset_vocabulary: true
 粆	chau
 粆	sha
 粇	kang
-粈	rhou
 粈	nyiou
+粈	rhou
 粉	fen
 粊	bi
 粋	cuEi
@@ -15126,20 +15109,20 @@ use_preset_vocabulary: true
 粻	dhang
 粼	lin
 粽	zung
-糉	zung
 精	zing
-粿	guo
 粿	guEi
+粿	guo
 糁	sEm	42.11%
 糂	sEm
 糃	tang
 糄	biEn
-糅	rhou
 糅	nyiou
+糅	rhou
 糆	miEn
 糇	hou
 糈	sU
 糉	zhung
+糉	zung
 糉	zung
 糊	hu
 糋	ziEn
@@ -15161,8 +15144,8 @@ use_preset_vocabulary: true
 糙	zau
 糚	zhuang
 糛	tang
-糜	mi	95.49%
 糜	mEi	4.51%
+糜	mi	95.49%
 糝	sEm
 糞	fen
 糟	zau
@@ -15207,8 +15190,8 @@ use_preset_vocabulary: true
 紂	dhou
 紃	sUin
 紃	zUin
-約	yiau	0.02%
 約	yUE	99.98%
+約	yiau	0.02%
 紅	gung	0.02%
 紅	hung	99.98%
 紆	yU
@@ -15326,8 +15309,8 @@ use_preset_vocabulary: true
 絣	ping
 絤	siEn
 絥	fug
-給	gi	0.01%
 給	gEi	99.99%
+給	gi	0.01%
 絧	tung
 絨	rhung
 絩	tiau
@@ -15365,8 +15348,8 @@ use_preset_vocabulary: true
 綅	cim
 綅	siEm
 綆	geng
-綇	siE
 綇	sU
+綇	siE
 綈	ti
 綉	siou
 綊	hiE
@@ -15394,8 +15377,8 @@ use_preset_vocabulary: true
 綞	chuEi
 綞	duo
 綟	li
-綠	lu	0.74%
 綠	lU	99.26%
+綠	lu	0.74%
 綡	liang
 綢	thou
 綣	kUEn
@@ -15405,8 +15388,8 @@ use_preset_vocabulary: true
 綧	zhuen
 綨	ki
 綩	yuEn
-綪	cing
 綪	ciEn
+綪	cing
 綫	siEn
 綬	shou
 維	uEi
@@ -15428,8 +15411,8 @@ use_preset_vocabulary: true
 綺	ki
 綻	dhEn	100%
 綻	ding	0%
-綼	bi
 綼	bEi
+綼	bi
 綽	chau	5%
 綽	chuo	95%
 綾	ling
@@ -15453,8 +15436,8 @@ use_preset_vocabulary: true
 緍	min
 緎	U
 総	zung
-緑	lu
 緑	lU
+緑	lu
 緒	sU
 緖	sU
 緗	siang
@@ -15486,9 +15469,9 @@ use_preset_vocabulary: true
 緭	uEi
 緮	f
 緯	uEi
-緰	tou
-緰	sU
 緰	U
+緰	sU
+緰	tou
 緱	gou
 緱	hou
 緲	miau
@@ -15497,9 +15480,9 @@ use_preset_vocabulary: true
 緵	sha
 緶	biEn
 緶	piEn
+緷	Uin
 緷	guen
 緷	huen
-緷	Uin
 緸	yin
 緹	ti
 緺	gua
@@ -15548,8 +15531,8 @@ use_preset_vocabulary: true
 縠	hug
 縡	zai
 縢	teng
-縣	hiEn	99.88%
 縣	hUEn	0.12%
+縣	hiEn	99.88%
 縤	su
 縥	zhen
 縦	zong
@@ -15563,12 +15546,12 @@ use_preset_vocabulary: true
 縭	li
 縮	sug	0.62%
 縮	suog	99.38%
-縯	in
 縯	iEn
+縯	in
 縰	si
 縱	zong
-縲	luo
 縲	lEi
+縲	luo
 縳	chuEn
 縳	zhuEn
 縴	kiEn
@@ -15615,8 +15598,8 @@ use_preset_vocabulary: true
 繐	suEi
 繑	kiau
 繒	zeng
-繓	zuo
 繓	zuEi
+繓	zuo
 織	zh
 繕	shEn
 繖	sEn
@@ -15632,8 +15615,8 @@ use_preset_vocabulary: true
 繠	rhuEi
 繡	siou
 繢	huEi
-繣	hua
 繣	huEi
+繣	hua
 繥	hi
 繦	kiang
 繨	da
@@ -15701,8 +15684,8 @@ use_preset_vocabulary: true
 纛	dau
 纛	du
 纜	lEm
-纝	luo
 纝	lEi
+纝	luo
 纞	liEn
 纠	giou
 纡	yU
@@ -15712,8 +15695,8 @@ use_preset_vocabulary: true
 纤	siEm	46.95%
 纥	ge	50%
 纥	he	50%
-约	yiau	0.02%
 约	yUE	99.98%
+约	yiau	0.02%
 级	gi
 纨	uEn
 纩	kuang
@@ -15760,8 +15743,8 @@ use_preset_vocabulary: true
 绔	ku
 绕	rhau
 绘	huEi
-给	gi	0.01%
 给	gEi	99.99%
+给	gi	0.01%
 绚	hUEn
 绛	giang
 络	lau	0.97%
@@ -15895,8 +15878,8 @@ use_preset_vocabulary: true
 罚	fa
 罛	gu
 罜	zhug
-罝	zh
 罝	zU
+罝	zh
 罞	mau
 罞	mung
 罟	gu
@@ -15954,8 +15937,8 @@ use_preset_vocabulary: true
 羋	mi
 羋	miE
 羌	kiang
-羍	ta
 羍	nyiE
+羍	ta
 美	mEi
 羏	iang
 羐	iou
@@ -15996,8 +15979,8 @@ use_preset_vocabulary: true
 羮	geng
 羮	lang
 羯	giE
-羰	tang
 羰	tEn
+羰	tang
 羱	UEn
 羲	hi
 羳	fEn
@@ -16082,9 +16065,9 @@ use_preset_vocabulary: true
 翲	piau
 翳	yi
 翴	liEn
+翵	U
 翵	hou
 翵	kU
-翵	U
 翶	ngau
 翷	lin
 翸	pen
@@ -16093,19 +16076,19 @@ use_preset_vocabulary: true
 翻	fEn
 翼	i
 翽	huEi
-翾	huEn
 翾	hUEn
+翾	huEn
 翿	dau
 翿	tau
-耀	iau	100%
 耀	UE	0%
+耀	iau	100%
 老	lau
 考	kau
 耄	mau
 者	zhe
 耆	ki
-耇	gou
 耇	gU
+耇	gou
 耈	gou
 耉	gou
 耊	diE
@@ -16168,8 +16151,8 @@ use_preset_vocabulary: true
 耸	song
 耹	kim
 耹	ling
-耺	ing
 耺	Uin
+耺	ing
 耻	th
 耼	dEn
 耼	rhEn
@@ -16186,8 +16169,8 @@ use_preset_vocabulary: true
 聇	zheng
 聈	yiou
 聉	dhuo
-聉	tuEi
 聉	ngua
+聉	tuEi
 聊	liau
 聋	lung
 职	zh
@@ -16233,8 +16216,8 @@ use_preset_vocabulary: true
 聳	song
 聴	ting
 聵	kuEi
-聶	she	0%
 聶	nyiE	100%
+聶	she	0%
 職	zh
 聸	dEm
 聹	nying
@@ -16256,8 +16239,8 @@ use_preset_vocabulary: true
 肉	rhoug	100%
 肉	rhug	0%
 肊	yi
-肋	le
 肋	lEi
+肋	le
 肌	gi
 肍	kiou
 肎	ken
@@ -16291,8 +16274,8 @@ use_preset_vocabulary: true
 肤	f
 肥	fEi
 肦	bEn
-肧	pi
 肧	pEi
+肧	pi
 肨	pang
 肩	giEn
 肪	fang
@@ -16354,14 +16337,14 @@ use_preset_vocabulary: true
 胓	ping
 胔	z
 胕	f
-胖	pang	99.35%
 胖	pEn	0.65%
+胖	pang	99.35%
 胗	zhen
-胘	hiEn
 胘	hUEn
+胘	hiEn
 胙	zuo
-胚	pi
 胚	pEi
+胚	pi
 胛	gia
 胜	sheng
 胜	sing
@@ -16426,18 +16409,18 @@ use_preset_vocabulary: true
 脐	ci
 脑	nau
 脓	nong
-脔	luEn
 脔	lUEn
+脔	luEn
 脕	miEn
-脕	ven
 脕	vEn
+脕	ven
 脖	buo
 脗	ven
 脘	guEn
 脘	uEn
 脙	kiou
-脚	giau	99.91%
 脚	gUE	0.09%
+脚	giau	99.91%
 脛	ging
 脜	rhou
 脝	heng
@@ -16450,13 +16433,13 @@ use_preset_vocabulary: true
 脤	chen
 脤	shen
 脥	gia
-脥	hia
 脥	hiE
+脥	hia
 脥	kiEm
 脦	te
+脧	zUEn
 脧	zUin
 脧	zuEi
-脧	zUEn
 脨	cu
 脩	siou
 脪	th
@@ -16500,8 +16483,8 @@ use_preset_vocabulary: true
 腌	ya	40%
 腌	yang	40%
 腌	yiEm	22.60%
-腍	rhem
 腍	nyiEm
+腍	rhem
 腎	shen
 腏	dhuo
 腏	duo
@@ -16519,8 +16502,8 @@ use_preset_vocabulary: true
 腝	er
 腝	nau
 腝	nen
-腝	rhuEn
 腝	nyi
+腝	rhuEn
 腞	duen
 腞	zhuEn
 腟	zh
@@ -16532,12 +16515,12 @@ use_preset_vocabulary: true
 腤	yEm
 腥	sing
 腦	nau
-腧	shu
 腧	U
+腧	shu
 腨	chuEn
 腩	nEm
-腪	yUin
 腪	Uin
+腪	yUin
 腫	zhong
 腬	rhou
 腭	e
@@ -16546,8 +16529,8 @@ use_preset_vocabulary: true
 腰	yiau
 腱	giEn
 腲	yuEi
-腳	giau	99.91%
 腳	gUE	0.09%
+腳	giau	99.91%
 腴	U
 腵	gia
 腶	duEn
@@ -16562,8 +16545,8 @@ use_preset_vocabulary: true
 膀	bang	81.25%
 膀	pang	18.75%
 膁	hiEm
-膁	ngiEm
 膁	kiEm
+膁	ngiEm
 膂	lU
 膃	yuad
 膄	shou
@@ -16602,10 +16585,10 @@ use_preset_vocabulary: true
 膡	sheng
 膢	lU
 膣	dh
-膦	lin
 膦	liEn
-膧	tung
+膦	lin
 膧	thuang
+膧	tung
 膨	peng
 膩	nyi
 膪	dhai
@@ -16639,8 +16622,8 @@ use_preset_vocabulary: true
 臀	diEn	0%
 臀	tuen	100%
 臁	liEm
-臂	bi	97.47%
 臂	bEi	2.53%
+臂	bi	97.47%
 臃	yUong
 臄	gU
 臄	gUE
@@ -16676,19 +16659,19 @@ use_preset_vocabulary: true
 臝	luo
 臞	kU
 臟	zang
-臠	luEn
 臠	lUEn
+臠	luEn
 臡	nyi
+臢	zEn
 臢	za
 臢	zang
-臢	zEn
 臣	chen
 臤	hiEn
-臤	kin
 臤	kiEn
+臤	kin
 臥	nguo
-臦	guang
 臦	gUong
+臦	guang
 臧	zang
 臨	lim
 臩	giE
@@ -16772,8 +16755,8 @@ use_preset_vocabulary: true
 舩	chuEn
 航	hang
 舫	fang
-般	buo	0%
 般	bEn	100%
+般	buo	0%
 般	pEn	0%
 舭	bi
 舯	dhung
@@ -16916,8 +16899,8 @@ use_preset_vocabulary: true
 芨	gi
 芩	kim
 芪	ki
-芫	iEn	51.28%
 芫	UEn	48.72%
+芫	iEn	51.28%
 芬	fen
 芭	ba
 芮	bing	0%
@@ -16934,8 +16917,8 @@ use_preset_vocabulary: true
 芵	gUE
 芶	gou
 芷	zh
-芸	i	0%
 芸	Uin	100%
+芸	i	0%
 芹	kin
 芺	yau
 芺	yiau
@@ -17005,8 +16988,8 @@ use_preset_vocabulary: true
 苲	zha
 苲	zuo
 苳	dong
-苴	zu
 苴	zU
+苴	zu
 苵	diE
 苶	nyiE
 苷	gEm
@@ -17135,8 +17118,8 @@ use_preset_vocabulary: true
 荡	dang
 荡	tang
 荣	rhong
-荤	huen
 荤	hUin
+荤	huen
 荥	hing	46.15%
 荦	luo
 荧	ing
@@ -17179,8 +17162,8 @@ use_preset_vocabulary: true
 莊	zhuang
 莋	zi
 莋	zuo
-莌	duo
 莌	duEi
+莌	duo
 莌	tuo
 莍	kiou
 莎	sha	99%
@@ -17242,8 +17225,8 @@ use_preset_vocabulary: true
 莾	mang
 莿	c
 菀	yU
-菀	yuEn
 菀	yUEn
+菀	yuEn
 菁	zing
 菂	di
 菃	kU
@@ -17253,13 +17236,13 @@ use_preset_vocabulary: true
 菆	zou
 菇	gu
 菈	la
-菉	lu
 菉	lU
+菉	lu
 菊	gUg
 菋	vEi
 菌	gUin
-菍	rhen
 菍	nyiEn
+菍	rhen
 菎	bi
 菎	kuen
 菏	ge
@@ -17302,15 +17285,14 @@ use_preset_vocabulary: true
 菰	gu
 菱	ling
 菲	fEi
-菳	gim
 菳	gEm
+菳	gim
 菳	kim
 菴	yEm
-𦹕	yEm
 菵	vang
 菶	bung
-菸	yiEn	88.89%
 菸	yU	11.11%
+菸	yiEn	88.89%
 菹	zU
 菹	zu
 菺	giEn
@@ -17325,8 +17307,8 @@ use_preset_vocabulary: true
 萃	cuEi
 萄	tau
 萅	chuen
-萆	bi
 萆	bEi
+萆	bi
 萇	thang
 萈	huEn
 萉	f
@@ -17364,8 +17346,8 @@ use_preset_vocabulary: true
 萪	ke
 萫	hiang
 萬	vEn
-萭	gU
 萭	U
+萭	gU
 萮	U
 萯	f
 萰	liEn
@@ -17447,8 +17429,8 @@ use_preset_vocabulary: true
 葬	zang
 葭	gia
 葮	duEn
-葯	yiau
 葯	yUE
+葯	yiau
 葰	suEi
 葰	zUin
 葱	cung
@@ -17460,8 +17442,8 @@ use_preset_vocabulary: true
 葵	guEi	0%
 葵	kuEi	100%
 葶	ting
-葷	huen	100%
 葷	hUin	0%
+葷	huen	100%
 葸	s
 葸	si
 葹	sh
@@ -17509,8 +17491,8 @@ use_preset_vocabulary: true
 蒡	bang
 蒡	pang
 蒢	thu
-蒣	shu
 蒣	sU
+蒣	shu
 蒤	tu
 蒥	liou
 蒦	huo
@@ -17561,8 +17543,8 @@ use_preset_vocabulary: true
 蓏	luo
 蓐	rhu
 蓑	suo
-蓒	hiEn
 蓒	hUEn
+蓒	hiEn
 蓓	bEi
 蓓	pEi
 蓔	iau
@@ -17609,12 +17591,12 @@ use_preset_vocabulary: true
 蓼	lug
 蓽	bi
 蓾	lu
-蓿	sug
 蓿	sUg
+蓿	sug
 蔀	bu
 蔁	zhang
-蔂	luo
 蔂	lEi
+蔂	luo
 蔃	giang
 蔃	kiang
 蔄	mEn
@@ -17633,8 +17615,8 @@ use_preset_vocabulary: true
 蔏	shang
 蔐	di
 蔑	miE
-蔒	huen
 蔒	hUin
+蔒	huen
 蔓	mEn	50%
 蔓	vEn	50%
 蔔	buog
@@ -17661,18 +17643,18 @@ use_preset_vocabulary: true
 蔦	nyiau
 蔧	huEi
 蔧	suEi
-蔨	gUin
 蔨	gUEn
-蔩	in
+蔨	gUin
 蔩	iEn
+蔩	in
 蔪	ziEm
-蔫	yiEn	0%
 蔫	nyiEn	100%
+蔫	yiEn	0%
 蔬	shu	100%
 蔬	su	0%
 蔭	yim
-蔮	guo
 蔮	guEi
+蔮	guo
 蔮	kuEi
 蔯	chen
 蔰	hu
@@ -17701,8 +17683,8 @@ use_preset_vocabulary: true
 蕅	ou
 蕆	thEn
 蕇	diEn
-蕈	sim
 蕈	sUim
+蕈	sim
 蕈	zUim
 蕉	ciau	0%
 蕉	ziau	100%
@@ -17757,8 +17739,8 @@ use_preset_vocabulary: true
 蕶	ling
 蕷	U
 蕸	hia
-蕹	yung
 蕹	yUong
+蕹	yung
 蕺	zi
 蕻	hung
 蕼	s
@@ -17811,8 +17793,8 @@ use_preset_vocabulary: true
 薟	liEm
 薠	fEn
 薡	ding
-薢	hiau
 薢	hiE
+薢	hiau
 薣	gu
 薤	hiE
 薥	shu
@@ -17831,8 +17813,8 @@ use_preset_vocabulary: true
 薱	duEi
 薲	pin
 薲	ping
-薳	uEi
 薳	UEn
+薳	uEi
 薴	neng
 薴	nying
 薵	thou
@@ -17857,8 +17839,8 @@ use_preset_vocabulary: true
 藅	fa
 藆	giEn
 藆	kiEn
-藇	sU
 藇	U
+藇	sU
 藈	guEi
 藈	kuEi
 藉	zi	39.42%
@@ -17867,8 +17849,8 @@ use_preset_vocabulary: true
 藋	di
 藋	diau
 藌	mi
-藍	la	0%
 藍	lEm	100%
+藍	la	0%
 藎	zin
 藏	cang	77.99%
 藏	zang	22.01%
@@ -17892,8 +17874,8 @@ use_preset_vocabulary: true
 藢	zh
 藣	bEi
 藤	teng
-藥	iau	100%
 藥	UE	0%
+藥	iau	100%
 藦	muo
 藧	huEn
 藨	biau
@@ -17907,11 +17889,11 @@ use_preset_vocabulary: true
 藰	liou
 藱	guEi
 藱	huEi
-藲	you
 藲	shu
+藲	you
 藳	gau
-藴	yuen
 藴	yUin
+藴	yuen
 藶	li
 藷	shu
 藷	zhu
@@ -17934,8 +17916,8 @@ use_preset_vocabulary: true
 蘇	su
 蘈	tuEi
 蘉	mang
-蘊	yuen	9.64%
 蘊	yUin	90.36%
+蘊	yuen	9.64%
 蘋	pin	1%
 蘋	ping	99%
 蘌	U
@@ -17979,8 +17961,8 @@ use_preset_vocabulary: true
 蘯	dang
 蘱	lEi
 蘲	lEi
-蘳	hua
 蘳	huEi
+蘳	hua
 蘴	fung
 蘵	zh
 蘶	nguEi
@@ -18040,9 +18022,9 @@ use_preset_vocabulary: true
 虥	zhEn
 虦	zhEn
 虧	kuEi
+虨	bEn
 虨	biau
 虨	bin
-虨	bEn
 虩	hi
 虪	shug
 虫	huEi	0%
@@ -18102,8 +18084,8 @@ use_preset_vocabulary: true
 蚖	UEn
 蚗	gUE
 蚘	huEi
-蚙	kin
 蚙	kiEn
+蚙	kin
 蚚	ki
 蚛	zhung
 蚜	ngia
@@ -18147,13 +18129,13 @@ use_preset_vocabulary: true
 蚺	rhEm
 蚺	tiEm
 蚻	zha
-蚼	gou
 蚼	gU
+蚼	gou
 蚼	kU
 蚽	pi
 蚾	buo
-蚿	hiEn
 蚿	hUEn
+蚿	hiEn
 蛀	zhu
 蛁	diau
 蛂	biE
@@ -18250,8 +18232,8 @@ use_preset_vocabulary: true
 蜋	lang
 蜋	liang
 蜌	bi
-蜍	chu
 蜍	U
+蜍	chu
 蜎	gUEn
 蜎	yUEn
 蜏	iou
@@ -18292,8 +18274,8 @@ use_preset_vocabulary: true
 蜫	kuen
 蜬	gEm
 蜬	hEm
-蜭	hiEm
 蜭	hEm
+蜭	hiEm
 蜮	U
 蜯	bang
 蜯	bong
@@ -18333,8 +18315,8 @@ use_preset_vocabulary: true
 蝎	he
 蝎	hiE
 蝏	ting
-蝐	mai
 蝐	mEi
+蝐	mai
 蝑	sU
 蝒	miEn
 蝓	U
@@ -18387,12 +18369,12 @@ use_preset_vocabulary: true
 蝺	kU
 蝻	nEm
 蝼	lou
-蝽	chuen
 蝽	chuEn
+蝽	chuen
 蝾	rhong
 螀	ziang
-螁	tuen
 螁	tuEi
+螁	tuen
 螂	lang
 螂	liang
 螃	bang
@@ -18529,8 +18511,8 @@ use_preset_vocabulary: true
 蟯	nau
 蟯	rhau
 蟰	siaug
-蟱	v
 蟱	mou
+蟱	v
 蟲	thung
 蟳	sUin
 蟴	s
@@ -18557,8 +18539,8 @@ use_preset_vocabulary: true
 蠆	thai
 蠇	li
 蠈	ze
-蠉	huEn
 蠉	hUEn
+蠉	huEn
 蠊	liEm
 蠋	dhu
 蠌	ze
@@ -18624,14 +18606,14 @@ use_preset_vocabulary: true
 蠾	shu
 蠿	zha
 蠿	zhuo
-血	hiE	4.91%
 血	hUE	95.09%
+血	hiE	4.91%
 衁	huang
-衂	nyiou
 衂	nyU
+衂	nyiou
 衃	pEi
-衄	nyioug
 衄	nyUg
+衄	nyioug
 衅	hin
 衆	zhung
 衇	mai
@@ -18654,8 +18636,8 @@ use_preset_vocabulary: true
 衖	hiang
 街	giE
 衘	hiEm
-衙	ngia	100%
 衙	ngU	0%
+衙	ngia	100%
 衚	hu
 衛	uEi
 衜	dau
@@ -18685,8 +18667,8 @@ use_preset_vocabulary: true
 衳	cong
 衳	zhong
 衴	dEm
-衵	rh
 衵	nyi
+衵	rh
 衶	zhung
 衷	dhung
 衸	giE
@@ -18750,15 +18732,15 @@ use_preset_vocabulary: true
 袦	na
 袧	gou
 袧	kou
-袨	hiEn
 袨	hUEn
+袨	hiEn
 袩	chEn
 袪	kU
 袪	kUE
 被	bEi	100%
 被	pi	0%
-袬	guen
 袬	U
+袬	guen
 袭	si
 袮	mi
 袮	nyi
@@ -18770,8 +18752,8 @@ use_preset_vocabulary: true
 袴	ku
 袵	rhem
 袶	giang
-袷	gia
 袷	giE
+袷	gia
 袷	he
 袸	cuen
 袹	muo
@@ -18794,8 +18776,8 @@ use_preset_vocabulary: true
 裊	nyiau
 裋	dou
 裋	shu
-裌	gia
 裌	giE
+裌	gia
 裍	kuen
 裎	theng
 裏	li
@@ -18826,8 +18808,8 @@ use_preset_vocabulary: true
 裦	bau
 裧	chEm
 裧	tEm
-裨	bi	50%
 裨	bEi
+裨	bi	50%
 裨	pi	50%
 裩	huEi
 裩	kuen
@@ -18859,8 +18841,8 @@ use_preset_vocabulary: true
 裼	ti	33.33%
 製	zh
 裾	gU
-裿	yi
 裿	ki
+裿	yi
 褀	ki
 褁	li
 褁	zh
@@ -18900,8 +18882,8 @@ use_preset_vocabulary: true
 褚	dhu	6.25%
 褚	thu	93.75%
 褛	lU
-褞	yuen
 褞	yUin
+褞	yuen
 褟	da
 褟	ta
 褠	gou
@@ -18911,14 +18893,14 @@ use_preset_vocabulary: true
 褤	UEn
 褥	rhu
 褦	nai
-褧	geng
 褧	gUong
+褧	geng
 褧	kUong
 褨	cha
 褨	suo
 褩	bEn
-褪	tuen	1.95%
 褪	tuEi	98.05%
+褪	tuen	1.95%
 褫	di
 褫	th
 褬	sang
@@ -18949,9 +18931,9 @@ use_preset_vocabulary: true
 襀	zi
 襁	kiang
 襂	cEn
+襂	sEn
 襂	sen
 襂	shEn
-襂	sEn
 襃	bau
 襄	siang
 襆	pug
@@ -18960,8 +18942,8 @@ use_preset_vocabulary: true
 襈	zhuEn
 襉	giEn
 襉	hiEn
-襊	cuo
 襊	cuEi
+襊	cuo
 襋	gi
 襋	la
 襌	dEn
@@ -18970,8 +18952,8 @@ use_preset_vocabulary: true
 襎	fEn
 襏	buo
 襐	siang
-襑	sim
 襑	sUim
+襑	sim
 襒	bi
 襒	biE
 襓	rhau
@@ -19042,8 +19024,8 @@ use_preset_vocabulary: true
 覍	biEn
 覎	yiEm
 規	guEi
-覐	giau
 覐	gUE
+覐	giau
 覑	piEn
 覒	mau
 覓	mi
@@ -19053,8 +19035,8 @@ use_preset_vocabulary: true
 覗	s
 覘	thEm
 覙	zhen
-覚	giau
 覚	gUE
+覚	giau
 覛	muo
 覜	tiau
 覝	liEm
@@ -19064,8 +19046,8 @@ use_preset_vocabulary: true
 覡	hi
 覡	u
 覢	shEm
-覣	yuo
 覣	yuEi
+覣	yuo
 覤	hi
 覤	she
 覥	miEn
@@ -19081,8 +19063,8 @@ use_preset_vocabulary: true
 覬	kai
 覬	ki
 覭	ming
-覮	ying
 覮	ping
+覮	ying
 覯	gou
 覰	cU
 覰	sU
@@ -19095,8 +19077,8 @@ use_preset_vocabulary: true
 覷	cU	100%
 覷	sU	0%
 覹	vEi
-覺	giau	21.83%
 覺	gUE	78.17%
+覺	giau	21.83%
 覻	cU
 覼	luo
 覽	lEm
@@ -19112,8 +19094,8 @@ use_preset_vocabulary: true
 视	sh
 觇	thEm
 览	lEm
-觉	giau	21.83%
 觉	gUE	78.17%
+觉	giau	21.83%
 觊	gi
 觋	hi
 觌	di
@@ -19121,8 +19103,8 @@ use_preset_vocabulary: true
 觏	gou
 觐	gin
 觑	cU
-角	giaug	80.82%
 角	gUEg	19.18%
+角	giaug	80.82%
 角	lug	0%
 觓	giou
 觓	kiou
@@ -19181,8 +19163,8 @@ use_preset_vocabulary: true
 觾	yiEn
 觿	gUEn
 觿	hi
-言	in	0%
 言	iEn	100%
+言	in	0%
 訂	ding
 訃	bu
 訃	f
@@ -19201,11 +19183,11 @@ use_preset_vocabulary: true
 訍	chai
 討	tau
 訏	hU
+訐	gEn
 訐	giE
 訐	giEn
-訐	gEn
-訑	i
 訑	dEn
+訑	i
 訒	rhen
 訓	hUin
 訔	in
@@ -19241,8 +19223,8 @@ use_preset_vocabulary: true
 訮	tiEn
 訯	sha
 訰	zhuen
-許	hu	0.01%
 許	hU	99.99%
+許	hu	0.01%
 訲	yi
 訳	i
 訴	su
@@ -19251,8 +19233,8 @@ use_preset_vocabulary: true
 訶	he	100%
 訷	shen
 訸	he
-訹	shu
 訹	sU
+訹	shu
 診	dhen
 註	dhu
 証	zheng
@@ -19326,8 +19308,8 @@ use_preset_vocabulary: true
 詶	zhou
 詷	dung
 詷	tung
-詸	mi
 詸	mEi
+詸	mi
 詹	zhEm
 詺	ming
 詻	e
@@ -19360,8 +19342,8 @@ use_preset_vocabulary: true
 誐	e
 誑	kuang
 誒	hi
-誒	yai
 誒	yEi
+誒	yai
 誒	yi
 誓	sh
 誔	ting
@@ -19376,7 +19358,6 @@ use_preset_vocabulary: true
 誛	cin
 誜	shua
 誝	yEm
-𧫥	yEm
 語	U
 誟	giau
 誟	hiau
@@ -19390,18 +19371,18 @@ use_preset_vocabulary: true
 誧	pu
 誨	huEi
 誩	ging
-說	shuo	99.87%
-說	shuEi	0.06%
 說	UE	0%
+說	shuEi	0.06%
+說	shuo	99.87%
 誫	chen
 誫	zhen
-説	shuo
-説	shuEi
 説	UE
+説	shuEi
+説	shuo
 読	du
 誯	chang
-誰	shuEi
 誰	shEi
+誰	shuEi
 誱	ziE
 課	ke
 誳	chu
@@ -19411,16 +19392,16 @@ use_preset_vocabulary: true
 誵	hiau
 誶	suEi
 誷	vang
-誸	hiEn
 誸	hUEn
+誸	hiEn
 誹	fEi
 誺	lai
 誺	th
 誻	ta
 誼	ngi
 誽	na
-誾	in
 誾	iEn
+誾	in
 調	diau	30.33%
 調	tiau	69.67%
 諀	pi
@@ -19452,8 +19433,8 @@ use_preset_vocabulary: true
 諕	hia
 諕	hu
 論	luen
-諗	shem
 諗	nyiEm
+諗	shem
 諘	biau
 諙	huai
 諙	huen
@@ -19464,8 +19445,8 @@ use_preset_vocabulary: true
 諟	sh
 諠	hUEn
 諡	sh
-諢	huen
 諢	huEi
+諢	huen
 諣	gua
 諣	hua
 諤	e
@@ -19483,8 +19464,8 @@ use_preset_vocabulary: true
 諰	s
 諰	si
 諱	huEi
-諲	yin
 諲	yiEn
+諲	yin
 諳	yEm
 諴	hiEm
 諵	nEm
@@ -19496,8 +19477,8 @@ use_preset_vocabulary: true
 諺	iEn
 諻	heng
 諻	huang
-諼	huEn
 諼	hUEn
+諼	huEn
 諼	shuEn
 諽	ge
 諾	nuo
@@ -19523,8 +19504,8 @@ use_preset_vocabulary: true
 謋	huo
 謌	ge
 謍	ying
-謎	mi	100%
 謎	mEi	0%
+謎	mi	100%
 謏	siaug
 謏	soug
 謐	bi
@@ -19542,8 +19523,8 @@ use_preset_vocabulary: true
 謗	bang
 謘	th
 謙	kiEm
-謚	yi	0%
 謚	sh	100%
+謚	yi	0%
 講	giang
 謜	UEn
 謝	siE
@@ -19554,8 +19535,8 @@ use_preset_vocabulary: true
 謡	iau
 謢	hu
 謢	zh
-謣	hU
 謣	U
+謣	hU
 謤	biau
 謥	cung
 謦	king
@@ -19574,8 +19555,8 @@ use_preset_vocabulary: true
 謯	zhu
 謰	liEn
 謱	lou
-謲	chem
 謲	cEm
+謲	chem
 謲	sEm
 謲	zau
 謳	you
@@ -19649,8 +19630,8 @@ use_preset_vocabulary: true
 譬	pi
 譭	huEi
 譮	hiE
-譮	hua
 譮	huEi
+譮	hua
 譯	i
 議	i
 譱	shEn
@@ -19673,8 +19654,8 @@ use_preset_vocabulary: true
 讀	dug	99.99%
 讁	dhe
 讁	di
-讂	hUEn
 讂	gUEn
+讂	hUEn
 讃	zEn
 讄	lEi
 讅	shen
@@ -19693,8 +19674,8 @@ use_preset_vocabulary: true
 讓	rhang
 讔	yin
 讕	lEn
-讖	chem
 讖	chEm
+讖	chem
 讖	ciEm
 讗	guo
 讗	hi
@@ -19788,12 +19769,12 @@ use_preset_vocabulary: true
 诱	iou
 诲	huEi
 诳	kuang
-说	shuo	99.87%
 说	shuEi	0.06%
+说	shuo	99.87%
 诵	song
 诶	hi
-诶	yai
 诶	yEi
+诶	yai
 诶	yi
 请	cing
 诸	zhu
@@ -19859,8 +19840,8 @@ use_preset_vocabulary: true
 谴	kiEn
 谵	zhEn
 谶	chen
-谷	gug	99.93%
 谷	Ug	0.07%
+谷	gug	99.93%
 谸	ciEn
 谹	hong
 谺	hia
@@ -19937,8 +19918,8 @@ use_preset_vocabulary: true
 豰	gug
 豰	hug
 豱	yuen
-豲	huEn
 豲	UEn
+豲	huEn
 豳	bin
 豴	di
 豴	zh
@@ -19948,8 +19929,8 @@ use_preset_vocabulary: true
 豸	dh
 豹	bau
 豺	chai
-豻	hEn
 豻	En
+豻	hEn
 豼	bi
 豼	pi
 豽	na
@@ -19963,8 +19944,8 @@ use_preset_vocabulary: true
 貃	muo
 貄	s
 貅	hiou
-貆	huEn
 貆	UEn
+貆	huEn
 貇	ken
 貈	ge
 貈	hau
@@ -19977,8 +19958,8 @@ use_preset_vocabulary: true
 貉	muo	0%
 貊	buo
 貊	muo
-貋	hEn
 貋	En
+貋	hEn
 貌	mau
 貍	li
 貎	nyi
@@ -19992,8 +19973,8 @@ use_preset_vocabulary: true
 貕	hi
 貖	yi
 貗	gU
-貗	lou
 貗	lU
+貗	lou
 貘	muo
 貙	thu
 貚	tEn
@@ -20001,8 +19982,8 @@ use_preset_vocabulary: true
 貜	gUE
 貝	bEi
 貞	dhen
-貟	Uin
 貟	UEn
+貟	Uin
 負	f
 財	cai
 貢	gung
@@ -20057,8 +20038,8 @@ use_preset_vocabulary: true
 賈	gia	99.73%
 賈	gu	0.27%
 賉	sU
-賊	ze	0%
 賊	zEi	100%
+賊	ze	0%
 賋	giau
 賌	gai
 賍	zang
@@ -20116,8 +20097,8 @@ use_preset_vocabulary: true
 賿	liau
 贀	i
 贁	bai
-贂	chen
 贂	cEn
+贂	chen
 贃	yuEn
 贄	zh
 贅	zhuEi
@@ -20127,8 +20108,8 @@ use_preset_vocabulary: true
 贉	dEm
 贉	tEm
 贊	zEn
-贋	ing
 贋	iEn
+贋	ing
 贍	shEm	100%
 贍	zhEm	0%
 贎	vEn
@@ -20143,8 +20124,8 @@ use_preset_vocabulary: true
 贗	ngiEn
 贙	hUEn
 贚	long
-贛	gung	0%
 贛	gEm	100%
+贛	gung	0%
 贜	zang
 贝	bEi
 贞	dhen
@@ -20241,9 +20222,8 @@ use_preset_vocabulary: true
 赸	shEn
 赹	gUin
 赹	kUong
-赺	ngim
 赺	kim
-𧾏	kim
+赺	ngim
 赻	chau
 赻	siEn
 赼	z
@@ -20255,8 +20235,8 @@ use_preset_vocabulary: true
 趁	then
 趂	chen
 趃	diE
-趄	ciE
 趄	cU
+趄	ciE
 趄	zU
 超	thau
 趆	di
@@ -20265,8 +20245,8 @@ use_preset_vocabulary: true
 趉	chu
 趉	zhu
 越	UE
-趋	cu
 趋	cU
+趋	cu
 趌	gi
 趌	giE
 趍	th
@@ -20293,14 +20273,14 @@ use_preset_vocabulary: true
 趠	thuo
 趡	cuEi
 趢	lug
-趣	cu	0%
 趣	cU	100%
+趣	cu	0%
 趤	dang
 趥	ciou
 趦	z
 趧	ti
-趨	cu	0%
 趨	cU	100%
+趨	cu	0%
 趩	th
 趪	huang
 趫	kiau
@@ -20309,8 +20289,8 @@ use_preset_vocabulary: true
 趭	iau
 趭	ziau
 趮	zau
-趯	ti
 趯	UE
+趯	ti
 趱	zEn
 趲	zEn
 足	zU	0%
@@ -20345,8 +20325,8 @@ use_preset_vocabulary: true
 跆	tai
 跇	i
 跇	th
-跈	tiEn
 跈	nyiEn
+跈	tiEn
 跉	ling
 跊	mEi
 跋	ba
@@ -20421,8 +20401,8 @@ use_preset_vocabulary: true
 踄	buo
 踅	ch
 踅	sUE
-踆	cuen
 踆	cUin
+踆	cuen
 踆	zUin
 踇	mou
 踇	mu
@@ -20431,15 +20411,15 @@ use_preset_vocabulary: true
 踉	lang
 踉	liang
 踊	Uong
-踋	giau
 踋	gUE
+踋	giau
 踌	thou
 踍	kiau
 踏	ta
 踐	ziEn
 踑	ki
-踒	yuo
 踒	yuEi
+踒	yuo
 踓	cuEi
 踓	uEi
 踔	thuo
@@ -20474,8 +20454,8 @@ use_preset_vocabulary: true
 踨	zong
 踩	cai
 踪	zong
-踫	peng
 踫	pEn
+踫	peng
 踬	dh
 踮	diEm
 踯	dh
@@ -20484,15 +20464,15 @@ use_preset_vocabulary: true
 踱	duo	100%
 踲	duen
 踲	tuen
-踳	chuen
 踳	chuEn
+踳	chuen
 踴	Uong
 踵	zhong
 踶	di
 踷	zha
 踸	them
-踹	chuai	100%
 踹	chuEn	0%
+踹	chuai	100%
 踹	shuEn	0%
 踺	giEn
 踻	gua
@@ -20522,8 +20502,8 @@ use_preset_vocabulary: true
 蹎	diEn
 蹏	ti
 蹐	zi
-蹑	she
 蹑	nyiE
+蹑	she
 蹒	pEn
 蹓	liou
 蹔	zhEm
@@ -20548,8 +20528,8 @@ use_preset_vocabulary: true
 蹥	liEn
 蹦	beng
 蹧	zau
-蹨	rhEn
 蹨	nyiEn
+蹨	rhEn
 蹩	biE
 蹪	tuEi
 蹫	gU
@@ -20570,8 +20550,8 @@ use_preset_vocabulary: true
 蹸	lin
 蹹	ta
 蹺	kiau
-蹻	giau
 蹻	gUE
+蹻	giau
 蹻	kiau
 蹼	pug
 蹿	cuEn
@@ -20589,8 +20569,8 @@ use_preset_vocabulary: true
 躊	thou
 躋	zi
 躌	v
-躍	iau
 躍	UE
+躍	iau
 躎	nyiEn
 躏	lin
 躐	liE
@@ -20612,8 +20592,8 @@ use_preset_vocabulary: true
 躟	rhang
 躠	sa
 躠	siE
-躡	she
 躡	nyiE
+躡	she
 躢	ta
 躣	kU
 躤	zi
@@ -20657,8 +20637,8 @@ use_preset_vocabulary: true
 軌	guEi
 軍	gUin
 軎	uEi
-軏	ngu
 軏	ngUE
+軏	ngu
 軐	siEn
 軑	dai
 軑	di
@@ -20678,8 +20658,8 @@ use_preset_vocabulary: true
 軞	mau
 軟	rhuEn
 軠	rhen
-軡	kin
 軡	kiEn
+軡	kin
 転	zhuEn
 軤	hu
 軥	gU
@@ -20704,7 +20684,6 @@ use_preset_vocabulary: true
 軵	f
 軵	rhong
 軶	ye
-𩉴	ye
 軷	ba
 軷	buo
 軸	dhoug
@@ -20720,8 +20699,8 @@ use_preset_vocabulary: true
 輁	gong
 輁	kUong
 輂	gU
-較	giau	100%
 較	gUE	0%
+較	giau	100%
 輄	guang
 輅	lu
 輅	luo
@@ -20757,8 +20736,8 @@ use_preset_vocabulary: true
 輡	kEm
 輢	yi
 輣	peng
-輤	cing
 輤	ciEn
+輤	cing
 輥	guen
 輦	nyiEn
 輧	ping
@@ -20911,8 +20890,8 @@ use_preset_vocabulary: true
 辱	rhu
 農	nong
 辳	nong
-辴	dhen
 辴	dhEn
+辴	dhen
 辵	thuo
 辶	thuo
 辸	rheng
@@ -20928,7 +20907,6 @@ use_preset_vocabulary: true
 迁	ciEn
 迂	U
 迃	U
-𨑛	U
 迄	ki
 迅	sUin
 迆	i
@@ -20957,8 +20935,8 @@ use_preset_vocabulary: true
 还	hai	98.01%
 还	huEn	1.99%
 还	sUEn	0%
-这	zhe	98.59%
 这	zhEi	1.41%
+这	zhe	98.59%
 进	zin
 远	UEn
 违	uEi
@@ -20981,15 +20959,15 @@ use_preset_vocabulary: true
 迪	di
 迫	pai	1%
 迫	puo	99%
-迬	zhu
 迬	uang
+迬	zhu
 迭	diE
 迮	ze
 迮	zuo
 迯	tau
 述	shu
-迱	tuo
 迱	i
+迱	tuo
 迳	ging
 迴	huEi
 迵	tung
@@ -21036,8 +21014,8 @@ use_preset_vocabulary: true
 逗	dou
 逘	ngi
 逘	s
-這	zhe	98.59%
 這	zhEi	1.41%
+這	zhe	98.59%
 通	tung
 逛	guang
 逜	ngu
@@ -21088,8 +21066,8 @@ use_preset_vocabulary: true
 遀	suEi
 遁	duen
 遂	suEi
-遃	iEn
 遃	En
+遃	iEn
 遄	chuEn
 遄	tuEn
 遅	ch
@@ -21117,8 +21095,8 @@ use_preset_vocabulary: true
 遙	iau
 遚	chou
 遛	liou
-遜	suen
 遜	sUin
+遜	suen
 遝	ta
 遞	di
 遟	dh
@@ -21161,14 +21139,14 @@ use_preset_vocabulary: true
 遼	liau
 遽	gU
 遾	sh
-避	bi	100%
 避	bEi	0%
+避	bi	100%
 邀	yiau
 邁	mai
 邂	hiE
 邃	suEi
-還	hai	98.01%
 還	hUEn	0%
+還	hai	98.01%
 還	huEn	1.99%
 邅	dhEn
 邅	tEn
@@ -21207,21 +21185,21 @@ use_preset_vocabulary: true
 邠	fen
 邡	fang
 邢	hing
+那	nEi	0.31%
 那	na	99.69%
 那	ne	0%
 那	nuo	0%
-那	nEi	0.31%
 邤	hin
 邥	shem
 邦	bang
 邧	UEn
 邨	cuen
 邩	huo
-邪	iE	0.72%
-邪	sia	0%
-邪	siE	99.28%
-邪	sU	0%
 邪	U	0%
+邪	iE	0.72%
+邪	sU	0%
+邪	siE	99.28%
+邪	sia	0%
 邫	bang
 邬	yu
 邭	gU
@@ -21230,8 +21208,8 @@ use_preset_vocabulary: true
 邰	tai
 邱	kiou
 邲	bi
-邳	pi
 邳	pEi
+邳	pi
 邴	bing
 邵	shau
 邶	bEi
@@ -21290,10 +21268,10 @@ use_preset_vocabulary: true
 郦	li
 郧	Uin
 部	bu
-郩	yau
 郩	hiau
-郩	yiau
 郩	yU
+郩	yau
+郩	yiau
 郪	ci
 郫	pi
 郬	cing
@@ -21311,8 +21289,8 @@ use_preset_vocabulary: true
 郷	hiang
 郸	dEn
 郹	gU
-郺	yung
 郺	yUong
+郺	yung
 郻	kiau
 郼	yi
 郼	yuEi
@@ -21355,8 +21333,8 @@ use_preset_vocabulary: true
 鄝	liau
 鄞	in
 鄟	zhuEn
-鄠	hu
 鄠	U
+鄠	hu
 鄡	hiau
 鄡	kiau
 鄢	yiEn
@@ -21411,8 +21389,8 @@ use_preset_vocabulary: true
 酎	dhou
 酏	i
 酐	gEn
-酐	hang
 酐	hEn
+酐	hang
 酑	U
 酒	ziou
 酓	yiEm
@@ -21490,11 +21468,11 @@ use_preset_vocabulary: true
 醑	sU
 醒	sing
 醓	tEm
-醔	ciou
 醔	chiou
+醔	ciou
 醕	chuen
-醖	yuen
 醖	yUin
+醖	yuen
 醘	ke
 醙	sou
 醚	mi
@@ -21502,16 +21480,16 @@ use_preset_vocabulary: true
 醜	chou
 醝	cuo
 醞	yUin
-醟	ing
 醟	Uong
+醟	ing
 醠	yang
 醡	zha
 醢	hai
 醣	tang
 醥	piau
 醦	chEm
-醧	you
 醧	yU
+醧	you
 醨	li
 醩	zau
 醪	lau
@@ -21541,8 +21519,8 @@ use_preset_vocabulary: true
 醿	mi
 釀	nyiang
 釁	hin
-釂	ziau
 釂	zUE
+釂	ziau
 釃	li	50%
 釃	sh	50%
 釄	mi
@@ -21579,8 +21557,8 @@ use_preset_vocabulary: true
 針	zhem
 釞	zh
 釟	ba
-釠	luEn
 釠	lEn
+釠	luEn
 釢	nai
 釣	diau
 釤	shEm
@@ -21642,8 +21620,8 @@ use_preset_vocabulary: true
 鈎	gou
 鈏	in
 鈐	gim
-鈐	kim
 鈐	kiEm
+鈐	kim
 鈑	bEn
 鈒	zi
 鈓	rhen
@@ -21651,8 +21629,8 @@ use_preset_vocabulary: true
 鈕	nyiou
 鈖	fen
 鈗	Uin
-鈘	ngi
 鈘	gi
+鈘	ngi
 鈙	hU
 鈙	kim
 鈙	shu
@@ -21703,8 +21681,8 @@ use_preset_vocabulary: true
 鉃	zu
 鉄	tiE
 鉅	gU
-鉆	zhem
 鉆	zhEm
+鉆	zhem
 鉇	she
 鉇	ta
 鉇	tuo
@@ -21746,10 +21724,10 @@ use_preset_vocabulary: true
 鉥	shu
 鉦	zheng
 鉧	mu
-鉨	si
 鉨	nyi
-鉩	si
+鉨	si
 鉩	nyiE
+鉩	si
 鉪	dai
 鉪	tai
 鉫	gia
@@ -21869,10 +21847,10 @@ use_preset_vocabulary: true
 鋌	ting
 鋍	buo
 鋍	pu
-鋎	huEn
 鋎	hEn
-鋏	gia
+鋎	huEn
 鋏	giE
+鋏	gia
 鋐	hong
 鋑	cuEn
 鋑	zUEn
@@ -21893,8 +21871,8 @@ use_preset_vocabulary: true
 鋝	lUE
 鋞	ging
 鋞	hing
-鋟	cim
 鋟	ciEm
+鋟	cim
 鋠	chen
 鋠	shen
 鋡	hEm
@@ -21904,8 +21882,8 @@ use_preset_vocabulary: true
 鋥	dheng
 鋦	gU
 鋧	hiEn
-鋨	tiE
 鋨	nge
+鋨	tiE
 鋩	mang
 鋪	pu
 鋫	li
@@ -21920,8 +21898,8 @@ use_preset_vocabulary: true
 鋷	zuEi
 鋸	gU
 鋹	thang
-鋺	yuEn
 鋺	yUEn
+鋺	yuEn
 鋻	giEn
 鋼	gang
 鋽	diau
@@ -21937,8 +21915,8 @@ use_preset_vocabulary: true
 錅	li
 錆	ciang
 錆	cing
-錇	pou
 錇	pEi
+錇	pou
 錈	gUEn
 錉	min
 錊	zu
@@ -21957,8 +21935,8 @@ use_preset_vocabulary: true
 錔	ta
 錕	kuen
 錖	du
-錗	nEi
 錗	dhuEi
+錗	nEi
 錗	uEi
 錘	thuEi
 錙	z
@@ -22102,9 +22080,9 @@ use_preset_vocabulary: true
 鎏	liou
 鎐	iaug
 鎐	zug
+鎑	geb
 鎑	iEb
 鎑	tab
-鎑	geb
 鎒	nou
 鎓	yung
 鎔	rhong
@@ -22177,8 +22155,8 @@ use_preset_vocabulary: true
 鏐	liou
 鏑	di
 鏑	zhe
-鏒	ciau
 鏒	cEn
+鏒	ciau
 鏒	sEn
 鏓	cung
 鏔	i
@@ -22200,15 +22178,15 @@ use_preset_vocabulary: true
 鏡	ging
 鏢	biau
 鏣	shu
-鏤	lou
 鏤	lU
+鏤	lou
 鏥	siou
 鏦	cong
 鏧	long
 鏨	zEm
 鏩	chEn
-鏩	ziEn
 鏩	zEn
+鏩	ziEn
 鏪	cau
 鏫	li
 鏬	hia
@@ -22244,8 +22222,8 @@ use_preset_vocabulary: true
 鐆	suEi
 鐇	fEn
 鐈	kiau
-鐉	chuEn
 鐉	cUEn
+鐉	chuEn
 鐉	zhuEn
 鐊	iang
 鐋	tang
@@ -22258,8 +22236,8 @@ use_preset_vocabulary: true
 鐑	giE
 鐑	ki
 鐒	lau
-鐓	duen
 鐓	duEi
+鐓	duen
 鐔	him
 鐕	zEm
 鐖	gi
@@ -22268,8 +22246,8 @@ use_preset_vocabulary: true
 鐙	deng
 鐚	yia
 鐛	ying
-鐜	duen
 鐜	duEi
+鐜	duen
 鐝	gUE
 鐞	nou
 鐟	ti
@@ -22360,8 +22338,8 @@ use_preset_vocabulary: true
 鑮	buo
 鑯	ciEm
 鑯	ziEm
-鑰	iau	91.40%
 鑰	UE	8.60%
+鑰	iau	91.40%
 鑱	chEm
 鑲	siang
 鑳	giEn
@@ -22412,8 +22390,8 @@ use_preset_vocabulary: true
 钢	gang
 钣	bEn
 钤	kiEm
-钥	iau	91.40%
 钥	UE	8.60%
+钥	iau	91.40%
 钦	kin
 钧	gUin
 钨	yu
@@ -22507,8 +22485,8 @@ use_preset_vocabulary: true
 锄	chu
 锅	guo
 锆	gau
-锇	tiE
 锇	nge
+锇	tiE
 锈	siou
 锉	cuo
 锊	lUE
@@ -22687,9 +22665,9 @@ use_preset_vocabulary: true
 閺	min
 閺	ven
 閻	iEm
+閼	yU
 閼	ye
 閼	yiEn
-閼	yU
 閽	huen
 閾	Ug
 閿	ven
@@ -22700,7 +22678,6 @@ use_preset_vocabulary: true
 闃	kU
 闄	yiau
 闅	ven
-𨳶	ven
 闆	bEn
 闆	pEn
 闇	yEm
@@ -22794,16 +22771,16 @@ use_preset_vocabulary: true
 阝	f
 阞	le
 队	duEi
+阠	sUin
 阠	shen
 阠	sin
-阠	sUin
 阡	ciEn
 阢	ngu
 阣	gai
 阣	ngid
 阤	tuo
-阥	yim
 阥	yEm
+阥	yim
 阦	iang
 阧	dou
 阧	tu
@@ -22811,8 +22788,8 @@ use_preset_vocabulary: true
 阩	sheng
 阪	bEn
 阫	bEi
-阫	pi
 阫	pEi
+阫	pi
 阬	kang
 阬	keng
 阭	Uin
@@ -22822,8 +22799,8 @@ use_preset_vocabulary: true
 阱	zing
 防	fang
 阳	iang
-阴	yin
 阴	yEn
+阴	yin
 阵	dhen
 阶	giE
 阷	cheng
@@ -22863,8 +22840,8 @@ use_preset_vocabulary: true
 限	hiEn
 陑	er
 陒	guEi
-陓	yu
 陓	yU
+陓	yu
 陔	gai
 陔	hai
 陕	hia
@@ -22900,8 +22877,8 @@ use_preset_vocabulary: true
 陭	yi
 陮	duEi
 陯	luen
-陰	yim	100%
 陰	yEm	0%
+陰	yim	100%
 陱	gU
 陲	chuEi
 陳	dhen	0%
@@ -22915,8 +22892,8 @@ use_preset_vocabulary: true
 陸	lug	93.75%
 陹	sheng
 険	hiEn
-陻	yin
 陻	yiEn
+陻	yin
 陼	zhu
 陽	iang
 陾	rheng
@@ -22924,20 +22901,20 @@ use_preset_vocabulary: true
 隀	chong
 隁	yiEn
 隂	yim
-隃	iau
 隃	U
+隃	iau
 隄	di
 隄	ti
-隅	ou
 隅	U
+隅	ou
 隆	lung
 隇	yuEi
 隈	yuEi
 隉	nyiE
 隊	duEi
 隋	suEi
-隌	yiEm
 隌	yEm
+隌	yiEm
 隍	huang
 階	giE
 随	suEi
@@ -22950,9 +22927,9 @@ use_preset_vocabulary: true
 隓	huEi
 隔	ge	100%
 隔	giE	0%
-隕	suen	0%
-隕	Uin	100%
 隕	UEn	0%
+隕	Uin	100%
+隕	suen	0%
 隖	yu
 隗	nguEi
 隘	yai
@@ -22975,8 +22952,8 @@ use_preset_vocabulary: true
 隦	pi
 隧	suEi
 隨	suEi
-隩	yaug
 隩	yUg
+隩	yaug
 險	hiEm
 隫	fen
 隬	nyi
@@ -23001,27 +22978,27 @@ use_preset_vocabulary: true
 隻	zh
 隼	suen	100%
 隼	zhuen	0%
-隽	zUin	66.27%
 隽	zUEn	33.73%
+隽	zUin	66.27%
 难	nEn
 隿	i
-雀	ciau	0.21%
 雀	cUE	99.79%
+雀	ciau	0.21%
 雁	iEn
-雂	kim
 雂	kiEm
-雃	ngia
+雂	kim
 雃	kiEn
-雄	hUng
+雃	ngia
 雄	Ung
+雄	hUng
 雅	ngia
 集	zi
 雇	gu
 雈	huEn
 雉	dh
 雊	gou
-雋	zUin	66.27%
 雋	zUEn	33.73%
+雋	zUin	66.27%
 雌	c
 雍	yUong
 雎	suEi
@@ -23049,8 +23026,8 @@ use_preset_vocabulary: true
 雠	chou
 雡	liou
 離	li
-難	nuo	0%
 難	nEn	100%
+難	nuo	0%
 雤	hUE
 雥	za
 雦	zi
@@ -23071,19 +23048,19 @@ use_preset_vocabulary: true
 雴	th
 雵	yang
 雵	yiang
-零	ling	100%
 零	liEn	0%
+零	ling	100%
 雷	lEi
 雸	ngEm
 雹	bau
 雹	buo
-雺	v
 雺	mung
+雺	v
 電	diEn
 雼	dang
+雽	U
 雽	hang
 雽	hu
-雽	U
 雾	v
 雿	zhau
 需	nuo	0%
@@ -23113,8 +23090,8 @@ use_preset_vocabulary: true
 霔	zhu
 霕	tuen
 霖	lim
-霗	ling
 霗	liEn
+霗	ling
 霘	dung
 霙	ying
 霚	v
@@ -23141,8 +23118,8 @@ use_preset_vocabulary: true
 霭	yai
 霮	dEn
 霯	deng
-霰	siEn
 霰	sEn
+霰	siEn
 霱	U
 露	lou	34.39%
 露	lu	65.61%
@@ -23189,8 +23166,8 @@ use_preset_vocabulary: true
 靚	ciEn	0%
 靚	liang	99.15%
 靚	zing	0.85%
-靛	ding
 靛	diEn
+靛	ding
 靜	zing
 靝	tiEn
 非	fEi
@@ -23211,8 +23188,8 @@ use_preset_vocabulary: true
 革	gi	1.46%
 靪	ding
 靫	chai
-靬	giEn
 靬	gEn
+靬	giEn
 靭	rhen
 靮	di
 靯	du
@@ -23229,8 +23206,8 @@ use_preset_vocabulary: true
 靹	na
 靺	muo
 靻	zu
-靼	da
 靼	dEn
+靼	da
 靽	bEn
 靾	i
 靿	yiau
@@ -23339,8 +23316,8 @@ use_preset_vocabulary: true
 韕	chuen
 韖	rhou
 韗	Uin
-韘	siEb
 韘	sheb
+韘	siEb
 韙	uEi
 韚	ge
 韛	f
@@ -23401,7 +23378,6 @@ use_preset_vocabulary: true
 頉	i
 頊	hU
 頋	nge
-頋	nge
 頌	rhong	0%
 頌	song	100%
 頍	kuEi
@@ -23409,13 +23385,12 @@ use_preset_vocabulary: true
 頏	hang
 預	U
 頑	nguEn
-䪲	ngu
 頒	bEn
 頓	du	1.36%
 頓	duen	98.64%
 頔	di
-頕	diEm
 頕	dEm
+頕	diEm
 頖	pEn
 頗	puo
 領	ling
@@ -23423,15 +23398,15 @@ use_preset_vocabulary: true
 頚	ging
 頛	lEi
 頜	ge
-頜	he	91.01%
 頜	hEm
+頜	he	91.01%
 頝	giau
 頝	kiau
 頞	ye
 頟	e
 頠	nguEi
-頡	gia	0%
 頡	giE	95.52%
+頡	gia	0%
 頡	hiE	4.48%
 頢	kuo
 頣	shen
@@ -23440,8 +23415,8 @@ use_preset_vocabulary: true
 頦	hai
 頦	ke
 頧	duEi
-頨	piEn
 頨	U
+頨	piEn
 頩	ping
 頪	lEi
 頫	f
@@ -23472,14 +23447,14 @@ use_preset_vocabulary: true
 顀	thuEi
 顁	ding
 顂	lai
-顃	tiEm
 顃	iEm
+顃	tiEm
 顄	hEm
 顅	kiEn
 顆	ke
 顇	cuEi
-顈	hiEn
 顈	gUong
+顈	hiEn
 顉	iE
 顉	kim
 顊	i
@@ -23522,8 +23497,8 @@ use_preset_vocabulary: true
 顦	ciau
 顦	ziau
 顧	gu
-顨	suen
 顨	sUin
+顨	suen
 顩	iEm
 顩	kiEm
 顪	huEi
@@ -23536,8 +23511,8 @@ use_preset_vocabulary: true
 顯	hiEn
 顰	pin
 顱	lu
-顲	lim
 顲	lEm
+顲	lim
 顳	nyiE
 顴	kUEn
 页	iE
@@ -23704,8 +23679,8 @@ use_preset_vocabulary: true
 餒	nEi
 餓	e
 餔	bu
-餕	zuen
 餕	zUin
+餕	zuen
 餖	dou
 餗	sug
 餘	U
@@ -23731,8 +23706,8 @@ use_preset_vocabulary: true
 館	guEn
 餩	ye
 餪	nuEn
-餫	huen
 餫	Uin
+餫	huen
 餬	hu
 餭	huang
 餮	tiE
@@ -23741,8 +23716,8 @@ use_preset_vocabulary: true
 餯	huEi
 餰	giEn
 餱	hou
-餲	yai
 餲	he
+餲	yai
 餳	sing
 餳	tang
 餴	fen
@@ -23750,7 +23725,6 @@ use_preset_vocabulary: true
 餶	gu
 餷	cha
 餸	sung
-𩠌	sung
 餹	tang
 餺	buo
 餻	gau
@@ -23764,8 +23738,8 @@ use_preset_vocabulary: true
 饄	tang
 饅	mEn
 饆	bi
-饇	you
 饇	yU
+饇	you
 饈	siou
 饉	gin
 饊	sEn
@@ -23855,8 +23829,8 @@ use_preset_vocabulary: true
 馠	hEm
 馡	fEi
 馢	ziEn
-馣	yiEm
 馣	yEm
+馣	yiEm
 馤	yai
 馥	fug
 馦	giEm
@@ -23879,8 +23853,8 @@ use_preset_vocabulary: true
 馲	dhe
 馲	tuo
 馳	th
-馴	shuen	0%
 馴	sUin	100%
+馴	shuen	0%
 馵	zhu
 馶	zh
 馷	pEi
@@ -23888,9 +23862,9 @@ use_preset_vocabulary: true
 馸	hin
 馹	rh
 馺	sa
-馻	in
-馻	iEn
 馻	Uin
+馻	iEn
+馻	in
 馼	ven
 馽	zh
 馾	dEm
@@ -23940,8 +23914,8 @@ use_preset_vocabulary: true
 駥	rhung
 駦	teng
 駧	dung
-駨	sUin
 駨	sUEn
+駨	sUin
 駩	cUEn
 駪	shen
 駪	siEn
@@ -23995,9 +23969,6 @@ use_preset_vocabulary: true
 騔	ge
 騕	yiau
 騖	v
-𩥦	v
-𩥎	v
-𩤝	v
 騗	piEn
 騘	cung
 騙	piEn
@@ -24071,9 +24042,6 @@ use_preset_vocabulary: true
 驕	giau
 驖	tiE
 驗	ngiEm
-𣄝	ngiEm
-𩤼	ngiEm
-𩥾	ngiEm
 驘	luo
 驙	dhEn
 驚	ging
@@ -24317,8 +24285,8 @@ use_preset_vocabulary: true
 鬱	yUd
 鬲	ge	50%
 鬲	li	50%
-鬳	ge
 鬳	gUEn
+鬳	ge
 鬴	ge
 鬴	li
 鬵	ciEm
@@ -24354,8 +24322,8 @@ use_preset_vocabulary: true
 魍	vang
 魎	liang
 魏	nguEi
-魐	giEm
 魐	gEm
+魐	giEm
 魑	li
 魑	th
 魒	piau
@@ -24487,8 +24455,8 @@ use_preset_vocabulary: true
 鯂	su
 鯃	ngu
 鯄	kiou
-鯅	shen
 鯅	shEn
+鯅	shen
 鯆	bu
 鯆	f
 鯇	huEn
@@ -24587,8 +24555,8 @@ use_preset_vocabulary: true
 鰧	teng
 鰨	ta
 鰩	iau
-鰪	ye
 鰪	ge
+鰪	ye
 鰫	rhong
 鰬	kiEn
 鰭	ki
@@ -24616,14 +24584,14 @@ use_preset_vocabulary: true
 鱂	chang
 鱃	ciou
 鱄	zhuEn
-鱅	rhong
 鱅	Uong
+鱅	rhong
 鱆	zhang
 鱇	kang
 鱈	sUE
 鱉	biE
-鱊	gUE
 鱊	U
+鱊	gUE
 鱋	kU
 鱌	siang
 鱍	buo
@@ -24820,8 +24788,8 @@ use_preset_vocabulary: true
 鴤	zhung
 鴥	Ud
 鴦	yiang
-鴧	rhong
 鴧	Ud
+鴧	rhong
 鴨	yia
 鴩	diEd
 鴪	Ud
@@ -24831,8 +24799,8 @@ use_preset_vocabulary: true
 鴰	gua
 鴱	ai
 鴲	zh
-鴳	yiEn
 鴳	yEn
+鴳	yiEn
 鴴	heng
 鴵	giau
 鴵	hiau
@@ -24866,8 +24834,8 @@ use_preset_vocabulary: true
 鵒	U
 鵓	buo
 鵔	zUin
-鵕	zuen
 鵕	zUin
+鵕	zuen
 鵖	bi
 鵖	giE
 鵗	hi
@@ -24891,12 +24859,6 @@ use_preset_vocabulary: true
 鵨	shu
 鵩	fug
 鵪	yEm
-䳺	yEm
-䨄	yEm
-𩀂	yEm
-𪁟	yEm
-𪂻	yEm
-𪈍	yEm
 鵫	dhau
 鵬	peng
 鵭	gim
@@ -24905,14 +24867,14 @@ use_preset_vocabulary: true
 鵯	bEi
 鵰	diau
 鵱	lug
-鵲	ciau	0%
 鵲	cUE	100%
+鵲	ciau	0%
 鵳	giEn
 鵴	gUg
 鵵	tu
 鵶	yia
-鵷	yuEn
 鵷	yUEn
+鵷	yuEn
 鵸	ki
 鵹	li
 鵺	iE
@@ -24959,14 +24921,14 @@ use_preset_vocabulary: true
 鶢	UEn
 鶣	bin
 鶣	piEn
-鶤	kuen
 鶤	Uin
+鶤	kuen
 鶥	mEi
 鶦	hu
 鶧	ying
 鶨	duen
-鶩	v
 鶩	mug
+鶩	v
 鶪	gU
 鶪	gUE
 鶬	cang
@@ -24974,8 +24936,8 @@ use_preset_vocabulary: true
 鶮	he
 鶯	ying
 鶰	UEn
-鶱	hiEn
 鶱	hUEn
+鶱	hiEn
 鶱	kiEn
 鶲	yung
 鶳	sh
@@ -25029,7 +24991,6 @@ use_preset_vocabulary: true
 鷕	iau
 鷖	yi
 鷗	you
-䳼	you
 鷘	th
 鷙	zh
 鷚	liou
@@ -25045,8 +25006,8 @@ use_preset_vocabulary: true
 鷣	im
 鷣	tEm
 鷤	dEn
-鷤	ti
 鷤	tEn
+鷤	ti
 鷥	s
 鷦	ziau
 鷧	yi
@@ -25163,8 +25124,8 @@ use_preset_vocabulary: true
 鹗	e
 鹘	hu	50%
 鹚	c
-鹜	v
 鹜	mug
+鹜	v
 鹞	iau
 鹟	yung
 鹡	zi
@@ -25212,8 +25173,8 @@ use_preset_vocabulary: true
 麉	kiEn
 麊	mi
 麋	mi
-麌	ngu
 麌	ngU
+麌	ngu
 麍	liou
 麎	chen
 麏	gUin
@@ -25279,8 +25240,8 @@ use_preset_vocabulary: true
 麿	muo
 黀	zou
 黁	nuen
-黂	fen
 黂	fEi
+黂	fen
 黃	huang
 黄	huang
 黅	gim
@@ -25297,13 +25258,13 @@ use_preset_vocabulary: true
 黎	li
 黏	nyiEm
 黐	th
-黑	he	0%
 黑	hEi	100%
-黒	he
+黑	he	0%
 黒	hEi
+黒	he
 黓	i
-黔	kim	0%
 黔	kiEm	100%
+黔	kim	0%
 黕	dEm
 黕	zhem
 黖	gi
@@ -25320,17 +25281,17 @@ use_preset_vocabulary: true
 黠	hia
 黢	cU
 黣	mEi
-黤	yiEm
 黤	yEm
+黤	yiEm
 黥	king
-黦	yiE
 黦	yU
+黦	yiE
 黧	li
 黨	dang
 黩	dug
 黪	cEm
-黫	yin
 黫	yiEn
+黫	yin
 黬	giEm
 黭	yEm
 黮	tEm
@@ -25420,13 +25381,13 @@ use_preset_vocabulary: true
 鼾	hEn
 鼿	ngu
 齀	ngu
-齁	hou
 齁	gu
+齁	hou
 齂	hi
 齂	li
-齃	ye
 齃	ge
 齃	he
+齃	ye
 齄	zha
 齅	hiou
 齆	yung
@@ -25472,8 +25433,8 @@ use_preset_vocabulary: true
 齝	th
 齞	iEn
 齞	nyiEn
-齟	zu
 齟	zU
+齟	zu
 齠	tiau
 齡	ling
 齢	ling
@@ -25486,10 +25447,10 @@ use_preset_vocabulary: true
 齨	giou
 齩	iau
 齪	chuo
-齫	kuen
 齫	UEn
-齬	ngu
+齫	kuen
 齬	ngU
+齬	ngu
 齭	chu
 齮	i
 齮	ki
@@ -25500,8 +25461,8 @@ use_preset_vocabulary: true
 齲	kU
 齳	UEn
 齴	iEn
-齵	ou
 齵	U
+齵	ou
 齶	e
 齷	yuo
 齸	yi
@@ -25556,16 +25517,21 @@ use_preset_vocabulary: true
 龢	su
 龣	gUEg
 龣	lug
+龤	UE
 龤	giE
 龤	hiE
-龤	UE
 龥	U
 不	bu
 識	sh
 兀	ngu
 嗀	hiau
 嗀	hu
+廒	ngau
+滛	im
+頋	nge
 𠂇	zuo
+𠂘	ye
+𠂬	ye
 𠄌	gUE
 𠄌	zhuEi
 𠅗	diE
@@ -25573,9 +25539,13 @@ use_preset_vocabulary: true
 𠈄	huEn
 𠚼	bin
 𠣿	giou
+𠨗	ye
+𠨳	ye
+𠪎	yEm
+𠪭	ngau
 𠰍	zhu
-𠱥	nge
 𠱥	huEi
+𠱥	nge
 𠲵	giE
 𠲵	kiE
 𠴭	si
@@ -25589,19 +25559,25 @@ use_preset_vocabulary: true
 𡈼	zheng
 𡍶	zh
 𡜦	huEi
+𡢓	gua
 𡩣	giE
 𡱰	du
 𡲬	kU
 𡸜	dh
+𡽬	U
+𡽬	sU
 𡾞	hi
+𡿕	ngiEn
+𢀴	ye
 𢂚	zhuo
+𢊊	yEm
 𢒑	iang
 𢔈	hEn
 𢔏	hou
 𢔧	bing
 𢔨	de
-𢔶	de
 𢔶	dEi
+𢔶	de
 𢕎	zhang
 𢕔	zhang
 𢕙	meng
@@ -25614,17 +25590,22 @@ use_preset_vocabulary: true
 𢕾	bi
 𢖐	biau
 𢙺	zh
+𢣽	yiEm
 𢤦	dung
+𢨤	ye
+𢨩	ye
 𢫦	pai
 𢫨	rhong
 𢭃	dou
 𢳂	piE
 𢹂	hi
 𢽴	zhuo
+𣄝	ngiEm
+𣎴	duen
 𣎴	ngai
 𣎴	nge
-𣎴	duen
 𣛴	hEn
+𣪱	ngai
 𣶏	diE
 𣶏	ziE
 𣽊	sUin
@@ -25643,6 +25624,7 @@ use_preset_vocabulary: true
 𤩱	diEn
 𤳉	hEn
 𤷆	dung
+𥇅	mian
 𥇍	zhuo
 𥐙	pa
 𥒲	s
@@ -25667,14 +25649,17 @@ use_preset_vocabulary: true
 𦳑	mou
 𦵴	giE
 𦸇	zhu
+𦹕	yEm
 𧁋	min
 𧉟	tai
 𧊶	duo
 𧜞	mEn
 𧥺	gUin
 𧨊	zha
+𧫥	yEm
 𧬆	zhEn
 𧰵	du
+𧾏	kim
 𧿹	mu
 𨁈	geng
 𨁈	hang
@@ -25682,6 +25667,7 @@ use_preset_vocabulary: true
 𨃨	zhEn
 𨉣	ha
 𨌆	hong
+𨑛	U
 𨑨	zh
 𨑬	sh
 𨜓	dheng
@@ -25692,23 +25678,37 @@ use_preset_vocabulary: true
 𨧱	kU
 𨮹	di
 𨰉	zha
+𨳶	ven
+𨸷	ye
+𩀂	yEm
 𩂓	dong
 𩅞	zhung
+𩉴	ye
 𩏠	dheng
 𩐠	hung
 𩑾	di
 𩗩	liou
+𩠌	sung
 𩣺	ben
+𩤝	v
+𩤼	ngiEm
 𩥇	dhEn
+𩥎	v
+𩥦	v
+𩥾	ngiEm
 𩱳	zhai
+𪁟	yEm
+𪂻	yEm
 𪃾	rhong
 𪄳	mai
+𪈍	yEm
 𪈏	yiEn
 𪐞	du
 𪐴	dhu
 𪑛	mEi
 𪘁	ta
 𪨊	song
+𪩘	ngiEn
 㓦劃	buo hua
 㔩葉	ye iE
 㕷啦	pa la
@@ -25779,8 +25779,8 @@ use_preset_vocabulary: true
 一抹	yi muo
 一捻	yi nyiEn
 一捻紅	yi nyiEn hung
-一摑一掌血	yi guo yi zhang hiE
 一摑一掌血	yi guo yi zhang hUE
+一摑一掌血	yi guo yi zhang hiE
 一攪果	yi giau guo
 一敗塗地	yi bai tu di
 一晌	yi shang
@@ -25857,8 +25857,8 @@ use_preset_vocabulary: true
 一還一報	yi huEn yi bau
 一酬一酢	yi chou yi zuo
 一釐一毫	yi li yi hau
-一針見血	yi zhem giEn hiE
 一針見血	yi zhem giEn hUE
+一針見血	yi zhem giEn hiE
 一錢不落虛空地	yi ciEn bu luo hU kung di
 一鍬掘個井	yi ciau gUE ge zing
 一鍵	yi giEn
@@ -25884,8 +25884,8 @@ use_preset_vocabulary: true
 七了八當	ci liau ba dang
 七十二地煞	ci sh er di sha
 七十二行	ci sh er hang
-七孔流血	ci kung liou hiE
 七孔流血	ci kung liou hUE
+七孔流血	ci kung liou hiE
 七巧板	ci kiau bEn
 七弦琴	ci hiEn kim
 七跌八撞	ci diE ba dhuang
@@ -26342,8 +26342,8 @@ use_preset_vocabulary: true
 串行	chuEn hing
 丹參	dEn shem
 丹墀	dEn th
-丹心碧血	dEn sim bi hiE
 丹心碧血	dEn sim bi hUE
+丹心碧血	dEn sim bi hiE
 丹楹刻桷	dEn ing ke gUE
 丹荑	dEn ti
 丹葩	dEn pa
@@ -26730,8 +26730,8 @@ use_preset_vocabulary: true
 亞硫酐	yia liou gEn
 亟需	gi sU
 亡是公	v sh gung
-亡血家	vang hiE gia
 亡血家	vang hUE gia
+亡血家	vang hiE gia
 交互	giau hu
 交叉	giau cha
 交差	giau chai
@@ -27114,10 +27114,10 @@ use_preset_vocabulary: true
 低地國	di di guo
 低徊	di huEi
 低徊不已	di huEi bu i
-低血壓	di hiE yia
 低血壓	di hUE yia
-低血糖	di hiE tang
+低血壓	di hiE yia
 低血糖	di hUE tang
+低血糖	di hiE tang
 低調	di diau
 低頻率	di pin lU
 住宿	dhu sug
@@ -27243,8 +27243,8 @@ use_preset_vocabulary: true
 便祕	biEn bi
 便祕	biEn mi
 便箋	biEn ziEn
-便血	biEn hiE
 便血	biEn hUE
+便血	biEn hiE
 便言	piEn iEn
 便辟	piEn pi
 係風捕景	hi fung bu ying
@@ -27618,8 +27618,8 @@ use_preset_vocabulary: true
 兄長	hUong dhang
 充內行	chung nEi hang
 充塞	chung se
-充血	chung hiE
 充血	chung hUE
+充血	chung hiE
 充行家	chung hang gia
 充詘	chung kU
 充電器	chung diEn ki
@@ -27642,8 +27642,8 @@ use_preset_vocabulary: true
 先買	siEn mai
 先降	siEn giang
 先降	siEn hiang
-先零	siEn ling
 先零	siEn liEn
+先零	siEn ling
 光了了	guang liau liau
 光大銀行	guang da in hang
 光宅	guang dhe
@@ -27677,8 +27677,8 @@ use_preset_vocabulary: true
 兌獎	duEi ziang
 免不了	miEn bu liau
 免參	miEn cEm
-免疫血清	miEn i hiE cing
 免疫血清	miEn i hUE cing
+免疫血清	miEn i hiE cing
 免黜	miEn thu
 兒女情長	er nyU cing thang
 兒女英雄傳	er nyU ying hUng dhuEn
@@ -27703,8 +27703,8 @@ use_preset_vocabulary: true
 入朝	rhu thau
 入覲	rhu gin
 內傳	nEi dhuEn
-內出血	nEi chu hiE
 內出血	nEi chu hUE
+內出血	nEi chu hiE
 內參	nEi cEm
 內地	nEi di
 內地稅	nEi di shuEi
@@ -27738,8 +27738,8 @@ use_preset_vocabulary: true
 全新	cUEn sin
 全武行	cUEn v hang
 全盛	cUEn sheng
-全血輸血	cUEn hiE shu hiE
 全血輸血	cUEn hUE shu hUE
+全血輸血	cUEn hiE shu hiE
 全角	cUEn giaug
 全軍覆沒	cUEn gUin fug muo
 全選	cUEn sUEn
@@ -27951,10 +27951,10 @@ use_preset_vocabulary: true
 冷藏船	leng cang chuEn
 冷藏車	leng cang che
 冷藏間	leng cang giEn
-冷血	leng hiE
 冷血	leng hUE
-冷血動物	leng hiE dung v
+冷血	leng hiE
 冷血動物	leng hUE dung v
+冷血動物	leng hiE dung v
 冷覺	leng gUE
 冷軋	leng zha
 冷軋鋼板	leng yia gang bEn
@@ -27966,12 +27966,12 @@ use_preset_vocabulary: true
 凍天行	dung tiEn hing
 凝咽	nying yiE
 凝睇	nying di
-凝血因子	nying hiE yin z
 凝血因子	nying hUE yin z
-凝血現象	nying hiE hiEn siang
+凝血因子	nying hiE yin z
 凝血現象	nying hUE hiEn siang
-凝血障礙	nying hiE zhang ai
+凝血現象	nying hiE hiEn siang
 凝血障礙	nying hUE zhang ai
+凝血障礙	nying hiE zhang ai
 凝重	nying dhong
 凝霰	nying siEn
 凱樂	kai UE
@@ -28015,23 +28015,23 @@ use_preset_vocabulary: true
 出紅差	chu hung chai
 出芽生殖	chu ngia sheng zh
 出蟄	chu dh
-出血	chu hiE
 出血	chu hUE
-出血筒子	chu hiE tung z
+出血	chu hiE
 出血筒子	chu hUE tung z
+出血筒子	chu hiE tung z
 出行	chu hing
 出言不遜	chu iEn bu sUin
 出醜狼藉	chu chou lang zi
 出頭露角	chu tou lou giaug
 出頭露面	chu tou lou miEn
 函授學校	hEm shou hUE hiau
-刀刀見血	dau dau giEn hiE
 刀刀見血	dau dau giEn hUE
+刀刀見血	dau dau giEn hiE
 刀削冰	dau siau bing
 刀削麪	dau siau miEn
 刀割針扎	dau ge zhem zha
-刀口上舔血	dau kou shang tiEm hiE
 刀口上舔血	dau kou shang tiEm hUE
+刀口上舔血	dau kou shang tiEm hiE
 刀杖器械	dau dhang ki hiE
 刀械	dau hiE
 刀耕火耨	dau geng huo nou
@@ -28039,8 +28039,8 @@ use_preset_vocabulary: true
 刀鎗	dau ciang
 刀鎗劍戟	dau ciang giEm gi
 刀鎗無眼	dau ciang v iEn
-刀頭舔血	dau tou tiEm hiE
 刀頭舔血	dau tou tiEm hUE
+刀頭舔血	dau tou tiEm hiE
 刁天厥地	diau tiEn gUE di
 刁天撅地	diau tiEn gUE di
 刁天決地	diau tiEn gUE di
@@ -28166,10 +28166,10 @@ use_preset_vocabulary: true
 削牘	sUE dug
 削球	sUE kiou
 削瘦	siau shou
-削着	siau dhau
-削着	siau dhe
 削着	sUE dhau
 削着	sUE dhe
+削着	siau dhau
+削着	siau dhe
 削職	sUE zh
 削肩	sUE giEn
 削色	sUE se
@@ -28404,8 +28404,8 @@ use_preset_vocabulary: true
 勍敵	king di
 勒住	lEi dhu
 勒子	lEi z
-勒掯	le ken
 勒掯	lEi ken
+勒掯	le ken
 勒斃	lEi bi
 勒死	lEi s
 勒緊	lEi gin
@@ -28424,8 +28424,8 @@ use_preset_vocabulary: true
 動撣	dung dEn
 動物纖維	dung v siEm uEi
 動脈血	dung mai hUE
-動脈輸血	dung mai shu hiE
 動脈輸血	dung mai shu hUE
+動脈輸血	dung mai shu hiE
 勗率	hU shuai
 勝似	sheng s
 勝地	sheng di
@@ -28602,8 +28602,8 @@ use_preset_vocabulary: true
 南樓詠謔	nEm lou Uong nyUE
 南橘北枳	nEm gU bEi zh
 南水北調	nEm shuEi bEi diau
-南無	na muo
 南無	nEm v
+南無	na muo
 南無佛	na muo fuo
 南無耶	na muo iE
 南琛	nEm them
@@ -28956,8 +28956,8 @@ use_preset_vocabulary: true
 可惡	ke yu
 可擴展性	ke kuo dhEn sing
 可樂	ke le
-可沒	ke muo
 可沒	ke mEi
+可沒	ke muo
 可磣	ke chem
 可耕地	ke geng di
 可行	ke hing
@@ -29096,8 +29096,8 @@ use_preset_vocabulary: true
 吐哺握髮	tu bu yuo fa
 吐屬	tu zhu
 吐蕃	tu fEn
-吐血	tu hiE
 吐血	tu hUE
+吐血	tu hiE
 吐谷渾	tu Ug huen
 吐露	tu lu
 吐露心腹	tu lu sim fug
@@ -29147,10 +29147,10 @@ use_preset_vocabulary: true
 含葩	hEm pa
 含蓼問疾	hEm liaug ven zi
 含蘊	hEm yUin
-含血噀人	hEm hiE sUin rhen
 含血噀人	hEm hUE sUin rhen
-含血噴人	hEm hiE pen rhen
+含血噀人	hEm hiE sUin rhen
 含血噴人	hEm hUE pen rhen
+含血噴人	hEm hiE pen rhen
 听听	in in
 吭哧	keng ch
 吭氣	keng ki
@@ -29175,12 +29175,12 @@ use_preset_vocabulary: true
 吸引住	hi in dhu
 吸收	hi shou
 吸菸	hi yiEn
-吸血蛭	hi hiE dh
 吸血蛭	hi hUE dh
-吸血蟲	hi hiE thung
+吸血蛭	hi hiE dh
 吸血蟲	hi hUE thung
-吸血鬼	hi hiE guEi
+吸血蟲	hi hiE thung
 吸血鬼	hi hUE guEi
+吸血鬼	hi hiE guEi
 吸風飲露	hi fung yim lu
 吹奏樂器	chuEi zou UE ki
 吹彈	chuEi tEn
@@ -29349,11 +29349,11 @@ use_preset_vocabulary: true
 咯噔	ge deng
 咯噠	ge da
 咯噹	ge dang
-咯血	ka hiE
 咯血	ka hUE
+咯血	ka hiE
 咯血	luo hUE
-咱們	za men
 咱們	zEm men
+咱們	za men
 咱家	za gia
 咳咳	ke ke
 咳唾	ke tuo
@@ -29364,8 +29364,8 @@ use_preset_vocabulary: true
 咳聲嘆息	hai sheng tEn si
 咳聲打氣	hai sheng da ki
 咳聲歎氣	hai sheng tEn ki
-咳血	ka hiE
 咳血	ka hUE
+咳血	ka hiE
 咻咻	hiou hiou
 咽刀子	yiEn dau z
 咽哺	yiEn bu
@@ -29416,8 +29416,8 @@ use_preset_vocabulary: true
 哦哦	e e
 哦哦	o o
 哦哦哦	o o o
-哦喲	o iau
 哦喲	o Uo
+哦喲	o iau
 哦詩	e sh
 哨卡	shau cia
 哪些	na siE
@@ -29554,8 +29554,8 @@ use_preset_vocabulary: true
 喀爾喀蒙古	ka er ka mung gu
 喀爾巴阡山脈	ka er ba ciEn shEn mai
 喀爾文教派	ka er ven giau pai
-喀血	ke hiE
 喀血	ke hUE
+喀血	ke hiE
 喀麥隆	ka mai lung
 喀麥隆共和國	ka mai lung gong he guo
 喁喁	U U
@@ -29601,8 +29601,8 @@ use_preset_vocabulary: true
 喜聞樂見	hi ven le giEn
 喜躍	hi UE
 喜躍抃舞	hi UE biEn v
-喜鵲	hi ciau
 喜鵲	hi cUE
+喜鵲	hi ciau
 喝參	he cEm
 喝咖啡	he ka fEi
 喝掇	he duo
@@ -30047,8 +30047,8 @@ use_preset_vocabulary: true
 地不怕	di bu pa
 地不載	di bu zai
 地中海	di dhung hai
-地中海型貧血	di dhung hai hing pin hiE
 地中海型貧血	di dhung hai hing pin hUE
+地中海型貧血	di dhung hai hing pin hiE
 地主	di zhu
 地主之誼	di zhu zh i
 地主國	di zhu guo
@@ -30360,8 +30360,8 @@ use_preset_vocabulary: true
 埃及阿拉伯共和國	yai gi ya la buo gong he guo
 埋冤	mEn yUEn
 埋天怨地	mEn tiEn yUEn di
-埋怨	mai yUEn
 埋怨	mEn yUEn
+埋怨	mai yUEn
 埋沒	mai muo
 埋沒人才	mai muo rhen cai
 埋藏	mai cang
@@ -30560,8 +30560,8 @@ use_preset_vocabulary: true
 壝埒	uEi le
 壞坯子	huai pEi z
 壞疽	huai zU
-壞血病	huai hiE bing
 壞血病	huai hUE bing
+壞血病	huai hiE bing
 壟斷行業	long duEn hang iE
 壤地	rhang di
 壯猷	zhuang iou
@@ -30584,10 +30584,10 @@ use_preset_vocabulary: true
 夏蟲朝菌	hia thung dhau gUin
 夔龍禮樂	kuEi long li UE
 外交部長	nguai giau bu dhang
-外傳	nguai thuEn
 外傳	nguai dhuEn
-外出血	nguai chu hiE
+外傳	nguai thuEn
 外出血	nguai chu hUE
+外出血	nguai chu hiE
 外匯匯率	nguai huEi huEi lU
 外匯銀行	nguai huEi in hang
 外地	nguai di
@@ -30667,8 +30667,8 @@ use_preset_vocabulary: true
 大伯	da buo
 大伯子	da bai z
 大似	da s
-大出血	da chu hiE
 大出血	da chu hUE
+大出血	da chu hiE
 大剛來	dai gang lai
 大剛喒	dai gang zEm
 大功率	da gung lU
@@ -30725,8 +30725,8 @@ use_preset_vocabulary: true
 大括弧	da kuo hu
 大排行	da pai hang
 大排長龍	da pai thang long
-大換血	da huEn hiE
 大換血	da huEn hUE
+大換血	da huEn hiE
 大擺褶子	da bai sUE z
 大故	da gu
 大故	dai gu
@@ -30757,8 +30757,8 @@ use_preset_vocabulary: true
 大老闆	da lau bEn
 大耋	da diE
 大肆抨擊	da s peng gi
-大腦出血性中風	da nau chu hiE sing dhung fung
 大腦出血性中風	da nau chu hUE sing dhung fung
+大腦出血性中風	da nau chu hiE sing dhung fung
 大腹便便	da fug piEn piEn
 大腹賈	da f gu
 大臠	da luEn
@@ -30848,6 +30848,7 @@ use_preset_vocabulary: true
 天公地道	tiEn gung di dau
 天冠地屨	tiEn guEn di gU
 天剋地衝	tiEn ke di chong
+天動地岋	tiEn dung di nge
 天南地北	tiEn nEm di bEi
 天地	tiEn di
 天地一沙鷗	tiEn di yi sha you
@@ -30943,7 +30944,6 @@ use_preset_vocabulary: true
 天高地迥	tiEn gau di gUong
 天高地遠	tiEn gau di UEn
 天高地闊	tiEn gau di kuo
-天動地岋	tiEn dung di nge
 天黥	tiEn king
 太卜	tai bug
 太子洗馬	tai z siEn ma
@@ -30985,8 +30985,8 @@ use_preset_vocabulary: true
 失效	sh hiau
 失業率	sh iE lU
 失着	sh dhau
-失血	sh hiE
 失血	sh hUE
+失血	sh hiE
 失賊	sh ze
 失重	sh dhong
 失陷	sh hiEm
@@ -31053,10 +31053,10 @@ use_preset_vocabulary: true
 奧窔	yau yiau
 奫淪	yUin luen
 女婢	nyU bi
-女媧	nyU yua
 女媧	nyU gua
-女媧補天	nyU yua bu tiEn
+女媧	nyU yua
 女媧補天	nyU gua bu tiEn
+女媧補天	nyU yua bu tiEn
 女子參政主義	nyU z cEm zheng zhu i
 女宿	nyU sioug
 女校	nyU hiau
@@ -31146,8 +31146,8 @@ use_preset_vocabulary: true
 妄生穿鑿	vang sheng chuEn zuog
 妄自菲薄	vang z fEi buo
 妊娠	rhem shen
-妊娠毒血症	rhem shen du hiE dheng
 妊娠毒血症	rhem shen du hUE dheng
+妊娠毒血症	rhem shen du hiE dheng
 妊娠紋	rhem shen ven
 妓女	gi nyU
 妖妖調調	yiau yiau diau diau
@@ -31242,8 +31242,8 @@ use_preset_vocabulary: true
 媟慢	siE mEn
 媟污	siE yu
 媟黷	siE dug
-媧皇	yua huang
 媧皇	gua huang
+媧皇	yua huang
 媲美	pi mEi
 媵婢	ing bi
 媼相	yau siang
@@ -31292,8 +31292,8 @@ use_preset_vocabulary: true
 嬌怯怯	giau kUE kUE
 嬌皮嫩肉	giau pi nen rhoug
 嬛佞	hUEn nying
-嬛嬛	kUong kUong
 嬛嬛	hUEn hUEn
+嬛嬛	kUong kUong
 嬝娜	nyiau nuo
 嬝娜纖巧	nyiau nuo siEm kiau
 嬝娜風流	nyiau nuo fung liou
@@ -31540,8 +31540,8 @@ use_preset_vocabulary: true
 家中	gia dhung
 家乘	gia sheng
 家什	gia sh
-家傳	gia thuEn
 家傳	gia dhuEn
+家傳	gia thuEn
 家僮	gia tung
 家樂	gia UE
 家樂福	gia le fug
@@ -31855,7 +31855,6 @@ use_preset_vocabulary: true
 就行	ziou hing
 就要扎腳	ziou yiau zha giau
 尷尬	gEm ga
-魐魀	gEm ga
 尷尬局面	gEm ga gU miEn
 尸居龍見	sh gU long hiEn
 尺寸之地	ch cuen zh di
@@ -31883,8 +31882,8 @@ use_preset_vocabulary: true
 屈膝投降	kU si tou hiang
 屋脊爪	yug zi zhau
 屋脊爪	yug zi zhua
-屍山血海	sh shEn hiE hai
 屍山血海	sh shEn hUE hai
+屍山血海	sh shEn hiE hai
 屎蚵蜋	sh ke lang
 屏居	bing gU
 屏息	bing si
@@ -32056,8 +32055,8 @@ use_preset_vocabulary: true
 嶄然	zhEm rhEn
 嶄露	zhEm lu
 嶄露鋒芒	zhEm lu fong mang
-嶄露頭角	zhEm lu tou giaug
 嶄露頭角	zhEm lu tou gUEg
+嶄露頭角	zhEm lu tou giaug
 嶠嶼	giau U
 嶢崢	iau zheng
 嶷岌	nyi gi
@@ -32276,8 +32275,8 @@ use_preset_vocabulary: true
 平妖傳	ping yiau dhuEn
 平樂	ping le
 平畫求長	ping hua kiou thang
-平章	ping zhang
 平章	piEn zhang
+平章	ping zhang
 平章百姓	piEn zhang buo sing
 平行	ping hing
 平行六面體	ping hing lioug miEn ti
@@ -32402,8 +32401,8 @@ use_preset_vocabulary: true
 廣夏細旃	guang hia si zhEn
 廣廈萬間	guang sha vEn giEn
 廣播歌仔戲	guang buo ge z hi
-廣東住血吸蟲	guang dung dhu hiE hi thung
 廣東住血吸蟲	guang dung dhu hUE hi thung
+廣東住血吸蟲	guang dung dhu hiE hi thung
 廣欬	guang kai
 廣畤	guang dh
 廣盛	guang sheng
@@ -32799,8 +32798,8 @@ use_preset_vocabulary: true
 微服私行	vEi fug s hing
 微纖	vEi siEm
 微薄	vEi buo
-微血管	vEi hiE guEn
 微血管	vEi hUE guEn
+微血管	vEi hiE guEn
 微行	vEi hing
 微調	vEi tiau
 徵地	dheng di
@@ -33133,8 +33132,8 @@ use_preset_vocabulary: true
 惡哏哏	ye hen hen
 惡地	ye di
 惡嫌	yu hiEm
-惡性貧血	ye sing pin hiE
 惡性貧血	ye sing pin hUE
+惡性貧血	ye sing pin hiE
 惡惡	yu ye
 惡惡從短	yu ye cong duEn
 惡有	yu iou
@@ -33602,8 +33601,8 @@ use_preset_vocabulary: true
 打窠地	da ke di
 打細泊	da si buo
 打胸廝撞	da hUong s dhuang
-打落牙齒和血吞	da luo ngia ch huo hiE tuen
 打落牙齒和血吞	da luo ngia ch huo hUE tuen
+打落牙齒和血吞	da luo ngia ch huo hiE tuen
 打虎不着	da hu bu dhau
 打虎還得親兄弟	da hu hai dEi cin hUong di
 打調	da tiau
@@ -33709,15 +33708,15 @@ use_preset_vocabulary: true
 投降	tou hiang
 投降主義	tou hiang zhu i
 投降書	tou hiang shu
-抗凝血劑	kang nying hiE zi
 抗凝血劑	kang nying hUE zi
-抗毒血清	kang du hiE cing
+抗凝血劑	kang nying hiE zi
 抗毒血清	kang du hUE cing
+抗毒血清	kang du hiE cing
 抗美援朝	kang mEi UEn thau
-抗菌血清	kang gUin hiE cing
 抗菌血清	kang gUin hUE cing
-抗血清	kang hiE cing
+抗菌血清	kang gUin hiE cing
 抗血清	kang hUE cing
+抗血清	kang hiE cing
 抗頡作用	kang hiE zuo Uong
 折價率	zhe gia lU
 折射角	zhe she giaug
@@ -33890,8 +33889,8 @@ use_preset_vocabulary: true
 抽獎	thou ziang
 抽菸	thou yiEn
 抽薪止沸	thou sin zh fEi
-抽血	thou hiE
 抽血	thou hUE
+抽血	thou hiE
 抽調	thou diau
 抽象	thou siang
 抽釐	thou li
@@ -33910,8 +33909,8 @@ use_preset_vocabulary: true
 拉伯蘭	la buo lEn
 拉卜楞	la bug leng
 拉取	la cU
-拉口子要見血	la kou z yiau giEn hiE
 拉口子要見血	la kou z yiau giEn hUE
+拉口子要見血	la kou z yiau giEn hiE
 拉名糧長	la ming liang dhang
 拉坏	la pEi
 拉塞福	la se fug
@@ -34153,8 +34152,8 @@ use_preset_vocabulary: true
 捏坏	nyiE pEi
 捏塑	nyiE su
 捏弄	nyiE lung
-捐血	gUEn hiE
 捐血	gUEn hUE
+捐血	gUEn hiE
 捕捉畋獵	bu zhuo tiEn liE
 捕緝	bu zi
 捧哏	pong gen
@@ -34372,8 +34371,8 @@ use_preset_vocabulary: true
 揚長避短	iang thang bi duEn
 換手率	huEn shou lU
 換生不如守熟	huEn sheng bu rhu shou shug
-換血	huEn hiE
 換血	huEn hUE
+換血	huEn hiE
 換行	huEn hang
 揠苗助長	yia miau zhu dhang
 握拳透爪	yuo kUEn toug zhau
@@ -34500,8 +34499,8 @@ use_preset_vocabulary: true
 摔角	shuai giaug
 摔馬杓	shuai ma shau
 摘伏發隱	ti fug fa yin
-摘奸發伏	ti giEn fa f
 摘奸發伏	dhai giEn fa fug
+摘奸發伏	ti giEn fa f
 摘山煮海	ti shEn zhu hai
 摟衣裳	lou yi shang
 摧堅陷陣	cuEi giEn hiEm dhen
@@ -34600,8 +34599,8 @@ use_preset_vocabulary: true
 撞客	dhuang ke
 撞屍	dhuang sh
 撞席	dhuang si
-撞府衝州	dhuang f chung zhou
 撞府穿州	dhuang f chuEn zhou
+撞府衝州	dhuang f chung zhou
 撞心拳	dhuang sim kUEn
 撞擊	dhuang gi
 撞擾	dhuang rhau
@@ -34900,8 +34899,8 @@ use_preset_vocabulary: true
 放牧地	fang mug di
 放番	fang fEn
 放蕩弛縱	fang dang sh zong
-放血	fang hiE
 放血	fang hUE
+放血	fang hiE
 放行	fang hing
 放重	fang dhong
 放長線釣大魚	fang thang siEn diau da U
@@ -34922,12 +34921,12 @@ use_preset_vocabulary: true
 敕賜	th s
 敖不可長	au bu ke dhang
 敗棋有勝着	bai ki iou sheng dhuo
-敗血性休克	bai hiE sing hiou ke
 敗血性休克	bai hUE sing hiou ke
-敗血症	bai hiE dheng
+敗血性休克	bai hiE sing hiou ke
 敗血症	bai hUE dheng
-敗血膿毒症	bai hiE nong du dheng
+敗血症	bai hiE dheng
 敗血膿毒症	bai hUE nong du dheng
+敗血膿毒症	bai hiE nong du dheng
 敗衄	bai nyUg
 敗行	bai hing
 敗露	bai lu
@@ -34942,8 +34941,8 @@ use_preset_vocabulary: true
 散嗽	sEn soug
 散地	sEn di
 散樂	sEn UE
-散血草	sEn hiE cau
 散血草	sEn hUE cau
+散血草	sEn hiE cau
 散騎常侍	sEn gi chang sh
 敦槃	duEi pEn
 敦聘	duen pin
@@ -35058,15 +35057,15 @@ use_preset_vocabulary: true
 新穎	sin ing
 新罕布什爾州	sin hEn bu sh er zhou
 新股發行	sin gu fa hing
-新血輪	sin hiE luen
 新血輪	sin hUE luen
+新血輪	sin hiE luen
 新靚	sin zing
 斲削	dhuo sUE
 斷崖	duEn ngia
 斷弦	duEn hiEn
 斷爛朝報	duEn lEn thau bau
-斷臂	duEn bi
 斷臂	duEn bEi
+斷臂	duEn bi
 斷釵重合	duEn chai thong he
 斷長續短	duEn thang sU duEn
 斷長補短	duEn thang bu duEn
@@ -35095,8 +35094,8 @@ use_preset_vocabulary: true
 施行細則	sh hing si ze
 旁人短長	pang rhen duEn thang
 旁午	bang ngu
-旁系血親	pang hi hiE cin
 旁系血親	pang hi hUE cin
+旁系血親	pang hi hiE cin
 旁薄	pang buo
 旁行	pang hing
 旁行斜上	pang hing siE shang
@@ -35308,8 +35307,8 @@ use_preset_vocabulary: true
 智顗	dh i
 晻世	yEm sh
 晻昧	yEm mEi
-晻晻	yiEm yiEm
 晻晻	yEm yEm
+晻晻	yiEm yiEm
 晻翳	yEm yi
 晻藹	yEm yai
 晻靄	yEm yai
@@ -35617,8 +35616,8 @@ use_preset_vocabulary: true
 服務器	f v ki
 服務行業	fug v hang iE
 服氣吞露	f ki tuen lu
-服着	fug dhe
 服着	f dhuo
+服着	fug dhe
 服賈	fug gu
 服闋	f kUE
 服降	fug hiang
@@ -36268,8 +36267,8 @@ use_preset_vocabulary: true
 椅披	yi pi
 植物生長素	dh v sheng dhang su
 植物纖維	dh v siEm uEi
-椎心泣血	dhuEi sim ki hiE
 椎心泣血	dhuEi sim ki hUE
+椎心泣血	dhuEi sim ki hiE
 椎拍輐斷	dhuEi pai uEn duEn
 椎輪大輅	dhuEi luen da lu
 椑柿	bEi sh
@@ -36361,8 +36360,8 @@ use_preset_vocabulary: true
 槍械	ciang hiE
 槧本	ciEm ben
 槭糖漿	cug tang ziang
-槭葉止血草	cug iE zh hiE cau
 槭葉止血草	cug iE zh hUE cau
+槭葉止血草	cug iE zh hiE cau
 槮爽	sEm shuang
 槽碓	cau duEi
 樂不可支	le bu ke zh
@@ -36699,16 +36698,16 @@ use_preset_vocabulary: true
 止咳	zh ke
 止宿	zh sug
 止泊	zh buo
-止血	zh hiE
 止血	zh hUE
-止血劑	zh hiE zi
+止血	zh hiE
 止血劑	zh hUE zi
-止血帶	zh hiE dai
+止血劑	zh hiE zi
 止血帶	zh hUE dai
-止血法	zh hiE fa
+止血帶	zh hiE dai
 止血法	zh hUE fa
-止血點	zh hiE diEm
+止血法	zh hiE fa
 止血點	zh hUE diEm
+止血點	zh hiE diEm
 正三角形	zheng sEm giaug hing
 正交	zheng giau
 正傳	zheng dhuEn
@@ -36842,13 +36841,13 @@ use_preset_vocabulary: true
 殷盛	yin sheng
 殷紅	yiEn hung
 殷阜	yin f
-殺人不見血	sha rhen bu giEn hiE
 殺人不見血	sha rhen bu giEn hUE
+殺人不見血	sha rhen bu giEn hiE
 殺人不過頭點地	sha rhen bu guo tou diEm di
 殺人償命	sha rhen chang ming
 殺人如芥	sha rhen rhu giE
-殺人須見血	sha rhen sU giEn hiE
 殺人須見血	sha rhen sU giEn hUE
+殺人須見血	sha rhen sU giEn hiE
 殺出重圍	sha chu thong uEi
 殺坯	sha pi
 殺衣縮食	shai yi sug sh
@@ -36893,12 +36892,12 @@ use_preset_vocabulary: true
 毛坯	mau pEi
 毛廁	mau s
 毛糙	mau cau
-毛細血管	mau si hiE guEn
 毛細血管	mau si hUE guEn
+毛細血管	mau si hiE guEn
 毛義捧檄	mau i pong hi
 毛蚶	mau hEm
-毛血	mau hiE
 毛血	mau hUE
+毛血	mau hiE
 毛重	mau dhong
 毣毣	maug maug
 毫不遜色	hau bu sUin se
@@ -36914,8 +36913,8 @@ use_preset_vocabulary: true
 氂牛	mau nyiou
 氂纓	li ying
 氂纓	mau ying
-氍毹	kU shu
 氍毹	kU U
+氍毹	kU shu
 氐羌	di kiang
 民俗音樂	min su yim UE
 民和年稔	min he nyiEn rhem
@@ -36957,8 +36956,8 @@ use_preset_vocabulary: true
 氣貫長虹	ki guEn thang hung
 氣鳴樂器	ki ming UE ki
 氫彈	king dEn
-氮血症	dEm hiE dheng
 氮血症	dEm hUE dheng
+氮血症	dEm hiE dheng
 氯丁橡膠	lU ding siang giau
 氯丹	lU dEn
 氯乙烯	lU yi hi
@@ -37048,8 +37047,8 @@ use_preset_vocabulary: true
 汗流洽背	hEn liou hia bEi
 汗流洽背	hEn liou kia bEi
 汗液	hEn iEg
-汗血馬	hEn hiE ma
 汗血馬	hEn hUE ma
+汗血馬	hEn hiE ma
 汛地	sUin di
 汞溴紅	gung hiou hung
 汞齊	gung ci
@@ -37060,8 +37059,8 @@ use_preset_vocabulary: true
 江都縣	giang du hiEn
 污尊	yua zuen
 污庳	yua bEi
-污水	yu shuEi
 污水	yU shuEi
+污水	yu shuEi
 污膺	yua ying
 汩亂	gu luEn
 汩徂	U cu
@@ -37188,8 +37187,8 @@ use_preset_vocabulary: true
 沒包彈	mEi bau tEn
 沒命似的	mEi ming sh de
 沒嚼頭	mEi zUE tou
-沒地	muo di
 沒地	mEi de
+沒地	muo di
 沒地裏巡檢	mEi di li sUin giEm
 沒地里	mEi de li
 沒奈何	muo nai he
@@ -37202,8 +37201,8 @@ use_preset_vocabulary: true
 沒忽的	muo hu di
 沒感覺	mEi gEm gUE
 沒揣地	mEi chuai de
-沒揣的	muo chuai di
 沒揣的	mEi chuai de
+沒揣的	muo chuai di
 沒撩沒亂	mEi liau muo luEn
 沒撻煞	mEi ta sha
 沒收	muo shou
@@ -37238,8 +37237,8 @@ use_preset_vocabulary: true
 沒長眼	mEi dhang iEn
 沒長進	mEi dhang zin
 沒頂	muo ding
-沒頭沒腦	muo tou muo nau
 沒頭沒腦	mEi tou mEi nau
+沒頭沒腦	muo tou muo nau
 沒頭蹲	muo tou duen
 沒骨	muo gu
 沒骨畫	muo gu hua
@@ -37253,8 +37252,6 @@ use_preset_vocabulary: true
 沓沓	ta ta
 沓至	ta zh
 沓雜	ta za
-衝撞	chung dhuang
-衝模	chung mu
 沙參	sha shem
 沙嗲	sha diE
 沙噀	sha sUin
@@ -37361,8 +37358,8 @@ use_preset_vocabulary: true
 法天象地	fa tiEn siang di
 法定準備率	fa ding zhuen bEi lU
 法定空地	fa ding kung di
-法定血親	fa ding hiE cin
 法定血親	fa ding hUE cin
+法定血親	fa ding hiE cin
 法家拂士	fa gia bi sh
 法律不溯既往原則	fa lU bu su gi uang UEn ze
 法律行爲	fa lU hing uEi
@@ -37468,10 +37465,10 @@ use_preset_vocabulary: true
 活塞	huo sai
 活着	huo dhau
 活着	huo dhe
-活血	huo hiE
 活血	huo hUE
-活血化瘀	huo hiE hua yU
+活血	huo hiE
 活血化瘀	huo hUE hua yU
+活血化瘀	huo hiE hua yU
 活躍	huo UE
 洼地	yua di
 洽商	hia shang
@@ -37499,24 +37496,24 @@ use_preset_vocabulary: true
 流水行雲	liou shuEi hing Uin
 流涎	liou siEn
 流涎症	liou siEn dheng
-流血	liou hiE
 流血	liou hUE
-流血千里	liou hiE ciEn li
+流血	liou hiE
 流血千里	liou hUE ciEn li
-流血成川	liou hiE cheng chuEn
+流血千里	liou hiE ciEn li
 流血成川	liou hUE cheng chuEn
-流血成河	liou hiE cheng he
+流血成川	liou hiE cheng chuEn
 流血成河	liou hUE cheng he
-流血成渠	liou hiE cheng kU
+流血成河	liou hiE cheng he
 流血成渠	liou hUE cheng kU
-流血流汗	liou hiE liou hEn
+流血成渠	liou hiE cheng kU
 流血流汗	liou hUE liou hEn
-流血浮尸	liou hiE f sh
+流血流汗	liou hiE liou hEn
 流血浮尸	liou hUE f sh
-流血漂杵	liou hiE piau chu
+流血浮尸	liou hiE f sh
 流血漂杵	liou hUE piau chu
-流血漂鹵	liou hiE piau lu
+流血漂杵	liou hiE piau chu
 流血漂鹵	liou hUE piau lu
+流血漂鹵	liou hiE piau lu
 流行	liou hing
 流行坎止	liou hing kEm zh
 流行學	liou hing hUE
@@ -37669,8 +37666,8 @@ use_preset_vocabulary: true
 涸陰	he yim
 涸鮒	he f
 涸鱗濡沫	he lin rhu muo
-涼血	liang hiE
 涼血	liang hUE
+涼血	liang hiE
 淆亂	hiau luEn
 淆惑	hiau huo
 淆紊	hiau ven
@@ -37701,8 +37698,8 @@ use_preset_vocabulary: true
 淡薄	dEm buo
 淡薄無味	dEm buo v vEi
 淤塞	yU se
-淤血	yU hiE
 淤血	yU hUE
+淤血	yU hiE
 淤閼	yU ye
 淨角	zing gUEg
 淨賺	zing dhuEm
@@ -37755,10 +37752,10 @@ use_preset_vocabulary: true
 混淆黑白	huen hiau hEi bai
 混混	guen guen
 混混	huen huen
-混血	huen hiE
 混血	huen hUE
-混血兒	huen hiE er
+混血	huen hiE
 混血兒	huen hUE er
+混血兒	huen hiE er
 淹宿	yiEm sug
 淹晷	yiEm guEi
 淹沒	yiEm muo
@@ -37861,15 +37858,15 @@ use_preset_vocabulary: true
 溝壑	gou huo
 溞溞	sau sau
 溠水	zha shuEi
-溢血	i hiE
 溢血	i hUE
+溢血	i hiE
 溪壑	hi he
 溪壑	hi huo
 溫尼伯	yuen nyi buo
 溫嶠	yuen giau
 溫故而知新	yuen gu er dh sin
-溫血動物	yuen hiE dung v
 溫血動物	yuen hUE dung v
+溫血動物	yuen hiE dung v
 溫覺	yuen gUE
 溫馨	yuen hin
 溯洄	su huEi
@@ -37901,8 +37898,8 @@ use_preset_vocabulary: true
 滅景	miE ying
 滅此朝食	miE c dhau sh
 滅沒	miE muo
-滅門血案	miE men hiE yEn
 滅門血案	miE men hUE yEn
+滅門血案	miE men hiE yEn
 滇劇	diEn gU
 滇池	diEn th
 滇池縣	diEn th hiEn
@@ -37934,8 +37931,8 @@ use_preset_vocabulary: true
 滴液	di iEg
 滴羞跌屑	di siou diE siE
 滴羞都蘇	di siou du su
-滴血	di hiE
 滴血	di hUE
+滴血	di hiE
 滾地球	guen di kiou
 滾瓜爛熟	guen gua lEn shug
 滾調	guen diau
@@ -37946,8 +37943,8 @@ use_preset_vocabulary: true
 滿拚自盡	mEn pEn z zin
 滿朝	mEn thau
 滿朝文武	mEn thau ven v
-滿腔熱血	mEn kiang rhe hiE
 滿腔熱血	mEn kiang rhe hUE
+滿腔熱血	mEn kiang rhe hiE
 滿腹經綸	mEn fug ging luen
 漁陽摻撾	U iang cEm dhua
 漂沒	piau muo
@@ -38250,8 +38247,8 @@ use_preset_vocabulary: true
 無置錐地	v dh zhuEi di
 無聲無臭	v sheng v hiou
 無脛而行	v ging er hing
-無血戰爭	v hiE zhEn zheng
 無血戰爭	v hUE zhEn zheng
+無血戰爭	v hiE zhEn zheng
 無行	v hing
 無行止	v hing zh
 無行爲能力人	v hing uEi neng li rhen
@@ -38394,8 +38391,8 @@ use_preset_vocabulary: true
 熱爪哇	rhe zhau yua
 熱爪哇	rhe zhua yua
 熱痙攣	rhe ging lUEn
-熱血	rhe hiE
 熱血	rhe hUE
+熱血	rhe hiE
 熱血沸騰	rhe hUE fEi teng
 熱覺	rhe gUE
 熱軋	rhe zha
@@ -38508,8 +38505,8 @@ use_preset_vocabulary: true
 父仇不共戴天	f chou bu gong dai tiEn
 父債子還	f zhai z huEn
 父天母地	f tiEn mu di
-父母兩系血統主義	f mu liang hi hiE tong zhu i
 父母兩系血統主義	f mu liang hi hUE tong zhu i
+父母兩系血統主義	f mu liang hi hiE tong zhu i
 爸爸去哪	ba ba kU na
 爹地	diE di
 爺孃	iE nyiang
@@ -38632,12 +38629,12 @@ use_preset_vocabulary: true
 狗屠角牴	gou tu giaug di
 狗心狗行	gou sim gou hing
 狗改不了吃屎	gou gai bu liau ch sh
-狗血噴臉	gou hiE pen liEm
 狗血噴臉	gou hUE pen liEm
-狗血噴頭	gou hiE pen tou
+狗血噴臉	gou hiE pen liEm
 狗血噴頭	gou hUE pen tou
-狗血淋頭	gou hiE lim tou
+狗血噴頭	gou hiE pen tou
 狗血淋頭	gou hUE lim tou
+狗血淋頭	gou hiE lim tou
 狗行狼心	gou hing lang sim
 狗頭上生角	gou tou shang sheng giaug
 狙伺	zU s
@@ -39291,8 +39288,8 @@ use_preset_vocabulary: true
 痴長	th dhang
 痶腳	diEn giau
 痿痹	yuEi bi
-瘀血	yU hiE
 瘀血	yU hUE
+瘀血	yU hiE
 瘈狗	gi gou
 瘈瘲	ki zong
 瘋長	fung dhang
@@ -39409,17 +39406,17 @@ use_preset_vocabulary: true
 白虎幡	bai hu fEn
 白蛇傳	bai she dhuEn
 白蛸	bai siau
-白血球	bai hiE kiou
 白血球	bai hUE kiou
-白血球過多症	bai hiE kiou guo duo dheng
+白血球	bai hiE kiou
 白血球過多症	bai hUE kiou guo duo dheng
-白血病	bai hiE bing
+白血球過多症	bai hiE kiou guo duo dheng
 白血病	bai hUE bing
+白血病	bai hiE bing
 白行簡	bai hing giEn
 白袷	bai gia
 白袷衣	bai gia yi
-白費心血	bai fEi sim hiE
 白費心血	bai fEi sim hUE
+白費心血	bai fEi sim hiE
 白醭	bai pug
 白鏹	bai kiang
 白閒	bai giEn
@@ -39500,14 +39497,14 @@ use_preset_vocabulary: true
 皤皤	puo puo
 皭然	ziau rhEn
 皭皭	ziau ziau
-皮下出血	pi hia chu hiE
 皮下出血	pi hia chu hUE
+皮下出血	pi hia chu hiE
 皮卡丘	pi ka kiou
 皮塑	pi su
 皮嬌肉嫩	pi giau rhoug nen
 皮弁	pi biEn
-皮破血流	pi puo hiE liou
 皮破血流	pi puo hUE liou
+皮破血流	pi puo hiE liou
 皮重	pi dhong
 盆地	pen di
 盆成括	pen cheng gua
@@ -40037,12 +40034,12 @@ use_preset_vocabulary: true
 碗粿	yuEn guo
 碟大碗小磕着碰着	diE da yuEn siau ke dhau peng dhau
 碧澄澄	bi theng theng
-碧血	bi hiE
 碧血	bi hUE
-碧血丹心	bi hiE dEn sim
+碧血	bi hiE
 碧血丹心	bi hUE dEn sim
-碧血黃花	bi hiE huang hua
+碧血丹心	bi hiE dEn sim
 碧血黃花	bi hUE huang hua
+碧血黃花	bi hiE huang hua
 碪斧	dhem f
 碰勁	peng gin
 碰和	peng hu
@@ -40654,8 +40651,8 @@ use_preset_vocabulary: true
 精確	zing kUE
 精確度	zing kUE du
 精神缺陷	zing shen kUE hiEm
-精血	zing hiE
 精血	zing hUE
+精血	zing hiE
 精貫白日	zing guEn bai rh
 精貫白日	zing guEn buo rh
 精雕細鏤	zing diau si lou
@@ -40701,10 +40698,10 @@ use_preset_vocabulary: true
 紅毛番	hung mau fEn
 紅線傳	hung siEn dhuEn
 紅茄苳	hung gia dong
-紅血球	hung hiE kiou
 紅血球	hung hUE kiou
-紅血球生成素	hung hiE kiou sheng cheng su
+紅血球	hung hiE kiou
 紅血球生成素	hung hUE kiou sheng cheng su
+紅血球生成素	hung hiE kiou sheng cheng su
 紅酒	hung ziou
 紅露酒	hung lu ziou
 紅顏命薄	hung ngiEn ming buo
@@ -40840,17 +40837,17 @@ use_preset_vocabulary: true
 絢麗	hUEn li
 絣扒	beng ba
 絣扒吊拷	beng ba diau kau
-給予	gi U
 給予	gEi U
+給予	gi U
 給事中	gi sh dhung
-給付	gi f
 給付	gEi f
+給付	gi f
 給使	gi sh
 給假	gi gia
 給散	gi sEn
 給水	gi shuEi
-給與	gi U
 給與	gEi U
+給與	gi U
 給誰	gEi shuEi
 給足	gi zu
 給養	gi iang
@@ -40890,8 +40887,8 @@ use_preset_vocabulary: true
 經綸滿腹	ging luen mEn fug
 經綸濟世	ging luen zi sh
 經藏	ging zang
-經血	ging hiE
 經血	ging hUE
+經血	ging hiE
 經行吐衄	ging hing tu nyUg
 經讖	ging chem
 經費支絀	ging fEi zh thu
@@ -41369,8 +41366,8 @@ use_preset_vocabulary: true
 老慳	lau kiEn
 老成持重	lau cheng th dhong
 老成穩重	lau cheng yuen dhong
-老撾	lau uo
 老撾	lau dhua
+老撾	lau uo
 老本行	lau ben hang
 老死溝壑	lau s gou he
 老死溝壑	lau s gou huo
@@ -41617,8 +41614,8 @@ use_preset_vocabulary: true
 胡遮刺	hu zhe la
 胡騎	hu gi
 胰液	i iEg
-胳臂	ge bi
 胳臂	ge bEi
+胳臂	ge bi
 胴體	dung ti
 胸廝撞	hUong s dhuang
 胸有丘壑	hUong iou kiou he
@@ -41671,22 +41668,22 @@ use_preset_vocabulary: true
 腔調	kiang diau
 腡肌	luo gi
 腤䐶	yEm zEm
-腥風血雨	sing fung hiE U
 腥風血雨	sing fung hUE U
+腥風血雨	sing fung hiE U
 腦中樞	nau dhung shu
-腦出血	nau chu hiE
 腦出血	nau chu hUE
+腦出血	nau chu hiE
 腦勺	nau shau
 腦性麻痺	nau sing ma bi
 腦杓子	nau shau z
 腦栓塞	nau shuEn se
 腦液	nau iEg
-腦溢血	nau i hiE
 腦溢血	nau i hUE
-腦血管栓塞	nau hiE guEn shuEn se
+腦溢血	nau i hiE
 腦血管栓塞	nau hUE guEn shuEn se
-腦貧血	nau pin hiE
+腦血管栓塞	nau hiE guEn shuEn se
 腦貧血	nau pin hUE
+腦貧血	nau pin hiE
 腦鑿子	nau zaug z
 腫噲	zhong kuai
 腳不沾地	giau bu dhEm di
@@ -41745,10 +41742,10 @@ use_preset_vocabulary: true
 膽驚心顫	dEm ging sim zhEn
 膾不厭細	kuai bu yiEm si
 膾炙人口	kuai zh rhen kou
-膿血	nong hiE
 膿血	nong hUE
-膿血債	nong hiE zhai
+膿血	nong hiE
 膿血債	nong hUE zhai
+膿血債	nong hiE zhai
 臂膀	bi bang
 臆度	yi duo
 臉嫩	liEm nen
@@ -41829,8 +41826,8 @@ use_preset_vocabulary: true
 自足自給	z zu z gi
 自鄶以下	z kuai i hia
 自重	z dhong
-自體輸血	z ti shu hiE
 自體輸血	z ti shu hUE
+自體輸血	z ti shu hiE
 臭名昭著	chou ming zhau dhu
 臭味	chou vEi
 臭味	hiou vEi
@@ -41896,8 +41893,8 @@ use_preset_vocabulary: true
 舍短錄長	she duEn lu thang
 舐癰吮痔	sh yUong shuen dh
 舒伯特	shu buo te
-舒筋活血	shu gin huo hiE
 舒筋活血	shu gin huo hUE
+舒筋活血	shu gin huo hiE
 舔吮	tiEm shuen
 舔舕	tiEm tEm
 舚破	tiEm puo
@@ -42093,8 +42090,8 @@ use_preset_vocabulary: true
 茶毗	tha pi
 茶菁	tha zing
 茶行	tha hang
-茹毛飲血	rhu mau yim hiE
 茹毛飲血	rhu mau yim hUE
+茹毛飲血	rhu mau yim hiE
 荀粲熨婦	sUin cEn yUin f
 草偃風行	cau yiEn fung hing
 草地	cau di
@@ -42181,8 +42178,8 @@ use_preset_vocabulary: true
 菁華	zing hua
 菉豆	lU dou
 菉豆眼	lU dou iEn
-菌血症	gUin hiE dheng
 菌血症	gUin hUE dheng
+菌血症	gUin hiE dheng
 菌類培養液	gUin lEi pEi iang iEg
 菑畬	z U
 菖鮋	chang iou
@@ -42360,8 +42357,8 @@ use_preset_vocabulary: true
 蒸熟的鴨子	zheng shoug de yia z
 蒸露	zheng lu
 蒼勁	cang ging
-蒼蠅見血	cang ing giEn hiE
 蒼蠅見血	cang ing giEn hUE
+蒼蠅見血	cang ing giEn hiE
 蒼鶻	cang hu
 蓁椒	cin ziau
 蓁荒	zhen huang
@@ -42858,8 +42855,8 @@ use_preset_vocabulary: true
 螗蜩	tang tiau
 螞蚍叮腿	ma pi ding tuEi
 螞蚍蜉	ma pi f
-螞蝗見血	ma huang giEn hiE
 螞蝗見血	ma huang giEn hUE
+螞蝗見血	ma huang giEn hiE
 螞螂	ma lang
 螟螣	ming teng
 螣蛇	teng she
@@ -42942,113 +42939,113 @@ use_preset_vocabulary: true
 蠻貊	mEn muo
 蠼猱	gUE nau
 蠼螋	gUE sou
-血不歸經	hiE bu guEi ging
 血不歸經	hUE bu guEi ging
+血不歸經	hiE bu guEi ging
 血仇	hUE chou
-血債	hiE zhai
 血債	hUE zhai
-血債血還	hiE zhai hiE huEn
+血債	hiE zhai
 血債血還	hUE zhai hUE huEn
-血光之災	hiE guang zh zai
+血債血還	hiE zhai hiE huEn
 血光之災	hUE guang zh zai
-血刃	hiE rhen
+血光之災	hiE guang zh zai
 血刃	hUE rhen
-血化爲碧	hiE hua uEi bi
+血刃	hiE rhen
 血化爲碧	hUE hua uEi bi
-血印	hiE yin
+血化爲碧	hiE hua uEi bi
 血印	hUE yin
-血參	hiE shem
+血印	hiE yin
 血參	hUE shem
-血友病	hiE iou bing
+血參	hiE shem
 血友病	hUE iou bing
-血口噴人	hiE kou pen rhen
+血友病	hiE iou bing
 血口噴人	hUE kou pen rhen
-血口子	hiE kou z
+血口噴人	hiE kou pen rhen
 血口子	hUE kou z
-血吸蟲	hiE hi thung
+血口子	hiE kou z
 血吸蟲	hUE hi thung
-血吸蟲病	hiE hi thung bing
+血吸蟲	hiE hi thung
 血吸蟲病	hUE hi thung bing
-血嗣	hiE s
+血吸蟲病	hiE hi thung bing
 血嗣	hUE s
-血型	hiE hing
+血嗣	hiE s
 血型	hUE hing
-血塊	hiE kuai
+血型	hiE hing
 血塊	hUE kuai
-血壓	hiE yia
+血塊	hiE kuai
 血壓	hUE yia
-血壓計	hiE yia gi
+血壓	hiE yia
 血壓計	hUE yia gi
-血小板	hiE siau bEn
+血壓計	hiE yia gi
 血小板	hUE siau bEn
-血尿	hiE nyiau
+血小板	hiE siau bEn
 血尿	hUE nyiau
-血崩	hiE beng
+血尿	hiE nyiau
 血崩	hUE beng
-血庫	hiE ku
+血崩	hiE beng
 血庫	hUE ku
-血循環	hiE sUin huEn
+血庫	hiE ku
 血循環	hUE sUin huEn
-血心	hiE sim
+血循環	hiE sUin huEn
 血心	hUE sim
-血忱	hiE chem
+血心	hiE sim
 血忱	hUE chem
-血性	hiE sing
+血忱	hiE chem
 血性	hUE sing
-血戰	hiE zhEn
+血性	hiE sing
 血戰	hUE zhEn
-血晶	hiE zing
+血戰	hiE zhEn
 血晶	hUE zing
-血書	hiE shu
+血晶	hiE zing
 血書	hUE shu
-血本	hiE ben
+血書	hiE shu
 血本	hUE ben
-血本無歸	hiE ben v guEi
+血本	hiE ben
 血本無歸	hUE ben v guEi
-血栓	hiE shuEn
+血本無歸	hiE ben v guEi
 血栓	hUE shuEn
-血案	hiE yEn
+血栓	hiE shuEn
 血案	hUE yEn
-血毛	hiE mau
+血案	hiE yEn
 血毛	hUE mau
-血氣	hiE ki
+血毛	hiE mau
 血氣	hUE ki
-血氣之勇	hiE ki zh Uong
+血氣	hiE ki
 血氣之勇	hUE ki zh Uong
-血氣方剛	hiE ki fang gang
+血氣之勇	hiE ki zh Uong
 血氣方剛	hUE ki fang gang
-血氣方壯	hiE ki fang zhuang
+血氣方剛	hiE ki fang gang
 血氣方壯	hUE ki fang zhuang
-血氣方盛	hiE ki fang sheng
+血氣方壯	hiE ki fang zhuang
 血氣方盛	hUE ki fang sheng
-血水	hiE shuEi
+血氣方盛	hiE ki fang sheng
 血水	hUE shuEi
-血汗	hiE hEn
+血水	hiE shuEi
 血汗	hUE hEn
-血汗錢	hiE hEn ciEn
+血汗	hiE hEn
 血汗錢	hUE hEn ciEn
-血污	hiE yu
+血汗錢	hiE hEn ciEn
 血污	hUE yu
-血污池	hiE yu th
+血污	hiE yu
 血污池	hUE yu th
-血泊	hiE buo
+血污池	hiE yu th
 血泊	hUE buo
-血洗	hiE si
+血泊	hiE buo
 血洗	hUE si
-血流如注	hiE liou rhu dhu
+血洗	hiE si
 血流如注	hUE liou rhu dhu
-血流成河	hiE liou cheng he
+血流如注	hiE liou rhu dhu
 血流成河	hUE liou cheng he
-血流成渠	hiE liou cheng kU
+血流成河	hiE liou cheng he
 血流成渠	hUE liou cheng kU
-血流漂杵	hiE liou piau chu
+血流成渠	hiE liou cheng kU
 血流漂杵	hUE liou piau chu
-血海	hiE hai
+血流漂杵	hiE liou piau chu
 血海	hUE hai
-血海屍山	hiE hai sh shEn
+血海	hiE hai
 血海屍山	hUE hai sh shEn
-血海深仇	hiE hai shem chou
+血海屍山	hiE hai sh shEn
 血海深仇	hUE hai shem chou
+血海深仇	hiE hai shem chou
 血液	hUE iEg
 血液凝固	hUE iEg nying gu
 血液循環	hUE iEg sUin huEn
@@ -43058,41 +43055,41 @@ use_preset_vocabulary: true
 血清	hUE cing
 血清病	hUE cing bing
 血清療法	hUE cing liau fa
-血滴子	hiE di z
 血滴子	hUE di z
-血漬	hiE z
+血滴子	hiE di z
 血漬	hUE z
+血漬	hiE z
 血漿	hUE ziang
 血漿蛋白	hUE ziang dEn bai
 血濃於水	hUE nong yU shuEi
-血瀝瀝	hiE li li
 血瀝瀝	hUE li li
-血球	hiE kiou
+血瀝瀝	hiE li li
 血球	hUE kiou
-血痂	hiE gia
+血球	hiE kiou
 血痂	hUE gia
+血痂	hiE gia
 血癌	hUE ngai
 血盆	hUE pen
 血盆大口	hUE pen da kou
 血盆經	hUE pen ging
-血祭	hiE zi
 血祭	hUE zi
+血祭	hiE zi
 血管	hUE guEn
 血管操	hUE guEn cau
 血管瘤	hUE guEn liou
 血管硬化	hUE guEn ing hua
 血糖	hUE tang
-血糞	hiE fen
 血糞	hUE fen
+血糞	hiE fen
 血紅	hUE hung
 血紅素	hUE hung su
 血紅蛋白	hUE hung dEn bai
 血統	hUE tong
-血絲	hiE s
 血絲	hUE s
+血絲	hiE s
 血緣	hUE UEn
-血肉	hiE rhoug
 血肉	hUE rhoug
+血肉	hiE rhoug
 血肉之軀	hUE rhoug zh kU
 血肉模糊	hUE rhoug muo hu
 血肉橫飛	hUE rhoug heng fEi
@@ -43105,34 +43102,34 @@ use_preset_vocabulary: true
 血腥	hUE sing
 血色	hUE se
 血色素	hUE se su
-血花	hiE hua
 血花	hUE hua
-血荒	hiE huang
+血花	hiE hua
 血荒	hUE huang
-血虛	hiE hU
+血荒	hiE huang
 血虛	hUE hU
-血虧	hiE kuEi
+血虛	hiE hU
 血虧	hUE kuEi
-血衚衕	hiE hu tung
+血虧	hiE kuEi
 血衚衕	hUE hu tung
-血衣	hiE yi
+血衚衕	hiE hu tung
 血衣	hUE yi
+血衣	hiE yi
 血親	hUE cin
 血親家族	hUE cin gia zug
-血誠	hiE cheng
 血誠	hUE cheng
+血誠	hiE cheng
 血跡	hUE zi
 血跡斑斑	hUE zi bEn bEn
-血路	hiE lu
 血路	hUE lu
-血量	hiE liang
+血路	hiE lu
 血量	hUE liang
-血雨腥風	hiE U sing fung
+血量	hiE liang
 血雨腥風	hUE U sing fung
-血食	hiE sh
+血雨腥風	hiE U sing fung
 血食	hUE sh
-血餘	hiE U
+血食	hiE sh
 血餘	hUE U
+血餘	hiE U
 衆口難調	zhung kou nEn tiau
 衆所熟知	zhung suo shug dh
 衆毛攢裘	zhung mau cuEn kiou
@@ -43461,8 +43458,8 @@ use_preset_vocabulary: true
 行蹤飄忽	hing zong piau hu
 行車	hing che
 行車執照	hing che zh zhau
-行車距離	hing che ghe li
 行車距離	hing che gU li
+行車距離	hing che ghe li
 行車速率	hing che sug lU
 行軍	hing gUin
 行軍動衆	hing gUin dung zhung
@@ -43521,6 +43518,8 @@ use_preset_vocabulary: true
 衝堅陷陣	chong giEn hiEm dhen
 衝州撞府	chong zhou dhuang f
 衝撞	chong dhuang
+衝撞	chung dhuang
+衝模	chung mu
 衝鋒陷陣	chong fong hiEm dhen
 衝陷	chong hiEm
 衡行	heng hing
@@ -43608,10 +43607,10 @@ use_preset_vocabulary: true
 補垣塞穴	bu UEn se hUE
 補掛朝珠	bu gua thau zhu
 補校	bu hiau
-補氣止血	bu ki zh hiE
 補氣止血	bu ki zh hUE
-補給	bu gi
+補氣止血	bu ki zh hiE
 補給	bu gEi
+補給	bu gi
 補給品	bu gi pim
 補給站	bu gi dhEm
 補給線	bu gi siEn
@@ -43621,8 +43620,8 @@ use_preset_vocabulary: true
 補苴罅漏	bu zU hia lou
 補苴調胹	bu zU tiau er
 補葺	bu ci
-補血	bu hiE
 補血	bu hUE
+補血	bu hiE
 補角	bu giaug
 補還	bu huEn
 裝修	zhuang siou
@@ -43688,18 +43687,18 @@ use_preset_vocabulary: true
 褚衣	thu yi
 褚遂良	thu suEi liang
 褦襶	nai dai
-褪下	tuen hia
 褪下	tuEi hia
+褪下	tuen hia
 褪前擦後	tuen ciEn ca hou
-褪去	tuen kU
 褪去	tuEi kU
+褪去	tuen kU
 褪口	tuen kou
-褪毛	tuen mau
 褪毛	tuEi mau
+褪毛	tuen mau
 褪膊	tuen buo
-褪色	tuen se
 褪色	tuEi se
 褪色	tuEi shai
+褪色	tuen se
 褪衣	tuen yi
 褫奪	th duo
 褫奪公權	th duo gung kUEn
@@ -43709,8 +43708,8 @@ use_preset_vocabulary: true
 褯子	ziE z
 褰裳	kiEn chang
 褲褶	ku si
-褶子	si z
 褶子	sUE z
+褶子	si z
 褶子	zhe z
 襂纚	shEn sh
 襒席	biE si
@@ -43798,8 +43797,8 @@ use_preset_vocabulary: true
 見着	giEn dhau
 見糧	hiEn liang
 見絀	giEn thu
-見血封喉	giEn hiE fong hou
 見血封喉	giEn hUE fong hou
+見血封喉	giEn hiE fong hou
 見解	giEn giE
 見過	giEn guo
 見錢	hiEn ciEn
@@ -43974,8 +43973,8 @@ use_preset_vocabulary: true
 言行若一	iEn hing rhuo yi
 言行計從	iEn hing gi cong
 言行錄	iEn hing lu
-言言	in in
 言言	iEn iEn
+言言	in in
 言詞泠泠	iEn c ling ling
 言談行事	iEn tEm hing sh
 言重	iEn dhong
@@ -44101,8 +44100,8 @@ use_preset_vocabulary: true
 說客	shuEi ke
 說得着	shuo de dhau
 說明什麼	shuo ming shem me
-說服	shuo fug
 說服	shuEi f
+說服	shuo fug
 說服力	shuEi fug li
 說短論長	shuo duEn luen thang
 說短道長	shuo duEn dau thang
@@ -44137,8 +44136,8 @@ use_preset_vocabulary: true
 誰能無情	shEi neng v cing
 誰能無過	shEi neng v guo
 誰行	shEi hang
-誰誰	shuEi shuEi
 誰誰	shEi shEi
+誰誰	shuEi shuEi
 誰讓你	shuEi rhang nyi
 誰還	shuEi hai
 誰都會	shuEi dou huEi
@@ -44586,10 +44585,10 @@ use_preset_vocabulary: true
 貧無立錐之地	pin v li zhuEi zh di
 貧窶	pin gU
 貧而樂道	pin er le dau
-貧血	pin hiE
 貧血	pin hUE
-貧血病	pin hiE bing
+貧血	pin hiE
 貧血病	pin hUE bing
+貧血病	pin hiE bing
 貨卜	huo bug
 貨幣供給額	huo bi gong gi e
 貨殖	huo zh
@@ -44800,10 +44799,10 @@ use_preset_vocabulary: true
 赤地千里	ch di ciEn li
 赤墀	ch th
 赤嵌樓	ch kEm lou
-赤血丹心	ch hiE dEn sim
 赤血丹心	ch hUE dEn sim
-赤血鹽	ch hiE iEm
+赤血丹心	ch hiE dEn sim
 赤血鹽	ch hUE iEm
+赤血鹽	ch hiE iEm
 赤身露體	ch shen lou ti
 赤露	ch lu
 赤鯶公	ch huEn gung
@@ -45214,8 +45213,8 @@ use_preset_vocabulary: true
 輸着	shu dhau
 輸着	shu dhe
 輸肝剖膽	shu gEn pou dEm
-輸血	shu hiE
 輸血	shu hUE
+輸血	shu hiE
 輾轉	dhEn dhuEn
 輾轉不寐	dhEn dhuEn bu mEi
 輾轉反側	dhEn dhuEn fEn ce
@@ -45346,8 +45345,8 @@ use_preset_vocabulary: true
 追蹤躡跡	dhuEi zong nyiE zi
 追風躡影	dhuEi fung nyiE ying
 退佃	tuEi diEn
-退怯怯	tuEi kiE kiE
 退怯怯	tuEi kUE kUE
+退怯怯	tuEi kiE kiE
 退省	tuEi sing
 退耕還林	tuEi geng huEn lim
 退藏於密	tuEi cang yU mi
@@ -45703,31 +45702,31 @@ use_preset_vocabulary: true
 邠縣	bin hiEn
 邢侗	hing tung
 那些	na siE
-那位	na uEi
 那位	nEi uEi
+那位	na uEi
 那個地方	na ge di fang
 那借	nuo ziE
 那動	nuo dung
 那句	na gU
-那天	na tiEn
 那天	nEi tiEn
-那家	na gia
+那天	na tiEn
 那家	nEi gia
+那家	na gia
 那就	na ziou
-那張	na dhang
 那張	nEi dhang
-那時候	na sh hou
+那張	na dhang
 那時候	nEi sh hou
-那次	na c
+那時候	na sh hou
 那次	nEi c
+那次	na c
 那步	nuo bu
-那種	na zhong
 那種	nEi zhong
+那種	na zhong
 那種感覺	na zhong gEm gUE
-那臺	na tai
 那臺	nEi tai
-那邊	na biEn
+那臺	na tai
 那邊	nEi biEn
+那邊	na biEn
 那麼着	na me dhau
 邦伯	bang buo
 邦畿	bang gi
@@ -46197,8 +46196,8 @@ use_preset_vocabulary: true
 重遷	dhong ciEn
 重酒	dhong ziou
 重酬	dhong chou
-重重	thong thong
 重重	dhong dhong
+重重	thong thong
 重重地	dhong dhong de
 重重疊疊	thong thong diE diE
 重重的	dhong dhong de
@@ -46304,8 +46303,8 @@ use_preset_vocabulary: true
 釘鈀	ding ba
 釘齒耙	ding ch pa
 針芥相投	zhem giE siang tou
-針針見血	zhem zhem giEn hiE
 針針見血	zhem zhem giEn hUE
+針針見血	zhem zhem giEn hiE
 釣遊舊地	diau iou giou di
 釵腳漏痕	chai gUE lou hen
 鈀子拳	ba z kUEn
@@ -46940,8 +46939,8 @@ use_preset_vocabulary: true
 開不了	kai bu liau
 開什麼	kai shem me
 開呵	kai he
-開堂歃血	kai tang sha hiE
 開堂歃血	kai tang sha hUE
+開堂歃血	kai tang sha hiE
 開天闢地	kai tiEn pi di
 開小差	kai siau chai
 開差	kai chai
@@ -47347,8 +47346,8 @@ use_preset_vocabulary: true
 隱睪症	yin gau dheng
 隱祕	yin mi
 隱藏	yin cang
-隱血	yin hiE
 隱血	yin hUE
+隱血	yin hiE
 隱跡藏名	yin zi cang ming
 隴西行	long si hing
 雀瞀	cUE mau
@@ -47416,12 +47415,12 @@ use_preset_vocabulary: true
 雞爪釘	gi zhua ding
 雞皮疙瘩	gi pi ge da
 雞瞀眼	gi mau iEn
-雞肋	gi le
 雞肋	gi lEi
+雞肋	gi le
 雞肋尊拳	gi le zuen kUEn
 雞肫皮	gi zhuen pi
-雞血石	gi hiE sh
 雞血石	gi hUE sh
+雞血石	gi hiE sh
 雞鶩	gi v
 雞鶩爭食	gi v zheng sh
 雞鹿塞	gi lug sai
@@ -47465,8 +47464,8 @@ use_preset_vocabulary: true
 雲麾將軍碑	Uin huEi ziang gUin bEi
 零稅率	ling shuEi lU
 雷厲風行	lEi li fung hing
-雷射血管成形術	lEi she hiE guEn cheng hing shu
 雷射血管成形術	lEi she hUE guEn cheng hing shu
+雷射血管成形術	lEi she hiE guEn cheng hing shu
 雷神進行曲	lEi shen zin hing kUg
 雷轟電掣	lEi hong diEn che
 雷霆電雹	lEi ting diEn bau
@@ -47581,8 +47580,8 @@ use_preset_vocabulary: true
 露露	lu lu
 露面	lou miEn
 露面拋頭	lou miEn pau tou
-露頭角	lou tou giaug
 露頭角	lou tou gUEg
+露頭角	lou tou giaug
 露風	lou fung
 露風聲	lou fung sheng
 露餡	lou hiEm
@@ -47627,10 +47626,10 @@ use_preset_vocabulary: true
 靜態	zing tai
 靜態化	zing tai hua
 靜止	zing zh
-靜脈血	zing mai hiE
 靜脈血	zing mai hUE
-靜脈血栓症	zing mai hiE shuEn dheng
+靜脈血	zing mai hiE
 靜脈血栓症	zing mai hUE shuEn dheng
+靜脈血栓症	zing mai hiE shuEn dheng
 靜謐	zing mi
 靜謐無聲	zing mi v sheng
 非一狐之腋	fEi yi hu zh i
@@ -47638,23 +47637,23 @@ use_preset_vocabulary: true
 非常重要	fEi chang dhong yiau
 非常重視	fEi chang dhong sh
 非得	fEi dEi
-非得到	fEi de dau
 非得到	fEi dEi dau
+非得到	fEi de dau
 非法行事	fEi fa hing sh
 非法行爲	fEi fa hing uEi
-非洲出血熱	fEi zhou chu hiE rhe
 非洲出血熱	fEi zhou chu hUE rhe
+非洲出血熱	fEi zhou chu hiE rhe
 靠行	kau hang
 靡靡之樂	mi mi zh UE
-面如噀血	miEn rhu sUin hiE
 面如噀血	miEn rhu sUin hUE
+面如噀血	miEn rhu sUin hiE
 面如重棗	miEn rhu dhong zau
 面嫩	miEn nen
 面子上的差使	miEn z shang de chai sh
 面朝	miEn thau
 面沒羅	miEn muo luo
-面無血色	miEn v hiE se
 面無血色	miEn v hUE se
+面無血色	miEn v hiE se
 面熟	miEn shug
 面生不熟	miEn sheng bu shug
 面的	miEn di
@@ -47814,12 +47813,12 @@ use_preset_vocabulary: true
 頭朝裏	tou thau li
 頭癬	tou siEn
 頭皮屑	tou pi siE
-頭破血出	tou puo hiE chu
 頭破血出	tou puo hUE chu
-頭破血流	tou puo hiE liou
+頭破血出	tou puo hiE chu
 頭破血流	tou puo hUE liou
-頭破血淋	tou puo hiE lim
+頭破血流	tou puo hiE liou
 頭破血淋	tou puo hUE lim
+頭破血淋	tou puo hiE lim
 頭蓬眼瘇	tou pung iEn zhong
 頭角崢嶸	tou giaug zheng rhong
 頭角嶄然	tou giaug zhEm rhEn
@@ -47830,8 +47829,8 @@ use_preset_vocabulary: true
 頭髲	tou bi
 頮濯	huEi dhuo
 頰嗛	gia kiEm
-頸血	ging hiE
 頸血	ging hUE
+頸血	ging hiE
 頹圮	tuEi pi
 頻數	pin shuo
 頻率	pin lU
@@ -47879,8 +47878,8 @@ use_preset_vocabulary: true
 顯露	hiEn lu
 顯露原形	hiEn lu UEn hing
 顯露頭角	hiEn lu tou giaug
-顱蓋內出血	lu gai nEi chu hiE
 顱蓋內出血	lu gai nEi chu hUE
+顱蓋內出血	lu gai nEi chu hiE
 風乾	fung gEn
 風什	fung sh
 風伯	fung buo
@@ -48212,8 +48211,8 @@ use_preset_vocabulary: true
 驍騰	hiau teng
 驍驍	hiau hiau
 驕恣	giau z
-驗血	ngiEm hiE
 驗血	ngiEm hUE
+驗血	ngiEm hiE
 驚天動地	ging tiEn dung di
 驚天地	ging tiEn di
 驚蟄	ging dhe
@@ -48235,8 +48234,8 @@ use_preset_vocabulary: true
 骨殖匣	gu zh hia
 骨肉重逢	gu rhoug thong fong
 骨董行	gu dung hang
-骨血	gu hiE
 骨血	gu hUE
+骨血	gu hiE
 骨都	gu du
 骨都都	gu du du
 骨顫肉驚	gu zhEn rhoug ging
@@ -48300,10 +48299,10 @@ use_preset_vocabulary: true
 高義薄雲	gau i buo Uin
 高興	gau hing
 高舉深藏	gau gU shem cang
-高血壓	gau hiE yia
 高血壓	gau hUE yia
-高血糖症	gau hiE tang dheng
+高血壓	gau hiE yia
 高血糖症	gau hUE tang dheng
+高血糖症	gau hiE tang dheng
 高行	gau hing
 高調照片	gau diau zhau piEn
 高速增長	gau sug zeng dhang
@@ -48336,8 +48335,8 @@ use_preset_vocabulary: true
 鬱塞	yUd se
 鬱壘	yUd lU
 鬱燠	yUd yUg
-鬱血	yUd hiE
 鬱血	yUd hUE
+鬱血	yUd hiE
 鬱鬱不樂	yUd yUd bu le
 鬱鬱寡歡	yUd yUd gua huEn
 鬻兒賣女	Ug er mai nyU
@@ -48367,6 +48366,7 @@ use_preset_vocabulary: true
 魏晉	nguEi zin
 魏晉南北朝	nguEi zin nEm bEi thau
 魏長生	nguEi thang sheng
+魐魀	gEm ga
 魑魅	th mEi
 魑魅魍魎	th mEi vang liang
 魔媼	muo yau
@@ -48395,8 +48395,8 @@ use_preset_vocabulary: true
 鮭菜	hiE cai
 鮭魚	guEi U
 鮮嫩	siEn nen
-鮮血	siEn hiE
 鮮血	siEn hUE
+鮮血	siEn hiE
 鰈鶼	diE giEm
 鰓尾類	sai vEi lEi
 鰓葉	sai iE
@@ -48723,8 +48723,8 @@ use_preset_vocabulary: true
 鼻咽癌	bi yiEn ngai
 鼻咽道	bi yiEn dau
 鼻塞聲重	bi se sheng dhong
-鼻血	bi hiE
 鼻血	bi hUE
+鼻血	bi hiE
 鼻衄	bi nyUg
 鼽嚏	kiou ti
 鼾齁	hEn hou
