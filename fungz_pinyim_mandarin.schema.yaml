@@ -63,7 +63,7 @@ speller:
     - xform/Ung/Uong/
     - xform/^ny([iU])/n$1/
     - xform/([aoeuiAOEUI])m$/$1n/ # 脣鼻音和齒鼻音合併
-    - xform/([aoeuiAOEUI])[bdgy]$/$1/ # 去除入聲
+    - xform/([aoeuiAOEUI])([MNy]|NG)$/$1/ # 去除入聲
     - xform/[zg]([iU])/j$1/ # 尖團合併
     - xform/[ck]([iU])/q$1/ # 尖團合併
     - xform/[sh]([iU])/x$1/ # 尖團合併
