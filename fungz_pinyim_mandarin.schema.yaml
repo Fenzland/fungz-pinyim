@@ -9,7 +9,7 @@ schema:
     - 楓梓 <uukoo@163.com>
   description: |
     基於 Rime 的拼音方案
-    在現代漢語拼音的基礎上，進行更加符合發音的優化
+    在《現代漢語拼音》的基礎上，進行更加符合發音的優化。
   dependencies:
     - cangjie5
 
