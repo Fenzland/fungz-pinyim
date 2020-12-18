@@ -184,7 +184,10 @@ punctuator:
   import_preset: default
 
 key_binder:
-  import_preset: default
+  bindings:
+    - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
 
 recognizer:
   import_preset: default
