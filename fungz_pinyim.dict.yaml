@@ -316,7 +316,7 @@ use_preset_vocabulary: true
 㨮	dou
 㨴	giEn
 㨻	cEm
-㩋	siauNG
+㩋	siau
 㩋	suNG
 㩐	den
 㩒	kim
@@ -778,7 +778,7 @@ use_preset_vocabulary: true
 䮖	chang
 䮗	En
 䮝	huen
-䮽	biauNG
+䮽	biau
 䮾	pung
 䯀	nyiE
 䯝	suEi
@@ -1465,7 +1465,6 @@ use_preset_vocabulary: true
 俵	biau
 俶	chuNG
 俶	tiNG
-俶	ziauNG
 俷	fEi
 俸	fung
 俹	yia
@@ -1922,8 +1921,7 @@ use_preset_vocabulary: true
 兪	shu	0%
 八	ba
 公	gung
-六	liouNG	99.90%
-六	luNG	0.10%
+六	luNG
 兮	hi
 兰	lEn
 共	gong
@@ -2083,7 +2081,7 @@ use_preset_vocabulary: true
 凼	dang
 函	hEm
 凾	hEn
-凿	zauNG	89.37%
+凿	zau	89.37%
 凿	zuoNG	10.63%
 刀	dau
 刁	diau
@@ -2199,7 +2197,7 @@ use_preset_vocabulary: true
 剢	zhuo
 剣	giEn
 剤	zi
-剥	bauNG	2.33%
+剥	bau	2.33%
 剥	buoNG	97.67%
 剧	gU	100%
 剧	gi	0%
@@ -2807,7 +2805,7 @@ use_preset_vocabulary: true
 呇	ta
 呈	theng
 呉	ngu
-告	gauNG	100%
+告	gau	100%
 告	guNG	0%
 呋	diE
 呋	f
@@ -3029,7 +3027,7 @@ use_preset_vocabulary: true
 哪	ne	0.88%
 哫	zuNG
 哬	he
-哭	kauNG	0%
+哭	kau	0%
 哭	kuNG	100%
 哮	hiau
 哯	hiEn
@@ -3140,7 +3138,7 @@ use_preset_vocabulary: true
 啂	nou
 啃	ken
 啄	dhuoNG
-啅	dhauNG
+啅	dhau
 啅	dhuoNG
 商	shang
 啇	di
@@ -3223,7 +3221,7 @@ use_preset_vocabulary: true
 喉	hou
 喊	hEm
 喋	diE
-喌	zhouNG
+喌	zhou
 喍	chai
 喎	kuai
 喏	nuo	96.02%
@@ -3316,7 +3314,6 @@ use_preset_vocabulary: true
 嗒	ta
 嗓	sang
 嗔	chen
-嗕	nouNG
 嗕	rhuNG
 嗖	sou
 嗗	gu
@@ -3361,7 +3358,7 @@ use_preset_vocabulary: true
 嗻	zhu
 嗼	muo
 嗽	shuNG
-嗽	souNG
+嗽	sou
 嗾	sou
 嗾	suo
 嗾	zu
@@ -3501,9 +3498,8 @@ use_preset_vocabulary: true
 噠	da
 噡	zhEm
 噢	yUNG	0%
-噢	yo	99%
-噢	youNG	1%
-噣	dhouNG
+噢	yo	100%
+噣	dhou
 噣	dhuoNG
 噤	gim
 噥	nong
@@ -3568,7 +3564,7 @@ use_preset_vocabulary: true
 嚔	ti
 嚕	lu
 嚖	huEi
-嚗	bauNG
+嚗	bau
 嚘	yiou
 嚙	nyiE
 嚚	in
@@ -3677,7 +3673,7 @@ use_preset_vocabulary: true
 囼	tai
 国	guo
 图	tu
-囿	iouNG
+囿	iou
 圀	guo
 圁	in
 圂	huEn
@@ -3817,7 +3813,6 @@ use_preset_vocabulary: true
 坲	fuN
 坲	fuo
 坳	yau
-坴	liouNG
 坴	luNG
 坵	kiou
 坶	mu
@@ -4084,9 +4079,9 @@ use_preset_vocabulary: true
 塖	cheng
 塗	tu
 塘	tang
-塙	gauNG
+塙	gau
 塙	kUENG
-塙	kiauNG
+塙	kiau
 塚	dhong
 塛	liN
 塜	pong
@@ -4192,7 +4187,7 @@ use_preset_vocabulary: true
 墴	huang
 墵	tEn
 墷	iE
-墺	yauNG
+墺	yau
 墻	ciang
 墼	gi
 墽	gi
@@ -4287,8 +4282,7 @@ use_preset_vocabulary: true
 夊	suEi
 夋	zUin
 夌	ling
-复	fouNG	0%
-复	fuNG	100%
+复	fuNG
 夎	zuo
 夏	gia	0%
 夏	hia	100%
@@ -4400,7 +4394,7 @@ use_preset_vocabulary: true
 奥	yU	0%
 奥	yau	100%
 奦	v
-奧	yU	0%
+奧	yUNG	0%
 奧	yau	100%
 奨	ziang
 奩	liEm
@@ -4486,7 +4480,7 @@ use_preset_vocabulary: true
 妬	du
 妭	buo
 妮	nyi
-妯	dhouNG
+妯	dhou
 妯	dhuNG
 妰	zhuo
 妱	zhau
@@ -4794,7 +4788,7 @@ use_preset_vocabulary: true
 媟	siE
 媠	tuo
 媡	liEn
-媢	mauNG
+媢	mau
 媣	rhEm
 媤	s
 媥	piEn
@@ -4951,7 +4945,7 @@ use_preset_vocabulary: true
 嬤	ma
 嬤	muo
 嬥	dhuoNG
-嬥	tiauNG
+嬥	tiau
 嬦	chou
 嬧	zin
 嬨	c
@@ -5132,7 +5126,7 @@ use_preset_vocabulary: true
 宼	kou
 宽	kuEn
 宾	bin
-宿	siouNG	15.31%
+宿	siou	15.31%
 宿	suNG	84.69%
 寀	cai
 寀	shen
@@ -6400,7 +6394,7 @@ use_preset_vocabulary: true
 忶	huen
 忷	hUong
 忸	nyUNG
-忸	nyiouNG
+忸	nyiou
 忹	nyin
 忹	rhen
 忺	hiEm
@@ -6969,7 +6963,7 @@ use_preset_vocabulary: true
 懇	ken
 懈	hiE
 應	ying
-懊	yauNG
+懊	yau
 懋	mau
 懋	mou
 懌	i
@@ -7498,7 +7492,7 @@ use_preset_vocabulary: true
 捒	sou
 捓	iE
 捔	gUENG
-捔	giauNG
+捔	giau
 捕	bu
 捖	huEn
 捖	uEn
@@ -7560,7 +7554,7 @@ use_preset_vocabulary: true
 掇	dhuEi
 掇	duo
 授	shou
-掉	diauNG
+掉	diau
 掊	pou
 掋	di
 掌	zhang
@@ -7691,7 +7685,7 @@ use_preset_vocabulary: true
 揯	heng
 揰	chong
 揱	shuoNG
-揱	siauNG
+揱	siau
 揲	diE
 揲	she
 揳	ci
@@ -7735,7 +7729,7 @@ use_preset_vocabulary: true
 搖	iau
 搗	dau
 搘	zh
-搙	nouNG
+搙	nou
 搙	nuNG
 搙	nuoNG
 搚	hiE
@@ -7882,7 +7876,7 @@ use_preset_vocabulary: true
 摿	yin
 撀	gou
 撁	kiEn
-撂	liauNG
+撂	liau
 撃	gi
 撄	ying
 撅	gUEN
@@ -8252,8 +8246,8 @@ use_preset_vocabulary: true
 斝	gia
 斞	U
 斟	zhem
-斠	giauNG
-斠	gouNG
+斠	gUENG
+斠	giau
 斡	guEn
 斡	yuo
 斢	tou
@@ -8573,7 +8567,7 @@ use_preset_vocabulary: true
 暱	nyiN
 暲	zhang
 暳	huEi
-暴	bauNG	99.78%
+暴	bau	99.78%
 暴	puNG	0.22%
 暵	hEn
 暶	sUEn
@@ -8623,7 +8617,7 @@ use_preset_vocabulary: true
 曚	mung
 曛	hUin
 曜	iau
-曝	bauNG	80.43%
+曝	bau	80.43%
 曝	puNG	19.57%
 曞	li
 曟	chen
@@ -8728,14 +8722,14 @@ use_preset_vocabulary: true
 朱	zhu	100%
 朲	rhen
 朳	ba
-朴	piauNG	50%
+朴	piau	50%
 朴	puNG	55.16%
 朴	puoNG	0.63%
 朵	duo
 朶	duo
-朷	dauNG
+朷	dau
 朷	muNG
-朷	tiauNG
+朷	tiau
 朸	li
 朹	chou
 朹	kiou
@@ -8920,7 +8914,7 @@ use_preset_vocabulary: true
 柙	gia
 柙	hia
 柚	dhuNG	0%
-柚	iouNG	100%
+柚	iou	100%
 柛	shen
 柜	gU	0.70%
 柜	guEi	99.30%
@@ -9028,7 +9022,7 @@ use_preset_vocabulary: true
 栭	er
 栮	er
 栯	yUNG
-栯	yiouNG
+栯	yiou
 栰	faN
 栱	gong
 栲	kau
@@ -9106,7 +9100,7 @@ use_preset_vocabulary: true
 桵	rhuEi
 桶	tung
 桷	gUENG
-桷	giauNG
+桷	giau
 桸	hi
 桹	lang
 桺	liou
@@ -9131,7 +9125,7 @@ use_preset_vocabulary: true
 梌	tu
 梍	zau
 梎	yiau
-梏	gauNG
+梏	gau
 梏	guNG
 梐	bi
 梑	di
@@ -9553,7 +9547,7 @@ use_preset_vocabulary: true
 槿	gin
 樀	di
 樁	dhuang
-樂	lauNG	0%
+樂	lau	0%
 樂	leNG	94%
 樂	ngUENG	5%
 樂	ngiau	1%
@@ -9663,7 +9657,7 @@ use_preset_vocabulary: true
 橘	gUN
 橙	then	0%
 橙	theng	100%
-橚	siauNG
+橚	siau
 橚	suNG
 橛	gUEN
 橜	gUEN
@@ -9904,7 +9898,7 @@ use_preset_vocabulary: true
 欴	lang
 欵	kuEn
 欶	shuoNG
-欶	souNG
+欶	sou
 欷	hi
 欸	yEi
 欸	yai	50%
@@ -9928,7 +9922,7 @@ use_preset_vocabulary: true
 歇	hiEN
 歈	U
 歉	kiEm
-歊	hiauNG
+歊	hiau
 歋	i
 歌	ge
 歍	yu
@@ -10072,7 +10066,7 @@ use_preset_vocabulary: true
 毁	huEi
 毂	guNG
 毃	kUENG
-毃	kiauNG
+毃	kiau
 毄	gi
 毅	i
 毆	kU	0%
@@ -10108,7 +10102,7 @@ use_preset_vocabulary: true
 毡	tEn
 毡	zhEn
 毢	sai
-毣	mauNG
+毣	mau
 毣	muNG
 毤	tuo
 毥	sUin
@@ -10328,7 +10322,7 @@ use_preset_vocabulary: true
 沏	ciE	0%
 沐	muNG
 沑	nyUNG
-沑	nyiouNG
+沑	nyiou
 沒	mEi	99.89%
 沒	muoN	0.11%
 沓	miau	23.44%
@@ -10471,7 +10465,7 @@ use_preset_vocabulary: true
 洀	zhou
 洁	giEN
 洁	giN
-洂	iENG
+洂	iNG
 洃	huEi
 洄	huEi
 洅	zai
@@ -10677,7 +10671,7 @@ use_preset_vocabulary: true
 涯	ngia
 涰	chuo
 涱	zhang
-液	iENG
+液	iNG
 涳	kung
 涴	yuEn
 涴	yuo
@@ -11004,8 +10998,8 @@ use_preset_vocabulary: true
 滆	he
 滇	diEn
 滇	tiEn
-滈	gauNG
-滈	hauNG
+滈	gau
+滈	hau
 滉	huang
 滊	ki
 滋	z
@@ -11177,7 +11171,7 @@ use_preset_vocabulary: true
 潘	pEn
 潙	guEi
 潙	uEi
-潚	siauNG
+潚	siau
 潚	suNG
 潛	ciEm
 潜	ciEm
@@ -11282,7 +11276,7 @@ use_preset_vocabulary: true
 澱	diEn
 澲	iE
 澳	yUNG	0%
-澳	yauNG	100%
+澳	yau	100%
 澴	huEn
 澵	cin
 澵	zhen
@@ -11359,7 +11353,7 @@ use_preset_vocabulary: true
 濭	ke
 濭	yai
 濮	puNG
-濯	dhauNG
+濯	dhau
 濯	dhuoNG
 濰	uEi
 濱	bin	100%
@@ -11398,7 +11392,7 @@ use_preset_vocabulary: true
 瀎	miE
 瀏	liou
 瀐	ziEn
-瀑	bauNG	2.02%
+瀑	bau	2.02%
 瀑	puNG	97.98%
 瀒	se
 瀓	cheng
@@ -11422,8 +11416,8 @@ use_preset_vocabulary: true
 瀢	uEi
 瀣	hiE
 瀤	huai
-瀥	gauNG
-瀥	hauNG
+瀥	gau
+瀥	hau
 瀦	dhu
 瀧	lung	87.27%
 瀧	shuang	12.73%
@@ -11455,7 +11449,7 @@ use_preset_vocabulary: true
 灀	shuang
 灁	yUEn
 灂	zhuoNG
-灂	ziauNG
+灂	ziau
 灃	fung
 灄	she
 灅	lEi
@@ -11681,7 +11675,7 @@ use_preset_vocabulary: true
 焃	he
 焄	gUin
 焄	hUin
-焅	kauNG
+焅	kau
 焅	kuNG
 焆	gUEN
 焆	gUEn
@@ -11832,7 +11826,7 @@ use_preset_vocabulary: true
 熆	he
 熇	heNG
 熇	huNG
-熇	kauNG
+熇	kau
 熈	hi
 熉	Uin
 熊	Ung
@@ -11856,8 +11850,7 @@ use_preset_vocabulary: true
 熜	zung
 熝	lu
 熞	giEn
-熟	shouNG	12.20%
-熟	shuNG	87.80%
+熟	shuNG
 熠	i
 熡	lou
 熢	fung
@@ -11934,7 +11927,7 @@ use_preset_vocabulary: true
 燜	men
 營	ing
 燠	yUNG
-燠	yauNG
+燠	yau
 燡	i
 燢	hUENG
 燣	lEm
@@ -11975,7 +11968,7 @@ use_preset_vocabulary: true
 爄	li
 爄	liE
 爅	muo
-爆	bauNG	100%
+爆	bau	100%
 爆	buoNG	0%
 爇	rhe
 爇	rhuo
@@ -12071,7 +12064,7 @@ use_preset_vocabulary: true
 牘	duNG
 牙	ngia
 牚	theng
-牛	nyiou
+牛	ngiou
 牝	pin
 牞	giou
 牞	le
@@ -12112,7 +12105,7 @@ use_preset_vocabulary: true
 牼	keng
 牽	kiEn
 牾	ngu
-牿	gauNG
+牿	gau
 牿	guNG
 犀	si
 犁	li
@@ -12138,7 +12131,7 @@ use_preset_vocabulary: true
 犓	chu
 犔	hi
 犕	bEi
-犖	lauNG
+犖	lau
 犖	luoNG
 犗	giE
 犗	hai
@@ -12157,7 +12150,7 @@ use_preset_vocabulary: true
 犣	liE
 犤	pi
 犥	piau
-犦	bauNG
+犦	bau
 犧	hi
 犨	chou
 犩	uEi
@@ -12424,7 +12417,6 @@ use_preset_vocabulary: true
 率	shuo	0%
 玈	lu
 玉	UNG
-玊	siouNG
 玊	suNG
 王	U	0%
 王	uang	100%
@@ -12762,7 +12754,7 @@ use_preset_vocabulary: true
 璷	f
 璷	lu
 璸	bin
-璹	shouNG
+璹	shou
 璹	shuNG
 璺	ven
 璻	cuEi
@@ -12807,11 +12799,11 @@ use_preset_vocabulary: true
 瓛	hiEn
 瓛	huEn
 瓜	gua
-瓝	bauNG
+瓝	bau
 瓝	buoNG
 瓞	diE
-瓟	bauNG
-瓟	pauNG
+瓟	bau
+瓟	pau
 瓠	hu
 瓡	zh
 瓢	piau
@@ -13298,7 +13290,7 @@ use_preset_vocabulary: true
 皀	hiang
 皁	zau
 皂	zau
-皃	mauNG
+皃	mau
 的	de	99.97%
 的	di	0.03%
 皅	ba
@@ -13464,7 +13456,7 @@ use_preset_vocabulary: true
 眇	miau
 眈	dEm
 眉	mEi
-眊	mauNG
+眊	mau
 看	kEn
 県	hiEn
 眍	kou
@@ -13601,8 +13593,7 @@ use_preset_vocabulary: true
 睽	kuEi
 睾	gau
 睿	rhuEi
-瞀	mauNG
-瞀	mouNG
+瞀	mau
 瞁	hU
 瞂	faN
 瞃	duen
@@ -13860,7 +13851,7 @@ use_preset_vocabulary: true
 硜	ging
 硜	keng
 硝	siau
-硞	gauNG
+硞	gau
 硞	kUENG
 硞	kuNG
 硟	chEn
@@ -13969,7 +13960,7 @@ use_preset_vocabulary: true
 碴	cha
 碸	fung
 確	kUENG
-碻	gauNG
+碻	gau
 碻	kUENG
 碼	ma
 碽	gung
@@ -14184,7 +14175,7 @@ use_preset_vocabulary: true
 祭	zi	100%
 祮	gau
 祯	dhen
-祰	gauNG
+祰	gau
 祱	shuEi
 祲	zim
 祳	chen
@@ -14449,7 +14440,7 @@ use_preset_vocabulary: true
 穚	giau
 穚	kiau
 穛	zhuoNG
-穛	ziauNG
+穛	ziau
 穜	dhong
 穜	tung
 穟	suEi
@@ -14498,7 +14489,7 @@ use_preset_vocabulary: true
 窅	yiau
 窆	biEm
 窆	fa
-窇	bauNG
+窇	bau
 窈	yiau
 窉	bing
 窊	yua
@@ -14837,9 +14828,9 @@ use_preset_vocabulary: true
 箽	dung
 箾	sUENG
 箾	shuoNG
-箾	siauNG
+箾	siau
 箿	zi
-節	ziE
+節	ziEN
 篁	huang
 篂	sing
 篃	mEi
@@ -15083,8 +15074,8 @@ use_preset_vocabulary: true
 粣	ce
 粤	UEN
 粥	UNG	0%
-粥	zhouNG	100%
 粥	zhuNG	0%
+粥	zhuNG	100%
 粦	lin
 粧	zhuang
 粨	bai
@@ -15574,9 +15565,9 @@ use_preset_vocabulary: true
 繃	beng
 繄	yi
 繅	sau
-繆	miauNG	32.77%
-繆	miouNG	60%
-繆	mouNG	0.84%
+繆	miau	32.77%
+繆	miou	60%
+繆	mou	0.84%
 繆	muNG	0.84%
 繇	dhou	24.14%
 繇	iau	51.72%
@@ -15679,7 +15670,7 @@ use_preset_vocabulary: true
 纙	luo
 纚	sh
 纚	si
-纛	dauNG
+纛	dau
 纛	duNG
 纜	lEm
 纝	lEi
@@ -15819,9 +15810,12 @@ use_preset_vocabulary: true
 缦	mEn
 缧	lEi
 缨	ying
+缩	suNG	0.62%
 缩	suoNG	99.38%
-缪	miauNG	32.77%
-缪	mouNG	0.84%
+缪	miau	32.77%
+缪	miou	60%
+缪	mou	0.84%
+缪	muNG	0.84%
 缫	sau
 缬	hiE
 缭	liau
@@ -16031,7 +16025,7 @@ use_preset_vocabulary: true
 翘	kiau
 翚	huEi
 翛	shuNG
-翛	siauNG
+翛	siau
 翜	se
 翜	sha
 翜	zia
@@ -16056,7 +16050,7 @@ use_preset_vocabulary: true
 翭	hou
 翮	ge
 翮	he
-翯	gauNG
+翯	gau
 翯	huoNG
 翰	hEn
 翱	ngau
@@ -16124,7 +16118,7 @@ use_preset_vocabulary: true
 耥	tang
 耦	ou
 耧	lou
-耨	nouNG
+耨	nou
 耨	rhuNG
 耩	giang
 耩	gou
@@ -16234,8 +16228,7 @@ use_preset_vocabulary: true
 肆	s
 肇	dhau
 肈	dhau
-肉	rhouNG	100%
-肉	rhuNG	0%
+肉	rhuNG
 肊	yi
 肋	lEi
 肋	le
@@ -16761,7 +16754,6 @@ use_preset_vocabulary: true
 舰	giEm
 舱	cang
 舲	ling
-舳	dhouNG
 舳	dhuNG
 舴	ze
 舵	duo
@@ -16793,7 +16785,7 @@ use_preset_vocabulary: true
 艏	shou
 艐	zung
 艑	biEn
-艒	mauNG
+艒	mau
 艓	diE
 艕	bang
 艖	cha
@@ -17196,8 +17188,8 @@ use_preset_vocabulary: true
 莡	cuo
 莢	gia
 莣	vang
-莤	iouNG
-莤	suoNG
+莤	iou
+莤	suNG
 莥	chou
 莥	nyiou
 莦	shau
@@ -17303,7 +17295,7 @@ use_preset_vocabulary: true
 菼	tEm
 菽	shuNG
 菾	tiEm
-菿	dauNG
+菿	dau
 萀	hu
 萁	ki
 萂	he
@@ -17364,7 +17356,7 @@ use_preset_vocabulary: true
 萸	U
 萹	biEn	99.37%
 萹	piEn	0.63%
-萺	mauNG
+萺	mau
 萻	yEm
 萼	e
 落	la	1.06%
@@ -17433,7 +17425,7 @@ use_preset_vocabulary: true
 葭	gia
 葮	duEn
 葯	yUENG
-葯	yiauNG
+葯	yiau
 葰	suEi
 葰	zUin
 葱	cung
@@ -17569,7 +17561,7 @@ use_preset_vocabulary: true
 蓦	muo
 蓧	diau
 蓨	tiau
-蓩	mauNG
+蓩	mau
 蓪	tung
 蓫	dhuNG
 蓬	pung
@@ -17590,7 +17582,7 @@ use_preset_vocabulary: true
 蓹	ngU
 蓺	i
 蓻	ziM
-蓼	liauNG
+蓼	liau
 蓼	luNG
 蓽	biN
 蓾	lu
@@ -17857,7 +17849,7 @@ use_preset_vocabulary: true
 藎	zin
 藏	cang	77.99%
 藏	zang	22.01%
-藐	miauNG
+藐	miau
 藑	kUong
 藒	kiEN
 藓	siEn
@@ -18512,7 +18504,7 @@ use_preset_vocabulary: true
 蟮	shEn
 蟯	nau
 蟯	rhau
-蟰	siauNG
+蟰	siau
 蟱	mou
 蟱	v
 蟲	thung
@@ -18614,7 +18606,6 @@ use_preset_vocabulary: true
 衂	nyiou
 衃	pEi
 衄	nyUNG
-衄	nyiouNG
 衅	hin
 衆	zhung
 衇	mai
@@ -19078,7 +19069,7 @@ use_preset_vocabulary: true
 覷	sU	0%
 覹	vEi
 覺	gUENG	78.17%
-覺	giauNG	21.83%
+覺	giau	21.83%
 覻	cU
 覼	luo
 覽	lEm
@@ -19095,7 +19086,7 @@ use_preset_vocabulary: true
 觇	thEm
 览	lEm
 觉	gUENG	78.17%
-觉	giauNG	21.83%
+觉	giau	21.83%
 觊	gi
 觋	hi
 觌	di
@@ -19104,7 +19095,7 @@ use_preset_vocabulary: true
 觐	gin
 觑	cU
 角	gUENG	19.18%
-角	giauNG	80.82%
+角	giau	80.82%
 角	luNG	0%
 觓	giou
 觓	kiou
@@ -19150,7 +19141,7 @@ use_preset_vocabulary: true
 觴	shang
 觵	gong
 觶	zh
-觷	giauNG
+觷	giau
 觷	hUENG
 觸	chuNG
 觹	hi
@@ -19490,7 +19481,7 @@ use_preset_vocabulary: true
 謆	shEn
 謇	giEn
 謇	kiEn
-謈	bauNG
+謈	bau
 謈	buoNG
 謉	duEi
 謉	guEi
@@ -19503,8 +19494,7 @@ use_preset_vocabulary: true
 謍	ying
 謎	mEi	0%
 謎	mi	100%
-謏	siauNG
-謏	souNG
+謏	siau
 謐	biN
 謐	miN
 謑	hi
@@ -19523,7 +19513,7 @@ use_preset_vocabulary: true
 講	giang
 謜	UEn
 謝	siE
-謞	gauNG
+謞	gau
 謞	hUENG
 謟	tau
 謠	iau
@@ -19645,7 +19635,7 @@ use_preset_vocabulary: true
 譽	U
 譾	ziEn
 譿	huEi
-讀	douNG	0.01%
+讀	dou	0.01%
 讀	duNG	99.99%
 讁	dhe
 讁	di
@@ -19777,7 +19767,7 @@ use_preset_vocabulary: true
 诸	zhu
 诹	zou
 诺	nuo
-读	douNG	0.01%
+读	dou	0.01%
 读	duNG	99.99%
 诼	dhuoNG
 诽	fEi
@@ -19932,7 +19922,8 @@ use_preset_vocabulary: true
 豼	pi
 豽	na
 豾	pi
-豿	gouNG
+豿	gou
+豿	hUENG
 貀	duo
 貀	na
 貁	iou
@@ -20266,7 +20257,7 @@ use_preset_vocabulary: true
 趞	si
 趞	zi
 趟	tang
-趠	thauNG
+趠	thau
 趠	thuoNG
 趡	cuEi
 趢	luNG
@@ -20293,7 +20284,7 @@ use_preset_vocabulary: true
 足	zUNG	0%
 足	zuNG	100%
 趴	pa
-趵	bauNG
+趵	bau
 趶	ku
 趶	yU
 趷	he
@@ -20334,7 +20325,7 @@ use_preset_vocabulary: true
 跏	gia
 跐	c
 跐	cai
-跑	pauNG
+跑	pau
 跒	kia
 跓	dhu
 跔	f
@@ -20683,7 +20674,7 @@ use_preset_vocabulary: true
 軶	ye
 軷	ba
 軷	buo
-軸	dhouNG
+軸	dhuNG
 軸	dhuNG
 軹	zh
 軺	iau
@@ -20697,7 +20688,7 @@ use_preset_vocabulary: true
 輁	kUong
 輂	gUNG
 較	gUENG	0%
-較	giauNG	100%
+較	giau	100%
 輄	guang
 輅	lu
 輅	luo
@@ -20825,7 +20816,7 @@ use_preset_vocabulary: true
 轱	gu
 轲	ke
 轳	lu
-轴	dhouNG
+轴	dhuNG
 轵	zh
 轶	iN
 轸	zhen
@@ -20838,7 +20829,7 @@ use_preset_vocabulary: true
 轿	giau
 辁	cUEn
 辂	lu
-较	giauNG
+较	giau
 辄	dhe
 辅	f
 辆	liang
@@ -20999,7 +20990,7 @@ use_preset_vocabulary: true
 逌	iou
 逍	siau
 逎	ciou
-透	touNG
+透	tou
 逐	dhuNG
 逑	kiou
 递	di
@@ -21150,7 +21141,7 @@ use_preset_vocabulary: true
 邆	deng
 邆	teng
 邇	er
-邈	miauNG
+邈	miau
 邉	biEn
 邊	biEn
 邋	la
@@ -21250,7 +21241,7 @@ use_preset_vocabulary: true
 郙	f
 郚	ngu
 郛	f
-郜	gauNG
+郜	gau
 郝	hau
 郝	he
 郞	lang
@@ -22074,7 +22065,7 @@ use_preset_vocabulary: true
 鎎	hi
 鎎	ki
 鎏	liou
-鎐	iauNG
+鎐	iau
 鎐	zuNG
 鎑	geM
 鎑	iEM
@@ -22351,7 +22342,7 @@ use_preset_vocabulary: true
 鑼	luo
 鑽	zuEn
 鑾	luEn
-鑿	zauNG	89.37%
+鑿	zau	89.37%
 鑿	zuoNG	10.63%
 钀	nyiEN
 钁	gUENG
@@ -22647,7 +22638,7 @@ use_preset_vocabulary: true
 閭	lU
 閮	ting
 閯	sha
-閰	giouNG
+閰	gUNG
 閱	UEN
 閲	UEN
 閳	chEn
@@ -22818,8 +22809,7 @@ use_preset_vocabulary: true
 陃	bing
 附	f
 际	zi
-陆	liouNG	6.25%
-陆	luNG	93.75%
+陆	luNG
 陇	long
 陈	then
 陉	hing
@@ -22883,8 +22873,7 @@ use_preset_vocabulary: true
 陶	iau	0.06%
 陶	tau	99.94%
 陷	hiEm
-陸	liouNG	6.25%
-陸	luNG	93.75%
+陸	luNG
 陹	sheng
 険	hiEn
 陻	yiEn
@@ -22948,7 +22937,7 @@ use_preset_vocabulary: true
 隧	suEi
 隨	suEi
 隩	yUNG
-隩	yauNG
+隩	yau
 險	hiEm
 隫	fen
 隬	nyi
@@ -23046,7 +23035,7 @@ use_preset_vocabulary: true
 零	ling	100%
 雷	lEi
 雸	ngEm
-雹	bauNG
+雹	bau
 雹	buoNG
 雺	mung
 雺	v
@@ -23213,8 +23202,8 @@ use_preset_vocabulary: true
 鞂	he
 鞂	su
 鞃	hong
-鞄	bauNG
-鞄	pauNG
+鞄	bau
+鞄	pau
 鞅	yiang
 鞇	yin
 鞈	ge
@@ -23257,7 +23246,8 @@ use_preset_vocabulary: true
 鞧	ciou
 鞨	he
 鞩	ciau
-鞪	mouNG
+鞪	mou
+鞪	muNG
 鞫	gUNG
 鞬	giEn
 鞭	biEn
@@ -23561,8 +23551,8 @@ use_preset_vocabulary: true
 颫	f
 颬	hia
 颭	zhEm
-颮	biauNG
-颮	pauNG
+颮	biau
+颮	pau
 颯	sa
 颰	baN
 颱	tai
@@ -23600,7 +23590,7 @@ use_preset_vocabulary: true
 风	fung
 飏	iang
 飐	zhEm
-飑	biauNG
+飑	biau
 飒	sa
 飓	gU
 飕	sou
@@ -24124,7 +24114,7 @@ use_preset_vocabulary: true
 骰	tou
 骱	giE
 骱	hiE
-骲	bauNG
+骲	bau
 骳	bi
 骴	c
 骵	ti
@@ -24608,7 +24598,7 @@ use_preset_vocabulary: true
 鱝	fen
 鱞	guEn
 鱞	huEn
-鱟	houNG
+鱟	hou
 鱠	huEi
 鱠	kuai
 鱡	ze
@@ -24649,7 +24639,7 @@ use_preset_vocabulary: true
 鲈	lu
 鲋	f
 鲍	bau
-鲎	houNG
+鲎	hou
 鲏	pi
 鲐	tai
 鲑	guEi
@@ -24843,7 +24833,7 @@ use_preset_vocabulary: true
 鵝	nge
 鵞	nge
 鵟	kuang
-鵠	gauNG
+鵠	gau
 鵠	guNG	50%
 鵠	huNG	50%
 鵡	v
@@ -24855,7 +24845,7 @@ use_preset_vocabulary: true
 鵨	shu
 鵩	fuNG
 鵪	yEm
-鵫	dhauNG
+鵫	dhau
 鵬	peng
 鵭	gim
 鵭	kiEm
@@ -25450,7 +25440,7 @@ use_preset_vocabulary: true
 齯	nyi
 齰	cuo
 齰	ze
-齱	zouNG
+齱	zou
 齲	kU
 齳	UEn
 齴	iEn
@@ -25461,7 +25451,7 @@ use_preset_vocabulary: true
 齸	yiN
 齹	ch
 齹	cuo
-齺	zouNG
+齺	zou
 齻	diEn
 齼	chu
 齽	gim
@@ -25714,6 +25704,7 @@ use_preset_vocabulary: true
 𪘁	ta
 𪨊	song
 𪩘	ngiEn
+𫍲	siau
 㓦劃	buo hua
 㔩葉	ye iE
 㕷啦	pa la
@@ -25758,7 +25749,7 @@ use_preset_vocabulary: true
 一口兩匙	yiN kou liang ch
 一句	yiN gU
 一向	yiN hiang
-一回生兩回熟	yiN huEi sheng liang huEi shouNG
+一回生兩回熟	yiN huEi sheng liang huEi shuNG
 一圈	yiN kUEn
 一地	yiN di
 一地胡拿	yiN di hu na
@@ -25766,7 +25757,7 @@ use_preset_vocabulary: true
 一報還一報	yiN bau huEn yiN bau
 一塊石頭落了地	yiN kuai sh tou luo le di
 一字長蛇陣	yiN z thang she dhen
-一宿	yiN siouNG
+一宿	yiN siou
 一尺還他十寸	yiN ch huEn ta sh cuen
 一展長才	yiN dhEn thang cai
 一席之地	yiN si zh di
@@ -25845,7 +25836,7 @@ use_preset_vocabulary: true
 一行作吏	yiN hing zuo li
 一衝一撞	yiN chong yiN dhuang
 一襲	yiN si
-一覺	yiN giauNG
+一覺	yiN giau
 一觸即潰	yiN chuNG zi kuEi
 一言一行	yiN iEn yiN hing
 一言中的	yiN iEn dhung di
@@ -25857,7 +25848,7 @@ use_preset_vocabulary: true
 一起	yiN ki
 一踅頭	yiN sUEN tou
 一躍而起	yiN UENG er ki
-一較長短	yiN giauNG thang duEn
+一較長短	yiN giau thang duEn
 一轍	yiN dhe
 一還一報	yiN huEn yiN bau
 一酬一酢	yiN chou yiN zuo
@@ -25905,13 +25896,13 @@ use_preset_vocabulary: true
 三人行	sEm rhen hing
 三人行必有我師	sEm rhen hing biN iou nguo sh
 三傳	sEm dhuEn
-三十六着	sEm sh liouNG dhau
-三十六行	sEm sh liouNG hang
+三十六着	sEm sh luNG dhau
+三十六行	sEm sh luNG hang
 三句不離本行	sEm gU buN li ben hang
 三和弦	sEm he hiEn
 三地	sEm di
 三好兩怯	sEm hau liang kiEM
-三媒六聘	sEm mEi liouNG pin
+三媒六聘	sEm mEi luNG pin
 三幡	sEm fEn
 三弦	sEm hiEn
 三弦書	sEm hiEn shu
@@ -25933,9 +25924,9 @@ use_preset_vocabulary: true
 三番五次	sEm fEn ngu c
 三番兩次	sEm fEn liang c
 三番四復	sEm fEn s fuNG
-三百六十行	sEm bai liouNG sh hang
+三百六十行	sEm bai luNG sh hang
 三皈	sEm guEi
-三直角三角形	sEm dh giauNG sEm giauNG hing
+三直角三角形	sEm dh giau sEm giau hing
 三省	sEm sheng
 三省	sEm sing
 三級	sEm gi
@@ -25944,32 +25935,32 @@ use_preset_vocabulary: true
 三藏	sEm zang
 三藏法師	sEm zang fa sh
 三藏法師傳	sEm zang fa sh dhuEn
-三角	sEm giauNG
-三角函數	sEm giauNG hEm shuNG
-三角套匯	sEm giauNG tau huEi
-三角學	sEm giauNG hUENG
-三角尺	sEm giauNG ch
-三角巾	sEm giauNG gin
-三角巾包紮法	sEm giauNG gin bau za fa
-三角形	sEm giauNG hing
-三角戀愛	sEm giauNG liEn yai
-三角方程式	sEm giauNG fang theng sh
-三角板	sEm giauNG bEn
-三角柱	sEm giauNG dhu
-三角楓	sEm giauNG fung
-三角江	sEm giauNG giang
-三角法	sEm giauNG fa
-三角洲	sEm giauNG zhou
-三角測量	sEm giauNG ce liang
-三角眼	sEm giauNG iEn
-三角習題	sEm giauNG si ti
-三角肌	sEm giauNG gi
-三角表	sEm giauNG biau
-三角褲	sEm giauNG ku
-三角貿易	sEm giauNG mau i
-三角錐	sEm giauNG zhuEi
-三角鐵	sEm giauNG tiE
-三角點	sEm giauNG diEm
+三角	sEm giau
+三角函數	sEm giau hEm shuNG
+三角套匯	sEm giau tau huEi
+三角學	sEm giau hUENG
+三角尺	sEm giau ch
+三角巾	sEm giau gin
+三角巾包紮法	sEm giau gin bau za fa
+三角形	sEm giau hing
+三角戀愛	sEm giau liEn yai
+三角方程式	sEm giau fang theng sh
+三角板	sEm giau bEn
+三角柱	sEm giau dhu
+三角楓	sEm giau fung
+三角江	sEm giau giang
+三角法	sEm giau fa
+三角洲	sEm giau zhou
+三角測量	sEm giau ce liang
+三角眼	sEm giau iEn
+三角習題	sEm giau si ti
+三角肌	sEm giau gi
+三角表	sEm giau biau
+三角褲	sEm giau ku
+三角貿易	sEm giau mau i
+三角錐	sEm giau zhuEi
+三角鐵	sEm giau tiE
+三角點	sEm giau diEm
 三觭龍	sEm gi long
 三辟	sEm pi
 三都賦	sEm du f
@@ -25980,7 +25971,7 @@ use_preset_vocabulary: true
 三長齋月	sEm thang zhai UEN
 三閭大夫	sEm lU dai f
 三階	sEm giE
-三面角	sEm miEn giauNG
+三面角	sEm miEn giau
 三風十愆	sEm fung sh kiEn
 上不了	shang buN liau
 上不了臺面	shang buN liau tai miEn
@@ -26178,7 +26169,7 @@ use_preset_vocabulary: true
 不着疼熱	buN dhuo teng rhe
 不着痕跡	buN dhuo hen zi
 不着痛癢	buN dhuo tung iang
-不着筋節	buN dhuo gin ziE
+不着筋節	buN dhuo gin ziEN
 不着腳	buN dhuo giau
 不着要	buN dhuo yiau
 不着親	buN dhuo cin
@@ -26188,7 +26179,7 @@ use_preset_vocabulary: true
 不着陸	buN dhuo luNG
 不着陸飛行	buN dhau luNG fEi hing
 不着陸飛行	buN dhuo luNG fEi hing
-不睡覺	buN shuEi giauNG
+不睡覺	buN shuEi giau
 不瞅不睬	buN chou buN cai
 不瞑	buN ming
 不瞑目	buN ming muNG
@@ -26204,7 +26195,7 @@ use_preset_vocabulary: true
 不管生癬生瘡	buN guEn sheng siEn sheng chuang
 不終朝	buN zhung dhau
 不給	buN gi
-不繆	buN miouNG
+不繆	buN miou
 不老長生	buN lau thang sheng
 不能自給	buN neng z gi
 不腆	buN tiEn
@@ -26215,7 +26206,7 @@ use_preset_vocabulary: true
 不虛此行	buN hU c hing
 不虞之隙	buN U zh hi
 不行	buN hing
-不見圭角	buN giEn guEi giauNG
+不見圭角	buN giEn guEi giau
 不見經傳	buN giEn ging dhuEn
 不覺	buN gUENG
 不解之仇	buN giE zh chou
@@ -26242,7 +26233,7 @@ use_preset_vocabulary: true
 不隄防	buN ti fang
 不需要	buN sU yiau
 不露	buN lu
-不露圭角	buN lu guEi giauNG
+不露圭角	buN lu guEi giau
 不露神色	buN lou shen se
 不露聲色	buN lou sheng se
 不露身手	buN lou shen shou
@@ -26308,7 +26299,7 @@ use_preset_vocabulary: true
 中心	dhung sim
 中心匯率	dhung sim huEi lUN
 中心塊	dhung sim kuai
-中心角	dhung sim giauNG
+中心角	dhung sim giau
 中懣之症	dhung men zh dheng
 中朝	dhung thau
 中東地區	dhung dung di kU
@@ -26329,7 +26320,7 @@ use_preset_vocabulary: true
 中美地峽	dhung mEi di hia
 中胚層	dhung pEi ceng
 中藏	dhung zang
-中覺	dhung giauNG
+中覺	dhung giau
 中調	dhung diau
 中資銀行	dhung z in hang
 中途曝光	dhung tu puNG guang
@@ -26372,7 +26363,7 @@ use_preset_vocabulary: true
 主線	zhu siEn
 主色調	zhu se diau
 主調音	zhu diau yim
-主軸	zhu dhouNG
+主軸	zhu dhuNG
 主鍵	zhu giEn
 乂安	i yEn
 久別重逢	giou biE thong fong
@@ -26396,7 +26387,7 @@ use_preset_vocabulary: true
 乖舛	guai chuEn
 乖覺	guai gUENG
 乖覺可喜	guai gUENG ke hi
-乖角	guai giauNG
+乖角	guai giau
 乖調	guai diau
 乖謬	guai miou
 乖離率	guai li lUN
@@ -26432,13 +26423,13 @@ use_preset_vocabulary: true
 乞降	kiN hiang
 也不攬那磁器傢伙	iE buN lEm na c ki gia guo
 也就	iE ziou
-也得蒸熟吃	iE dEi zheng shouNG chiN
+也得蒸熟吃	iE dEi zheng shuNG chiN
 也曾	iE ceng
 也行	iE hing
 也麼哥	iE muo ge
 乣軍	giou gUin
 乳哺	rhu bu
-乳濁液	rhu dhuoNG iENG
+乳濁液	rhu dhuoNG iNG
 乳臭	rhu hiou
 乳臭小子	rhu hiou siau z
 乳臭未乾	rhu hiou vEi gEn
@@ -26484,7 +26475,7 @@ use_preset_vocabulary: true
 乾急	gEn gi
 乾打雷	gEn da lEi
 乾折	gEn zhe
-乾撂臺	gEn liauNG tai
+乾撂臺	gEn liau tai
 乾撇下	gEn piE hia
 乾擦	gEn ca
 乾支剌	gEn zh la
@@ -26662,7 +26653,7 @@ use_preset_vocabulary: true
 二伯	er buo
 二傳	er dhuEn
 二十五弦	er sh ngu hiEn
-二十八宿	er sh ba siouNG
+二十八宿	er sh ba siou
 二十八調	er sh ba diau
 二千石	er ciEn dEn
 二和藥	er huo iau
@@ -26675,7 +26666,7 @@ use_preset_vocabulary: true
 二絃	er hiEn
 二缶鐘惑	er fou zhong huo
 二行程	er hing theng
-二軸晶	er dhouNG zing
+二軸晶	er dhuNG zing
 二重分類表	er thong fen lEi biau
 二重唱	er thong chang
 二重國籍	er thong guo zi
@@ -26683,7 +26674,7 @@ use_preset_vocabulary: true
 二重性	er thong sing
 二陸	er luNG
 二階	er giE
-二面角	er miEn giauNG
+二面角	er miEn giau
 二韃子吃螺螄	er da z chiN luo s
 于嗟	hU ziE
 于思	yU sai
@@ -26698,7 +26689,7 @@ use_preset_vocabulary: true
 五方雜厝	ngu fang za cuo
 五旦七調	ngu dEn ciN diau
 五月披裘	ngu UEN pi kiou
-五熟行	ngu shouNG hang
+五熟行	ngu shuNG hang
 五畜	ngu thuNG
 五百	ngu buo
 五穀豐稔	ngu guNG fung rhem
@@ -26710,15 +26701,15 @@ use_preset_vocabulary: true
 五行八作	ngu hang ba zuo
 五行四柱	ngu hing s dhu
 五角六張	ngu gUENG luNG dhang
-五角場	ngu giauNG thang
-五角大廈	ngu giauNG da sha
-五角大樓	ngu giauNG da lou
+五角場	ngu giau thang
+五角大廈	ngu giau da sha
+五角大樓	ngu giau da lou
 五言長城	ngu iEn thang cheng
 五車	ngu che
 五辟	ngu bi
 五體投地	ngu ti tou di
 井地	zing di
-井宿	zing siouNG
+井宿	zing siou
 井幹	zing hEn
 井榦	zing hEn
 井渫不食	zing siE buN sh
@@ -26745,7 +26736,7 @@ use_preset_vocabulary: true
 交惡	giau yu
 交易	giau i
 交行	giau hang
-交角	giau giauNG
+交角	giau giau
 交謫	giau dhe
 交通壅塞	giau tung yUong se
 交通銀行	giau tung in hang
@@ -26782,7 +26773,7 @@ use_preset_vocabulary: true
 人工繁殖	rhen gung fEn zh
 人工蝸牛	rhen gung gua nyiou
 人工蝸牛	rhen gung yuo nyiou
-人工血液	rhen gung hUEN iENG
+人工血液	rhen gung hUEN iNG
 人工養殖	rhen gung iang zh
 人心似鐵	rhen sim s tiE
 人怕落囤	rhen pa luo duen
@@ -26885,7 +26876,7 @@ use_preset_vocabulary: true
 介質	giE dhiN
 仔仔	zai zai
 仔密	z miN
-仔牛肉	zai nyiou rhouNG
+仔牛肉	zai nyiou rhuNG
 仔細	z si
 仔細看	z si kEn
 仔細閱讀	z si UE duNG
@@ -26935,7 +26926,7 @@ use_preset_vocabulary: true
 仰屋著書	iang yuNG dhu shu
 仰給	iang gi
 仰給於人	iang gi yU rhen
-仰角	iang giauNG
+仰角	iang giau
 仲長統	dhung thang tong
 仳倠	pi huEi
 仳離	pi li
@@ -27242,7 +27233,7 @@ use_preset_vocabulary: true
 便宜貨	piEn ngi huo
 便把令來行	biEn ba ling lai hing
 便捷	biEn ziE
-便液	biEn iENG
+便液	biEn iNG
 便溺	biEn nyiau
 便益不失當家	piEn yi buN shiN dang gia
 便祕	biEn bi
@@ -27296,7 +27287,7 @@ use_preset_vocabulary: true
 信馬游韁	sin ma iou giang
 修復	siou fuNG
 修改	siou gai
-修正液	siou zheng iENG
+修正液	siou zheng iNG
 修濬	siou zUin
 修省	siou sing
 修禊	siou hi
@@ -27307,7 +27298,7 @@ use_preset_vocabulary: true
 修長	siou thang
 修飾	siou sh
 俯瞰	f kEm
-俯角	f giauNG
+俯角	f giau
 俱樂部	gU leNG bu
 俳佪	pai huai
 俳謔	pai hUENGNG
@@ -27389,7 +27380,7 @@ use_preset_vocabulary: true
 偏棲	piEn ci
 偏畸	piEn gi
 偏裨	piEn pi
-偏角	piEn giauNG
+偏角	piEn giau
 偏重	piEn dhong
 偏阿	piEn ye
 偕行	hiE hing
@@ -27500,16 +27491,16 @@ use_preset_vocabulary: true
 傻勁	sha gin
 傻呵呵	sha he he
 傻樂	sha leNG
-傻角	sha giauNG
+傻角	sha giau
 傾圮	king pi
 傾家	keng gia
 傾家	king gia
 傾斜	king siE
-傾斜角	king siE giauNG
+傾斜角	king siE giau
 傾泄	king siE
 傾筐倒庋	king kuang dau zi
 傾覆重器	king fuNG dhong ki
-傾角	king giauNG
+傾角	king giau
 傾軋	king yia
 傾陷	king hiEm
 僂人	lou rhen
@@ -27593,7 +27584,7 @@ use_preset_vocabulary: true
 優樂	yiou leNG
 優洽	yiou hia
 優洽	yiou kia
-優角	yiou giauNG
+優角	yiou giau
 優酪乳	yiou luo rhu
 優長	yiou thang
 儭錢	chen ciEn
@@ -27665,7 +27656,7 @@ use_preset_vocabulary: true
 光膀子	guang bang z
 光行差	guang hing cha
 光覺	guang gUENG
-光軸	guang dhouNG
+光軸	guang dhuNG
 光辣撻	guang la ta
 光陰似水	guang yim s shuEi
 光陰似箭	guang yim s ziEn
@@ -27691,7 +27682,7 @@ use_preset_vocabulary: true
 兒童樂園	er tung leNG UEn
 兔毛大伯	tu mau da buo
 兔罝	tu zU
-兔角龜毛	tu giauNG guEi mau
+兔角龜毛	tu giau guEi mau
 兔起鳧舉	tu ki f gU
 兔起鶻落	tu ki huN luo
 兔躍	tu UENG
@@ -27704,7 +27695,7 @@ use_preset_vocabulary: true
 兜率宮	dou shuai gung
 入地	rhu di
 入地無門	rhu di v men
-入射角	rhu she giauNG
+入射角	rhu she giau
 入朝	rhu thau
 入覲	rhu gin
 內傳	nEi dhuEn
@@ -27726,10 +27717,10 @@ use_preset_vocabulary: true
 內蘊	nEi yUin
 內行人	nEi hang rhen
 內行看門道	nEi hang kEn men dau
-內角	nEi giauNG
-內角球	nEi giauNG kiou
+內角	nEi giau
+內角球	nEi giau kiou
 內調	nEi diau
-內錯角	nEi cuo giauNG
+內錯角	nEi cuo giau
 內長城	nEi thang cheng
 內陸	nEi luNG
 內陸國	nEi luNG guo
@@ -27745,7 +27736,7 @@ use_preset_vocabulary: true
 全盛	cUEn sheng
 全血輸血	cUEn hUEN shu hUEN
 全血輸血	cUEn hiEN shu hiEN
-全角	cUEn giauNG
+全角	cUEn giau
 全軍覆沒	cUEn gUin fuNG muoN
 全選	cUEn sUEn
 全部	cUEn bu
@@ -27787,18 +27778,18 @@ use_preset_vocabulary: true
 八字都沒一撇	ba z dou mEi yiN piE
 八幡	ba fEn
 八旗都統	ba ki du tong
-八棍子撂不着	ba guen z liauNG buN dhau
+八棍子撂不着	ba guen z liau buN dhau
 八步周行	ba bu zhou hing
 八竿子打不着	ba gEn z da buN dhau
 八蜡	ba zha
 八行	ba hang
 八行書	ba hang shu
-八角	ba giauNG
-八角楓科	ba giauNG fung ke
-八角茴香	ba giauNG huEi hiang
-八角蓮	ba giauNG liEn
-八角金盤	ba giauNG gim pEn
-八角鼓	ba giauNG gu
+八角	ba giau
+八角楓科	ba giau fung ke
+八角茴香	ba giau huEi hiang
+八角蓮	ba giau liEn
+八角金盤	ba giau gim pEn
+八角鼓	ba giau gu
 八辟	ba bi
 八都	ba du
 八都兒	ba du er
@@ -27848,27 +27839,27 @@ use_preset_vocabulary: true
 公門修行	gung men siou hing
 公門裏好修行	gung men li hau siou hing
 公開發行	gung kai faN hing
-六十調	liouNG sh diau
-六弦琴	liouNG hiEn kim
-六朝	liouNG thau
-六朝寫經	liouNG thau siE ging
-六朝脂粉	liouNG thau zh fen
-六朝金粉	liouNG thau gim fen
-六樂	liouNG ngUENG
-六爻	liouNG iau
-六畜	liouNG thuNG
-六畜不安	liouNG thuNG buN yEn
-六翮	liouNG he
-六脈調和	liouNG mai tiau he
-六角形	liouNG giauNG hing
-六通四辟	liouNG tung s pi
-六韜	liouNG tau
-六韜三略	liouNG tau sEm lUENG
+六十調	luNG sh diau
+六弦琴	luNG hiEn kim
+六朝	luNG thau
+六朝寫經	luNG thau siE ging
+六朝脂粉	luNG thau zh fen
+六朝金粉	luNG thau gim fen
+六樂	luNG ngUENG
+六爻	luNG iau
+六畜	luNG thuNG
+六畜不安	luNG thuNG buN yEn
+六翮	luNG he
+六脈調和	luNG mai tiau he
+六角形	luNG giau hing
+六通四辟	luNG tung s pi
+六韜	luNG tau
+六韜三略	luNG tau sEm lUENG
 共同感覺	gong tung gEm gUENG
 共棲	gong ci
 共泄	gong siE
 共襄盛舉	gong siang sheng gU
-共軛角	gong ye giauNG
+共軛角	gong ye giau
 共降	gong giang
 共降	gong hiang
 兵強將盛	bing kiang ziang sheng
@@ -27931,7 +27922,7 @@ use_preset_vocabulary: true
 冰壑	bing he
 冰壑	bing huo
 冰天雪地	bing tiEn sUEN di
-冰山一角	bing shEn yiN giauNG
+冰山一角	bing shEn yiN giau
 冰櫱	bing buo
 冰磧	bing zi
 冰磧岩	bing zi iEm
@@ -27939,7 +27930,7 @@ use_preset_vocabulary: true
 冰窨	bing yim
 冰絃	bing hiEn
 冰藏	bing cang
-冰雹	bing bauNG
+冰雹	bing bau
 冷凍調理食品	leng dung tiau li sh pim
 冷勁	leng gin
 冷呵呵	leng he he
@@ -27992,7 +27983,7 @@ use_preset_vocabulary: true
 凹版印刷	yau bEn yin shua
 凹版畫	yau bEn hua
 凹狀	yau zhuang
-凹透鏡	yau touNG ging
+凹透鏡	yau tou ging
 凹陷	yau hiEm
 凹面鏡	yau miEn ging
 出不了	chuN buN liau
@@ -28027,7 +28018,7 @@ use_preset_vocabulary: true
 出行	chuN hing
 出言不遜	chuN iEn buN sUin
 出醜狼藉	chuN chou lang zi
-出頭露角	chuN tou lou giauNG
+出頭露角	chuN tou lou giau
 出頭露面	chuN tou lou miEn
 函授學校	hEm shou hUENG hiau
 刀刀見血	dau dau giEn hUEN
@@ -28039,7 +28030,7 @@ use_preset_vocabulary: true
 刀口上舔血	dau kou shang tiEm hiEN
 刀杖器械	dau dhang ki hiE
 刀械	dau hiE
-刀耕火耨	dau geng huo nouNG
+刀耕火耨	dau geng huo nou
 刀螂	dau lang
 刀鎗	dau ciang
 刀鎗劍戟	dau ciang giEm gi
@@ -28069,11 +28060,11 @@ use_preset_vocabulary: true
 分薄緣慳	fen buo UEn kiEn
 分蘗	fen nyiE
 分蘗期	fen nyiE ki
-分蘗節	fen nyiE ziE
+分蘗節	fen nyiE ziEN
 分行	fen hang
 分行布白	fen hang bu bai
 分裂生殖	fen liE sheng zh
-分角線	fen giauNG siEn
+分角線	fen giau siEn
 分辨率	fen biEn lUN
 分辨率爲	fen biEn lUN uEi
 分釐卡	fen li ka
@@ -28082,7 +28073,7 @@ use_preset_vocabulary: true
 切割	ciE ge
 切實可行	ciE shiN ke hing
 切換	ciE huEn
-切角	ciE giauNG
+切角	ciE giau
 切開	ciE kai
 切面	ciE miEn
 切骨之仇	ciE guN zh chou
@@ -28095,12 +28086,12 @@ use_preset_vocabulary: true
 刑辟	hing pi
 列傳	liE dhuEn
 列女傳	liE nyU dhuEn
-列宿	liE siouNG
+列宿	liE siou
 列車長	liE che dhang
 列鼎重裀	liE ding thong yin
 初弦	chu hiEn
 初露鋒芒	chu lou fong mang
-初露頭角	chu lou tou giauNG
+初露頭角	chu lou tou giau
 別傳	biE dhuEn
 別勁	biE gin
 別有天地	biE iou tiEn di
@@ -28301,7 +28292,7 @@ use_preset_vocabulary: true
 割着	ge dhau
 割着	ge dhe
 割磣	ge chem
-割肉還母	ge rhouNG huEn mu
+割肉還母	ge rhuNG huEn mu
 創建	chuang giEn
 創校	chuang hiau
 剸行	zhuEn hing
@@ -28376,7 +28367,7 @@ use_preset_vocabulary: true
 加長	gia thang
 劣怯	liE kiEM
 劣行	liE hing
-劣角	liE giauNG
+劣角	liE giau
 劣跡昭著	liE zi zhau dhu
 助人爲樂	zhu rhen uEi leNG
 助長	zhu dhang
@@ -28395,7 +28386,7 @@ use_preset_vocabulary: true
 勁敵	ging di
 勁旅	ging lU
 勁秋	ging ciou
-勁節	ging ziE
+勁節	ging ziEN
 勁翮	ging he
 勁舞	gin v
 勁舞團	gin v tuEn
@@ -28491,7 +28482,7 @@ use_preset_vocabulary: true
 北碚	bEi bEi
 北美事務協調委員會	bEi mEi sh v hiE tiau yuEi UEn huEi
 北美草原地帶	bEi mEi cau UEn di dai
-北角	bEi giauNG
+北角	bEi giau
 北轍南轅	bEi dhe nEm UEn
 北部地方	bEi bu di fang
 北門鎖鑰	bEi men suo iau
@@ -28561,7 +28552,7 @@ use_preset_vocabulary: true
 千鈞重負	ciEn gUin dhong f
 千頃陂	ciEn king pi
 升學率	sheng hUENG lUN
-午覺	ngu giauNG
+午覺	ngu giau
 卉翕	huEi hi
 卉裳	huEi chang
 半吐半露	bEn tu bEn lu
@@ -28573,7 +28564,7 @@ use_preset_vocabulary: true
 半熟茶	bEn shuNG tha
 半生不熟	bEn sheng buN shuNG
 半生半熟	bEn sheng bEn shuNG
-半角	bEn giauNG
+半角	bEn giau
 半酣	bEn hEm
 卑怯	bEi kiEM
 卑薄	bEi buo
@@ -28670,9 +28661,9 @@ use_preset_vocabulary: true
 占盡便宜	zhEm zin piEn ngi
 卡住	cia dhu
 卡子	cia z
-卡繆	ka miouNG
+卡繆	ka miou
 卡脖子	cia buoN z
-卡角	cia giauNG
+卡角	cia giau
 卬卬	ang ang
 卬燥	ang zau
 卬首信眉	ang shou shen mEi
@@ -28694,8 +28685,8 @@ use_preset_vocabulary: true
 卷婁	gUEn lou
 卷曲	gUEn kUNG
 卷柏	gUEn buo
-卷軸	gUEn dhouNG
-卷軸裝	gUEn dhouNG zhuang
+卷軸	gUEn dhuNG
+卷軸裝	gUEn dhuNG zhuang
 卷阿	gUEn ye
 卷髮	gUEn faN
 卻做餳糖	kUENG zuo sing tang
@@ -28732,14 +28723,14 @@ use_preset_vocabulary: true
 厭惡	yiEm yu
 厭薄	yiEm buo
 厲行	li hing
-厲行節約	li hing ziE yUENG
+厲行節約	li hing ziEN yUENG
 厹矛	kiou mau
 去呢	kU nyi
 去哪	kU na
 去年	kU nyiEn
-去掉	kU diauNG
+去掉	kU diau
 去蕪存菁	kU v cuen zing
-去角質	kU giauNG dhiN
+去角質	kU giau dhiN
 參事	cEm sh
 參伍	cEm ngu
 參佐	cEm zuo
@@ -28819,7 +28810,7 @@ use_preset_vocabulary: true
 參辰	shem chen
 參辰卯酉	shem chen mau iou
 參辰日月	shem chen rhiN UEN
-參透	cEm touNG
+參透	cEm tou
 參選	cEm sUEn
 參酌	cEm zhuo
 參錯	cem cuo
@@ -28830,14 +28821,14 @@ use_preset_vocabulary: true
 參預	cEm U
 參頭	cEm tou
 參驗	cEm ngiEm
-叉角羚	cha giauNG ling
+叉角羚	cha giau ling
 及時	gi sh
 及時行樂	gi sh hing leNG
 反不似	fEn buN s
 反其道而行	fEn ki dau er hing
 反向	fEn hiang
 反哺	fEn bu
-反射角	fEn she giauNG
+反射角	fEn she giau
 反射鏡	fEn she ging
 反彈	fEn tEn
 反彈琵琶	fEn tEn pi pa
@@ -28852,7 +28843,7 @@ use_preset_vocabulary: true
 反老還童	fEn lau huEn tung
 反詰	fEn giEN
 反躬自省	fEn gung z sing
-反軸心國	fEn dhouNG sim guo
+反軸心國	fEn dhuNG sim guo
 反飛彈	fEn fEi dEn
 叔伯	shuNG buo
 叔梁紇	shuNG liang heN
@@ -28892,8 +28883,8 @@ use_preset_vocabulary: true
 口能舌便	kou neng she piEn
 口腔潰瘍	kou kiang kuEi iang
 口血未乾	kou hUEN vEi gEn
-口角春風	kou giauNG chuen fung
-口角炎	kou giauNG iEm
+口角春風	kou giau chuen fung
+口角炎	kou giau iEm
 口訥	kou neN
 口重	kou dhong
 口齒便給	kou ch piEn gi
@@ -28914,7 +28905,7 @@ use_preset_vocabulary: true
 句戟	gou gi
 句無	gou v
 句芒	gou mang
-句讀	gU douNG
+句讀	gU dou
 句踐	gou ziEn
 句踐復國	gou ziEn fuNG guo
 句重音	gU dhong yim
@@ -28982,8 +28973,8 @@ use_preset_vocabulary: true
 史乘	sh sheng
 史賓塞	sh bin se
 史鰌	sh ciou
-右上角	iou shang giauNG
-右下角	iou hia giauNG
+右上角	iou shang giau
+右下角	iou hia giau
 右側通行	iou ce tung hing
 右地	iou di
 司司長	s s dhang
@@ -29013,11 +29004,11 @@ use_preset_vocabulary: true
 吃得了	chiN de liau
 吃虧就是占便宜	chiN kuEi ziou sh zhEm piEn ngi
 吃裏扒外	chiN li pa nguai
-吃角子老虎	chiN giauNG z lau hu
+吃角子老虎	chiN giau z lau hu
 吃重	chiN dhong
 各地	ge di
 各展其長	ge dhEn ki thang
-各抱一角	ge bau yiN giauNG
+各抱一角	ge bau yiN giau
 各有所長	ge iou suo thang
 各自進行	ge z zin hing
 各行其志	ge hing ki zh
@@ -29030,7 +29021,7 @@ use_preset_vocabulary: true
 合弦	he hiEn
 合得着	he de dhau
 合從	he zong
-合恩角	he yen giauNG
+合恩角	he yen giau
 合成樂器	he cheng ngUENG ki
 合成纖維	he cheng siEm uEi
 合格率	he ge lUN
@@ -29056,7 +29047,7 @@ use_preset_vocabulary: true
 吊拷繃扒	diau kau beng ba
 同仇	tung chou
 同仇敵愾	tung chou di kai
-同位角	tung uEi giauNG
+同位角	tung uEi giau
 同儕	tung chai
 同參	tung cEm
 同學	tung hUENG
@@ -29074,8 +29065,8 @@ use_preset_vocabulary: true
 同行語	tung hang U
 同衾幬	tung kim thou
 同調	tung diau
-同軸圓	tung dhouNG UEn
-同軸電纜	tung dhouNG diEn lEm
+同軸圓	tung dhuNG UEn
+同軸電纜	tung dhuNG diEn lEm
 名不虛行	ming buN hU hing
 名不見經傳	ming buN giEn ging dhuEn
 名列榜首	ming liE bang shou
@@ -29148,11 +29139,11 @@ use_preset_vocabulary: true
 含括	hEm gua
 含括	hEm kuo
 含漱劑	hEm shu zi
-含着骨頭露着肉	hEm dhe guN tou lou dhe rhouNG
+含着骨頭露着肉	hEm dhe guN tou lou dhe rhuNG
 含笑入地	hEm siau rhu di
 含英咀華	hEm ying zU hua
 含葩	hEm pa
-含蓼問疾	hEm liauNG ven ziN
+含蓼問疾	hEm liau ven ziN
 含蘊	hEm yUin
 含血噀人	hEm hUEN sUin rhen
 含血噀人	hEm hiEN sUin rhen
@@ -29204,14 +29195,14 @@ use_preset_vocabulary: true
 呆打頦	dai da hai
 呈現	theng hiEn
 呈露	theng lu
-告假還鄉	gauNG gia huEn hiang
-告劄	gauNG dha
+告假還鄉	gau gia huEn hiang
+告劄	gau dha
 告朔	guNG shuoNG
 告朔餼羊	guNG shuoNG hi iang
-告稟	gauNG bing
-告窆	gauNG biEm
-告老還鄉	gauNG lau huEn hiang
-告訐	gauNG giEN
+告稟	gau bing
+告窆	gau biEm
+告老還鄉	gau lau huEn hiang
+告訐	gau giEN
 呢呢痴痴	nyi nyi th th
 呢喃	nyi nEm
 呢喃細語	nyi nEm si U
@@ -29272,7 +29263,7 @@ use_preset_vocabulary: true
 呶呶	nau nau
 呶呶不休	nau nau buN hiou
 呶呶嘴	nau nau zuEi
-呼吸調節中樞	hu hi tiau ziE dhung shu
+呼吸調節中樞	hu hi tiau ziEN dhung shu
 呼天搶地	hu tiEn ciang di
 呼奴使婢	hu nu sh bi
 命中率	ming dhung lUN
@@ -29365,7 +29356,7 @@ use_preset_vocabulary: true
 咳咳	ke ke
 咳唾	ke tuo
 咳唾成珠	ke tuo cheng zhu
-咳嗽	ke souNG
+咳嗽	ke sou
 咳歌打戰	hai ge da zhEn
 咳痰	ke tEm
 咳聲嘆息	hai sheng tEn si
@@ -29473,7 +29464,7 @@ use_preset_vocabulary: true
 唫嗻	im zhe
 唱反調	chang fEn diau
 唱喏	chang rhe
-唱獨角戲	chang duNG giauNG hi
+唱獨角戲	chang duNG giau hi
 唱賺	chang dhuEm
 唱高調	chang gau diau
 唵噆	yEm zEm
@@ -29493,8 +29484,8 @@ use_preset_vocabulary: true
 唾沫星子	tuo muo sing z
 唾沫直嚥	tuo muo dh yiEn
 唾津兒	tuo zin er
-唾液	tuo iENG
-唾液腺	tuo iENG siEn
+唾液	tuo iNG
+唾液腺	tuo iNG siEn
 唾盂	tuo U
 唾罵	tuo ma
 唾腺	tuo siEn
@@ -29576,7 +29567,7 @@ use_preset_vocabulary: true
 善巧便佞	shEn kiau piEn nying
 善行	shEn hing
 善賈	shEn gu
-善馬熟人	shEn ma shouNG rhen
+善馬熟人	shEn ma shuNG rhen
 喈喈	giE giE
 喉咽	hou yiEn
 喉塞音	hou se yim
@@ -29733,7 +29724,7 @@ use_preset_vocabulary: true
 嘴尖舌薄	zuEi ziEm she buo
 嘴強	zuEi giang
 嘴盧都	zuEi lu du
-嘴角	zuEi giauNG
+嘴角	zuEi giau
 嘵咋	hiau zha
 嘵嘵	hiau hiau
 嘵舌	hiau she
@@ -29843,7 +29834,7 @@ use_preset_vocabulary: true
 囊括	nang gua
 囊括	nang kuo
 囚攮的	ciou nang de
-四不拗六	s buN yau liouNG
+四不拗六	s buN yau luNG
 四加行	s gia hing
 四塞	s sai
 四川盆地	s chuEn pen di
@@ -29855,9 +29846,9 @@ use_preset_vocabulary: true
 四行	s hing
 四行倉庫	s hang cang ku
 四行孤軍	s hang gu gUin
-四角	s giauNG
-四角俱全	s giauNG gU cUEn
-四角號碼檢字法	s giauNG hau ma giEm z fa
+四角	s giau
+四角俱全	s giau gU cUEn
+四角號碼檢字法	s giau hau ma giEm z fa
 四重奏	s thong zou
 四門親家	s men cing gia
 四隅	s U
@@ -29886,7 +29877,7 @@ use_preset_vocabulary: true
 囤聚	tuen zU
 囮子	iou z
 困知勉行	kuen dh miEn hing
-困覺	kuen giauNG
+困覺	kuen giau
 困阨	kuen ye
 困隘	kuen yai
 困難重重	kuen nEn thong thong
@@ -29894,7 +29885,7 @@ use_preset_vocabulary: true
 囹圄	ling U
 固定利率	gu ding li lUN
 固定匯率	gu ding huEi lUN
-固定液	gu ding iENG
+固定液	gu ding iNG
 固定重音	gu ding dhong yim
 固遜	gu sUin
 圂腴	huen U
@@ -29931,12 +29922,12 @@ use_preset_vocabulary: true
 園地	UEn di
 園長	UEn dhang
 圓仔湯	UEn z tang
-圓心角	UEn sim giauNG
+圓心角	UEn sim giau
 圓熟	UEn shuNG
-圓角	UEn giauNG
+圓角	UEn giau
 圓週	UEn zhou
 圓週率	UEn zhou lUN
-圓週角	UEn zhou giauNG
+圓週角	UEn zhou giau
 圓鍬	UEn ciau
 圓鑿方枘	UEn zuoNG fang rhuEi
 圖像	tu siang
@@ -29996,7 +29987,7 @@ use_preset_vocabulary: true
 土行	tu hang
 土行孫	tu hing suen
 土調	tu diau
-土質液化	tu dhiN iENG hua
+土質液化	tu dhiN iNG hua
 土長根生	tu dhang gen sheng
 土阜	tu f
 在家	zai gia
@@ -30009,7 +30000,7 @@ use_preset_vocabulary: true
 圩子	U z
 圩田	U tiEn
 圭臬	guEi nyiE
-圭角	guEi giauNG
+圭角	guEi giau
 圮剝	pi buo
 圮地	pi di
 圮毀	pi huEi
@@ -30033,7 +30024,7 @@ use_preset_vocabulary: true
 地下工廠	di hia gung chang
 地下投資	di hia tou z
 地下有知	di hia iou dh
-地下核爆	di hia he bauNG
+地下核爆	di hia he bau
 地下核試	di hia he sh
 地下水	di hia shuEi
 地下水位	di hia shuEi uEi
@@ -30063,7 +30054,7 @@ use_preset_vocabulary: true
 地保	di bau
 地做	de zuo
 地價	di gia
-地價公告	di gia gung gauNG
+地價公告	di gia gung gau
 地價稅	di gia shuEi
 地兒	di er
 地分	di fen
@@ -30262,8 +30253,8 @@ use_preset_vocabulary: true
 地裏	di li
 地裏鬼	di li guEi
 地覆天翻	di fuNG tiEn fEn
-地角	di giauNG
-地角天涯	di giauNG tiEn ngia
+地角	di giau
+地角天涯	di giau tiEn ngia
 地誌	di zh
 地論師	di luen sh
 地變	di biEn
@@ -30273,7 +30264,7 @@ use_preset_vocabulary: true
 地質活動	di dhiN huo dung
 地質災害	di dhiN zai hai
 地走	de zou
-地軸	di dhouNG
+地軸	di dhuNG
 地輿	di U
 地道	di dau
 地鄰	di lin
@@ -30311,7 +30302,7 @@ use_preset_vocabulary: true
 坐地	zuo di
 坐地分贓	zuo di fen zang
 坐標系	zuo biau hi
-坐標軸	zuo biau dhouNG
+坐標軸	zuo biau dhuNG
 坐簿	zuo bu
 坐言起行	zuo iEn ki hing
 坐賈	zuo gu
@@ -30319,7 +30310,7 @@ use_preset_vocabulary: true
 坑陷	keng hiEm
 坡地	puo di
 坤角	kuen gUENG
-坤軸	kuen dhouNG
+坤軸	kuen dhuNG
 坦率	tEn shuai
 坦露	tEn lou
 坯子	pEi z
@@ -30395,7 +30386,7 @@ use_preset_vocabulary: true
 執行過程	zh hing guo theng
 培塿	pou lou
 培訓基地	pEi hUin gi di
-培養液	pEi iang iENG
+培養液	pEi iang iNG
 培養皿	pEi iang min
 基地	gi di
 基地建設	gi di giEn she
@@ -30486,7 +30477,7 @@ use_preset_vocabulary: true
 塞擦音	se ca yim
 塞淵	se yUEn
 塞滿	sai mEn
-塞爆音	se bauNG yim
+塞爆音	se bau yim
 塞爾	sai er
 塞牙	sai ngia
 塞牙縫	sai ngia fong
@@ -30550,7 +30541,7 @@ use_preset_vocabulary: true
 墾地	ken di
 墾殖	ken zh
 壁塑	bi su
-壁宿	bi siouNG
+壁宿	bi siou
 壅塞	yUong se
 壎箎相和	hUin ch siang he
 壑谷	he guNG
@@ -30558,10 +30549,10 @@ use_preset_vocabulary: true
 壓着	yia dhau
 壓蔓	yia mEn
 壓覺	yia gUENG
-壓角章	yia giauNG zhang
-壓軸	yia dhouNG
-壓軸子	yia dhouNG z
-壓軸戲	yia dhouNG hi
+壓角章	yia giau zhang
+壓軸	yia dhuNG
+壓軸子	yia dhuNG z
+壓軸戲	yia dhuNG hi
 壓迫性潰瘍	yia puo sing kuEi iang
 壝埒	uEi le
 壞坯子	huai pEi z
@@ -30611,11 +30602,11 @@ use_preset_vocabulary: true
 外行星	nguai hing sing
 外行看熱鬧	nguai hang kEn rhe nau
 外行話	nguai hang hua
-外角	nguai giauNG
-外角球	nguai giauNG kiou
+外角	nguai giau
+外角球	nguai giau kiou
 外調	nguai diau
 外資銀行	nguai z in hang
-外錯角	nguai cuo giauNG
+外錯角	nguai cuo giau
 外鍵	nguai giEn
 外長	nguai dhang
 外長城	nguai thang cheng
@@ -30631,10 +30622,10 @@ use_preset_vocabulary: true
 多級	duo gi
 多藏厚亡	duo cang hou vang
 多行不義必自斃	duo hing buN i biN z bi
-多角化	duo giauNG hua
-多角度	duo giauNG du
-多角形	duo giauNG hing
-多角經營	duo giauNG ging ing
+多角化	duo giau hua
+多角度	duo giau du
+多角形	duo giau hing
+多角經營	duo giau ging ing
 多言數窮	duo iEn shuoNG kUng
 多財善賈	duo cai shEn gu
 多賺	duo dhuEm
@@ -30756,8 +30747,8 @@ use_preset_vocabulary: true
 大破慳囊	da puo kiEn nang
 大稔	da rhem
 大筆如椽	da biN rhu thuEn
-大纛	da dauNG
-大纛高牙	da dauNG gau ngia
+大纛	da dau
+大纛高牙	da dau gau ngia
 大義覺迷錄	da i gUENG mi lu
 大羹玄酒	tai geng hUEn ziou
 大老闆	da lau bEn
@@ -30784,14 +30775,14 @@ use_preset_vocabulary: true
 大衾長枕	da kim thang dhem
 大覺	da gUENG
 大覺醒	da gUENG sing
-大角度俯衝轟炸	da giauNG du f chong hong dha
+大角度俯衝轟炸	da giau du f chong hong dha
 大調	da diau
 大謬不然	da miou buN rhEn
 大賈	da gu
 大賺	da dhuEm
 大躍進	da UENG zin
-大軸子	da dhouNG z
-大軸子裹小軸子	da dhouNG z guo siau dhouNG z
+大軸子	da dhuNG z
+大軸子裹小軸子	da dhuNG z guo siau dhuNG z
 大輅	da lu
 大辟	da pi
 大辯若訥	da biEn rhuo neN
@@ -30844,7 +30835,7 @@ use_preset_vocabulary: true
 大隊長	da duEi dhang
 大隱朝市	da yin thau sh
 大頭芥	da tou giE
-大頭覺	da tou giauNG
+大頭覺	da tou giau
 大麯	da kU
 天下	tiEn hia
 天下危	tiEn hia nguEi zhu
@@ -30906,8 +30897,8 @@ use_preset_vocabulary: true
 天氣	tiEn ki
 天氣預報	tiEn ki U bau
 天涯咫尺	tiEn ngia zh ch
-天涯地角	tiEn ngia di giauNG
-天涯海角	tiEn ngia hai giauNG
+天涯地角	tiEn ngia di giau
+天涯海角	tiEn ngia hai giau
 天災地孽	tiEn zai di nyiE
 天災地變	tiEn zai di biEn
 天然纖維	tiEn rhEn siEm uEi
@@ -30934,7 +30925,7 @@ use_preset_vocabulary: true
 天行時氣	tiEn hing sh ki
 天覆地載	tiEn fuNG di zai
 天誅地滅	tiEn dhu di miE
-天軸	tiEn dhouNG
+天軸	tiEn dhuNG
 天造地設	tiEn zau di she
 天道好還	tiEn dau hau huEn
 天遠地隔	tiEn UEn di ge
@@ -30943,7 +30934,7 @@ use_preset_vocabulary: true
 天長地老	tiEn thang di lau
 天長地遠	tiEn thang di UEn
 天長日久	tiEn thang rhiN giou
-天長節	tiEn thang ziE
+天長節	tiEn thang ziEN
 天震地駭	tiEn zhen di hai
 天馬行空	tiEn ma hing kung
 天高地厚	tiEn gau di hou
@@ -30957,8 +30948,8 @@ use_preset_vocabulary: true
 太平洋盆地	tai ping iang pen di
 太平盛世	tai ping sheng sh
 太極	tai gi
-太液	tai iENG
-太液池	tai iENG th
+太液	tai iNG
+太液池	tai iNG th
 太皞	tai hau
 太空飛行員	tai kung fEi hing UEn
 太行	tai hang
@@ -31004,7 +30995,7 @@ use_preset_vocabulary: true
 夾彩塑	gia cai su
 夾心餅乾	gia sim bing gEn
 夾着尾巴	gia dhe vEi ba
-夾角	gia giauNG
+夾角	gia giau
 奄欻	yiEm huN
 奇偶	gi ou
 奇崛	ki gUEN
@@ -31012,7 +31003,7 @@ use_preset_vocabulary: true
 奇數	gi shuNG
 奇日	gi rhiN
 奇異	ki i
-奇節瑰行	ki ziE guEi hing
+奇節瑰行	ki ziEN guEi hing
 奇羨	gi siEn
 奇葩	ki pa
 奇葩異卉	ki pa i huEi
@@ -31053,7 +31044,7 @@ use_preset_vocabulary: true
 奧地利共和國	yau di li gong he guo
 奧斯汀	yau s ting
 奧斯陸	yau s luNG
-奧渫	yU siE
+奧渫	yUNG siE
 奧登塞	yau deng se
 奧祕	yau mi
 奧窔	yau yiau
@@ -31064,7 +31055,7 @@ use_preset_vocabulary: true
 女媧補天	nyU gua bu tiEn
 女媧補天	nyU yua bu tiEn
 女子參政主義	nyU z cEm zheng zhu i
-女宿	nyU siouNG
+女宿	nyU siou
 女校	nyU hiau
 女校尉	nyU giau yuEi
 女校書	nyU giau shu
@@ -31104,13 +31095,13 @@ use_preset_vocabulary: true
 好惡	hau yu
 好施樂善	hau sh leNG shEn
 好景不長	hau ging buN thang
-好望角	hau vang giauNG
+好望角	hau vang giau
 好東西	hau dung si
 好獃	hau dai
 好生惡殺	hau sheng yu sha
 好行小惠	hau hing siau huEi
 好行小慧	hau hing siau huEi
-好覺	hau giauNG
+好覺	hau giau
 好語似珠	hau U s zhu
 好諛惡直	hau U yu dh
 好貨不便宜	hau huo buN piEn ngi
@@ -31162,7 +31153,7 @@ use_preset_vocabulary: true
 妝儇	zhuang hUEn
 妥洽	tuo hia
 妥洽	tuo kia
-妯娌	dhouNG li
+妯娌	dhou li
 妲己	da gi
 妳們	nyi men
 妹東西	mEi dung si
@@ -31204,7 +31195,7 @@ use_preset_vocabulary: true
 娛樂片	ngU leNG piEn
 娛樂界	ngU leNG giE
 娛樂稅	ngU leNG shuEi
-娛樂節目	ngU leNG ziE muNG
+娛樂節目	ngU leNG ziEN muNG
 娜娜	nuo nuo
 娩出	miEn chuN
 娩息	miEn si
@@ -31296,7 +31287,7 @@ use_preset_vocabulary: true
 嬌嬈	giau rhau
 嬌怯	giau kiEM
 嬌怯怯	giau kiEM kiEM
-嬌皮嫩肉	giau pi nen rhouNG
+嬌皮嫩肉	giau pi nen rhuNG
 嬛佞	hUEn nying
 嬛嬛	hUEn hUEn
 嬛嬛	kUong kUong
@@ -31513,7 +31504,7 @@ use_preset_vocabulary: true
 官差	guEn chai
 官廨	guEn hiE
 官情紙薄	guEn cing zh buo
-官星透露	guEn sing touNG lou
+官星透露	guEn sing tou lou
 官校	guEn hiau
 官止神行	guEn zh shen hing
 官箴	guEn zhem
@@ -31657,7 +31648,7 @@ use_preset_vocabulary: true
 富貴草頭露	f guEi cau tou lu
 寒地訓練	hEn di hUin liEn
 寒怯	hEn kiEM
-寒燠	hEn yauNG
+寒燠	hEn yau
 寒畯	hEn zUin
 寒痹	hEn bi
 寒瘧	hEn nyUENG
@@ -31774,14 +31765,14 @@ use_preset_vocabulary: true
 對勁	duEi gin
 對品調用	duEi pim diau Uong
 對天長嘆	duEi tiEn thang tEn
-對對角	duEi duEi giauNG
+對對角	duEi duEi giau
 對接	duEi ziE
 對牛彈琴	duEi nyiou tEn kim
 對稱	duEi chen
 對稱	duEi cheng
 對簿	duEi bu
 對簿公堂	duEi bu gung tang
-對角線	duEi giauNG siEn
+對角線	duEi giau siEn
 對誰	duEi shuEi
 對調	duEi diau
 對象	duEi siang
@@ -31870,8 +31861,8 @@ use_preset_vocabulary: true
 尺蠖蛾	ch huo e
 尼泊爾	nyi buo er
 尼泊爾王國	nyi buo er uang guo
-尿液	nyiau iENG
-尿液篩檢	nyiau iENG shai giEm
+尿液	nyiau iNG
+尿液篩檢	nyiau iNG shai giEm
 局促一隅	gUNG cuNG yiN U
 局副局長	gUNG fuNG gUNG dhang
 局局長	gUNG gUNG dhang
@@ -32012,7 +32003,7 @@ use_preset_vocabulary: true
 岑牟	cem mou
 岡連嶺屬	gang liEn ling zhuNG
 岫幌	siou huang
-岬角	gia giauNG
+岬角	gia giau
 岳伯	UENG buo
 峭薄	ciau buo
 峴山碑	hiEn shEn bEi
@@ -32046,7 +32037,7 @@ use_preset_vocabulary: true
 崢嶸	zheng rhong
 崢嶸歲月	zheng rhong suEi UEN
 崩潰	beng kuEi
-崩角	beng giauNG
+崩角	beng giau
 崩阤	beng dh
 崩陷	beng hiEm
 崴嵬	yuEi nguEi
@@ -32062,7 +32053,7 @@ use_preset_vocabulary: true
 嶄露	zhEm lu
 嶄露鋒芒	zhEm lu fong mang
 嶄露頭角	zhEm lu tou gUENG
-嶄露頭角	zhEm lu tou giauNG
+嶄露頭角	zhEm lu tou giau
 嶠嶼	giau U
 嶢崢	iau zheng
 嶷岌	nyi gi
@@ -32102,14 +32093,14 @@ use_preset_vocabulary: true
 工程塑膠	gung theng su giau
 工程學	gung theng hUENG
 工行	gung hang
-左上角	zuo shang giauNG
-左下角	zuo hia giauNG
+左上角	zuo shang giau
+左下角	zuo hia giau
 左伯桃	zuo buo tau
 左傳	zuo dhuEn
 左右支絀	zuo iou zh thuN
 左支右絀	zuo zh iou thuN
 左氏傳	zuo sh dhuEn
-左纛	zuo dauNG
+左纛	zuo dau
 左舷	zuo hiEn
 左行	zuo hing
 巧妙	kiau miau
@@ -32255,7 +32246,7 @@ use_preset_vocabulary: true
 幡蓋	fEn gai
 幢幡	thuang fEn
 幢幢	thuang thuang
-幢節	thuang ziE
+幢節	thuang ziEN
 幢蓋	thuang gai
 幢隊	thuang duEi
 幢麾	thuang huEi
@@ -32285,7 +32276,7 @@ use_preset_vocabulary: true
 平章	ping zhang
 平章百姓	piEn zhang buo sing
 平行	ping hing
-平行六面體	ping hing liouNG miEn ti
+平行六面體	ping hing luNG miEn ti
 平行四邊形	ping hing s biEn hing
 平行官署	ping hing guEn shu
 平行文	ping hing ven
@@ -32296,7 +32287,7 @@ use_preset_vocabulary: true
 平行表親	ping hing biau cin
 平行輸入	ping hing shu rhu
 平衡覺	ping heng gUENG
-平角	ping giauNG
+平角	ping giau
 平鉋	ping bau
 平阜	ping f
 平陸	ping luNG
@@ -32416,9 +32407,9 @@ use_preset_vocabulary: true
 廣緝文書	guang zi ven shu
 廣行善事	guang hing shEn sh
 廣袤	guang mau
-廣角	guang giauNG
-廣角鏡	guang giauNG ging
-廣角鏡頭	guang giauNG ging tou
+廣角	guang giau
+廣角鏡	guang giau ging
+廣角鏡頭	guang giau ging tou
 廣長舌	guang thang she
 廣陸	guang luNG
 廧崒	ciang zuN
@@ -32477,7 +32468,7 @@ use_preset_vocabulary: true
 弛禁	sh gim
 弛緩	sh huEn
 弦不虛發	hiEn buN hU faN
-弦切角	hiEn ciE giauNG
+弦切角	hiEn ciE giau
 弦吹	hiEn chuEi
 弦外之意	hiEn nguai zh yi
 弦外之音	hiEn nguai zh yim
@@ -32495,10 +32486,10 @@ use_preset_vocabulary: true
 弦韋	hiEn uEi
 弦高	hiEn gau
 弧形	hu hing
-弧角	hu giauNG
+弧角	hu giau
 弩箭離絃	nu ziEn li hiEn
 弭棹	mi dhau
-弭節徘徊	mi ziE pai huai
+弭節徘徊	mi ziEN pai huai
 弱怯怯	rhuo kiEM kiEM
 張僧繇	dhang seng iou
 張家長李家短	dhang gia thang li gia duEn
@@ -32628,7 +32619,7 @@ use_preset_vocabulary: true
 彊志	kiang zh
 彊本	kiang ben
 彊本弱末	kiang ben rhuo muo
-彊本節用	kiang ben ziE Uong
+彊本節用	kiang ben ziEN Uong
 彊梁	kiang liang
 彊禦	kiang U
 彊記博聞	kiang gi buo ven
@@ -32653,7 +32644,7 @@ use_preset_vocabulary: true
 彫章鏤句	diau zhang lou gU
 彭湃	peng pai
 彭聃	peng dEm
-彰明較著	zhang ming giauNG dhu
+彰明較著	zhang ming giau dhu
 彰著	zhang dhu
 彰露	zhang lu
 影塑	ying su
@@ -32693,7 +32684,7 @@ use_preset_vocabulary: true
 後傳	hou dhuEn
 後半晌	hou bEn shang
 後天失調	hou tiEn shiN tiau
-後掠角	hou lUENG giauNG
+後掠角	hou lUENG giau
 後晌	hou shang
 後期	hou ki
 後知後覺	hou dh hou gUENG
@@ -32842,7 +32833,7 @@ use_preset_vocabulary: true
 心寬體胖	sim kuEn ti pEn
 心廣體胖	sim guang ti pEn
 心弦	sim hiEn
-心律調節器	sim lUN tiau ziE ki
+心律調節器	sim lUN tiau ziEN ki
 心得	sim de
 心怯	sim kiEM
 心悸	sim gi
@@ -32866,7 +32857,7 @@ use_preset_vocabulary: true
 心頭小鹿撞個不住	sim tou siau luNG dhuang ge buN dhu
 心頭撞小鹿	sim tou dhuang siau luNG
 心餘力絀	sim U li thuN
-心驚肉顫	sim ging rhouNG zhEn
+心驚肉顫	sim ging rhuNG zhEn
 心驚膽懾	sim ging dEm zhe
 心驚膽顫	sim ging dEm zhEn
 必得	biN dEi
@@ -32904,10 +32895,10 @@ use_preset_vocabulary: true
 快騎	kuai gi
 忭懽	biEn huEn
 忭躍	biEn UENG
-忸忸怩怩	nyiouNG nyiouNG nyi nyi
-忸怩	nyiouNG nyi
-忸怩作態	nyiouNG nyi zuo tai
-忸捏	nyiouNG nyiE
+忸忸怩怩	nyiou nyiou nyi nyi
+忸怩	nyiou nyi
+忸怩作態	nyiou nyi zuo tai
+忸捏	nyiou nyiE
 忽地	huN di
 忽忽不樂	huN huN buN leNG
 忽的	huN di
@@ -33070,7 +33061,7 @@ use_preset_vocabulary: true
 悍戾	hEn li
 悒悒不樂	yi yi buN leNG
 悔之亡及	huEi zh v gi
-悖繆	bEi miouNG
+悖繆	bEi miou
 悖謬	bEi miou
 悛容	cUEn rhong
 悛心	cUEn sim
@@ -33099,7 +33090,7 @@ use_preset_vocabulary: true
 悶不吭聲	men buN keng sheng
 悶悶不樂	men men buN leNG
 悶悶渴渴	men men he he
-悶瞀	men mauNG
+悶瞀	men mau
 悽愴	ci chuang
 惄如調饑	nyi rhu tiau gi
 情仇	cing chou
@@ -33113,7 +33104,7 @@ use_preset_vocabulary: true
 情深意重	cing shem yi dhong
 情深義重	cing shem i dhong
 情熟	cing shuNG
-情節嚴重	cing ziE iEm dhong
+情節嚴重	cing ziEN iEm dhong
 情見乎言	cing hiEn hu iEn
 情見乎辭	cing hiEn hu c
 情見力屈	cing hiEn li kUN
@@ -33302,14 +33293,14 @@ use_preset_vocabulary: true
 懁急	hUEn gi
 懂行	dung hang
 懆懆	cau cau
-懆暴	cau bauNG
+懆暴	cau bau
 懈弛	hiE ch
 應弦飲羽	ying hiEn yim U
 應收帳款週轉率	ying shou dhang kuEn zhou dhuEn lUN
 應瑒	ying iang
 應璩	ying kU
 應聘	ying pin
-懊憹	yauNG nau
+懊憹	yau nau
 懋典	mau diEn
 懋勛	mau hUin
 懋勤殿	mau kin diEn
@@ -33326,7 +33317,7 @@ use_preset_vocabulary: true
 懲一警百	theng yiN ging buo
 懲羹吹齏	theng geng chuEi zi
 懵然未覺	mung rhEn vEi gUENG
-懶覺	lEn giauNG
+懶覺	lEn giau
 懷寶夜行	huai bau iE hing
 懷惡不悛	huai ye buN cUEn
 懷鉛提槧	huai kiEn ti ciEm
@@ -33338,13 +33329,13 @@ use_preset_vocabulary: true
 懸掛	hUEn gua
 懸揣	hUEn chuEn
 懸浮	hUEn f
-懸液劑	hUEn iENG zi
-懸濁液	hUEn dhuoNG iENG
+懸液劑	hUEn iNG zi
+懸濁液	hUEn dhuoNG iNG
 懸的過高	hUEn di guo gau
 懸絲傀儡	hUEn s kuEi lEi
 懸薄	hUEn buo
 懸車之年	hUEn che zh nyiEn
-懸車告老	hUEn che gauNG lau
+懸車告老	hUEn che gau lau
 懸車致仕	hUEn che dh sh
 懸針垂露	hUEn zhem thuEi lou
 懼怯	gU kiEM
@@ -33482,14 +33473,14 @@ use_preset_vocabulary: true
 扃鐍	gUong gUEN
 扃門	gUong men
 扃關	gUong guEn
-扇形角	shEn hing giauNG
+扇形角	shEn hing giau
 扇火止沸	shEn huo zh fEi
 扈從	hu cong
 扈從	hu zong
 手剎	shou sha
 手寫	shou siE
 手寫辨似	shou siE biEn s
-手心手背都是肉	shou sim shou bEi dou sh rhouNG
+手心手背都是肉	shou sim shou bEi dou sh rhuNG
 手扒雞	shou pa gi
 手攜手	shou hi shou
 手榜	shou bang
@@ -33725,7 +33716,7 @@ use_preset_vocabulary: true
 抗血清	kang hiEN cing
 抗頡作用	kang hiE zuo Uong
 折價率	zhe gia lUN
-折射角	zhe she giauNG
+折射角	zhe she giau
 折戟沈河	zhe gi them he
 折本	she ben
 折秤	she cheng
@@ -33829,7 +33820,7 @@ use_preset_vocabulary: true
 抱朴子	bau puNG z
 抱槧懷鉛	bau ciEm huai kiEn
 抱蔓摘瓜	bau mEn dhai gua
-抱角牀	bau giauNG chuang
+抱角牀	bau giau chuang
 抱關擊柝	bau guEn gi tuo
 抵償	di chang
 抵消	di siau
@@ -33949,9 +33940,9 @@ use_preset_vocabulary: true
 拏空	na kung
 拏雲	na Uin
 拏雲攫石	na Uin gUENG sh
-拐彎抹角	guai yuEn muo giauNG
+拐彎抹角	guai yuEn muo giau
 拐裨子	guai pi z
-拐角	guai giauNG
+拐角	guai giau
 拑制	kiEm zh
 拑口	kiEm kou
 拒塞	gU se
@@ -34103,7 +34094,7 @@ use_preset_vocabulary: true
 挑重擔	tiau dhong dEm
 挓挲	zha sha
 挖地彈	yua di dEn
-挖牆角	yua ciang giauNG
+挖牆角	yua ciang giau
 挨呲	yai c
 挨山塞海	yai shEn se hai
 挨挨桚桚	yai yai za za
@@ -34227,7 +34218,7 @@ use_preset_vocabulary: true
 掇那	duo nuo
 掇青拾紫	duo cing sh z
 授權	shou kUEn
-掉鎗花	diauNG ciang hua
+掉鎗花	diau ciang hua
 掎摭	gi zh
 掎裳連襼	gi chang liEn i
 掎角	gi gUENG
@@ -34252,15 +34243,15 @@ use_preset_vocabulary: true
 掙䦟	zheng chuai
 掙扎	zheng zha
 掛牌匯率	gua pai huEi lUN
-掛角	gua giauNG
-掛角讀書	gua giauNG duNG shu
-掛軸	gua dhouNG
+掛角	gua giau
+掛角讀書	gua giau duNG shu
+掛軸	gua dhuNG
 掞張	shEm dhang
 掞藻	shEm zau
 掞藻飛聲	shEm zau fEi sheng
 掠地	lUENG di
 掠地攻城	lUENG di gung cheng
-掠脂斡肉	lUENG zh yuo rhouNG
+掠脂斡肉	lUENG zh yuo rhuNG
 掠食	lUENG sh
 採取行動	cai cU hing dung
 採摭	cai zh
@@ -34359,7 +34350,7 @@ use_preset_vocabulary: true
 提高效率	ti gau hiau lUN
 提齁	ti hou
 插扛子	cha gang z
-插架萬軸	cha gia vEn dhouNG
+插架萬軸	cha gia vEn dhuNG
 插火坑	cha huo kang
 插科使砌	cha ke sh ciE
 插科打諢	cha ke da huen
@@ -34381,8 +34372,8 @@ use_preset_vocabulary: true
 換血	huEn hiEN
 換行	huEn hang
 揠苗助長	yia miau zhu dhang
-握拳透爪	yuoNG kUEn touNG zhau
-握拳透爪	yuoNG kUEn touNG zhua
+握拳透爪	yuoNG kUEn tou zhau
+握拳透爪	yuoNG kUEn tou zhua
 握槧懷鉛	yuoNG ciEm huai kiEn
 握雨攜雲	yuoNG U hi Uin
 握雲攜雨	yuoNG Uin hi U
@@ -34451,7 +34442,7 @@ use_preset_vocabulary: true
 搐風	thou fung
 搓圓仔	cuo UEn z
 搓圓仔湯	cuo UEn z tang
-搓熟的湯團	cuo shouNG de tang tuEn
+搓熟的湯團	cuo shuNG de tang tuEn
 搓粉摶朱	cuo fen tuEn zhu
 搔着癢處	sau dhau iang chu
 搖囝仔歌	iau giEm z ge
@@ -34502,7 +34493,7 @@ use_preset_vocabulary: true
 摑打撾揉	guo da dhua rhou
 摒棄	bing ki
 摒除	bing thu
-摔角	shuai giauNG
+摔角	shuai giau
 摔馬杓	shuai ma shau
 摘伏發隱	ti fuNG faN yin
 摘奸發伏	dhai giEn faN fuNG
@@ -34545,7 +34536,7 @@ use_preset_vocabulary: true
 摸不着	muo buN dhau
 摸不着頭腦	muo buN dhau tou nau
 摸不着頭路	muo buN dhau tou lu
-摸手熟	muo shou shouNG
+摸手熟	muo shou shuNG
 摸着	muo dhau
 摸金校尉	muo gim giau yuEi
 摸門不着	muo men buN dhau
@@ -34560,20 +34551,20 @@ use_preset_vocabulary: true
 摽牌	biau pai
 摽落	piau luo
 摽說	piau shuoN
-撂下	liauNG hia
-撂下臉來	liauNG hia liEm lai
-撂了	liauNG le
-撂倒	liauNG dau
-撂地	liauNG di
-撂地幫	liauNG di bang
-撂手	liauNG shou
-撂挑子	liauNG tiau z
-撂皮	liauNG pi
-撂荒	liauNG huang
-撂跤	liauNG giau
-撂過手	liauNG guo shou
-撂開	liauNG kai
-撂開手	liauNG kai shou
+撂下	liau hia
+撂下臉來	liau hia liEm lai
+撂了	liau le
+撂倒	liau dau
+撂地	liau di
+撂地幫	liau di bang
+撂手	liau shou
+撂挑子	liau tiau z
+撂皮	liau pi
+撂荒	liau huang
+撂跤	liau giau
+撂過手	liau guo shou
+撂開	liau kai
+撂開手	liau kai shou
 撇呵	piE he
 撇地	piE de
 撈什子	lau sh z
@@ -34921,7 +34912,7 @@ use_preset_vocabulary: true
 效率	hiau lUN
 效率高	hiau lUN gau
 敏給	min gi
-救之就要吃人肉	giou zh ziou yiau chiN rhen rhouNG
+救之就要吃人肉	giou zh ziou yiau chiN rhen rhuNG
 救火揚沸	giou huo iang fEi
 敕賜	th c
 敕賜	th s
@@ -34944,7 +34935,7 @@ use_preset_vocabulary: true
 教育行政	giau UNG hing zheng
 敝地	bi di
 敞地	chang di
-散嗽	sEn souNG
+散嗽	sEn sou
 散地	sEn di
 散樂	sEn ngUENG
 散血草	sEn hUEN cau
@@ -35021,8 +35012,8 @@ use_preset_vocabulary: true
 料度	liau duo
 斜率	siE lUN
 斜線	siE siEn
-斜角	siE giauNG
-斜角規	siE giauNG guEi
+斜角	siE giau
+斜角規	siE giau guEi
 斜谷	iE guNG
 斜長石	siE thang sh
 斡旋	yuo sUEn
@@ -35032,7 +35023,7 @@ use_preset_vocabulary: true
 斥地	ch di
 斥騎	ch gi
 斧削	f sUENG
-斧鑿	f zauNG
+斧鑿	f zau
 斧鑿痕	f zuoNG hen
 斫地	zhuo di
 斫蜋	zhuo lang
@@ -35136,7 +35127,7 @@ use_preset_vocabulary: true
 日久天長	rhiN giou tiEn thang
 日削月朘	rhiN sUENG UEN zUEn
 日喀則	rhiN ke ze
-日射角	rhiN she giauNG
+日射角	rhiN she giau
 日引月長	rhiN in UEN thang
 日晷	rhiN guEi
 日晷儀	rhiN guEi i
@@ -35168,7 +35159,7 @@ use_preset_vocabulary: true
 早參	zau cEm
 早晌	zau shang
 早朝	zau thau
-早熟兒童	zau shouNG er tung
+早熟兒童	zau shuNG er tung
 早賜玉音	zau c UNG yim
 早賜玉音	zau s UNG yim
 旮旯	ga la
@@ -35176,7 +35167,7 @@ use_preset_vocabulary: true
 旱潦	hEn lau
 旱獺	hEn ta
 旺盛	uang sheng
-旺角	uang giauNG
+旺角	uang giau
 昂藏	ang cang
 昃晷	ze guEi
 昆邪	kuen iE
@@ -35200,7 +35191,7 @@ use_preset_vocabulary: true
 昏天黑地	huen tiEn hEi di
 昏定晨省	huen ding chen sing
 昏沈	huen them
-昏瞀	huen mauNG
+昏瞀	huen mau
 昏瞶	huen kuEi
 昏鏡重明	huen ging thong ming
 昏鏡重磨	huen ging thong muo
@@ -35213,7 +35204,7 @@ use_preset_vocabulary: true
 易如拾芥	i rhu sh giE
 易簀	i ze
 易轍	i dhe
-星宿海	sing siouNG hai
+星宿海	sing siou hai
 星星	sing sing
 星期	sing ki
 星期一	sing ki yiN
@@ -35277,11 +35268,11 @@ use_preset_vocabulary: true
 晉朝	zin thau
 晌午	shang huo
 晌午歪	shang huo uai
-晌覺	shang giauNG
+晌覺	shang giau
 晌飯	shang fEn
 晏朝	yiEn thau
 晒乾	shai gEn
-晚上睡覺	vEn shang shuEi giauNG
+晚上睡覺	vEn shang shuEi giau
 晚參	vEn cEm
 晚期	vEn ki
 晚熟	vEn shuNG
@@ -35304,7 +35295,7 @@ use_preset_vocabulary: true
 景從雲集	ying cong Uin zi
 景行	ging hing
 晶粒生長	zing li sheng dhang
-晶軸	zing dhouNG
+晶軸	zing dhuNG
 晷刻	guEi ke
 智圓行方	dh UEn hing fang
 智慧型大廈	dh huEi hing da sha
@@ -35366,38 +35357,38 @@ use_preset_vocabulary: true
 暮禮晨參	mu li chen cEm
 暮虢朝虞	mu guo dhau U
 暮雨朝雲	mu U dhau Uin
-暴厲恣睢	bauNG li c suEi
-暴厲恣睢	bauNG li z suEi
+暴厲恣睢	bau li c suEi
+暴厲恣睢	bau li z suEi
 暴室	puNG shiN
 暴屍於市	puNG sh yU sh
 暴師	puNG sh
-暴恣	bauNG c
-暴恣	bauNG z
-暴懆	bauNG cau
-暴戾	bauNG li
-暴戾之氣	bauNG li zh ki
-暴戾恣睢	bauNG li c suEi
-暴戾恣睢	bauNG li z suEi
+暴恣	bau c
+暴恣	bau z
+暴懆	bau cau
+暴戾	bau li
+暴戾之氣	bau li zh ki
+暴戾恣睢	bau li c suEi
+暴戾恣睢	bau li z suEi
 暴揚	puNG iang
 暴桑	puNG sang
-暴殄	bauNG tiEn
-暴殄天物	bauNG tiEn tiEn vuN
-暴殄輕生	bauNG tiEn king sheng
+暴殄	bau tiEn
+暴殄天物	bau tiEn tiEn vuN
+暴殄輕生	bau tiEn king sheng
 暴白	puNG bai
 暴腮龍門	puNG sai long men
-暴虎馮河	bauNG hu ping he
-暴虐	bauNG nyUENG
-暴虐無道	bauNG nyUENG v dau
-暴行	bauNG hing
+暴虎馮河	bau hu ping he
+暴虐	bau nyUENG
+暴虐無道	bau nyUENG v dau
+暴行	bau hing
 暴行	puNG hing
 暴醃	puNG yiEm
-暴雷也似	bauNG lEi iE s
-暴露	bauNG lu
+暴雷也似	bau lEi iE s
+暴露	bau lu
 暴露	puNG lu
-暴露出	bauNG lu chuN
+暴露出	bau lu chuN
 暴露狂	puNG lu kuang
 暴面	puNG miEn
-暴風驟雨	bauNG fung zhou U
+暴風驟雨	bau fung zhou U
 暴骨	puNG guN
 暴骨原野	puNG guN UEn iE
 曄曄	iE iE
@@ -35406,7 +35397,7 @@ use_preset_vocabulary: true
 曛黑	hUin he
 曝光	puNG guang
 曝光表	puNG guang biau
-曝出	bauNG chuN
+曝出	bau chuN
 曝晒	puNG shai
 曝書	puNG shu
 曝氣	puNG ki
@@ -35430,7 +35421,7 @@ use_preset_vocabulary: true
 曲薄	kUNG buo
 曲蟮	kUNG shEn
 曲調	kUNG diau
-曲軸	kUNG dhouNG
+曲軸	kUNG dhuNG
 曲阜縣	kUNG f hiEn
 曳光彈	i guang dEn
 曳光彈	iE guang dEn
@@ -35600,7 +35591,7 @@ use_preset_vocabulary: true
 有效	iou hiau
 有效期	iou hiau ki
 有朝一日	iou dhau yiN rhiN
-有棱有角	iou leng iou giauNG
+有棱有角	iou leng iou giau
 有模子	iou mu z
 有的放矢	iou di fang sh
 有着落	iou dhuo luo
@@ -35814,12 +35805,12 @@ use_preset_vocabulary: true
 未省	vEi sing
 未足輕重	vEi zuNG king dhong
 未還	vEi huEn
-未雨綢繆	vEi U thou mouNG
+未雨綢繆	vEi U thou mou
 末了	muo liau
 末末了	muo muo liau
 末杪年	muo miau nyiEn
 末着	muo dhau
-末節細行	muo ziE si hing
+末節細行	muo ziEN si hing
 末腳	muo gUENG
 本地	ben di
 本地人	ben di rhen
@@ -35852,7 +35843,7 @@ use_preset_vocabulary: true
 朴實頭	puNG shiN tou
 朴忠	puNG dhung
 朴樹	puNG shu
-朴正熙	piauNG zheng hi
+朴正熙	piau zheng hi
 朴父	puNG f
 朴直	puNG dh
 朴硝	puoNG siau
@@ -35898,7 +35889,7 @@ use_preset_vocabulary: true
 杯蛇鬼車	bEi she guEi che
 杯行	bEi hing
 東北地區	dung bEi di kU
-東北角	dung bEi giauNG
+東北角	dung bEi giau
 東塗西抹	dung tu si muo
 東奔西撞	dung ben si dhuang
 東家長西家短	dung gia thang si gia duEn
@@ -35928,14 +35919,14 @@ use_preset_vocabulary: true
 杲杲	gau gau
 杷推	pa tuEi
 杷沙	pa sha
-杼軸	dhu dhouNG
-杼軸其空	dhu dhouNG ki kung
+杼軸	dhu dhuNG
+杼軸其空	dhu dhuNG ki kung
 松柏之堅	song buo zh giEn
 松柏之壽	song buo zh shou
 松柏之茂	song buo zh mau
 松柏園	song buo UEn
 松柏後凋	song buo hou diau
-松柏節操	song buo ziE cau
+松柏節操	song buo ziEN cau
 松柏長青	song buo thang cing
 松柏長青茶	song buo thang cing tha
 松皮癬	song pi siEn
@@ -36039,7 +36030,7 @@ use_preset_vocabulary: true
 柏臺烏府	buo tai yu f
 柏舟	buo zhou
 柏舟之痛	buo zhou zh tung
-柏舟之節	buo zhou zh ziE
+柏舟之節	buo zhou zh ziEN
 柏舟之誓	buo zhou zh sh
 柏舟操	buo zhou cau
 柏芝	bai zh
@@ -36084,7 +36075,7 @@ use_preset_vocabulary: true
 查詰	cha giEN
 柬埔寨	giEn pu zhai
 柬埔寨民主國	giEn pu zhai min zhu guo
-柳宿	liou siouNG
+柳宿	liou siou
 柳毅傳	liou i dhuEn
 柳氏傳	liou sh dhuEn
 柳盜跖	liou dau zh
@@ -36248,7 +36239,7 @@ use_preset_vocabulary: true
 棣鄂	di e
 棬樞	kUEn shu
 森林遊樂區	sem lim iou leNG kU
-棱角	leng giauNG
+棱角	leng giau
 棲宿	ci suNG
 棲屑	ci siEN
 棲息	ci si
@@ -36290,7 +36281,7 @@ use_preset_vocabulary: true
 楊戩	iang ziEn
 楊繼盛	iang gi sheng
 楊行密	iang hing miN
-楊輝三角形	iang huEi sEm giauNG hing
+楊輝三角形	iang huEi sEm giau hing
 楓丹白露	fung dEn bai lu
 楓梓	fung z
 楓梓宮保拼音	fung z gung bau pin yim
@@ -36375,7 +36366,7 @@ use_preset_vocabulary: true
 樂不可言	leNG buN ke iEn
 樂不思蜀	leNG buN s shuNG
 樂事	leNG sh
-樂亭大鼓	lauNG ting da gu
+樂亭大鼓	lau ting da gu
 樂人	ngUENG rhen
 樂以忘憂	leNG i vang yiou
 樂利	leNG li
@@ -36487,7 +36478,7 @@ use_preset_vocabulary: true
 樂趣	leNG cU
 樂輸	leNG shu
 樂迷	ngUENG mi
-樂透	leNG touNG
+樂透	leNG tou
 樂遊原	leNG iou UEn
 樂道	leNG dau
 樂道安貧	ngiau dau yEn pin
@@ -36576,7 +36567,7 @@ use_preset_vocabulary: true
 機械論	gi hiE luen
 機率	gi lUN
 機率預報	gi lUN U bau
-機軸	gi dhouNG
+機軸	gi dhuNG
 機辟	gi bi
 機長	gi dhang
 橦布	tung bu
@@ -36594,7 +36585,7 @@ use_preset_vocabulary: true
 橫行直撞	heng hing dh dhuang
 橫行霸道	heng hing ba dau
 橫衝直撞	heng chong dh dhuang
-橫軸	heng dhouNG
+橫軸	heng dhuNG
 檀車	tEn che
 檄召	hi dhau
 檄文	hi ven
@@ -36714,7 +36705,7 @@ use_preset_vocabulary: true
 止血法	zh hiEN fa
 止血點	zh hUEN diEm
 止血點	zh hiEN diEm
-正三角形	zheng sEm giauNG hing
+正三角形	zheng sEm giau hing
 正交	zheng giau
 正傳	zheng dhuEn
 正在進行	zheng zai zin hing
@@ -36802,7 +36793,7 @@ use_preset_vocabulary: true
 死生契闊	s sheng kiE kuo
 死生未卜	s sheng vEi buNG
 死相枕藉	s siang dhem ziE
-死角	s giauNG
+死角	s giau
 死重泰山	s dhong tai shEn
 死鰾白纏	s biau bai thEn
 歿地	muoN di
@@ -36815,7 +36806,7 @@ use_preset_vocabulary: true
 殆無孑遺	dai v giE i
 殆無虛日	dai v hU rhiN
 殆盡	dai zin
-殊功勁節	shu gung ging ziE
+殊功勁節	shu gung ging ziEN
 殖利	zh li
 殖殖	zh zh
 殖毛劑	zh mau zi
@@ -36871,14 +36862,14 @@ use_preset_vocabulary: true
 每朝每日	mEi dhau mEi rhiN
 每朝逐日	mEi dhau dhuNG rhiN
 每行	mEi hang
-毒液	duNG iENG
+毒液	duNG iNG
 比不了	biN buN liau
 比似	biN s
 比校	biN giau
 比率	biN lUN
 比肩	biN giEn
 比誰	biN shuEi
-比較	biN giauNG
+比較	biN giau
 比重	biN dhong
 比重計	biN dhong gi
 毗佐	pi zuo
@@ -36905,7 +36896,7 @@ use_preset_vocabulary: true
 毛血	mau hUEN
 毛血	mau hiEN
 毛重	mau dhong
-毣毣	mauNG mauNG
+毣毣	mau mau
 毫不遜色	hau buN sUin se
 毫釐	hau li
 毫釐不爽	hau li buN shuang
@@ -36953,11 +36944,11 @@ use_preset_vocabulary: true
 氣喘吁吁	ki chuEn hU hU
 氣塞	ki se
 氣夯胸脯	ki hang hUong pu
-氣態溶液	ki tai rhong iENG
+氣態溶液	ki tai rhong iNG
 氣沮	ki zU
 氣流	ki liou
 氣焰囂張	ki iEm hiau dhang
-氣爆彈	ki bauNG dEn
+氣爆彈	ki bau dEn
 氣盛言宜	ki sheng iEn ngi
 氣貫長虹	ki guEn thang hung
 氣鳴樂器	ki ming ngUENG ki
@@ -36989,27 +36980,27 @@ use_preset_vocabulary: true
 氯黴素	lU mEi su
 水利樞紐	shuEi li shu nyiou
 水勺	shuEi shau
-水宿	shuEi siouNG
+水宿	shuEi siou
 水宿風餐	shuEi suNG fung cEn
 水斷陸絕	shuEi duEn luNG zUEN
 水晶	shuEi zing
 水柵	shuEi zha
-水樣液	shuEi iang iENG
+水樣液	shuEi iang iNG
 水汀	shuEi ting
 水泄不通	shuEi siE buN tung
-水泥熟料	shuEi nyi shouNG liau
+水泥熟料	shuEi nyi shuNG liau
 水泵	shuEi beng
 水源地	shuEi UEn di
 水滸	shuEi hu
 水滸傳	shuEi hu dhuEn
-水狀液	shuEi zhuang iENG
+水狀液	shuEi zhuang iNG
 水獺	shuEi ta
 水產養殖	shuEi chEn iang zh
 水碓	shuEi duEi
 水磨調	shuEi muo diau
 水稗	shuEi bai
 水筆仔	shuEi biN z
-水蓼	shuEi liauNG
+水蓼	shuEi liau
 水蘊草	shuEi yUin cau
 水過地皮溼	shuEi guo di pi sh
 水遠山長	shuEi UEn shEn thang
@@ -37052,7 +37043,7 @@ use_preset_vocabulary: true
 汗洽股慄	hEn kia gu liN
 汗流洽背	hEn liou hia bEi
 汗流洽背	hEn liou kia bEi
-汗液	hEn iENG
+汗液	hEn iNG
 汗血馬	hEn hUEN ma
 汗血馬	hEn hiEN ma
 汛地	sUin di
@@ -37372,7 +37363,7 @@ use_preset_vocabulary: true
 法藏	fa zang
 泙泙	peng peng
 泙湃	peng pai
-泛珠三角	fEm zhu sEm giauNG
+泛珠三角	fEm zhu sEm giau
 泛駕	fung gia
 泜泜	th th
 泠冽	ling liE
@@ -37450,7 +37441,7 @@ use_preset_vocabulary: true
 洞壑	dung huo
 洞天福地	dung tiEn fuNG di
 津津樂道	zin zin leNG dau
-津液	zin iENG
+津液	zin iNG
 洪洞縣	hung tung hiEn
 洪都百鍊生	hung du bai liEn sheng
 洮汰	tau tai
@@ -37596,8 +37587,8 @@ use_preset_vocabulary: true
 海螄	hai s
 海螵蛸	hai piau siau
 海行	hai hing
-海角	hai giauNG
-海角天涯	hai giauNG tiEn ngia
+海角	hai giau
+海角天涯	hai giau tiEn ngia
 海軍基地	hai gUin gi di
 海軍陸戰隊	hai gUin luNG zhEn duEi
 海都	hai du
@@ -37611,7 +37602,7 @@ use_preset_vocabulary: true
 浼人親行	mEi rhen cin hing
 浼浼	mEi mEi
 消化性潰瘍	siau hua sing kuEi iang
-消化液	siau hua iENG
+消化液	siau hua iNG
 消失	siau shiN
 消息	siau si
 消折	siau she
@@ -37634,31 +37625,31 @@ use_preset_vocabulary: true
 涎鄧鄧	siEn deng deng
 涒灘	tuen tEn
 涒鄰	yUin lin
-涮羊肉	shuEn iang rhouNG
+涮羊肉	shuEn iang rhuNG
 涮鍋子	shuEn guo z
-液化	iENG hua
-液化天然氣	iENG hua tiEn rhEn ki
-液化瓦斯	iENG hua ngua s
-液化石油氣	iENG hua sh iou ki
-液壓	iENG yia
-液壓機	iENG yia gi
-液態	iENG tai
-液態氧	iENG tai iang
-液態溶液	iENG tai rhong iENG
-液晶	iENG zing
-液晶投影器	iENG zing tou ying ki
-液晶窗	iENG zing chuang
-液晶顯示器	iENG zing hiEn sh ki
-液材	iENG cai
-液果	iENG guo
-液泡	iENG pau
-液泡膜	iENG pau muo
-液胞	iENG bau
-液雨	iENG U
-液體	iENG ti
-液體比重計	iENG ti biN dhong gi
-液體燃料火箭發動機	iENG ti rhEn liau huo ziEn faN dung gi
-液體瓦斯	iENG ti ngua s
+液化	iNG hua
+液化天然氣	iNG hua tiEn rhEn ki
+液化瓦斯	iNG hua ngua s
+液化石油氣	iNG hua sh iou ki
+液壓	iNG yia
+液壓機	iNG yia gi
+液態	iNG tai
+液態氧	iNG tai iang
+液態溶液	iNG tai rhong iNG
+液晶	iNG zing
+液晶投影器	iNG zing tou ying ki
+液晶窗	iNG zing chuang
+液晶顯示器	iNG zing hiEn sh ki
+液材	iNG cai
+液果	iNG guo
+液泡	iNG pau
+液泡膜	iNG pau muo
+液胞	iNG bau
+液雨	iNG U
+液體	iNG ti
+液體比重計	iNG ti biN dhong gi
+液體燃料火箭發動機	iNG ti rhEn liau huo ziEn faN dung gi
+液體瓦斯	iNG ti ngua s
 涵咀	hEm zU
 涸乾	hau gEn
 涸漁	he U
@@ -37679,7 +37670,7 @@ use_preset_vocabulary: true
 淆紊	hiau ven
 淆雜	hiau za
 淈泥	guN nyi
-淋巴液	lim ba iENG
+淋巴液	lim ba iNG
 淌海水似的	tang hai shuEi sh de
 淌眼抹淚	tang iEn muo lEi
 淑慝殊途	shuNG te shu tu
@@ -37692,7 +37683,7 @@ use_preset_vocabulary: true
 淙淙	cong cong
 淙琤	cong cheng
 淚乾腸斷	lEi gEn thang duEn
-淚液	lEi iENG
+淚液	lEi iNG
 淚盤如露	lEi pEn rhu lu
 淟汩	tiEn guN
 淠淠	pi pi
@@ -37715,7 +37706,7 @@ use_preset_vocabulary: true
 淪陷區	luen hiEm kU
 淫媟	im siE
 淫心慝行	im sim te hing
-淫液	im iENG
+淫液	im iNG
 淫潦	im lau
 淮北枳	huai bEi zh
 淮南桔	huai nEm gU
@@ -37735,7 +37726,7 @@ use_preset_vocabulary: true
 深淵薄冰	shem yUEn buo bing
 深源地震	shem UEn di zhen
 深省	shem sing
-深耕易耨	shem geng i nouNG
+深耕易耨	shem geng i nou
 深藏	shem cang
 深藏不露	shem cang buN lou
 深藏若虛	shem cang rhuo hU
@@ -37788,7 +37779,7 @@ use_preset_vocabulary: true
 清都	cing du
 清除	cing thu
 清零	cing ling
-清風勁節	cing fung ging ziE
+清風勁節	cing fung ging ziEN
 清馨	cing hin
 減削	giEm sUENG
 減去	giEm kU
@@ -37825,7 +37816,7 @@ use_preset_vocabulary: true
 渾渾	huen huen
 渾然不覺	huen rhEn buN gUENG
 湃湃	pai pai
-湄公河三角洲	mEi gung he sEm giauNG zhou
+湄公河三角洲	mEi gung he sEm giau zhou
 湔江	ziEn giang
 湔洗	ziEn si
 湔浣腸胃	ziEn huEn thang uEi
@@ -37845,7 +37836,7 @@ use_preset_vocabulary: true
 湮阨	yin ye
 湮鬱	yin yUN
 湯匙	tang ch
-湯液	tang iENG
+湯液	tang iNG
 湯湯	shang shang
 湯着	tang dhau
 源深流長	UEn shem liou thang
@@ -37891,7 +37882,7 @@ use_preset_vocabulary: true
 溴水	hiou shuEi
 溴酸	hiou suEn
 溶㵝	rhong i
-溶液	rhong iENG
+溶液	rhong iNG
 溶溶泄泄	rhong rhong siE siE
 溷廁	huen c
 溷肴	huen iau
@@ -37911,8 +37902,8 @@ use_preset_vocabulary: true
 滇池縣	diEn th hiEn
 滇緬	diEn miEn
 滇緬公路	diEn miEn gung lu
-滈汗	hauNG hEn
-滈滈	hauNG hauNG
+滈汗	hau hEn
+滈滈	hau hau
 滋蔓	z mEn
 滋蔓難圖	z mEn nEn tu
 滋長	z dhang
@@ -37920,7 +37911,7 @@ use_preset_vocabulary: true
 滎經縣	ing ging hiEn
 滎陽縣	hing iang hiEn
 滑扢虀	huaN hiN zi
-滑液	huaN iENG
+滑液	huaN iNG
 滑熟	huaN shuNG
 滑稽	guN gi
 滑稽大鼓	guN gi da gu
@@ -37934,7 +37925,7 @@ use_preset_vocabulary: true
 滕薛爭長	teng sUEN zheng thang
 滴修都速	di siou du suNG
 滴屑屑	di siEN siEN
-滴液	di iENG
+滴液	di iNG
 滴羞跌屑	di siou diE siEN
 滴羞都蘇	di siou du su
 滴血	di hUEN
@@ -37996,7 +37987,7 @@ use_preset_vocabulary: true
 漱石枕流	shu sh dhem liou
 漸漸	ziEm ziEm
 漸行	ziEm hing
-漿液	ziang iENG
+漿液	ziang iNG
 潏潏	gUENN gUENN
 潑包婁	puo bau lou
 潑天也似	puo tiEn iE s
@@ -38107,7 +38098,7 @@ use_preset_vocabulary: true
 濊濊	huo huo
 濊貊	huEi muo
 濊貊	yuEi muo
-濕肉伴乾柴	sh rhouNG bEn gEn chai
+濕肉伴乾柴	sh rhuNG bEn gEn chai
 濘淖	nying nau
 濘滯	nying dh
 濟公傳	zi gung dhuEn
@@ -38130,13 +38121,13 @@ use_preset_vocabulary: true
 濯足	dhuoNG zuNG
 濯足滄浪	dhuoNG zuNG cang lang
 濱豇豆	bin giang dou
-濾液	lU iENG
+濾液	lU iNG
 瀇洋	yuang iang
 瀇瀁	yuang iang
-瀑風	bauNG fung
+瀑風	bau fung
 瀕危	bin nguEi
 瀕臨	bin lim
-瀝液	li iENG
+瀝液	li iNG
 瀝膽披肝	li dEm pi gEn
 瀝血之仇	li hUEN zh chou
 瀧夫	lung f
@@ -38156,8 +38147,8 @@ use_preset_vocabulary: true
 火浣布衫	huo huEn bu shEm
 火箭	huo ziEn
 火箭彈	huo ziEn dEn
-火耕水耨	huo geng shuEi nouNG
-火耨刀耕	huo nouNG dau geng
+火耕水耨	huo geng shuEi nou
+火耨刀耕	huo nou dau geng
 火花塞	huo hua sai
 火長	huo dhang
 火齊	huo ci
@@ -38190,7 +38181,7 @@ use_preset_vocabulary: true
 烏天黑地	yu tiEn hEi di
 烏梁海盆地	yu liang hai pen di
 烏氏倮	yu zh luo
-烏白馬角	yu bai ma giauNG
+烏白馬角	yu bai ma giau
 烏雲着頂	yu Uin dhuo ding
 烘乾	hung gEn
 烘乾機	hung gEn gi
@@ -38304,7 +38295,7 @@ use_preset_vocabulary: true
 煩數	fEn shuoNG
 煮沸	zhu fEi
 煮熟	zhu shuNG
-煮熟的鴨子飛了	zhu shouNG de yia z fEi le
+煮熟的鴨子飛了	zhu shuNG de yia z fEi le
 熇熇	heNG heNG
 熊經鴟顧	hUng ging ch gu
 熙朝	hi thau
@@ -38360,12 +38351,12 @@ use_preset_vocabulary: true
 熟藥	shuNG iau
 熟視	shuNG sh
 熟視無睹	shuNG sh v du
-熟記	shouNG gi
+熟記	shuNG gi
 熟話	shuNG hua
 熟語	shuNG U
 熟諳	shuNG yEm
 熟識	shuNG sh
-熟讀	shouNG duNG
+熟讀	shuNG duNG
 熟讀王叔和	shuNG duNG uang shuNG he
 熟讀玩味	shuNG duNG nguEn vEi
 熟讀精思	shuNG duNG zing s
@@ -38373,7 +38364,7 @@ use_preset_vocabulary: true
 熟路	shuNG lu
 熟路輕車	shuNG lu king che
 熟路輕轍	shuNG lu king dhe
-熟透	shuNG touNG
+熟透	shuNG tou
 熟銅	shuNG tung
 熟鐵	shuNG tiE
 熟門熟路	shuNG men shuNG lu
@@ -38480,8 +38471,8 @@ use_preset_vocabulary: true
 爪老	zhua lau
 爪袖	zhau siou
 爪袖	zhua siou
-爪角	zhau giauNG
-爪角	zhua giauNG
+爪角	zhau giau
+爪角	zhua giau
 爪蹄類	zhau ti lEi
 爪蹄類	zhua ti lEi
 爬山調	pa shEn diau
@@ -38489,7 +38480,7 @@ use_preset_vocabulary: true
 爬行	pa hing
 爬行動物	pa hing dung vuN
 爭似	zheng s
-爭四角	zheng s giauNG
+爭四角	zheng s giau
 爭短論長	zheng duEn luen thang
 爭長爭短	zheng thang zheng duEn
 爭長競短	zheng thang ging duEn
@@ -38522,20 +38513,20 @@ use_preset_vocabulary: true
 爻閭	iau lU
 牀笫	chuang z
 牀笫之私	chuang z zh s
-牆角	ciang giauNG
+牆角	ciang giau
 片晌	piEn shang
 片瓦根椽	piEn ngua gen thuEn
 片長	piEn thang
 片長末技	piEn thang muo gi
 片長薄技	piEn thang buo gi
-牌告利率	pai gauNG li lUN
+牌告利率	pai gau li lUN
 牌榜	pai bang
 牙磣	ngia chem
 牙笏	ngia huN
-牙簽犀軸	ngia ciEm si dhouNG
-牙籤玉軸	ngia ciEm UNG dhouNG
-牙籤萬軸	ngia ciEm vEn dhouNG
-牙籤錦軸	ngia ciEm gim dhouNG
+牙簽犀軸	ngia ciEm si dhuNG
+牙籤玉軸	ngia ciEm UNG dhuNG
+牙籤萬軸	ngia ciEm vEn dhuNG
+牙籤錦軸	ngia ciEm gim dhuNG
 牙行	ngia hang
 牙齦	ngia in
 牛仔布	nyiou z bu
@@ -38546,11 +38537,11 @@ use_preset_vocabulary: true
 牛皮癬	nyiou pi siEn
 牛眠地	nyiou miEn di
 牛蒡	nyiou bang
-牛角	nyiou giauNG
-牛角之歌	nyiou giauNG zh ge
-牛角尖	nyiou giauNG ziEm
-牛角掛書	nyiou giauNG gua shu
-牛角書生	nyiou giauNG shu sheng
+牛角	nyiou giau
+牛角之歌	nyiou giau zh ge
+牛角尖	nyiou giau ziEm
+牛角掛書	nyiou giau gua shu
+牛角書生	nyiou giau shu sheng
 牛酪	nyiou luo
 牛餼退敵	nyiou hi tuEi di
 牝朝	pin thau
@@ -38559,7 +38550,7 @@ use_preset_vocabulary: true
 牟取	mou cU
 牟尼	mou nyi
 牠們	ta men
-牢角底	lau giauNG di
+牢角底	lau giau di
 牧伯	muNG buo
 牧地	muNG di
 牧畜	muNG hUNG
@@ -38583,11 +38574,11 @@ use_preset_vocabulary: true
 特高頻率	te gau pin lUN
 牽掣	kiEn che
 牽裳	kiEn chang
-犀牛角	si nyiou giauNG
-犀角	si giauNG
+犀牛角	si nyiou giau
+犀角	si giau
 犁地	li di
-犄角	gi giauNG
-犄角之勢	gi giauNG zh sh
+犄角	gi giau
+犄角之勢	gi giau zh sh
 犖犖	luoNG luoNG
 犖犖大者	luoNG luoNG da zhe
 犖确	luoNG kUENG
@@ -38632,7 +38623,7 @@ use_preset_vocabulary: true
 狒狒	fEi fEi
 狗仔	gou z
 狗仔隊	gou zai duEi
-狗屠角牴	gou tu giauNG di
+狗屠角牴	gou tu giau di
 狗心狗行	gou sim gou hing
 狗改不了吃屎	gou gai buN liau chiN sh
 狗血噴臉	gou hUEN pen liEm
@@ -38642,7 +38633,7 @@ use_preset_vocabulary: true
 狗血淋頭	gou hUEN lim tou
 狗血淋頭	gou hiEN lim tou
 狗行狼心	gou hing lang sim
-狗頭上生角	gou tou shang sheng giauNG
+狗頭上生角	gou tou shang sheng giau
 狙伺	zU s
 狙公	zU gung
 狙擊	zU gi
@@ -38741,8 +38732,8 @@ use_preset_vocabulary: true
 獨行大盜	duNG hing da dau
 獨行獨斷	duNG hing duNG duEn
 獨覺	duNG gUENG
-獨角戲	duNG giauNG hi
-獨角赦書	duNG giauNG she shu
+獨角戲	duNG giau hi
+獨角赦書	duNG giau she shu
 獨闢蹊徑	duNG pi hi ging
 獨陽則不長	duNG iang ze buN dhang
 獮猴	siEn hou
@@ -38803,8 +38794,8 @@ use_preset_vocabulary: true
 玉枝卜壽	UNG zh buNG shou
 玉枳	UNG zh
 玉柏	UNG buo
-玉液	UNG iENG
-玉液瓊漿	UNG iENG kUong ziang
+玉液	UNG iNG
+玉液瓊漿	UNG iNG kUong ziang
 玉爪	UNG zhau
 玉爪	UNG zhua
 玉石混淆	UNG sh huen hiau
@@ -38838,7 +38829,7 @@ use_preset_vocabulary: true
 玳瑁筵	dai mEi iEn
 玷污	diEm yu
 玷辱	diEm rhuNG
-玻璃液	buo li iENG
+玻璃液	buo li iNG
 玻璃纖維	buo li siEm uEi
 珍祕	dhen mi
 珍藏	dhen cang
@@ -38846,9 +38837,9 @@ use_preset_vocabulary: true
 珍重	dhen dhong
 珍餚	dhen iau
 珍饈佳餚	dhen siou gia iau
-珠三角	zhu sEm giauNG
+珠三角	zhu sEm giau
 珠崖	zhu ngia
-珠江三角洲	zhu giang sEm giauNG zhou
+珠江三角洲	zhu giang sEm giau zhou
 珠沉玉沒	zhu them UNG muoN
 珠淚偷彈	zhu lEi tou tEn
 珠玉在傍	zhu UNG zai pang
@@ -38928,7 +38919,7 @@ use_preset_vocabulary: true
 瑟調	seN diau
 瑟調琴弄	seN tiau kim nung
 瑣屑	suo siEN
-瑤池玉液	iau th UNG iENG
+瑤池玉液	iau th UNG iNG
 瑤池閬苑	iau th lang yUEn
 瑩嫇	ing meng
 瑪莉都鐸	ma li du duo
@@ -38956,13 +38947,13 @@ use_preset_vocabulary: true
 環境地質學	huEn ging di dhiN hUENG
 環形	huEn hing
 環球	huEn kiou
-環節	huEn ziE
+環節	huEn ziEN
 環行	huEn hing
 璿圖	sUEn tu
 璿璣	sUEn gi
 瓊崖海棠	kUong ngia hai tang
-瓊漿玉液	kUong ziang UNG iENG
-瓊漿金液	kUong ziang gim iENG
+瓊漿玉液	kUong ziang UNG iNG
+瓊漿金液	kUong ziang gim iNG
 瓊葩	kUong pa
 瓜分豆剖	gua fen dou pou
 瓜剖豆分	gua pou dou fen
@@ -38991,7 +38982,7 @@ use_preset_vocabulary: true
 甘羅說趙王	gEm luo shuEi dhau uang
 甘藷	gEm shu
 甘貧樂道	gEm pin leNG dau
-甘迺迪角	gEm nai di giauNG
+甘迺迪角	gEm nai di giau
 甘露	gEm lu
 甘露之變	gEm lu zh biEn
 甘露子	gEm lu z
@@ -39005,7 +38996,7 @@ use_preset_vocabulary: true
 甚麼	shem me
 生地	sheng di
 生地方	sheng di fang
-生張熟魏	sheng dhang shouNG nguEi
+生張熟魏	sheng dhang shuNG nguEi
 生息蕃庶	sheng si fEn shu
 生態地位	sheng tai di uEi
 生成器	sheng cheng ki
@@ -39014,21 +39005,20 @@ use_preset_vocabulary: true
 生有地	sheng iou di
 生朝	sheng dhau
 生死簿	sheng s bu
-生死肉骨	sheng s rhouNG guN
 生死肉骨	sheng s rhuNG guN
 生殖	sheng zh
 生殖健康	sheng zh giEn kang
 生殖器	sheng zh ki
 生殖器官	sheng zh ki guEn
 生殖腺	sheng zh siEn
-生毛帶角	sheng mau dai giauNG
+生毛帶角	sheng mau dai giau
 生產基地	sheng chEn gi di
 生產效率	sheng chEn hiau lUN
 生產率	sheng chEn lUN
 生番	sheng fEn
 生米做成熟飯	sheng mi zuo cheng shuNG fEn
-生米煮成熟飯	sheng mi zhu cheng shouNG fEn
-生角	sheng giauNG
+生米煮成熟飯	sheng mi zhu cheng shuNG fEn
+生角	sheng giau
 生還	sheng huEn
 生還者	sheng huEn zhe
 生長	sheng dhang
@@ -39057,7 +39047,7 @@ use_preset_vocabulary: true
 用武之地	Uong v zh di
 用舍行藏	Uong she hing cang
 用行舍藏	Uong hing she cang
-甯戚扣角	nying ci kou giauNG
+甯戚扣角	nying ci kou giau
 田地	tiEn di
 田畦	tiEn hi
 田菁	tiEn zing
@@ -39076,7 +39066,7 @@ use_preset_vocabulary: true
 男女主角	nEm nyU zhu gUENG
 男婚女聘	nEm huen nyU pin
 男校	nEm hiau
-男配角	nEm pEi giauNG
+男配角	nEm pEi giau
 甸甸	tiEn tiEn
 町畦	ting hi
 町畽	ting tuEn
@@ -39108,8 +39098,8 @@ use_preset_vocabulary: true
 畜禽	thuNG kim
 畜肥	thuNG fEi
 畜養	hUNG iang
-畢宿	biN siouNG
-畢宿星團	biN siouNG sing tuEn
+畢宿	biN siou
+畢宿星團	biN siou sing tuEn
 畢業旅行	biN iE lU hing
 畢生之玷	biN sheng zh diEm
 畢竟	biN ging
@@ -39184,7 +39174,7 @@ use_preset_vocabulary: true
 畫脂鏤冰	hua zh lou bing
 畫蛇着足	hua she dhuo zuNG
 畫行	hua hing
-畫角	hua giauNG
+畫角	hua giau
 畬丁	U ding
 畬族	she zuNG
 畬民	she min
@@ -39221,7 +39211,7 @@ use_preset_vocabulary: true
 畸形兒	gi hing er
 畸形發展	gi hing faN dhEn
 畸戀	gi liEn
-畸角子	gi giauNG z
+畸角子	gi giau z
 畸變	gi biEn
 畸輕畸重	gi king gi dhong
 畸零	gi ling
@@ -39319,7 +39309,7 @@ use_preset_vocabulary: true
 癉瘧	dEn nyUENG
 癌症	ngai dheng
 癩蝦蟆	lai ha ma
-癩蝦蟆想吃天鵝肉	lai ha ma siang chiN tiEn nge rhouNG
+癩蝦蟆想吃天鵝肉	lai ha ma siang chiN tiEn nge rhuNG
 癬疥	siEn giE
 癰疽	yUong zU
 登山驀嶺	deng shEn muo ling
@@ -39404,7 +39394,7 @@ use_preset_vocabulary: true
 白舌入地	bai she rhu di
 白舌入地	buo she rhu di
 白芍	bai shau
-白花八角	bai hua ba giauNG
+白花八角	bai hua ba giau
 白著	bai dhu
 白蘋	bai pin
 白蘋洲	bai pin zhou
@@ -39507,7 +39497,7 @@ use_preset_vocabulary: true
 皮下出血	pi hia chuN hiEN
 皮卡丘	pi ka kiou
 皮塑	pi su
-皮嬌肉嫩	pi giau rhouNG nen
+皮嬌肉嫩	pi giau rhuNG nen
 皮弁	pi biEn
 皮破血流	pi puo hUEN liou
 皮破血流	pi puo hiEN liou
@@ -39640,14 +39630,14 @@ use_preset_vocabulary: true
 直效行銷	dh hiau hing siau
 直率	dh shuai
 直着	dh dhuo
-直節勁氣	dh ziE ging ki
+直節勁氣	dh ziEN ging ki
 直線	dh siEn
 直行	dh hing
 直裰	dh duo
 直覺	dh gUENG
-直角	dh giauNG
-直角坐標	dh giauNG zuo biau
-直角規	dh giauNG guEi
+直角	dh giau
+直角坐標	dh giau zuo biau
+直角規	dh giau guEi
 直言危行	dh iEn nguEi hing
 直言賈禍	dh iEn gu huo
 直道而行	dh dau er hing
@@ -39728,7 +39718,7 @@ use_preset_vocabulary: true
 真人不露相	zhen rhen buN lou siang
 真受不了	zhen shou buN liau
 真情流露	zhen cing liou lu
-真溶液	zhen rhong iENG
+真溶液	zhen rhong iNG
 真率	zhen shuai
 真空泵	zhen kung beng
 真贗	zhen ngiEn
@@ -39746,8 +39736,8 @@ use_preset_vocabulary: true
 眼球乾燥症	iEn kiou gEn zau dheng
 眼睛	iEn zing
 眼睛長在頭頂上	iEn zing dhang zai tou ding shang
-眼角	iEn giauNG
-眼角膜	iEn giauNG muo
+眼角	iEn giau
+眼角膜	iEn giau muo
 眼鏡	iEn ging
 眼餳	iEn sing
 眼餳耳熱	iEn sing er rhe
@@ -39811,7 +39801,7 @@ use_preset_vocabulary: true
 着筆	dhuo biN
 着糞佛頭	dhuo fen fuo tou
 着緊	dhuo gin
-着肉	dhau rhouNG
+着肉	dhau rhuNG
 着腳	dhuo giau
 着腳書樓	dhuo giau shu lou
 着色	dhuo se
@@ -39851,7 +39841,7 @@ use_preset_vocabulary: true
 睇眄	di miEn
 睍睆	hiEn huEn
 睍睍	hiEn hiEn
-睏覺	kuen giauNG
+睏覺	kuen giau
 睒䁑	shEm sh
 睚眥	ngia z
 睚眥之嫌	ngia z zh hiEm
@@ -39860,17 +39850,17 @@ use_preset_vocabulary: true
 睚眥之隙	ngia z zh hi
 睚眥必報	ngia z biN bau
 睡不着	shuEi buN dhau
-睡中覺	shuEi dhung giauNG
-睡午覺	shuEi ngu giauNG
-睡懶覺	shuEi lEn giauNG
-睡晌覺	shuEi shang giauNG
+睡中覺	shuEi dhung giau
+睡午覺	shuEi ngu giau
+睡懶覺	shuEi lEn giau
+睡晌覺	shuEi shang giau
 睡着	shuEi dhau
 睡着	shuEi dhe
 睡着了	shuEi dhau le
 睡虎地秦簡	shuEi hu di cin giEn
-睡覺	shuEi giauNG
-睡覺前	shuEi giauNG ciEn
-睡長覺	shuEi thang giauNG
+睡覺	shuEi giau
+睡覺前	shuEi giau ciEn
+睡長覺	shuEi thang giau
 督率	duNG shuai
 督緝	duNG zi
 睪丸	gau uEn
@@ -39881,8 +39871,8 @@ use_preset_vocabulary: true
 睽疑	kuEi ngi
 睽睽	kuEi kuEi
 睽違	kuEi uEi
-瞀亂	mauNG luEn
-瞀儒	mauNG rhu
+瞀亂	mau luEn
+瞀儒	mau rhu
 瞅不得	chou buN de
 瞅不見	chou buN giEn
 瞅不起	chou buN ki
@@ -39992,22 +39982,22 @@ use_preset_vocabulary: true
 砢砢	luo luo
 砢磣	ke chem
 砥兵礪伍	di bing li ngu
-砥名勵節	di ming li ziE
+砥名勵節	di ming li ziEN
 砥平繩直	di ping sheng dh
 砥志礪行	di zh li hing
 砥據	di gU
 砥柱	di dhu
 砥柱中流	di dhu dhung liou
 砥礪	di li
-砥礪名節	di li ming ziE
+砥礪名節	di li ming ziEN
 砥礪名號	di li ming hau
 砥礪名行	di li ming hing
 砥礪廉隅	di li liEm U
-砥礪清節	di li cing ziE
-砥礪風節	di li fung ziE
-砥節奉公	di ziE fong gung
-砥節守公	di ziE shou gung
-砥節礪行	di ziE li hing
+砥礪清節	di li cing ziEN
+砥礪風節	di li fung ziEN
+砥節奉公	di ziEN fong gung
+砥節守公	di ziEN shou gung
+砥節礪行	di ziEN li hing
 砥行磨名	di hing muo ming
 砥行立名	di hing li ming
 破家鬻子	puo gia UNG z
@@ -40028,7 +40018,7 @@ use_preset_vocabulary: true
 硝煙彈雨	siau yiEn dEn U
 硤石鎮	hia sh dhen
 硫酸菸鹼	liou suEn yiEn giEm
-硬打軟熟和	ing da rhuEn shouNG he
+硬打軟熟和	ing da rhuEn shuNG he
 碇泊區	ding buo kU
 碎屑	suEi siEN
 碎聒	suEi gua
@@ -40060,10 +40050,10 @@ use_preset_vocabulary: true
 確認	kUENG rhen
 確鑿	kUENG zuoNG
 碼率	ma lUN
-磁偏角	c piEn giauNG
-磁傾角	c king giauNG
+磁偏角	c piEn giau
+磁傾角	c king giau
 磁性	c sing
-磁軸	c dhouNG
+磁軸	c dhuNG
 磅硠	pang lang
 磅礡	pang buo
 磅礴	pang buo
@@ -40263,7 +40253,7 @@ use_preset_vocabulary: true
 秫秸	shuN giE
 移晷	i guEi
 移檄	i hi
-移液管	i iENG guEn
+移液管	i iNG guEn
 移調	i diau
 移調樂器	i diau ngUENG ki
 稀薄	hi buo
@@ -40293,7 +40283,7 @@ use_preset_vocabulary: true
 稟令	bing ling
 稟受	bing shou
 稟叩	bing kou
-稟告	bing gauNG
+稟告	bing gau
 稟命	bing ming
 稟報	bing bau
 稟帖	bing tiE
@@ -40340,7 +40330,7 @@ use_preset_vocabulary: true
 稻畦	dau hi
 稽顙	ki sang
 稽顙泣血	ki sang ki hUEN
-稽顙肉袒	ki sang rhouNG tEn
+稽顙肉袒	ki sang rhuNG tEn
 稽首	ki shou
 穀梁傳	guNG liang dhuEn
 穆天子傳	muNG tiEn z dhuEn
@@ -40356,7 +40346,7 @@ use_preset_vocabulary: true
 積薪厝火	zi sin cuo huo
 積貯	zi dhu
 積重難返	zi dhong nEn fEn
-穗軸	suEi dhouNG
+穗軸	suEi dhuNG
 穠纖合度	nong siEm he du
 穢行	huEi hing
 穩紮穩打	yuen zha yuen da
@@ -40374,9 +40364,9 @@ use_preset_vocabulary: true
 空弦落雁	kung hiEn luo iEn
 空弮	kung kUEn
 空氣	kung ki
-空氣調節	kung ki tiau ziE
-空氣調節機	kung ki tiau ziE gi
-空氣軸承	kung ki dhouNG cheng
+空氣調節	kung ki tiau ziEN
+空氣調節機	kung ki tiau ziEN gi
+空氣軸承	kung ki dhuNG cheng
 空氣鎗	kung ki ciang
 空水澄鮮	kung shuEi theng siEn
 空腹便便	kung fuNG piEn piEn
@@ -40389,7 +40379,7 @@ use_preset_vocabulary: true
 空軍基地	kung gUin gi di
 空間	kung giEn
 空間站	kung giEn dhEm
-空間軸	kung giEn dhouNG
+空間軸	kung giEn dhuNG
 空隙	kung hi
 穾廈	yiau hia
 穿什麼	chuEn shem me
@@ -40453,7 +40443,7 @@ use_preset_vocabulary: true
 立足地	li zuNG di
 立身行己	li shen hing gi
 立身行道	li shen hing dau
-立軸	li dhouNG
+立軸	li dhuNG
 立錐之地	li zhuEi zh di
 立體地圖	li ti di tu
 站不住腳	dhEm buN dhu giau
@@ -40467,7 +40457,7 @@ use_preset_vocabulary: true
 競短爭長	ging duEn zheng thang
 竹地雷	dhuNG di lEi
 竹筴魚	dhuNG gia U
-竹節蓼	dhuNG ziE liauNG
+竹節蓼	dhuNG ziEN liau
 竹頭木屑	dhuNG tou muNG siEN
 笄丱	gi guEn
 笏板	huN bEn
@@ -40500,10 +40490,10 @@ use_preset_vocabulary: true
 等一下	deng yiN hia
 等地	deng di
 等級	deng gi
-等腰三角形	deng yiau sEm giauNG hing
-等角三角形	deng giauNG sEm giauNG hing
-等角線	deng giauNG siEn
-等邊三角形	deng biEn sEm giauNG hing
+等腰三角形	deng yiau sEm giau hing
+等角三角形	deng giau sEm giau hing
+等角線	deng giau siEn
+等邊三角形	deng biEn sEm giau hing
 等長	deng thang
 等高線地形圖	deng gau siEn di hing tu
 筊杯	giau bEi
@@ -40547,14 +40537,14 @@ use_preset_vocabulary: true
 箴諫	zhem giEn
 箸長碗短	dhu thang yuEn duEn
 箾韶	shuoNG shau
-節儉力行	ziE giEm li hing
-節儉躬行	ziE giEm gung hing
-節奏	ziE zou
-節日	ziE rhiN
-節日快樂	ziE rhiN kuai leNG
-節行瑰奇	ziE hing guEi ki
-節角	ziE giauNG
-節點	ziE diEm
+節儉力行	ziEN giEm li hing
+節儉躬行	ziEN giEm gung hing
+節奏	ziEN zou
+節日	ziEN rhiN
+節日快樂	ziEN rhiN kuai leNG
+節行瑰奇	ziEN hing guEi ki
+節角	ziEN giau
+節點	ziEN diEm
 篇什	piEn sh
 築堤	dhuNG di
 築堤	dhuNG ti
@@ -40630,7 +40620,7 @@ use_preset_vocabulary: true
 粘度	nyiEm du
 粘性	nyiEm sing
 粘板岩	nyiEm bEn iEm
-粘液	nyiEm iENG
+粘液	nyiEm iNG
 粘皮帶骨	nyiEm pi dai guN
 粘皮着骨	nyiEm pi dhuo guN
 粘着	nyiEm dhe
@@ -40647,11 +40637,11 @@ use_preset_vocabulary: true
 粥餳	zhuNG sing
 粳稻	geng dau
 粳米	geng mi
-粵江三角洲	UEN giang sEm giauNG zhou
+粵江三角洲	UEN giang sEm giau zhou
 精度	zing du
 精忠柏	zing dhung buo
 精忠說岳傳	zing dhung shuoN UENG dhuEn
-精液	zing iENG
+精液	zing iNG
 精準	zing zhuen
 精熟	zing shuNG
 精確	zing kUENG
@@ -40688,7 +40678,7 @@ use_preset_vocabulary: true
 系統	hi tong
 系統還原	hi tong huEn UEn
 糾彈	giou tEn
-糾繆繩違	giou miouNG sheng uEi
+糾繆繩違	giou miou sheng uEi
 紀傳	gi dhuEn
 紀傳體	gi dhuEn ti
 紀行	gi hing
@@ -40725,7 +40715,7 @@ use_preset_vocabulary: true
 紐捽	nyiou zuN
 純嘏	chuen gu
 純熟	chuen shuNG
-紕繆	pi miouNG
+紕繆	pi miou
 紙劄	zh dha
 紙屑	zh siEN
 紙彈	zh dEn
@@ -40785,7 +40775,7 @@ use_preset_vocabulary: true
 細嫩	si nen
 細樂	si ngUENG
 細水長流	si shuEi thang liou
-細節	si ziE
+細節	si ziEN
 細緻	si dh
 細胞銀行	si bau in hang
 細行	si hing
@@ -40803,7 +40793,7 @@ use_preset_vocabulary: true
 組件	zu giEn
 組組長	zu zu dhang
 組織協調	zu zh hiE tiau
-組織液	zu zh iENG
+組織液	zu zh iNG
 組織部長	zu zh bu dhang
 組長	zu dhang
 結仇	giE chou
@@ -40910,10 +40900,10 @@ use_preset_vocabulary: true
 綠色行銷	lUNG se hing siau
 綠螘	luNG i
 綢帷	z uEi
-綢繆	thou mouNG
+綢繆	thou mou
 綦谿利跂	ki hi li ki
 綦重	ki dhong
-維德角共和國	uEi de giauNG gong he guo
+維德角共和國	uEi de giau gong he guo
 維摩詰	uEi muo giEN
 綱常掃地	gang chang sau di
 綱紀廢弛	gang gi fEi sh
@@ -41039,10 +41029,10 @@ use_preset_vocabulary: true
 縮縮	suoNG suoNG
 縮縮朒朒	suNG suNG nyU nyU
 縮縮朒朒	suoNG suoNG nyU nyU
-縮衣節口	suNG yi ziE kou
-縮衣節口	suoNG yi ziE kou
-縮衣節食	suNG yi ziE sh
-縮衣節食	suoNG yi ziE sh
+縮衣節口	suNG yi ziEN kou
+縮衣節口	suoNG yi ziEN kou
+縮衣節食	suNG yi ziEN sh
+縮衣節食	suoNG yi ziEN sh
 縮進	suoNG zin
 縮酒	suNG ziou
 縮酒	suoNG ziou
@@ -41060,7 +41050,7 @@ use_preset_vocabulary: true
 縱橫捭闔	zong heng bai he
 縱橫馳騁	zong heng th theng
 縱臾	zong Uong
-縱軸	zong dhouNG
+縱軸	zong dhuNG
 縲紲	lEi siE
 縲絏	lEi siE
 總丱	zung guEn
@@ -41091,12 +41081,12 @@ use_preset_vocabulary: true
 繃扒吊拷	beng ba diau kau
 繃扒弔拷	beng ba diau kau
 繄袼	yi luo
-繆以千里	miouNG i ciEn li
-繆學	miouNG hUENG
-繆巧	miouNG kiau
-繆思女神	miouNG s nyU shen
-繆種流傳	miouNG zhong liou thuEn
-繆篆	mouNG dhuEn
+繆以千里	miou i ciEn li
+繆學	miou hUENG
+繆巧	miou kiau
+繆思女神	miou s nyU shen
+繆種流傳	miou zhong liou thuEn
+繆篆	mou dhuEn
 繇繇	iau iau
 繐帳	suEi dhang
 繐帷	suEi uEi
@@ -41181,7 +41171,7 @@ use_preset_vocabulary: true
 纖雲	siEm Uin
 纖體	siEm ti
 纖麗	siEm li
-纛旗	dauNG ki
+纛旗	dau ki
 缺失	kUEN shiN
 缺少	kUEN shau
 缺陷	kUEN hiEm
@@ -41244,12 +41234,12 @@ use_preset_vocabulary: true
 羊撞籬笆	iang dhuang li ba
 羊栖菜	iang si cai
 羊祜	iang hu
-羊肉不曾喫	iang rhouNG buN ceng ch
+羊肉不曾喫	iang rhuNG buN ceng ch
 羊肚蕈	iang du sUim
 羊胛熟	iang gia shuNG
-羊角	iang giauNG
-羊角哀	iang giauNG yai
-羊角風	iang giauNG fung
+羊角	iang giau
+羊角哀	iang giau yai
+羊角風	iang giau fung
 羊陸之交	iang luNG zh giau
 羊鬚瘡	iang sU cang
 美人命薄	mEi rhen ming buo
@@ -41260,7 +41250,7 @@ use_preset_vocabulary: true
 美耐皿	mEi nai min
 美酒佳肴	mEi ziou gia iau
 美饌佳餚	mEi zhuEn gia iau
-羚羊掛角	ling iang gua giauNG
+羚羊掛角	ling iang gua giau
 羞怯	siou kiEM
 羞怯怯	siou kiEM kiEM
 羞惡	siou yu
@@ -41273,7 +41263,7 @@ use_preset_vocabulary: true
 羣蟻潰堤	kUin i kuEi di
 羣蟻潰堤	kUin i kuEi ti
 羣起攻訐	kUin ki gung giEN
-羣輕折軸	kUin king zhe dhouNG
+羣輕折軸	kUin king zhe dhuNG
 羣辟	kUin bi
 羣雌粥粥	kUin c zhuNG zhuNG
 羥基	kiang gi
@@ -41307,7 +41297,7 @@ use_preset_vocabulary: true
 羽檄飛馳	U hi fEi th
 羽翮	U he
 羽翮已就	U he i ziou
-羽翮飛肉	U he fEi rhouNG
+羽翮飛肉	U he fEi rhuNG
 羽騎	U gi
 翁同龢	yung tung he
 翁蛤	yung ge
@@ -41331,8 +41321,8 @@ use_preset_vocabulary: true
 翕赫	hi he
 翕闢	hi pi
 翕響	hi hiang
-翛然	siauNG rhEn
-翛翛	siauNG siauNG
+翛然	siau rhEn
+翛翛	siau siau
 翟子悲	di z bEi
 翠渦	cuEi yuo
 翠鈿	cuEi diEn
@@ -41424,13 +41414,13 @@ use_preset_vocabulary: true
 耍流氓	shua liou mang
 耐心	nai sim
 耐撞	nai dhuang
-耒耨	lEi nouNG
-耒耨之利	lEi nouNG zh li
-耒耨之教	lEi nouNG zh giau
+耒耨	lEi nou
+耒耨之利	lEi nou zh li
+耒耨之教	lEi nou zh giau
 耕地	geng di
 耕地放領	geng di fang ling
 耕畜	geng thuNG
-耕耨	geng nouNG
+耕耨	geng nou
 耗子尾上長瘡	hau z vEi shang dhang chuang
 耗斁	hau du
 耙地	pa di
@@ -41488,7 +41478,7 @@ use_preset_vocabulary: true
 聘請	pin cing
 聘金	pin gim
 聚殲	zU ziEm
-聚葯雄蕊	zU yiauNG hUng rhuEi
+聚葯雄蕊	zU yiau hUng rhuEi
 聚變	zU biEn
 聚酯纖維	zU zh siEm uEi
 聚集地	zU zi di
@@ -41497,7 +41487,7 @@ use_preset_vocabulary: true
 聯絡簿	liEn luo bu
 聯繫	liEn hi
 聯調	liEn tiau
-聯軸器	liEn dhouNG ki
+聯軸器	liEn dhuNG ki
 聰了	cung liau
 聰明乖覺	cung ming guai gUENG
 聲名狼藉	sheng ming lang zi
@@ -41519,16 +41509,16 @@ use_preset_vocabulary: true
 聾啞學校	lung yia hUENG hiau
 肆行	s hing
 肆行無忌	s hing v gi
-肉乾	rhouNG gEn
-肉傀儡	rhouNG kuEi lEi
-肉山脯林	rhouNG shEn f lim
-肉彈	rhouNG dEn
-肉燥	rhouNG sau
-肉畜	rhouNG thuNG
-肉脯	rhouNG f
-肉角	rhouNG giauNG
-肉重千斤	rhouNG dhong ciEn gin
-肉顫心驚	rhouNG zhEn sim ging
+肉乾	rhuNG gEn
+肉傀儡	rhuNG kuEi lEi
+肉山脯林	rhuNG shEn f lim
+肉彈	rhuNG dEn
+肉燥	rhuNG sau
+肉畜	rhuNG thuNG
+肉脯	rhuNG f
+肉角	rhuNG giau
+肉重千斤	rhuNG dhong ciEn gin
+肉顫心驚	rhuNG zhEn sim ging
 肋條	lEi tiau
 肋窩	lEi yuo
 肋筋	le gin
@@ -41539,7 +41529,7 @@ use_preset_vocabulary: true
 肋骨舉肌	le guN gU gi
 肌痺	gi bi
 肌纖維	gi siEm uEi
-肌肉麻痺	gi rhouNG ma bi
+肌肉麻痺	gi rhuNG ma bi
 肌覺	gi gUENG
 肐膊折了往袖子裏藏	ge buo zhe le uang siou z li cang
 肐臂	ge bEi
@@ -41575,7 +41565,7 @@ use_preset_vocabulary: true
 肴覈	iau he
 肴饌	iau zhuEn
 肺肺	pEi pEi
-胃液	uEi iENG
+胃液	uEi iNG
 胃潰瘍	uEi kuEi iang
 胃脘	uEi uEn
 背地	bEi di
@@ -41603,7 +41593,7 @@ use_preset_vocabulary: true
 胚芽米	pEi ngia mi
 胚芽鞘	pEi ngia ciau
 胚葉	pEi iE
-胚軸	pEi dhouNG
+胚軸	pEi dhuNG
 胜鍵	sheng giEn
 胠沙思水	kU sha s shuEi
 胠篋	kU kiE
@@ -41623,7 +41613,7 @@ use_preset_vocabulary: true
 胡謅	hu zou
 胡遮刺	hu zhe la
 胡騎	hu gi
-胰液	i iENG
+胰液	i iNG
 胳臂	ge bEi
 胳臂	ge bi
 胴體	dung ti
@@ -41657,7 +41647,7 @@ use_preset_vocabulary: true
 脯子	pu z
 脯資	f z
 脯醢	f hai
-脺液	cuEi iENG
+脺液	cuEi iNG
 脾氣	pi ki
 腆然	tiEn rhEn
 腆着臉	tiEn dhe liEm
@@ -41687,14 +41677,14 @@ use_preset_vocabulary: true
 腦性麻痺	nau sing ma bi
 腦杓子	nau shau z
 腦栓塞	nau shuEn se
-腦液	nau iENG
+腦液	nau iNG
 腦溢血	nau iN hUEN
 腦溢血	nau iN hiEN
 腦血管栓塞	nau hUEN guEn shuEn se
 腦血管栓塞	nau hiEN guEn shuEn se
 腦貧血	nau pin hUEN
 腦貧血	nau pin hiEN
-腦鑿子	nau zauNG z
+腦鑿子	nau zau z
 腫噲	zhong kuai
 腳不沾地	giau buN dhEm di
 腳不點地	giau buN diEm di
@@ -41706,7 +41696,7 @@ use_preset_vocabulary: true
 腳行	giau hang
 腳踏兩來舡	giau ta liang lai hiang
 腳踏實地	giau ta shiN di
-腸液	thang iENG
+腸液	thang iNG
 腸粘連	thang nyiEm liEn
 腸肥腦滿	thang fEi mEn nau
 腸阻塞	thang zu se
@@ -41738,7 +41728,7 @@ use_preset_vocabulary: true
 膠着狀態	giau dhuo zhuang tai
 膠萊谷地	giau lai guNG di
 膠鬲	giau ge
-膣液	dh iENG
+膣液	dh iNG
 膩抹	nyi muo
 膳宿	shEn suNG
 膴仕	v sh
@@ -41800,7 +41790,7 @@ use_preset_vocabulary: true
 自憐自艾	z liEn z i
 自我反省	z nguo fEn sing
 自戕	z ciang
-自曝	z bauNG
+自曝	z bau
 自有旁人說短長	z iou pang rhen shuoN duEn thang
 自有長的撐住	z iou thang de theng dhu
 自毀長城	z huEi thang cheng
@@ -41975,8 +41965,8 @@ use_preset_vocabulary: true
 芍藥花	shau iau hua
 芎藭	kUng kUng
 芒稷	mang zi
-芒角	mang giauNG
-芒角撐腸	mang giauNG theng thang
+芒角	mang giau
+芒角撐腸	mang giau theng thang
 芝麻秸	zh ma giE
 芥子	giE z
 芥子園畫傳	giE z UEn hua dhuEn
@@ -42013,14 +42003,14 @@ use_preset_vocabulary: true
 花朝日	hua dhau rhiN
 花朝月夕	hua dhau UEN si
 花朝月夜	hua dhau UEN iE
-花朝節	hua dhau ziE
+花朝節	hua dhau ziEN
 花柵子	hua zha z
 花畦	hua ki
 花簇錦攢	hua cuNG gim cuEn
-花葯	hua yiauNG
-花葯瓣	hua yiauNG bEn
+花葯	hua yiau
+花葯瓣	hua yiau bEn
 花蛤	hua ge
-花軸	hua dhouNG
+花軸	hua dhuNG
 花都	hua du
 花鈿	hua diEn
 花鎗	hua ciang
@@ -42141,7 +42131,7 @@ use_preset_vocabulary: true
 荸薺	bi ci
 荼壘	shu lU
 荼毗	tu pi
-荼蓼	tu liauNG
+荼蓼	tu liau
 莆仙戲	pu siEn hi
 莆田縣	pu tiEn hiEn
 莊稼地	zhuang gia di
@@ -42190,7 +42180,7 @@ use_preset_vocabulary: true
 菉豆眼	lUNG dou iEn
 菌血症	gUin hUEN dheng
 菌血症	gUin hiEN dheng
-菌類培養液	gUin lEi pEi iang iENG
+菌類培養液	gUin lEi pEi iang iNG
 菑畬	z U
 菖鮋	chang iou
 菜地	cai di
@@ -42212,8 +42202,8 @@ use_preset_vocabulary: true
 華盛頓會議	hua sheng duen huEi i
 華胥調	hua sU diau
 華膴	hua v
-菱角	ling giauNG
-菱角磨作雞頭	ling giauNG muo zuo gi tou
+菱角	ling giau
+菱角磨作雞頭	ling giau muo zuo gi tou
 菲薄	fEi buo
 菲食薄衣	fEi sh buo yi
 菸屁股	yiEn pi gu
@@ -42302,7 +42292,7 @@ use_preset_vocabulary: true
 落薄	luo buo
 落褒貶	lau bau biEm
 落話	la hua
-落跑	lau pauNG
+落跑	lau pau
 落魄	luo tuo
 落魄不羈	luo tuo buN gi
 葉一茜	iE yiN ciEn
@@ -42313,7 +42303,7 @@ use_preset_vocabulary: true
 葉尼塞河	iE nyi se he
 葉盛蘭	iE sheng lEn
 葉縣	she hiEn
-葉軸	iE dhouNG
+葉軸	iE dhuNG
 葉面對稱	iE miEn duEi chen
 葉面對稱	iE miEn duEi cheng
 著作	dhu zuo
@@ -42364,7 +42354,7 @@ use_preset_vocabulary: true
 蒲隆地共和國	pu lung di gong he guo
 蒲鞵	pu hiE
 蒸熟	zheng shuNG
-蒸熟的鴨子	zheng shouNG de yia z
+蒸熟的鴨子	zheng shuNG de yia z
 蒸露	zheng lu
 蒼勁	cang ging
 蒼蠅見血	cang ing giEn hUEN
@@ -42386,13 +42376,13 @@ use_preset_vocabulary: true
 蓮花落	liEn hua lau
 蓴科	chuen ke
 蓴羹鱸膾	chuen geng lu kuai
-蓼科	liauNG ke
-蓼花	liauNG hua
+蓼科	liau ke
+蓼花	liau hua
 蓼莪	luNG e
-蓼菜成行	liauNG cai cheng hang
+蓼菜成行	liau cai cheng hang
 蓼蓼	luNG luNG
-蓼蕭	liauNG siau
-蓼藍	liauNG lEm
+蓼蕭	liau siau
+蓼藍	liau lEm
 蓽露藍蔞	biN lu lEm lU
 蔂梩	lEi li
 蔏藋	shang diau
@@ -42472,7 +42462,7 @@ use_preset_vocabulary: true
 薄宦	buo huEn
 薄幹	buo gEn
 薄弱	buo rhuo
-薄弱環節	buo rhuo huEn ziE
+薄弱環節	buo rhuo huEn ziEN
 薄待	buo dai
 薄怯	buo kiEM
 薄怯怯	buo kiEM kiEM
@@ -42647,7 +42637,7 @@ use_preset_vocabulary: true
 藏香	zang hiang
 藏鬮	cang giou
 藏龍臥虎	cang long nguo hu
-藐姑射	miauNG gu iE
+藐姑射	miau gu iE
 藕披	ou pi
 藝壓當行	i yia dang hang
 藤蔓	teng mEn
@@ -42730,7 +42720,7 @@ use_preset_vocabulary: true
 號天扣地	hau tiEn kou di
 號天拍地	hau tiEn pai di
 號天號地	hau tiEn hau di
-號角	hau giauNG
+號角	hau giau
 虧心短行	kuEi sim duEn hing
 虯蟠	kiou pEn
 虯鏤亮槅	kiou lou liang ge
@@ -42844,14 +42834,14 @@ use_preset_vocabulary: true
 蝸螺	yuo luo
 蝸行	gua hing
 蝸行	yuo hing
-蝸角	gua giauNG
-蝸角	yuo giauNG
-蝸角之爭	gua giauNG zh zheng
-蝸角之爭	yuo giauNG zh zheng
-蝸角虛名	gua giauNG hU ming
-蝸角虛名	yuo giauNG hU ming
-蝸角蠅頭	gua giauNG ing tou
-蝸角蠅頭	yuo giauNG ing tou
+蝸角	gua giau
+蝸角	yuo giau
+蝸角之爭	gua giau zh zheng
+蝸角之爭	yuo giau zh zheng
+蝸角虛名	gua giau hU ming
+蝸角虛名	yuo giau hU ming
+蝸角蠅頭	gua giau ing tou
+蝸角蠅頭	yuo giau ing tou
 蝸輪	gua luen
 蝸輪	yuo luen
 蝸髫	gua tiau
@@ -42918,8 +42908,8 @@ use_preset_vocabulary: true
 蠅利蝸名	ing li yuo ming
 蠅名蝸利	ing ming gua li
 蠅名蝸利	ing ming yuo li
-蠅頭蝸角	ing tou gua giauNG
-蠅頭蝸角	ing tou yuo giauNG
+蠅頭蝸角	ing tou gua giau
+蠅頭蝸角	ing tou yuo giau
 蠆芥	thai giE
 蠍蠍螫螫	hiEN hiEN zhe zhe
 蠕動	rhuEn dung
@@ -43056,10 +43046,10 @@ use_preset_vocabulary: true
 血海屍山	hiEN hai sh shEn
 血海深仇	hUEN hai shem chou
 血海深仇	hiEN hai shem chou
-血液	hUEN iENG
-血液凝固	hUEN iENG nying gu
-血液循環	hUEN iENG sUin huEn
-血液檢驗	hUEN iENG giEm ngiEm
+血液	hUEN iNG
+血液凝固	hUEN iNG nying gu
+血液循環	hUEN iNG sUin huEn
+血液檢驗	hUEN iNG giEm ngiEm
 血淋淋	hUEN lim lim
 血淚	hUEN lEi
 血清	hUEN cing
@@ -43098,13 +43088,13 @@ use_preset_vocabulary: true
 血絲	hUEN s
 血絲	hiEN s
 血緣	hUEN UEn
-血肉	hUEN rhouNG
-血肉	hiEN rhouNG
-血肉之軀	hUEN rhouNG zh kU
-血肉模糊	hUEN rhouNG muo hu
-血肉橫飛	hUEN rhouNG heng fEi
-血肉淋漓	hUEN rhouNG lim li
-血肉相連	hUEN rhouNG siang liEn
+血肉	hUEN rhuNG
+血肉	hiEN rhuNG
+血肉之軀	hUEN rhuNG zh kU
+血肉模糊	hUEN rhuNG muo hu
+血肉橫飛	hUEN rhuNG heng fEi
+血肉淋漓	hUEN rhuNG lim li
+血肉相連	hUEN rhuNG siang liEn
 血脂升高症	hUEN zh sheng gau dheng
 血脂肪	hUEN zh fang
 血脈	hUEN mai
@@ -43236,10 +43226,10 @@ use_preset_vocabulary: true
 行寡悔	hing gua huEi
 行將	hing ziang
 行將就木	hing ziang ziou muNG
-行尸走肉	hing sh zou rhouNG
+行尸走肉	hing sh zou rhuNG
 行尸走骨	hing sh zou guN
-行屍視肉	hing sh sh rhouNG
-行屍走肉	hing sh zou rhouNG
+行屍視肉	hing sh sh rhuNG
+行屍走肉	hing sh zou rhuNG
 行己有恥	hing gi iou th
 行己有方	hing gi iou fang
 行市	hang sh
@@ -43519,7 +43509,7 @@ use_preset_vocabulary: true
 行騙	hing piEn
 衒玉賈石	hUEn UNG gu sh
 街口	giE kou
-街角	giE giauNG
+街角	giE giau
 街道	giE dau
 衛從	uEi cong
 衛從	uEi zong
@@ -43546,7 +43536,7 @@ use_preset_vocabulary: true
 衣裳	yi shang
 衣裳之會	yi chang zh huEi
 衣裳楚楚	yi chang chu chu
-衣角	yi giauNG
+衣角	yi giau
 衣車	yi che
 衣錦夜行	yi gim iE hing
 衣錦還鄉	yi gim huEn hiang
@@ -43632,7 +43622,7 @@ use_preset_vocabulary: true
 補葺	bu ci
 補血	bu hUEN
 補血	bu hiEN
-補角	bu giauNG
+補角	bu giau
 補還	bu huEn
 裝修	zhuang siou
 裝幀	zhuang dheng
@@ -43669,7 +43659,7 @@ use_preset_vocabulary: true
 裹抹	guo muo
 裹挾	guo hiE
 裹螺螄	guo luo s
-裹角	guo giauNG
+裹角	guo giau
 製坯	zh pEi
 褊小	biEn siau
 褊心	biEn sim
@@ -43777,7 +43767,7 @@ use_preset_vocabulary: true
 要求	yiau kiou
 要的	yiau de
 要絰	yiau diE
-要角	yiau giauNG
+要角	yiau giau
 要隘	yiau yai
 覃思	tEm s
 覃恩	tEm yen
@@ -43831,7 +43821,7 @@ use_preset_vocabulary: true
 視覺藝術	sh gUENG i shuN
 視覺衝擊	sh gUENG chong gi
 視覺適應	sh gUENG sh ying
-視角	sh giauNG
+視角	sh giau
 親太太	cing tai tai
 親奶奶	cing nai nai
 親娘	cin nyiang
@@ -43874,7 +43864,7 @@ use_preset_vocabulary: true
 覺的	gUENG de
 覺着	gUENG dhe
 覺知	gUENG dh
-覺覺	giauNG giauNG
+覺覺	giau giau
 覺返迷津	gUENG fEn mi zin
 覺道	gUENG dau
 覺醒	gUENG sing
@@ -43887,49 +43877,49 @@ use_preset_vocabulary: true
 觀行	guEn hing
 觀釁伺隙	guEn hin s hi
 角冠	gUENG guEn
-角口	giauNG kou
+角口	giau kou
 角妓	gUENG gi
-角子	giauNG z
-角宿	gUENG siouNG
-角尺	giauNG ch
-角巾	giauNG gin
-角巾私第	giauNG gin s di
-角帶	giauNG dai
-角平分線	giauNG ping fen siEn
-角度	giauNG du
-角度看	giauNG du kEn
+角子	giau z
+角宿	gUENG siou
+角尺	giau ch
+角巾	giau gin
+角巾私第	giau gin s di
+角帶	giau dai
+角平分線	giau ping fen siEn
+角度	giau du
+角度看	giau du kEn
 角招	gUENG shau
 角枕	gUENG dhem
-角柱	giauNG dhu
-角樓	giauNG lou
-角球	giauNG kiou
-角礫岩	giauNG li iEm
+角柱	giau dhu
+角樓	giau lou
+角球	giau kiou
+角礫岩	giau li iEm
 角立	gUENG li
 角粽	gUENG zung
-角肩椿象	giauNG giEn thuen siang
-角腦	giauNG nau
-角膜	giauNG muo
-角膜炎	giauNG muo iEm
-角膜移植術	giauNG muo i dh shuN
+角肩椿象	giau giEn thuen siang
+角腦	giau nau
+角膜	giau muo
+角膜炎	giau muo iEm
+角膜移植術	giau muo i dh shuN
 角色	gUENG se
-角落裏	giauNG luo li
+角落裏	giau luo li
 角角	gUENG gUENG
-角觝	giauNG di
+角觝	giau di
 角調	gUENG diau
-角貝	giauNG bEi
-角質	giauNG dhiN
-角質層	giauNG dhiN ceng
-角速度	giauNG suNG du
+角貝	giau bEi
+角質	giau dhiN
+角質層	giau dhiN ceng
+角速度	giau suNG du
 角里	luNG li
-角鋼	giauNG gang
-角錐	giauNG zhuEi
-角門	giauNG men
-角頁岩	giauNG iE iEm
-角頂	giauNG ding
-角頭	giauNG tou
+角鋼	giau gang
+角錐	giau zhuEi
+角門	giau men
+角頁岩	giau iE iEm
+角頂	giau ding
+角頭	giau tou
 角馬	gUENG ma
-角魚	giauNG U
-角鴟	giauNG ch
+角魚	giau U
+角鴟	giau ch
 角鷹	gUENG ying
 角黍	gUENG shu
 觜鼻	zuEi bi
@@ -43942,7 +43932,7 @@ use_preset_vocabulary: true
 解弦更張	giE hiEn geng dhang
 解攜	giE hi
 解析	giE si
-解析三角法	giE si sEm giauNG fa
+解析三角法	giE si sEm giau fa
 解池	hiE th
 解決	giE gUEN
 解決不了	giE gUEN buN liau
@@ -43959,7 +43949,7 @@ use_preset_vocabulary: true
 觸手可及	chuNG shou ke gi
 觸目慟心	chuNG muNG tung sim
 觸覺	chuNG gUENG
-觸角	chuNG giauNG
+觸角	chuNG giau
 觸類而長	chuNG lEi er dhang
 觿年	hi nyiEn
 言不踐行	iEn buN ziEn hing
@@ -43988,7 +43978,7 @@ use_preset_vocabulary: true
 言詞泠泠	iEn c ling ling
 言談行事	iEn tEm hing sh
 言重	iEn dhong
-訃告	f gauNG
+訃告	f gau
 訃聞	f ven
 訃音	f yim
 計功行賞	gi gung hing shang
@@ -44003,7 +43993,7 @@ use_preset_vocabulary: true
 討價還價	tau gia huEn gia
 訏訏	hU hU
 訏謨	hU muo
-訐告	giEN gauNG
+訐告	giEN gau
 訐揚	giEN iang
 訐發	giEN faN
 訐直	giEN dh
@@ -44228,7 +44218,7 @@ use_preset_vocabulary: true
 調查取證	diau cha cU zheng
 調查員	diau cha UEn
 調查問卷	diau cha ven gUEn
-調查報告	diau cha bau gauNG
+調查報告	diau cha bau gau
 調查工作	diau cha gung zuo
 調查權	diau cha kUEn
 調查研究	diau cha ngiEn giou
@@ -44260,10 +44250,10 @@ use_preset_vocabulary: true
 調皮鬼	tiau pi guEi
 調眼色	diau iEn se
 調研	diau ngiEn
-調研報告	diau ngiEn bau gauNG
+調研報告	diau ngiEn bau gau
 調研組	diau ngiEn zu
 調笑	tiau siau
-調節	tiau ziE
+調節	tiau ziEN
 調絃品竹	tiau hiEn pim dhuNG
 調絃弄管	tiau hiEn nung guEn
 調絲品竹	tiau s pim dhuNG
@@ -44379,9 +44369,9 @@ use_preset_vocabulary: true
 謈怨	puoNG yUEn
 謊喳呼	huang cha hu
 謋然	huo rhEn
-謏才	siauNG cai
-謏聞之陋	siauNG ven zh lou
-謏聞淺說	siauNG ven ciEn shuoN
+謏才	siau cai
+謏聞之陋	siau ven zh lou
+謏聞淺說	siau ven ciEn shuoN
 謐如	miN rhu
 謐爾	miN er
 謐謐	miN miN
@@ -44513,7 +44503,7 @@ use_preset_vocabulary: true
 豆秸灰	dou giE huEi
 豆脯	dou f
 豆腐乾	dou f gEn
-豆角	dou giauNG
+豆角	dou giau
 豆豉	dou ch
 豆豉油	dou ch iou
 豆重榆瞑	dou dhong U miEn
@@ -44552,7 +44542,7 @@ use_preset_vocabulary: true
 豬仔	dhu zai
 豬八戒吃人參果	dhu ba giE chiN rhen shem guo
 豬圈	dhu gUEn
-豬肉乾	dhu rhouNG gEn
+豬肉乾	dhu rhuNG gEn
 豺狼塞路	chai lang se lu
 貉絨	he rhung
 貌似	mau s
@@ -44703,8 +44693,8 @@ use_preset_vocabulary: true
 賜卹	s sU
 賜名	c ming
 賜名	s ming
-賜告	c gauNG
-賜告	s gauNG
+賜告	c gau
+賜告	s gau
 賜姓	c sing
 賜姓	s sing
 賜宴	c yiEn
@@ -44825,7 +44815,7 @@ use_preset_vocabulary: true
 走了和尚走不了廟	zou le he shang zou buN liau miau
 走爲上着	zou uEi shang dhau
 走百病	zou buo bing
-走肉行屍	zou rhouNG hing sh
+走肉行屍	zou rhuNG hing sh
 走調	zou diau
 走骨行屍	zou guN hing sh
 起來	ki lai
@@ -44839,7 +44829,7 @@ use_preset_vocabulary: true
 起重機	ki dhong gi
 起雞皮疙瘩	ki gi pi geN da
 起高調	ki gau diau
-趁熟	then shouNG
+趁熟	then shuNG
 趄趄	zU zU
 超感覺	thau gEm gUENG
 超級	thau gi
@@ -44848,7 +44838,7 @@ use_preset_vocabulary: true
 超重	thau dhong
 超鏈接	thau liEn ziE
 超長	thau thang
-越王嘗蓼	UEN uang chang liauNG
+越王嘗蓼	UEN uang chang liau
 越調	UEN diau
 越長	UEN thang
 越雞難伏鵠卵	UEN gi nEn fuNG huNG luEn
@@ -44897,12 +44887,12 @@ use_preset_vocabulary: true
 跌窨	diE yim
 跌跌撞撞	diE diE dhuang dhuang
 跏趺	gia f
-跑不了	pauNG buN liau
-跑了和尚跑不了廟	pauNG le he shang pauNG buN liau miau
-跑出去	pauNG chuN kU
-跑轍	pauNG dhe
-跑馬賣解	pauNG ma mai hiE
-跑馬走解	pauNG ma zou hiE
+跑不了	pau buN liau
+跑了和尚跑不了廟	pau le he shang pau buN liau miau
+跑出去	pau chuN kU
+跑轍	pau dhe
+跑馬賣解	pau ma mai hiE
+跑馬走解	pau ma zou hiE
 跕班	tiE bEn
 跖犬吠堯	zh kUEn fEi iau
 跖狗吠堯	zh gou fEi iau
@@ -44930,7 +44920,7 @@ use_preset_vocabulary: true
 跪地	guEi di
 路上行人口似碑	lu shang hing rhen kou s bEi
 路徑	lu ging
-路角	lu giauNG
+路角	lu giau
 路隅	lu U
 跳傀儡	tiau kuEi lEi
 跳天撅地	tiau tiEn gUEN di
@@ -45075,7 +45065,7 @@ use_preset_vocabulary: true
 躬自菲薄	gung z fEi buo
 躬行	gung hing
 躬行實踐	gung hing shiN ziEn
-躬行節儉	gung hing ziE giEm
+躬行節儉	gung hing ziEN giEm
 躬詣	gung i
 躬逢其盛	gung fong ki sheng
 躬體力行	gung ti li hing
@@ -45094,8 +45084,8 @@ use_preset_vocabulary: true
 車舝	che hia
 車行	che hang
 車裂	che liE
-車軸	che dhouNG
-車軸草	che dhouNG cau
+車軸	che dhuNG
+車軸草	che dhuNG cau
 車轍	che dhe
 車轍馬跡	che dhe ma zi
 車長	che thang
@@ -45153,21 +45143,21 @@ use_preset_vocabulary: true
 軟體銀行	rhuEn ti in hang
 軥車	kU che
 軷涉	ba she
-軸子	dhouNG z
-軸心	dhouNG sim
-軸心國	dhouNG sim guo
-軸承	dhouNG cheng
-軸根系	dhouNG gen hi
-軸突	dhouNG tuN
-軸線	dhouNG siEn
-軸距	dhouNG gU
-較低	giauNG di
-較勁	giauNG gin
-較爲	giauNG uEi
-較短量長	giauNG duEn liang thang
-較著	giauNG dhu
-較重	giauNG dhong
-較長	giauNG thang
+軸子	dhuNG z
+軸心	dhuNG sim
+軸心國	dhuNG sim guo
+軸承	dhuNG cheng
+軸根系	dhuNG gen hi
+軸突	dhuNG tuN
+軸線	dhuNG siEn
+軸距	dhuNG gU
+較低	giau di
+較勁	giau gin
+較爲	giau uEi
+較短量長	giau duEn liang thang
+較著	giau dhu
+較重	giau dhong
+較長	giau thang
 載重	zai dhong
 載重量	zai dhong liang
 輔行	f hing
@@ -45214,12 +45204,12 @@ use_preset_vocabulary: true
 輪番	luen fEn
 輪番上陣	luen fEn shang dhen
 輪調	luen diau
-輪軸	luen dhouNG
+輪軸	luen dhuNG
 輪鎗拽步	luen ciang iE bu
 輶車	iou che
 輶軒	iou hUEn
 輸出功率	shu chuN gung lUN
-輸液	shu iENG
+輸液	shu iNG
 輸着	shu dhau
 輸着	shu dhe
 輸肝剖膽	shu gEn pou dEm
@@ -45237,18 +45227,18 @@ use_preset_vocabulary: true
 輿從	U zong
 輿謣	U hU
 轄地	hia di
-轆軸	luNG dhouNG
+轆軸	luNG dhuNG
 轉向	dhuEn hiang
 轉圜	dhuEn huEn
-轉彎抹角	dhuEn yuEn muo giauNG
+轉彎抹角	dhuEn yuEn muo giau
 轉捩點	dhuEn liE diEm
 轉死溝壑	dhuEn s gou he
 轉死溝壑	dhuEn s gou huo
-轉灣抹角	dhuEn yuEn muo giauNG
+轉灣抹角	dhuEn yuEn muo giau
 轉行	dhuEn hang
-轉角	dhuEn giauNG
+轉角	dhuEn giau
 轉調	dhuEn diau
-轉軸	dhuEn dhouNG
+轉軸	dhuEn dhuNG
 轉輾反側	dhuEn dhEn fEn ce
 轉轍	dhuEn dhe
 轉轍器	dhuEn dhe ki
@@ -45389,8 +45379,8 @@ use_preset_vocabulary: true
 逋逃	bu tau
 逋逃藪	bu tau sou
 逋髮	bu faN
-透天厝	touNG tiEn cuo
-透露	touNG lu
+透天厝	tou tiEn cuo
+透露	tou lu
 逐朝每日	dhuNG dhau mEi rhiN
 逕行	ging hing
 逖聽	ti ting
@@ -45415,7 +45405,7 @@ use_preset_vocabulary: true
 通信行業	tung sin hang iE
 通塞	tung se
 通天徹地	tung tiEn the di
-通宿	tung siouNG
+通宿	tung siou
 通眉長爪	tung mEi thang zhua
 通緝	tung ci
 通緝	tung zi
@@ -45455,7 +45445,7 @@ use_preset_vocabulary: true
 連長	liEn dhang
 逭暑	huEn shu
 逮逮	di di
-週角	zhou giauNG
+週角	zhou giau
 週長	zhou thang
 進一步	zin yiN bu
 進不了	zin buN liau
@@ -45477,7 +45467,7 @@ use_preset_vocabulary: true
 進行到底	zin hing dau di
 進行曲	zin hing kUNG
 進行檢查	zin hing giEm cha
-進行比較	zin hing biN giauNG
+進行比較	zin hing biN giau
 進行研究	zin hing ngiEn giou
 進行調整	zin hing tiau zheng
 進行調查	zin hing diau cha
@@ -45529,7 +45519,7 @@ use_preset_vocabulary: true
 過露	guo lu
 遐邇著聞	hia er dhu ven
 遒勁	ciou ging
-遒文壯節	ciou ven zhuang ziE
+遒文壯節	ciou ven zhuang ziEN
 遒緊	ciou gin
 遒美	ciou mEi
 遒逸	ciou iN
@@ -45693,8 +45683,8 @@ use_preset_vocabulary: true
 邊塞	biEn sai
 邊塞詩	biEn sai sh
 邊界	biEn giE
-邊角	biEn giauNG
-邊角料	biEn giauNG liau
+邊角	biEn giau
+邊角料	biEn giau liau
 邊都沾不上	biEn dou dhEm buN shang
 邊隘	biEn yai
 邊騎	biEn gi
@@ -45835,7 +45825,7 @@ use_preset_vocabulary: true
 鄭重其事	dheng dhong ki sh
 鄭重聲明	dheng dhong sheng ming
 鄰熟	lin shuNG
-鄰角	lin giauNG
+鄰角	lin giau
 鄰長	lin dhang
 鄱陽湖	puo iang hu
 鄱陽湖平原	puo iang hu ping UEn
@@ -46229,7 +46219,7 @@ use_preset_vocabulary: true
 重陽	thong iang
 重陽日	thong iang rhiN
 重陽木	thong iang muNG
-重陽節	thong iang ziE
+重陽節	thong iang ziEN
 重霄	thong siau
 重霤	thong liou
 重音	dhong yim
@@ -46262,7 +46252,7 @@ use_preset_vocabulary: true
 量匙	liang ch
 量度	liang duo
 量時度力	liang sh duo li
-量角器	liang giauNG ki
+量角器	liang giau ki
 釐定	li ding
 釐改	li gai
 釐整	li zheng
@@ -46271,7 +46261,7 @@ use_preset_vocabulary: true
 釐米	li mi
 釐訂	li ding
 釐革	li ge
-金三角	gim sEm giauNG
+金三角	gim sEm giau
 金仔	gim z
 金剛	gim gang
 金匱	gim guEi
@@ -46288,7 +46278,7 @@ use_preset_vocabulary: true
 金榜	gim bang
 金榜掛名	gim bang gua ming
 金榜題名	gim bang ti ming
-金波玉液	gim buo UNG iENG
+金波玉液	gim buo UNG iNG
 金湯匙	gim tang ch
 金甌藏名	gim you cang ming
 金箔	gim buo
@@ -46318,7 +46308,7 @@ use_preset_vocabulary: true
 釵腳漏痕	chai gUENG lou hen
 鈀子拳	ba z kUEn
 鈍刀慢剮	duen dau mEn gua
-鈍角	duen giauNG
+鈍角	duen giau
 鈐束	kiEm shuNG
 鈐記	kiEm gi
 鈐鍵	kiEm giEn
@@ -46326,7 +46316,7 @@ use_preset_vocabulary: true
 鈞天廣樂	gUin tiEn guang ngUENG
 鈞天樂	gUin tiEn ngUENG
 鈞樞	gUin shu
-鈞軸	gUin dhouNG
+鈞軸	gUin dhuNG
 鈞長	gUin dhang
 鈽彈	bu dEn
 鈿合	diEn he
@@ -46356,7 +46346,7 @@ use_preset_vocabulary: true
 鉛刀銛	kiEn dau siEm
 鉛槧	kiEn ciEm
 鉤弦	gou hiEn
-鉤心鬥角	gou sim dou giauNG
+鉤心鬥角	gou sim dou giau
 鉤摭	gou zh
 鉤校	gou giau
 鉤爪	gou zhau
@@ -46382,7 +46372,7 @@ use_preset_vocabulary: true
 銀行賬戶	in hang dhang hu
 銀行間	in hang giEn
 銀行體系資金	in hang ti hi z gim
-銀角	in giauNG
+銀角	in giau
 銀質沉着	in dhiN them dhuo
 銀釭	in gang
 銅盆撞了鐵掃帚	tung pen dhuang le tiE sau zhou
@@ -46405,7 +46395,7 @@ use_preset_vocabulary: true
 銚芅	iau i
 銛利	siEm li
 銛諸	siEm zhu
-銳角	rhuEi giauNG
+銳角	rhuEi giau
 銷售	siau shou
 銷差	siau chai
 銷行	siau hing
@@ -46429,7 +46419,7 @@ use_preset_vocabulary: true
 鋼琴二重奏	gang kim er thong zou
 鋼胚	gang pEi
 鋼鐵行業	gang tiE hang iE
-鋼鑿	gang zauNG
+鋼鑿	gang zau
 錁子	ke z
 錄像	lu siang
 錄取率	lu cU lUN
@@ -46447,10 +46437,10 @@ use_preset_vocabulary: true
 錫箔紙	si buo zh
 錯不了	cuo buN liau
 錯彩鏤金	cuo cai lou gim
-錯繆	cuo miouNG
+錯繆	cuo miou
 錯置	cu dh
 錯覺	cuo gUENG
-錯角	cuo giauNG
+錯角	cuo giau
 鍉針	di zhem
 鍠聒	huang gua
 鍥薄	kiE buo
@@ -46505,7 +46495,7 @@ use_preset_vocabulary: true
 鏡子	ging z
 鏡泊湖	ging buo hu
 鏡面呢	ging miEn nyi
-鏡頭視角	ging tou sh giauNG
+鏡頭視角	ging tou sh giau
 鏤冰	lou bing
 鏤冰雕朽	lou bing diau hiou
 鏤刻	lou ke
@@ -46527,7 +46517,7 @@ use_preset_vocabulary: true
 鐃鈸	nau ba
 鐘不撞不鳴	zhong buN dhuang buN ming
 鐘鼎款識	zhong ding kuEn zh
-鐵三角	tiE sEm giauNG
+鐵三角	tiE sEm giau
 鐵路地下化	tiE lu di hia hua
 鐵都	tiE du
 鐵鍬	tiE ciau
@@ -46546,20 +46536,20 @@ use_preset_vocabulary: true
 鑰匙圈	iau sh kUEn
 鑰管	iau guEn
 鑽天入地	zuEn tiEn rhu di
-鑽牛犄角	zuEn nyiou gi giauNG
-鑽牛角尖	zuEn nyiou giauNG ziEm
+鑽牛犄角	zuEn nyiou gi giau
+鑽牛角尖	zuEn nyiou giau ziEm
 鑽隙踰牆	zuEn hi U ciang
-鑿井	zauNG zing
+鑿井	zau zing
 鑿圓枘方	zuoNG UEn rhuEi fang
 鑿坏	zuoNG pEi
 鑿壁偷光	zuoNG bi tou guang
 鑿壁懸梁	zuoNG bi hUEn liang
-鑿子	zauNG z
+鑿子	zau z
 鑿山破石	zuoNG shEn puo sh
 鑿枘	zuoNG rhuEi
 鑿枘不入	zuoNG rhuEi buN rhu
 鑿渾沌	zuoNG huen duen
-鑿石穿	zauNG sh chuEn
+鑿石穿	zau sh chuEn
 鑿空	zuoNG kung
 鑿空指鹿	zuoNG kung zh luNG
 鑿竅	zuoNG kiau
@@ -46570,7 +46560,7 @@ use_preset_vocabulary: true
 钂鈀	tang ba
 長一智	dhang yiN dh
 長三	thang sEm
-長三角	thang sEm giauNG
+長三角	thang sEm giau
 長上	dhang shang
 長不大	dhang buN da
 長世	thang sh
@@ -46581,7 +46571,7 @@ use_preset_vocabulary: true
 長人	thang rhen
 長今	thang gim
 長他人志氣	dhang ta rhen zh ki
-長休告	thang hiou gauNG
+長休告	thang hiou gau
 長休飯	thang hiou fEn
 長住	thang dhu
 長便	thang biEn
@@ -46742,12 +46732,12 @@ use_preset_vocabulary: true
 長毛象	thang mau siang
 長江	thang giang
 長江三峽	thang giang sEm hia
-長江三角洲	thang giang sEm giauNG zhou
+長江三角洲	thang giang sEm giau zhou
 長江大橋	thang giang da kiau
 長江天塹	thang giang tiEn ciEm
 長江後浪催前浪	thang giang hou lang cuEi ciEn lang
 長江流域	thang giang liou U
-長江無六月	thang giang v liouNG UEN
+長江無六月	thang giang v luNG UEN
 長江證券	thang giang zheng kUEn
 長江電力	thang giang diEn li
 長沙	thang sha
@@ -46820,7 +46810,7 @@ use_preset_vocabulary: true
 長者	dhang zhe
 長耳公	thang er gung
 長耳鴞	thang er hiau
-長肉	dhang rhouNG
+長肉	dhang rhuNG
 長胖	dhang pang
 長脾氣	dhang pi ki
 長腰	thang yiau
@@ -46848,7 +46838,7 @@ use_preset_vocabulary: true
 長褲	thang ku
 長見識	dhang giEn sh
 長親	dhang cin
-長角果	thang giauNG guo
+長角果	thang giau guo
 長解	thang giE
 長話	thang hua
 長話短說	thang hua duEn shuoN
@@ -46857,7 +46847,7 @@ use_preset_vocabulary: true
 長豇豆	thang giang dou
 長足	thang zuNG
 長足進步	thang zuNG zin bu
-長跑	thang pauNG
+長跑	thang pau
 長距離	thang gU li
 長距離無線電話	thang gU li v siEn diEn hua
 長跪	thang guEi
@@ -47107,7 +47097,7 @@ use_preset_vocabulary: true
 阿獃	ya dai
 阿甘正傳	ya gEm zheng dhuEn
 阿私	ye s
-阿耨多羅	ya nouNG duo luo
+阿耨多羅	ya nou duo luo
 阿膠	ye giau
 阿蘭若	ya lEn rhe
 阿衡	ye heng
@@ -47176,7 +47166,7 @@ use_preset_vocabulary: true
 院副院長	UEn fuNG UEn dhang
 院長	UEn dhang
 陣地	dhen di
-陣角	dhen giauNG
+陣角	dhen giau
 除地	thu di
 陪榜	pEi bang
 陪都	pEi du
@@ -47272,7 +47262,7 @@ use_preset_vocabulary: true
 陸贄	luNG zh
 陸路	luNG lu
 陸軍	luNG gUin
-陸軍節	luNG gUin ziE
+陸軍節	luNG gUin ziEN
 陸軍軍官學校	luNG gUin gUin guEn hUENG hiau
 陸運	luNG Uin
 陸鈔	luNG chau
@@ -47359,8 +47349,8 @@ use_preset_vocabulary: true
 隱血	yin hiEN
 隱跡藏名	yin zi cang ming
 隴西行	long si hing
-雀瞀	cUENG mauNG
-雀角鼠牙	cUENG giauNG shu ngia
+雀瞀	cUENG mau
+雀角鼠牙	cUENG giau shu ngia
 雀躍	cUENG UENG
 雀鯛	cUENG diau
 雁行	iEn hang
@@ -47423,7 +47413,7 @@ use_preset_vocabulary: true
 雞爪釘	gi zhau ding
 雞爪釘	gi zhua ding
 雞皮疙瘩	gi pi geN da
-雞瞀眼	gi mauNG iEn
+雞瞀眼	gi mau iEn
 雞肋	gi lEi
 雞肋	gi le
 雞肋尊拳	gi le zuen kUEn
@@ -47465,7 +47455,7 @@ use_preset_vocabulary: true
 雲南黃馨	Uin nEm huang hin
 雲景	Uin ging
 雲景	Uin ying
-雲液	Uin iENG
+雲液	Uin iNG
 雲行雨施	Uin hing U sh
 雲譎波詭	Uin gUEN buo guEi
 雲階月地	Uin giE UEN di
@@ -47477,9 +47467,9 @@ use_preset_vocabulary: true
 雷射血管成形術	lEi she hiEN guEn cheng hing shuN
 雷神進行曲	lEi shen zin hing kUNG
 雷轟電掣	lEi hong diEn che
-雷霆電雹	lEi ting diEn bauNG
-雹子	bauNG z
-雹神	bauNG shen
+雷霆電雹	lEi ting diEn bau
+雹子	bau z
+雹神	bau shen
 雺晦	mung huEi
 雺淞	mung song
 電信行業	diEn sin hang iE
@@ -47590,7 +47580,7 @@ use_preset_vocabulary: true
 露面	lou miEn
 露面拋頭	lou miEn pau tou
 露頭角	lou tou gUENG
-露頭角	lou tou giauNG
+露頭角	lou tou giau
 露風	lou fung
 露風聲	lou fung sheng
 露餡	lou hiEm
@@ -47605,7 +47595,7 @@ use_preset_vocabulary: true
 靈景	ling ying
 靈樁	ling dhuang
 靈活性	ling huo sing
-靈液	ling iENG
+靈液	ling iNG
 靈長目	ling dhang muNG
 靈長類	ling dhang lEi
 靈頭幡	ling tou fEn
@@ -47716,7 +47706,7 @@ use_preset_vocabulary: true
 韋陟朵雲	uEi dh duo Uin
 韌皮纖維	rhen pi siEm uEi
 韎韐	mEi ge
-韓國八角會	hEn guo ba giauNG huEi
+韓國八角會	hEn guo ba giau huEi
 韓盧逐逡	hEn lu dhuNG cUin
 韓詩外傳	hEn sh nguai dhuEn
 韜光	tau guang
@@ -47752,7 +47742,7 @@ use_preset_vocabulary: true
 音樂片	yim ngUENG piEn
 音樂盒	yim ngUENG he
 音樂站	yim ngUENG dhEm
-音樂節	yim ngUENG ziE
+音樂節	yim ngUENG ziEN
 音樂臺	yim ngUENG tai
 音樂鋸	yim ngUENG gU
 音樂電鈴	yim ngUENG diEn ling
@@ -47776,7 +47766,7 @@ use_preset_vocabulary: true
 頂撞	ding dhuang
 頂橦踏索	ding thuang ta suo
 頂着磨子不知重	ding dhe muo z buN dh dhong
-頂角	ding giauNG
+頂角	ding giau
 項伯	hiang buo
 項目	hiang muNG
 順利進行	shuen li zin hing
@@ -47829,8 +47819,8 @@ use_preset_vocabulary: true
 頭破血淋	tou puo hUEN lim
 頭破血淋	tou puo hiEN lim
 頭蓬眼瘇	tou pung iEn zhong
-頭角崢嶸	tou giauNG zheng rhong
-頭角嶄然	tou giauNG zhEm rhEn
+頭角崢嶸	tou giau zheng rhong
+頭角嶄然	tou giau zhEm rhEn
 頭輕腳重	tou king giau dhong
 頭醋不釅二醋薄	tou cu buN iEm er cu buo
 頭重腳輕	tou dhong giau king
@@ -47844,12 +47834,12 @@ use_preset_vocabulary: true
 頻數	pin shuoNG
 頻率	pin lUN
 題識	ti zh
-額角	e giauNG
+額角	e giau
 顏杲卿	ngiEn gau king
 顏色	ngiEn se
 顏色	ngiEn shai
 顏闔鑿培	ngiEn he zuoNG pEi
-顏面角	ngiEn miEn giauNG
+顏面角	ngiEn miEn giau
 顑頷	kEm hEm
 顒坐	Uong zuo
 顒望	Uong vang
@@ -47880,13 +47870,13 @@ use_preset_vocabulary: true
 顫聲	zhEn sheng
 顫音	zhEn yim
 顫顫巍巍	zhEn zhEn nguEi nguEi
-顯像液	hiEn siang iENG
+顯像液	hiEn siang iNG
 顯得	hiEn de
 顯示	hiEn sh
 顯示器	hiEn sh ki
 顯露	hiEn lu
 顯露原形	hiEn lu UEn hing
-顯露頭角	hiEn lu tou giauNG
+顯露頭角	hiEn lu tou giau
 顱蓋內出血	lu gai nEi chuN hUEN
 顱蓋內出血	lu gai nEi chuN hiEN
 風乾	fung gEn
@@ -47914,7 +47904,7 @@ use_preset_vocabulary: true
 風行草從	fung hing cau cong
 風行草靡	fung hing cau mi
 風行電擊	fung hing diEn gi
-風角	fung giauNG
+風角	fung giau
 風調	fung diau
 風調雨潤	fung tiau U rhuen
 風調雨順	fung tiau U shuen
@@ -47932,8 +47922,8 @@ use_preset_vocabulary: true
 風馳電掣	fung th diEn che
 風魔九伯	fung muo giou buo
 颩抹	diou muo
-颮線	pauNG siEn
-颮颮	biauNG biauNG
+颮線	pau siEn
+颮颮	biau biau
 颯戾	sa li
 颯沓	sa ta
 颼飀	sou liou
@@ -47986,7 +47976,7 @@ use_preset_vocabulary: true
 飛鵠	fEi huNG
 食不下咽	sh buN hia yiEn
 食不重味	sh buN thong vEi
-食不重肉	sh buN thong rhouNG
+食不重肉	sh buN thong rhuNG
 食地	sh di
 食宿	sh suNG
 食廩餼	sh lim hi
@@ -48007,7 +47997,7 @@ use_preset_vocabulary: true
 飲馬長城窟行	yim ma thang cheng kuN hing
 飽參	bau cEm
 飽和單位重	bau he dEn uEi dhong
-飽和溶液	bau he rhong iENG
+飽和溶液	bau he rhong iNG
 餅乾	bing gEn
 餅鐺	bing cheng
 餉遺	hiang uEi
@@ -48035,7 +48025,7 @@ use_preset_vocabulary: true
 餘地	U di
 餘弦	U hiEn
 餘弦定律	U hiEn ding lUN
-餘角	U giauNG
+餘角	U giau
 餘貾	U th
 餘食贅行	U sh zhuEi hing
 餘香	U hiang
@@ -48066,7 +48056,7 @@ use_preset_vocabulary: true
 饕餮之徒	tau tiE zh tu
 饕餮紋	tau tiE ven
 饕饗	tau hiang
-饘粥	zhEn zhouNG
+饘粥	zhEn zhuNG
 饞唾	chEm tuo
 饞涎	chEm siEn
 饞涎欲垂	chEm siEn UNG thuEi
@@ -48085,14 +48075,14 @@ use_preset_vocabulary: true
 香水行	hiang shuEi hang
 香火鼎盛	hiang huo ding sheng
 香菸	hiang yiEn
-香蓼	hiang liauNG
+香蓼	hiang liau
 香蕈	hiang sUim
 馨逸	hin iN
 馨香	hin hiang
 馨香禱祝	hin hiang dau zhuNG
 馬不知臉長	ma buN dh liEm thang
 馬乾	ma gEn
-馬伯六	ma buo liouNG
+馬伯六	ma buo luNG
 馬伯樂	ma buo leNG
 馬偕	ma giE
 馬偕紀念醫院	ma giE gi nyiEm yi UEn
@@ -48105,15 +48095,15 @@ use_preset_vocabulary: true
 馬弁	ma biEn
 馬杓	ma shau
 馬殺雞	ma sha gi
-馬泊六	ma buo liouNG
+馬泊六	ma buo luNG
 馬燈調	ma deng diau
 馬爾地夫	ma er di f
 馬爾地夫共和國	ma er di f gong he guo
-馬百六	ma buo liouNG
+馬百六	ma buo luNG
 馬良行	ma liang hing
 馬蠲	ma gUEn
 馬褲呢	ma ku nyi
-馬角烏白	ma giauNG yu bai
+馬角烏白	ma giau yu bai
 馬調	ma diau
 馬謖	ma suNG
 馬賽進行曲	ma sai zin hing kUNG
@@ -48191,7 +48181,7 @@ use_preset_vocabulary: true
 騫騫	kiEn kiEn
 騫騰	kiEn teng
 騰訊	teng sUin
-騰趠	teng thauNG
+騰趠	teng thau
 騰踔	teng thuoNG
 騰躍	teng UENG
 騰那	teng nuo
@@ -48233,33 +48223,33 @@ use_preset_vocabulary: true
 驟降	zhou giang
 驟雨	zhou U
 驟雨狂風	zhou U kuang fung
-驢生戟角	lU sheng gi giauNG
-驢生笄角	lU sheng gi giauNG
+驢生戟角	lU sheng gi giau
+驢生笄角	lU sheng gi giau
 驩洽	huEn hia
 驩洽	huEn kia
 骨崖崖	guN ngia ngia
 骨架	guN gia
 骨殖	guN zh
 骨殖匣	guN zh hia
-骨肉重逢	guN rhouNG thong fong
+骨肉重逢	guN rhuNG thong fong
 骨董行	guN dung hang
 骨血	guN hUEN
 骨血	guN hiEN
 骨都	guN du
 骨都都	guN du du
-骨顫肉驚	guN zhEn rhouNG ging
+骨顫肉驚	guN zhEn rhuNG ging
 骰子	tou z
 骲箭	buoNG ziEn
 骲頭	buoNG tou
 骾朴	geng puNG
 骾訐	geng giEN
 髀樞	bi shu
-髀肉	bi rhouNG
-髀肉復生	bi rhouNG fuNG sheng
+髀肉	bi rhuNG
+髀肉復生	bi rhuNG fuNG sheng
 髀骨	bi guN
 髀骶	bi di
 髂骨	ka guN
-體液	ti iENG
+體液	ti iNG
 體現	ti hiEn
 體癬	ti siEn
 體積	ti zi
@@ -48297,9 +48287,9 @@ use_preset_vocabulary: true
 高校	gau hiau
 高格調	gau ge diau
 高樂	gau leNG
-高爆彈	gau bauNG dEn
+高爆彈	gau bau dEn
 高爵重祿	gau zUENG dhong lu
-高牙大纛	gau ngia da dauNG
+高牙大纛	gau ngia da dau
 高盛	gau sheng
 高空彈跳	gau kung tEn tiau
 高等學校	gau deng hUENG hiau
@@ -48315,7 +48305,7 @@ use_preset_vocabulary: true
 高行	gau hing
 高調照片	gau diau zhau piEn
 高速增長	gau suNG zeng dhang
-高風勁節	gau fung ging ziE
+高風勁節	gau fung ging ziEN
 高鳳流麥	gau fung liou muo
 高麗參	gau li shem
 髦髫	mau tiau
@@ -48334,7 +48324,7 @@ use_preset_vocabulary: true
 鬍子拉碴	hu z la zha
 鬖髿	sEm suo
 鬖鬖	sEm sEm
-鬢角	bin giauNG
+鬢角	bin giau
 鬥勁	dou gin
 鬥地主	dou di zhu
 鬥蟋蟀	dou siN shuai
@@ -48493,7 +48483,7 @@ use_preset_vocabulary: true
 鴻鵠之志	hung huNG zh zh
 鴻鵠大志	hung huNG da zh
 鵁鶄	giau zing
-鵓角	buoN giauNG
+鵓角	buoN giau
 鵜鴃	ti gUEN
 鵝行鴨步	nge hing yia bu
 鵠侍	huNG sh
@@ -48568,9 +48558,9 @@ use_preset_vocabulary: true
 鹿死誰手	luNG s shuEi shou
 鹿砦	luNG zhai
 鹿脯	luNG f
-鹿角	luNG giauNG
-鹿角畫	luNG giauNG hua
-鹿角菜	luNG giauNG cai
+鹿角	luNG giau
+鹿角畫	luNG giau hua
+鹿角菜	luNG giau cai
 鹿車	luNG che
 鹿車共挽	luNG che gong vEn
 麃麃	biau biau
@@ -48586,14 +48576,14 @@ use_preset_vocabulary: true
 麗人行	li rhen hing
 麗都	li du
 麛夭	mi yau
-麟角	lin giauNG
-麟角鳳毛	lin giauNG fung mau
-麟角鳳觜	lin giauNG fung zuEi
-麟角鳳距	lin giauNG fung gU
+麟角	lin giau
+麟角鳳毛	lin giau fung mau
+麟角鳳觜	lin giau fung zuEi
+麟角鳳距	lin giau fung gU
 麥地那	mai di na
 麥格塞塞獎	mai ge se se ziang
 麥畦	mai hi
-麥角	mai giauNG
+麥角	mai giau
 麪塑	miEn su
 麪疙瘩	miEn geN da
 麯塵	kU then
@@ -48624,7 +48614,7 @@ use_preset_vocabulary: true
 麾之即去	huEi zh zi kU
 麾安	huEi yEn
 麾幢	huEi thuang
-麾節	huEi ziE
+麾節	huEi ziEN
 麾蓋	huEi gai
 麾軍	huEi gUin
 黃丕烈	huang pi liE
@@ -48665,7 +48655,7 @@ use_preset_vocabulary: true
 黏涎	nyiEm siEn
 黏涎子	nyiEm siEn z
 黏涎答答	nyiEm siEn da da
-黏液	nyiEm iENG
+黏液	nyiEm iNG
 黏着	nyiEm dhuo
 黏着劑	nyiEm dhuo zi
 黏着力	nyiEm dhuo li
@@ -48721,7 +48711,7 @@ use_preset_vocabulary: true
 鼓腹含哺	gu fuNG hEm bu
 鼓角	gu gUENG
 鼓鈸	gu ba
-鼠牙雀角	shu ngia cUENG giauNG
+鼠牙雀角	shu ngia cUENG giau
 鼠蹊	shu hi
 鼠麯草	shu kU cau
 鼩鼱	kU zing
@@ -48804,7 +48794,7 @@ use_preset_vocabulary: true
 龜兹	kiou ci
 龜卜	guEi buNG
 龜手	gUin shou
-龜毛兔角	guEi mau tu giauNG
+龜毛兔角	guEi mau tu giau
 龜筴	guEi ce
 龜茲	kiou c
 龜行	guEi hing
@@ -48833,7 +48823,7 @@ use_preset_vocabulary: true
 ∛	gen hau
 ∜	gen hau
 ㏑	ln
-㏒	loNG
+㏒	log
 π	pai
 π	py
 ∑	kiou he
