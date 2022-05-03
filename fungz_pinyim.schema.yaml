@@ -55,6 +55,7 @@ speller:
     - erase/^xx$/
     - abbrev/^([a-z]).+$/$1/ # 支持單字母簡拼
     - abbrev/^([dtzcrs]h).+$/$1/ # 支持翹舌聲母簡拼
+  auto_select: true
 
 translator:
   dictionary: fungz_pinyim

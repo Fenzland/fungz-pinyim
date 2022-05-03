@@ -1,0 +1,210 @@
+# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+schema:
+  schema_id: fungz_chord_mandarin
+  name: 楓梓和絃拼音（普通話）
+  version: "0.1"
+  author:
+    - 楓梓 <uukoo@163.com>
+  description: |
+    並擊輸入拼音
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - chord_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - r10n_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  delimiter: " |"
+  algebra:
+    - erase/^xx$/
+    - xform/^ng(.+)/$1/ # 去除“疑”母
+    - xform/^y(.+)/$1/ # 去除“影”母
+    - xform/^v/u/
+    - xform/^th/ch/
+    - xform/^dh/zh/
+    - xform/^([bpmf])[uo]ng$/$1eng/
+    - xform/^uo?ng/ueng/
+    - xform/ung/ong/
+    - xform/Ung/Uong/
+    - xform/^ny([iU])/n$1/
+    - xform/([aoeuiAOEUI])m$/$1n/ # 脣鼻音和齒鼻音合併
+    - xform/([aoeuiAOEUI])([MNy]|NG)$/$1/ # 去除入聲
+    - xform/[zg]([iU])/j$1/ # 尖團合併
+    - xform/[ck]([iU])/q$1/ # 尖團合併
+    - xform/[sh]([iU])/x$1/ # 尖團合併
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcrs]h).+$/$1/
+
+chord_composer:
+  alphabet: "bdfmhgwtcvnrzslxiykupjeqoa"
+  algebra:
+    # - "xlit|bgtvfrcdexswzaq,ki.lo/;p'[\]nhymju|xiykupje.qo,'a;wtcvnrzsl-/$bdfmhg|" # for rubbish qwerty
+    # initial
+    # i,u,ü
+    - xform/^hcr/I/
+    - xform/^hcn/V/
+    - xform/^htn/U/
+    # z 组
+    - xform/^mn/SV/
+    - xform/^hr/CV/
+    - xform/^gn/ZV/
+    - xform/^mv/SI/
+    - xform/^hn/CI/
+    - xform/^gr/ZI/
+    - xform/^mw/SU/
+    - xform/^ht/CU/
+    - xform/^gc/ZU/
+    # ž 组
+    - xform/^mt/RHU/
+    - xform/^wv/SHU/
+    - xform/^tn/CHU/
+    - xform/^cr/ZHU/
+    - xform/^hc/RH/
+    # g(j) 组
+    - xform/^bs/YV/
+    - xform/^hz/XV/
+    - xform/^ms/QV/
+    - xform/^hl/JV/
+    - xform/^gs/YI/
+    - xform/^mz/XI/
+    - xform/^hs/QI/
+    - xform/^gl/JI/
+    - xform/^bz/HU/
+    - xform/^ds/KU/
+    - xform/^fl/GU/
+    # d 组
+    - xform/^dc/LV/
+    - xform/^bt/LI/
+    - xform/^dt/TI/
+    - xform/^fc/DI/
+    - xform/^bh/NU/
+    - xform/^bm/LU/
+    - xform/^dh/TU/
+    - xform/^fg/DU/
+    - xform/^dg/N/
+    # b 组
+    - xform/^br/MI/
+    - xform/^bn/PI/
+    - xform/^dr/BI/
+    - xform/^fn/MU/
+    - xform/^bv/FU/
+    - xform/^dn/PU/
+    - xform/^fr/BU/
+    # 组
+    - xform/^m/S/
+    - xform/^h/C/
+    - xform/^g/Z/
+    - xform/^w/SH/
+    - xform/^t/CH/
+    - xform/^c/ZH/
+    - xform/^z/H/
+    - xform/^s/K/
+    - xform/^l/G/
+    - xform/^b/L/
+    - xform/^d/T/
+    - xform/^f/D/
+    - xform/^ns/M/
+    - xform/^v/F/
+    - xform/^n/P/
+    - xform/^r/B/
+    # final
+    - xform/p/AI/
+    - xform/ua/AU/
+    - xform/y/ANG/
+    - xform/Vu/VIN/
+    - xform/Iu/IN/
+    - xform/Ii/ING/
+    - xform/u/EN/
+    - xform/i/ENG/
+    - xform/eo/O/
+    - xform/Uo/UO/
+    - xform/o/OU/
+    - xform/x/ONG/
+    - xform/kj/W/
+    - xform/Ij/IW/
+    - xform/Vj/VW/
+    - xform/j/WI/
+    - xform/k/WN/
+    - xform/a/A/
+    - xform/e/E/
+    - xform/q/ER/
+    # # end
+    - xform/II/I/
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuUExyz/
+  output_format:
+    - "xform/^([a-z]+)$/$1|/"
+  prompt_format:
+    - "xform/^(.*)$/[$1]/"
+
+translator:
+  dictionary: fungz_pinyim
+  prism: fungz_pinyim_mandarin
+  preedit_format:
+    - xform/bv/Ɓ/
+    - xform/bf/ɓ/
+    - xform/pf/ƥ/
+    - xform/Dh/Ď/
+    - xform/dh/ď/
+    - xform/th/ť/
+    - xform/lh/ľ/
+    - xform/nh/ň/
+    - xform/rh/ř/
+    - xform/sh/š/
+    - xform/Zh/Ž/
+    - xform/zh/ž/
+    - xform/ch/č/
+    - xform/y/ñ/
+    - xform/ng/ŋ/
+    - xform/U/ü/
+    - xform/w/ɛ/
+
+punctuator:
+  full_shape:
+    " ": {commit: "　"}
+  half_shape:
+    " ": {commit: " "}
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  bindings:
+    - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
+    - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
+    - {accept: Tab, send: "Shift+Right", when: composing}
+    - {accept: BackSpace, send: "Escape", when: composing}
+
+recognizer:
+  import_preset: default

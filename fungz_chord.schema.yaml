@@ -3,8 +3,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: fungz_combo_pinyim
-  name: 楓梓宮保拼音
+  schema_id: fungz_chord
+  name: 楓梓和絃拼音
   version: "0.1"
   author:
     - 楓梓 <uukoo@163.com>
@@ -45,7 +45,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " |"
   algebra:
     - erase/^xx$/
@@ -145,7 +145,7 @@ chord_composer:
     - xform/q/ER/
     # # end
     - xform/II/I/
-    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
+    - xlit/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuUExyz/
   output_format:
     - "xform/^([a-z]+)$/$1|/"
   prompt_format:
@@ -188,6 +188,7 @@ key_binder:
     - {accept: ISO_Left_Tab, send: "Shift+Left", when: composing}
     - {accept: "Shift+Tab", send: "Shift+Left", when: composing}
     - {accept: Tab, send: "Shift+Right", when: composing}
+    - {accept: BackSpace, send: "Escape", when: composing}
 
 recognizer:
   import_preset: default
